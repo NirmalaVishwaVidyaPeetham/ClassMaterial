@@ -1,1 +1,14 @@
 *.mkv
+*.ini
+*.log
+*.out
+*.so
+*.py~
+*.idea
+*.pyc
+*.bak
+*.DS_STORE
+*.gdoc
+*.gsheet
+*.gslides
+*.lnk
