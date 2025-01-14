@@ -1,4 +1,6 @@
 *.mkv
+*.mp4
+*.vtt
 *.ini
 *.log
 *.out
