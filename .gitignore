@@ -1,7 +1,7 @@
 *.mkv
 *.mp4
 *.vtt
-*.ini
+desktop.ini
 *.log
 *.out
 *.so
