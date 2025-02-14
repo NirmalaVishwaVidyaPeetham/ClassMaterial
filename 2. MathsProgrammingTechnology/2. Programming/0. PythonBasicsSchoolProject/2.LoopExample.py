@@ -1,3 +1,4 @@
+# This code prints values from 'start' to 'end', in increasing steps of size 'step'
 
 ##Homework
 ## print 3,6,9,...,99
