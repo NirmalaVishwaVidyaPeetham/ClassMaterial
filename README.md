@@ -1,6 +1,6 @@
 # ClassMaterial
 
-The files/contents of each subfolder are ordered sequentially with prefixes 1., 2., 3. etc. and one can follow them in that sequence to follow the course/teaching materials. 
+The files/contents of each subfolder are ordered sequentially with prefixes 1., 2., 3. etc. and one can follow them in that sequence to follow the course/teaching materials. Currently, all material is for Grade 1 in our homeschool. 
 
 ## License
 
