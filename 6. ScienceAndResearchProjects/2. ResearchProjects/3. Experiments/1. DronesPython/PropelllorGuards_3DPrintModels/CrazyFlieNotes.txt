@@ -1,0 +1,12 @@
+Bitcraze Crazyflie 2.1 Propeller Guards 3D Printer Model:
+     https://3axis.co/bitcraze-crazyflie-2-1-propeller-guards-3d-printer-model/1njlzy9r29/ 
+
+
+Crazyflie 2.1 cage / prop guard:
+     https://www.printables.com/model/76336-crazyflie-21-cage-prop-guard
+
+Propellers:
+   https://github.com/rshum19/Crazyflie-CAD/tree/master/STL
+
+Propellers ordered from: 
+    https://www.robotshop.com/products/crazyflie-nano-quadcopter-replacement-propellers 
