@@ -1,6 +1,8 @@
-*.mkv
-*.mp4
-*.vtt
+# Commenting video related files here and added in '$gitdir/info/exclude' so that 
+# these video files are ignored in ClassMaterial repo but show up in git_video_tracker repo
+#*.mkv
+#*.mp4
+#*.vtt
 desktop.ini
 *.log
 *.out
