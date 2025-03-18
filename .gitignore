@@ -3,6 +3,9 @@
 #*.mkv
 #*.mp4
 #*.vtt
+#*.gdoc
+#*.gsheet
+#*.gslides
 desktop.ini
 *.log
 *.out
@@ -12,9 +15,6 @@ desktop.ini
 *.pyc
 *.bak
 *.DS_STORE
-*.gdoc
-*.gsheet
-*.gslides
 *.lnk
 *-Pictorial-Valmiki-Ramayana.pdf
 *NIOS_EVS_Level_*_english_medium.pdf
