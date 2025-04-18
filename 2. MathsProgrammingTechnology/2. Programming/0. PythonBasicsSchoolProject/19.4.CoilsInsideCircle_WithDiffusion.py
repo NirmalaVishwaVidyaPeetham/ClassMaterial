@@ -21,7 +21,7 @@ def draw_spiral_in_circle(circle_radius, spiral_constant, initial_radius=0, diff
     r = r[valid_indices]
 
     x = r * np.sin(theta)
-    y = - r * np.cos(theta)
+    y = r * np.cos(theta)
 
     # Draw the circle
     circle_theta = np.linspace(0, 2 * np.pi, 100)

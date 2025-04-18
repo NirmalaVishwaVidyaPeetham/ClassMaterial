@@ -16,7 +16,7 @@ def problem_2():
         print()
 
 
-# 3. Factorial Calucuation:
+# 3. Factorial Calculation:
 def problem_3(number=5):
 
     number_factorial = 1
@@ -71,25 +71,6 @@ def problem_5(number=1234):
     return
 
 
-# not running ... Why?
-
-# 6. Average of positive numbers:
-def problem_6():
-    positive_numbers = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-    negetive_numbers = -1, -2, -3, -4, -5, -6, -7, -8, -9, -10
-    number_entered = positive_numbers or negetive_numbers
-    while number_entered == negetive_numbers:
-        print('negitive number is entered')
-        is_positive_number_entered_or_not = False
-        number_entered = negetive_numbers
-        break
-    while number_entered == positive_numbers:
-        print('positive number is entered')
-        is_positive_number_entered_or_not = True
-
-        #number_entered = negetive_numbers if number_entered==False
-
-    return
 
 
 #problem_1()
@@ -97,4 +78,5 @@ def problem_6():
 #problem_3(6)
 #problem_4(int(233482/2))
 problem_5(-688.998)
-#problem_6()
+problem_5(34567)
+problem_5(688.998)
