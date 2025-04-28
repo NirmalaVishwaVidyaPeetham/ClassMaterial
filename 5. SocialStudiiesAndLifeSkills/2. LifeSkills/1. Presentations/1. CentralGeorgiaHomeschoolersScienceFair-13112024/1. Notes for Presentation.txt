@@ -1,8 +1,0 @@
-Homeschoolers science fair - https://lcgahomeschoolers.my.canva.site/central-georgia-homeschoolers-science-fair 
-
-1. What do we need? Poster and poster board, flute, tablets with piano/harmonium, laptop with PyCharm waves and musical note code
-2. Practice the whole presentation and any questions for several times, along with how we scientific method.. 
-3. Write notes for the whole presentation so you can look at it in case you forget something. (Use AI for transcript if needed)
-
-
-AI Summary of project notes: This file contains notes about a science fair presentation. The presentation will be on the topic of "Waves & Music", and will use programming to demonstrate how waves work and their relation to musical notes. The presentation will include a demonstration of how sound waves can be generated using a flute and a piano. The students will use Python libraries to create functions for generating musical notes and waves. They will also show how different properties of waves, such as amplitude, frequency, and velocity, can be controlled to create different musical sounds.
