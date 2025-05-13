@@ -1,0 +1,5215 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:05.279 --> 00:00:13.280
+okay so we are doing science class now
+yes sir
+
+00:00:10.639 --> 00:00:19.560
+so what did we do in the last class
+in the last class we learned
+
+00:00:17.240 --> 00:00:26.080
+about how to
+read scientific articles how to write
+
+00:00:22.720 --> 00:00:28.640
+scientific articles the problems in the
+review
+
+00:00:28.679 --> 00:00:32.679
+proc reproducibility
+
+00:00:33.040 --> 00:00:42.960
+reproduce produce means to make it again
+to produce means to make it to make it
+
+00:00:40.879 --> 00:00:49.800
+reproduce means make it again
+reproducibility means making it again
+
+00:00:45.360 --> 00:00:49.800
+yeah problems in reproducibility
+
+00:00:51.879 --> 00:01:03.120
+and and about review process
+and about review process okay so explain
+
+00:01:00.120 --> 00:01:08.320
+everything starting from how you do uh
+how you write a scientific article first
+
+00:01:05.439 --> 00:01:12.479
+you do your scientific research right
+yes how do you do scientific research
+
+00:01:10.080 --> 00:01:16.960
+first write the title and I'm not
+talking about article first you have to
+
+00:01:14.799 --> 00:01:22.720
+do the research right yes so how do you
+do this research are you asking the
+
+00:01:19.280 --> 00:01:28.000
+steps of how to do the research yes in
+the beginning I write the title this is
+
+00:01:25.600 --> 00:01:32.320
+article virata this is writing an
+article do you start with writing an
+
+00:01:29.920 --> 00:01:37.759
+article or do you first do the research
+i do the research how do you do the
+
+00:01:35.159 --> 00:01:43.520
+research in the research in the
+beginning I write the title
+
+00:01:41.119 --> 00:01:49.040
+why will you write the title you're not
+writing anything i'm asking you how do
+
+00:01:45.680 --> 00:01:55.680
+you do your research first
+um I don't understand your how do you
+
+00:01:52.799 --> 00:02:00.240
+you are studying something yes so how do
+you do
+
+00:01:57.479 --> 00:02:04.240
+that i'm not asking about how you write
+an article in an article you'll have the
+
+00:02:01.840 --> 00:02:09.800
+title you'll have other things yes we
+are not writing anything we doing
+
+00:02:06.399 --> 00:02:15.520
+research how do you do this
+um are you asking what are the steps
+
+00:02:12.879 --> 00:02:20.720
+like scientific method yes so what do
+you follow to do the research first I
+
+00:02:18.959 --> 00:02:28.080
+what is it called what's that process
+called you just mentioned a review
+
+00:02:23.959 --> 00:02:34.599
+process no it's scientific method you
+follow the scientific method to to
+
+00:02:30.959 --> 00:02:39.040
+perform your research yes right
+huh what are the different steps in
+
+00:02:36.720 --> 00:02:44.239
+scientific method that you follow the
+first one is our question what are we
+
+00:02:41.200 --> 00:02:48.080
+trying to do so again when you're
+writing that's all part of like the
+
+00:02:45.920 --> 00:02:52.080
+background right introduction so people
+have already done some research so
+
+00:02:49.599 --> 00:02:55.920
+you're reading that research yes you're
+not writing anything right now you first
+
+00:02:54.160 --> 00:03:01.920
+you have to understand what's already
+done right then what then you have to
+
+00:02:59.360 --> 00:03:05.920
+find your question like what's missing
+and then you come up with a question
+
+00:03:03.280 --> 00:03:13.280
+that you want to answer yes then what
+and then I do data collection so you
+
+00:03:09.040 --> 00:03:18.319
+come up with a hypothesis right yes
+hypothesis is something that you can
+
+00:03:14.720 --> 00:03:22.879
+test yes and then and then I test then
+you collect the data yeah collect the
+
+00:03:20.879 --> 00:03:28.080
+data
+and then I make the hypothesis you don't
+
+00:03:25.440 --> 00:03:33.360
+collect the data and make hypothesis mhm
+you collect you make the hypothesis and
+
+00:03:30.000 --> 00:03:39.480
+then collect data mhm then I test the
+hypothesis using this data using the
+
+00:03:36.640 --> 00:03:46.480
+data uh
+and if
+
+00:03:41.400 --> 00:03:54.879
+if if some of my hypothesis was wrong
+I'll make a improved hypothesis and that
+
+00:03:50.640 --> 00:03:59.920
+test test that hypothesis using data
+and then and then you might have to
+
+00:03:57.519 --> 00:04:07.200
+collect more data right yes and then
+test using the new data yeah and then if
+
+00:04:03.280 --> 00:04:13.680
+the data works if the if that data works
+hypothesis works
+
+00:04:10.239 --> 00:04:17.759
+I get my conclusion your conclusion is
+that okay this is true for example that
+
+00:04:15.760 --> 00:04:23.440
+the earth is rotating the sun or the sun
+is rotating the earth right that's you
+
+00:04:20.799 --> 00:04:29.280
+come up with a conclusion okay now you
+have so those are your results so now
+
+00:04:26.960 --> 00:04:35.199
+you are putting together all of this
+research into a paper
+
+00:04:31.919 --> 00:04:41.680
+so how do you write the paper first I
+write the title then I write the title
+
+00:04:38.800 --> 00:04:48.639
+is just describing like very briefly
+what is it what it is about yeah then I
+
+00:04:45.120 --> 00:04:55.280
+explain about others
+you just it's just a list of names right
+
+00:04:52.560 --> 00:05:02.560
+you're not explaining anything well you
+you also tell like which university or
+
+00:04:57.520 --> 00:05:09.840
+school they are from h Yeah h and then I
+I do explain the abstract abstract means
+
+00:05:06.039 --> 00:05:14.360
+like one paragraph of what this whole
+paper does
+
+00:05:12.840 --> 00:05:20.479
+what
+uh what this paper does and what are the
+
+00:05:17.759 --> 00:05:24.240
+main findings
+it's not just about the methods right
+
+00:05:22.240 --> 00:05:29.919
+abstract is about like everything else
+that you have in the paper it's just
+
+00:05:26.479 --> 00:05:36.160
+like a summary the main findings yeah
+and then introduction
+
+00:05:32.720 --> 00:05:42.000
+in introduction I explain what is what
+was done before by others
+
+00:05:39.280 --> 00:05:45.400
+um what is missing and what are we
+trying to do
+
+00:05:46.600 --> 00:05:56.240
+and after that it's methods methods I'll
+do all the research
+
+00:05:53.600 --> 00:06:02.960
+you're not doing the research you
+describe what in methods i
+
+00:05:59.160 --> 00:06:06.400
+describe how we'll do this research
+so what does methods include what are
+
+00:06:04.960 --> 00:06:14.000
+the different things you can have in
+methods in methods I can have
+
+00:06:10.960 --> 00:06:19.520
+um we can do we we are following
+scientific method you explain like how
+
+00:06:17.280 --> 00:06:24.880
+you're collecting the data for example
+you have to collect data from people's
+
+00:06:21.759 --> 00:06:29.039
+brains you'll use some equipment right
+yeah so you have to describe which
+
+00:06:26.800 --> 00:06:35.120
+equipment you're going to use and what
+else and then I have the results no I'm
+
+00:06:33.120 --> 00:06:39.319
+talking about methods what else does
+methods include
+
+00:06:37.680 --> 00:06:47.520
+it can
+have my hypothesis
+
+00:06:42.800 --> 00:06:53.919
+okay and and then I test the hypothesis
+in that yes Vat but what what are the
+
+00:06:51.520 --> 00:06:58.160
+different things that methods uh section
+we have
+
+00:06:55.600 --> 00:07:03.599
+i just told you you describe the
+equipment that you're going to use and
+
+00:07:00.479 --> 00:07:10.080
+what else and then how you're collecting
+the data right yes then what do you do
+
+00:07:05.840 --> 00:07:14.240
+with that data um with the data
+just by looking at the data you'll not
+
+00:07:11.759 --> 00:07:18.319
+know anything right I have I collected
+the time at which the time and direction
+
+00:07:16.479 --> 00:07:22.160
+from which the sun rises on 100
+different days i have it in an Excel
+
+00:07:19.919 --> 00:07:27.599
+file then what how do you come to a
+conclusion or how how are you going to
+
+00:07:24.000 --> 00:07:32.560
+test i'm going to make a hypothesis yes
+and then how are you going to test that
+
+00:07:29.199 --> 00:07:39.440
+hypothesis using this data i have 100
+rows with four different
+
+00:07:34.840 --> 00:07:44.400
+columns like the date the time at which
+sunrise happened the time at which
+
+00:07:42.080 --> 00:07:49.680
+sunset happened and the direction from
+which the sun came up and the direction
+
+00:07:46.720 --> 00:07:55.280
+from which the sun came down went down i
+have all of these for every day right so
+
+00:07:52.880 --> 00:07:58.800
+it's a lot of data then we have to do
+something with this data to test the
+
+00:07:56.720 --> 00:08:05.360
+hypothesis right what are you going to
+do
+
+00:08:01.479 --> 00:08:10.560
+um I have to make my results how are you
+going to get that result from the from
+
+00:08:07.440 --> 00:08:13.960
+those from the data how are you going to
+get the results
+
+00:08:14.280 --> 00:08:26.479
+um every day if if something is
+repeating or if anything is same I make
+
+00:08:21.680 --> 00:08:30.800
+the data as this this will happen every
+day or this will repeat for every day so
+
+00:08:29.280 --> 00:08:35.440
+what are you trying to do you're
+analyzing this data like you can do it
+
+00:08:33.279 --> 00:08:39.519
+in Python right you have 100 different
+values you're adding it subtracting
+
+00:08:37.599 --> 00:08:45.440
+doing something yes that's called data
+analysis you could be using Excel to do
+
+00:08:42.240 --> 00:08:49.920
+this right you could do uh like simple
+computations in Excel or you can use
+
+00:08:47.839 --> 00:08:53.360
+Python or you can use something else so
+you have to describe all of that in your
+
+00:08:51.600 --> 00:08:57.279
+methods how are you going to do the data
+analysis if you have other things that
+
+00:08:55.279 --> 00:09:03.640
+you're doing in your research you
+describe all of that in the method
+
+00:08:59.040 --> 00:09:03.640
+section okay then what
+
+00:09:03.720 --> 00:09:14.160
+then in method after methods what do you
+have after method I have the results so
+
+00:09:10.959 --> 00:09:19.760
+this is what you used you collected the
+data you analyzed your data and then you
+
+00:09:17.920 --> 00:09:26.320
+have some results how are you going to
+describe the results
+
+00:09:22.080 --> 00:09:31.800
+um how did you describe in your poster
+i described that what were the results
+
+00:09:28.800 --> 00:09:38.000
+in your poster my results
+were the main findings right what were
+
+00:09:34.720 --> 00:09:38.000
+they yeah
+
+00:09:39.080 --> 00:09:49.760
+um I'm thinking sir so which part of
+your poster was the results what what
+
+00:09:46.480 --> 00:09:54.080
+did you have there was it the methods no
+like where you described Python and
+
+00:09:51.360 --> 00:10:00.519
+other things were those the results no
+was scientific method the results no
+
+00:09:56.240 --> 00:10:06.160
+what was the result the result
+was those waves those functions
+
+00:10:04.560 --> 00:10:12.120
+functions
+um was the Python function was the
+
+00:10:08.000 --> 00:10:12.120
+result no huh
+
+00:10:13.600 --> 00:10:18.040
+the result was that
+
+00:10:18.320 --> 00:10:25.200
+I don't remember where we wrote those
+results we did not say it's results
+
+00:10:22.880 --> 00:10:32.399
+Virata but think about it what were you
+showing people um conclusion
+
+00:10:30.399 --> 00:10:37.839
+conclusion is the main it's like a
+summary forget the conclusion
+
+00:10:35.120 --> 00:10:42.640
+um where were you describing your
+results to people how were you
+
+00:10:39.440 --> 00:10:46.720
+describing it
+in the scientific method you're
+
+00:10:44.640 --> 00:10:49.720
+describing results in scientific method
+no
+
+00:10:49.920 --> 00:10:53.480
+i am describing
+
+00:10:54.800 --> 00:11:02.160
+you did not call them results we did not
+have a heading that said results okay we
+
+00:10:59.839 --> 00:11:09.839
+called it something else but what were
+your findings from this uh study vir
+
+00:11:05.920 --> 00:11:16.800
+the findings from that study was what
+did you find out what did you learn
+
+00:11:12.959 --> 00:11:23.600
+i learned that when I changed changed
+wave properties the waves will change
+
+00:11:20.480 --> 00:11:29.600
+depending on those properties the how
+the waves looked changed how did you
+
+00:11:26.240 --> 00:11:37.200
+show this in your poster with the waves
+images you showed it as images those are
+
+00:11:32.720 --> 00:11:42.560
+the results okay so you show results uh
+you don't always show I mean you can
+
+00:11:39.440 --> 00:11:49.600
+show it as tables like uh or you can
+show it using images okay that show
+
+00:11:45.200 --> 00:11:56.200
+what's changing okay mhm so that's part
+of your results then what
+
+00:11:53.800 --> 00:12:03.519
+then I have
+my h conclusion what's the conclusion
+
+00:12:00.880 --> 00:12:08.160
+conclusion is no before conclusion you
+we talked about another section
+
+00:12:05.839 --> 00:12:13.760
+discussion discussion is where you
+describe how each of these results what
+
+00:12:11.279 --> 00:12:18.880
+what does it mean for example in your
+poster uh when you change the frequency
+
+00:12:16.480 --> 00:12:24.639
+of the wave
+uh you show that the number of waves
+
+00:12:22.160 --> 00:12:30.079
+that you see within the same time are
+increasing right yes that's the result
+
+00:12:27.440 --> 00:12:36.320
+then you explain in in discussion you
+explain why that might be the case why
+
+00:12:32.639 --> 00:12:41.839
+this is happening okay uh that's what uh
+discussion uh section will have huh yeah
+
+00:12:38.880 --> 00:12:45.680
+sir can and then there's conclusion and
+then there's conclusion is like the main
+
+00:12:43.920 --> 00:12:53.600
+like a summary of your results it's kind
+of similar to the abstract also okay the
+
+00:12:48.880 --> 00:13:02.399
+main findings yes sir can you write like
+all the steps in in scientific paper in
+
+00:12:58.399 --> 00:13:10.000
+the classrooms like here we write we ask
+this title one is
+
+00:13:05.560 --> 00:13:15.200
+title two is abstract
+three is
+
+00:13:11.959 --> 00:13:21.200
+introduction four is materials
+and methods okay like your recipe for if
+
+00:13:19.360 --> 00:13:26.000
+you're cooking this is your recipe
+others if they want to make the same
+
+00:13:22.959 --> 00:13:31.639
+thing they need to follow this method
+then results we did this right I don't
+
+00:13:28.959 --> 00:13:37.639
+need to write it again here
+discussion so how are you going to
+
+00:13:33.920 --> 00:13:42.800
+interpret those results then
+conclusion the main thing from the story
+
+00:13:40.800 --> 00:13:49.839
+and then references and then references
+are like what we used what we uh Yeah
+
+00:13:47.519 --> 00:13:56.320
+how to make research openly available to
+everyone did you read this part
+
+00:13:53.360 --> 00:14:02.000
+yes sir did I explain this i think I may
+have gone over it like briefly right
+
+00:13:58.880 --> 00:14:06.639
+open access journals some journals are
+open access means yeah that means we
+
+00:14:04.480 --> 00:14:11.199
+don't need to pay them any yeah i mean
+not everybody can pay there some of them
+
+00:14:08.240 --> 00:14:15.760
+are like very expensive that means
+they're very costly you need to pay a
+
+00:14:13.199 --> 00:14:20.720
+lot of money not everyone can pay that
+much money to read scientific articles
+
+00:14:17.760 --> 00:14:25.440
+okay so open access journals are free
+anybody can read and then
+
+00:14:23.399 --> 00:14:32.320
+repositories are like the GitHub
+repository okay so this is a repository
+
+00:14:28.720 --> 00:14:38.720
+where we keep all our class material
+okay so anyone can use this and it's
+
+00:14:34.720 --> 00:14:43.519
+open okay then sharing data you can
+share your data also not just your
+
+00:14:41.360 --> 00:14:48.079
+scientific article that you wrote but
+you can also share your data so others
+
+00:14:45.680 --> 00:14:52.480
+can run some analysis and see whether
+the analysis that you did is correct or
+
+00:14:49.839 --> 00:14:58.480
+not okay or if there are any problems
+with this data they can also look open
+
+00:14:55.680 --> 00:15:03.440
+educational resources so you can also
+teach about your research you can give a
+
+00:15:00.639 --> 00:15:07.839
+lecture like make a presentation make a
+poster
+
+00:15:05.440 --> 00:15:12.240
+why is making research openly available
+so
+
+00:15:09.240 --> 00:15:12.240
+important
+
+00:15:16.600 --> 00:15:25.360
+institutions institution means like a
+university or other research research
+
+00:15:22.560 --> 00:15:25.360
+places
+
+00:15:30.040 --> 00:15:35.880
+okay did you read all of this mhm
+
+00:15:45.040 --> 00:15:48.320
+okay some
+
+00:15:55.079 --> 00:15:59.079
+stro okay
+
+00:16:05.680 --> 00:16:12.279
+did you have anything else did you write
+any other comments
+
+00:16:12.880 --> 00:16:19.920
+uh then what else did we learn trying to
+force a good grit snake
+
+00:16:36.680 --> 00:16:47.880
+cheating it's annoying okay sir huh
+there was a blue light somewhere it's
+
+00:16:43.360 --> 00:16:52.079
+nothing to do avoid jargon jargon means
+uh it's not style of
+
+00:16:55.880 --> 00:17:01.800
+language
+jargon special words or expressions that
+
+00:17:00.240 --> 00:17:07.679
+are used by a
+particular profession or group okay so
+
+00:17:09.400 --> 00:17:18.720
+supposing when you're writing an article
+you have to use language that's
+
+00:17:13.679 --> 00:17:18.720
+understandable by everyone mhm special
+
+00:17:20.120 --> 00:17:31.000
+words or expressions that are used by a
+particular profession or group
+
+00:17:26.079 --> 00:17:31.000
+profession means job okay uhhuh
+
+00:17:35.840 --> 00:17:45.160
+it means you need to use simple language
+that everyone can understand
+
+00:17:41.520 --> 00:17:50.960
+think big start broad think big then
+narrow
+
+00:17:47.160 --> 00:17:56.880
+small uh investigate look into the
+harinu
+
+00:17:53.240 --> 00:18:01.600
+site you might need to site meaning that
+so when you're giving the background I
+
+00:17:58.880 --> 00:18:05.440
+I'll actually show some articles okay
+uh when you're reading the background
+
+00:18:03.440 --> 00:18:13.039
+when you're uh describing the background
+other people have done you actually uh
+
+00:18:08.400 --> 00:18:17.200
+put a citation to their paper citation
+citation is you put a in your references
+
+00:18:15.520 --> 00:18:22.480
+you have all the papers right let's say
+you have 10 references in your you have
+
+00:18:19.600 --> 00:18:29.360
+10 references at the end 1 2 3 4 they'll
+be numbered okay so supposing you say
+
+00:18:25.360 --> 00:18:32.360
+that uh people have found that the sun
+is
+
+00:18:32.919 --> 00:18:39.360
+uh people have previously found that
+the
+
+00:18:40.840 --> 00:18:47.520
+sunrise and sunset does not happen near
+the
+
+00:18:44.600 --> 00:18:51.760
+poles okay okay so somebody is near the
+south pole or north pole and then they
+
+00:18:49.120 --> 00:18:56.480
+saw that the sun is just going around in
+the sky and not there's no sunset or
+
+00:18:54.240 --> 00:19:01.280
+sunrise okay somebody wrote a scientific
+paper about it okay and then you're
+
+00:18:58.720 --> 00:19:05.679
+saying in your background that the some
+people people have found that sunrise
+
+00:19:03.360 --> 00:19:10.960
+and sunset does not happen near the
+north pole or the south pole
+
+00:19:07.960 --> 00:19:16.240
+okay and then you add the number in
+brackets you'll add the number to their
+
+00:19:13.520 --> 00:19:22.000
+paper and your references okay so in
+your uh description you have this I'll
+
+00:19:19.120 --> 00:19:22.000
+just show you a
+
+00:19:23.320 --> 00:19:35.559
+paper color i let's take any paper
+okay okay let's see my paper maybe a
+
+00:19:31.919 --> 00:19:43.760
+paper yeah
+so let's say some paper okay
+
+00:19:40.679 --> 00:19:49.200
+so let's go here
+this is with some other group okay so
+
+00:19:46.000 --> 00:19:54.160
+this is a paper this is this is the
+title these are the
+
+00:19:51.000 --> 00:19:58.160
+authors okay then if you see this is the
+introduction right
+
+00:19:55.919 --> 00:20:01.679
+so integrating two or more brain imaging
+techniques so this is something this is
+
+00:20:00.160 --> 00:20:07.440
+saying something about brain techniques
+and then it cites these papers this is
+
+00:20:04.240 --> 00:20:14.080
+one paper this is another paper it says
+in this p in these papers this research
+
+00:20:10.160 --> 00:20:20.480
+was done okay so that's called citing
+those
+
+00:20:15.320 --> 00:20:20.480
+papers okay then
+
+00:20:21.960 --> 00:20:33.000
+uh h why what were we discussing
+about your paper about the Yeah we were
+
+00:20:29.039 --> 00:20:33.000
+reading something I think
+
+00:20:34.720 --> 00:20:42.240
+so that's what it site means udaharinu
+so given example uh it's not
+
+00:20:42.600 --> 00:20:47.919
+meaning like point
+
+00:20:48.120 --> 00:20:51.120
+to
+
+00:20:52.440 --> 00:21:02.240
+examples or other work okay they're
+pointing so in this paper they have uh
+
+00:20:58.799 --> 00:21:02.240
+done this research like
+
+00:21:02.919 --> 00:21:12.400
+that avoid vague terms unclear so we
+cannot just say something that's not
+
+00:21:10.559 --> 00:21:18.559
+very clear to people when they're
+reading like an example would be
+
+00:21:18.919 --> 00:21:23.320
+uh I used
+
+00:21:24.799 --> 00:21:36.000
+uh a colored
+pencil i used a color and mixed it with
+
+00:21:31.159 --> 00:21:40.799
+uh uh red color i mixed red color with
+another color and I got yellow if I said
+
+00:21:39.039 --> 00:21:45.760
+that do you know which other color I
+mixed no so that's like weighing right
+
+00:21:43.200 --> 00:21:51.760
+and I say another color i have to say I
+mixed red with what green and then got
+
+00:21:49.280 --> 00:21:57.840
+yellow do we get yellow if you mix red
+and green
+
+00:21:53.679 --> 00:22:04.559
+um I think so yeah we may get Yeah
+depending on how you mix right
+
+00:22:01.880 --> 00:22:09.360
+uh etc you can use subheadings to
+organize different parts of your
+
+00:22:06.760 --> 00:22:13.679
+procedure plan growth conditions i mean
+you can also we talked about different
+
+00:22:11.039 --> 00:22:16.240
+sections right
+just the
+
+00:22:18.360 --> 00:22:26.679
+facts fact mean like the main things you
+just state what you found okay yeah
+
+00:22:23.280 --> 00:22:29.679
+there was one more comment
+y
+
+00:22:29.880 --> 00:22:35.720
+dot
+okay that's all
+
+00:22:38.360 --> 00:22:47.600
+so maybe should we separate these
+out explain how scientific articles are
+
+00:22:49.400 --> 00:22:58.799
+published this is called peer review
+okay
+
+00:22:55.080 --> 00:22:58.799
+then let's make
+
+00:23:01.640 --> 00:23:09.240
+another okay what are some problems with
+reproducibility in scientific research
+
+00:23:21.679 --> 00:23:27.200
+explain different sections of a
+scientific paper in detail and how to
+
+00:23:24.559 --> 00:23:27.200
+write those
+
+00:23:27.400 --> 00:23:33.559
+sections okay so we'll make these into
+three separate documents
+
+00:23:34.200 --> 00:23:46.760
+why because you it's easier for you then
+so see these headings 1 2 these are like
+
+00:23:41.120 --> 00:23:55.280
+different steps okay 3 4
+5 So let's go here i just copy two three
+
+00:23:53.600 --> 00:24:01.919
+so what are the different things that we
+were talking uh we were learning about
+
+00:23:58.559 --> 00:24:08.960
+one is the how scientific articles are
+published the review process right
+
+00:24:05.760 --> 00:24:13.919
+yes then we t learned about
+reproducibility in scientific research
+
+00:24:11.200 --> 00:24:19.279
+and problems
+okay
+
+00:24:16.000 --> 00:24:19.279
+what are the problems with
+
+00:24:21.799 --> 00:24:25.760
+reproducibility so let's go
+
+00:24:28.760 --> 00:24:34.120
+to So let's rename this
+
+00:24:37.240 --> 00:24:43.039
+rename problems
+with
+
+00:24:43.400 --> 00:24:49.440
+reproducibility in
+scientific
+
+00:24:52.200 --> 00:24:59.640
+research let's see so I'll delete all of
+this
+
+00:25:05.440 --> 00:25:09.200
+okay problems with
+
+00:25:12.279 --> 00:25:19.120
+reproducibility and explain different
+sections of the scientific paper in
+
+00:25:15.919 --> 00:25:19.120
+detail and how to write
+
+00:25:23.240 --> 00:25:34.880
+this and then okay we have one more
+thing what was this how to make research
+
+00:25:31.679 --> 00:25:34.880
+available openly to
+
+00:25:38.760 --> 00:25:44.559
+everyone answer the same question in the
+language of 10 year
+
+00:25:42.279 --> 00:25:48.559
+old how much of existing scientific
+research is reproducible so problems
+
+00:25:47.039 --> 00:25:54.520
+with reproducibility in scientific
+research okay so this is the second
+
+00:25:51.520 --> 00:25:54.520
+thing
+
+00:25:54.840 --> 00:26:02.440
+then
+here okay I need to copy this one more
+
+00:25:59.440 --> 00:26:02.440
+time
+
+00:26:05.919 --> 00:26:14.880
+so this is done peer review
+process then reproducibility in
+
+00:26:12.320 --> 00:26:14.880
+scientific
+
+00:26:14.919 --> 00:26:21.640
+research
+then okay this is all problems with
+
+00:26:20.120 --> 00:26:26.640
+reproducibility
+right okay this is also still the
+
+00:26:29.240 --> 00:26:37.760
+same then explain different sections of
+a scientific paper in
+
+00:26:38.600 --> 00:26:46.799
+detail these are the different sections
+then once you have your scientific
+
+00:26:44.000 --> 00:26:46.799
+research you want
+
+00:26:47.000 --> 00:26:58.400
+to you want to share it with everyone
+make it accessible to everyone right so
+
+00:26:53.400 --> 00:27:06.520
+this let's call it how to write
+different section how to write a
+
+00:27:00.320 --> 00:27:10.600
+scientific paper how to write a
+scientific
+
+00:27:09.080 --> 00:27:13.600
+paper
+different
+
+00:27:15.320 --> 00:27:29.080
+sections okay mhm
+then you have to rename this copy to
+
+00:27:24.880 --> 00:27:29.080
+which one yeah
+
+00:27:30.400 --> 00:27:36.880
+how to write scientific
+paper how they're published
+
+00:27:34.640 --> 00:27:44.400
+reproducibility in research and then the
+last one is how to make it openly
+
+00:27:40.159 --> 00:27:44.400
+accessible to everyone right
+
+00:28:00.880 --> 00:28:06.559
+how to
+make
+
+00:28:06.679 --> 00:28:09.679
+scientific
+
+00:28:11.559 --> 00:28:17.120
+research
+available to
+
+00:28:18.760 --> 00:28:23.720
+everyone okay mhm
+
+00:28:23.760 --> 00:28:30.679
+scientific research available to
+everyone so this is
+
+00:28:28.919 --> 00:28:35.600
+that
+okay
+
+00:28:32.279 --> 00:28:40.840
+so now what what's the first one among
+all of these
+
+00:28:37.520 --> 00:28:47.159
+how to write a site with
+dot i think you have to delete the copy
+
+00:28:43.760 --> 00:28:54.320
+the first one I think it'll be it'll go
+away it'll get updated automatically see
+
+00:28:51.120 --> 00:28:59.039
+yeah so what's the first one let's
+rename
+
+00:28:56.039 --> 00:28:59.039
+these
+
+00:29:00.600 --> 00:29:09.360
+uh actually let's do it in the same way
+that we did
+
+00:29:06.279 --> 00:29:15.760
+1 or should we make it zero because this
+is always important right outside of the
+
+00:29:12.080 --> 00:29:20.720
+class also 0.1 is how scientific
+articles are published
+
+00:29:18.159 --> 00:29:28.000
+mhm
+and then we also need to know problems
+
+00:29:23.679 --> 00:29:28.000
+with reproducibility let's call it
+
+00:29:28.360 --> 00:29:36.640
+0.2 okay
+then how so once you understand these
+
+00:29:34.480 --> 00:29:42.919
+are the problems we keep that in mind
+and then we write our scientific
+
+00:29:38.919 --> 00:29:42.919
+papers okay
+
+00:29:43.559 --> 00:29:48.159
+then this is the No this is
+
+00:29:48.200 --> 00:30:00.159
+0.3 right
+then once you you also want to make sure
+
+00:29:55.600 --> 00:30:00.159
+it's available to everyone
+
+00:30:05.159 --> 00:30:11.960
+0.4 okay so today we have to learn a few
+more things
+
+00:30:12.679 --> 00:30:25.000
+uh where is it over
+here actually let's check if all of
+
+00:30:21.480 --> 00:30:28.559
+these are shown
+correctly explain how scientific
+
+00:30:27.120 --> 00:30:34.480
+articles are published peer review
+process etc okay mhm yeah how to make
+
+00:30:32.320 --> 00:30:39.360
+research and then I I have to I did not
+delete the rest of it in this
+
+00:30:37.679 --> 00:30:45.720
+what are some problems with reproduce
+from here onwards we put it in the other
+
+00:30:42.080 --> 00:30:45.720
+documents right
+
+00:30:47.679 --> 00:30:56.640
+why is peer review important so this is
+just the peer review process this is the
+
+00:30:52.399 --> 00:30:59.480
+first talk one second one is what are
+some problems with reproducibility in
+
+00:30:58.399 --> 00:31:04.840
+scientific
+research so I'll give you some exercises
+
+00:31:01.919 --> 00:31:11.440
+today
+okay i answer the same question again in
+
+00:31:08.159 --> 00:31:16.159
+the language of a 10 year old okay
+so this is fine then what's the third
+
+00:31:13.600 --> 00:31:19.440
+one how to write explain different
+sections of scientific paper in detail
+
+00:31:17.600 --> 00:31:25.360
+and how to write those sections so if
+you want to write a paper this is what
+
+00:31:22.640 --> 00:31:30.480
+it is the these are the sections that
+you will have in your paper a poster is
+
+00:31:27.919 --> 00:31:36.360
+also kind of similar but for poster you
+can organize them in different ways okay
+
+00:31:33.600 --> 00:31:41.960
+just make it easier for people to
+understand then you also want to make
+
+00:31:39.279 --> 00:31:49.720
+your research openly available to
+everyone okay so these are the topics
+
+00:31:45.440 --> 00:31:49.720
+that we learned in last class
+
+00:31:50.279 --> 00:31:56.000
+now sizes types read article now let's
+
+00:31:57.480 --> 00:32:05.360
+actually it's not enough that you are uh
+writing articles right but before you
+
+00:32:03.200 --> 00:32:09.760
+even start working on your research you
+want to know what others have done what
+
+00:32:07.279 --> 00:32:14.000
+has already been found out in this topic
+right we don't have to do the same thing
+
+00:32:11.679 --> 00:32:17.240
+that people already have done several
+times before
+
+00:32:19.720 --> 00:32:25.480
+so
+explain how
+
+00:32:25.840 --> 00:32:32.679
+uh
+how a
+
+00:32:30.519 --> 00:32:39.240
+15year-old could
+read
+
+00:32:34.679 --> 00:32:46.679
+scientific articles on various
+topics that he may or may not
+
+00:32:43.960 --> 00:32:54.360
+be familiar familiar
+with what are the
+
+00:32:51.360 --> 00:32:54.360
+examples
+
+00:32:54.480 --> 00:32:58.000
+explain step by
+
+00:32:59.080 --> 00:33:09.240
+step how a scient 15year-old could read
+scientific articles on various topics
+
+00:33:04.480 --> 00:33:09.240
+that he may or may not be familiar with
+
+00:33:13.919 --> 00:33:23.600
+let's see what it
+says okay so you want to dive into
+
+00:33:18.720 --> 00:33:23.600
+finding articles approaching the
+
+00:33:23.960 --> 00:33:32.159
+article okay okay so you want to dive
+into the world of scientific articles so
+
+00:33:29.360 --> 00:33:36.080
+suppose you want to learn uh you want to
+read scientific articles on any topic
+
+00:33:34.399 --> 00:33:43.600
+right supposing you want to read
+scientific articles on maps okay or on
+
+00:33:40.159 --> 00:33:48.640
+anything else that's awesome so it can
+seem a bit intimidating intimidating
+
+00:33:45.760 --> 00:33:55.279
+means it may feel like it's a difficult
+thing okay difficult scary at first but
+
+00:33:52.799 --> 00:34:01.600
+here is a step-by-step guide to help you
+navigate them navigate means like how
+
+00:33:57.760 --> 00:34:05.200
+you go uh through this process
+even if you're not an expert on the
+
+00:34:03.279 --> 00:34:10.159
+topic finding articles first you have to
+find the articles right start with what
+
+00:34:07.760 --> 00:34:14.399
+you know and what interests you if you
+are curious about black holes black
+
+00:34:12.399 --> 00:34:20.560
+holes are
+uh certain objects in the space okay and
+
+00:34:18.399 --> 00:34:25.760
+they attract everything inside they suck
+everything inside it's like a vacuum
+
+00:34:23.440 --> 00:34:31.839
+vacuum cleaner sucks everything right
+black hole if anything goes near it it
+
+00:34:27.839 --> 00:34:37.720
+goes inside how it's very uh it's it has
+a very strong attraction where is it
+
+00:34:34.960 --> 00:34:43.040
+they're not close to us they're far
+away in space if you're curious about
+
+00:34:41.040 --> 00:34:47.040
+bell black holes search for scientific
+articles black holes or research paper
+
+00:34:45.119 --> 00:34:50.560
+black holes adding terms like simple
+explanation for beginners can sometimes
+
+00:34:48.879 --> 00:34:54.960
+lead to more accessible articles though
+they might be less formal research
+
+00:34:52.159 --> 00:35:00.720
+papers use reliable search engines
+google Scholar is specifically for
+
+00:34:58.000 --> 00:35:05.200
+scientific literature so you use Google
+search normally right if you search
+
+00:35:02.720 --> 00:35:09.520
+something here it goes to Google search
+but there is a website called scholars
+
+00:35:07.599 --> 00:35:14.320
+scholar means scientific scholar people
+who are doing research here if you go
+
+00:35:12.079 --> 00:35:16.720
+it'll give scientific articles let's say
+black
+
+00:35:17.720 --> 00:35:26.800
+holes whatever okay
+uh uh black holes and then these are all
+
+00:35:24.079 --> 00:35:31.960
+scientific articles on black holes
+exploring black holes if you go here
+
+00:35:33.480 --> 00:35:40.760
+uh this
+is they say this is a book i think it's
+
+00:35:38.320 --> 00:35:46.880
+not a scientific article i think it's a
+book i don't
+
+00:35:42.839 --> 00:35:51.160
+know oh we clicked on this one right
+it's a
+
+00:35:47.880 --> 00:35:58.560
+book okay and this
+is a black a paper on black holes okay
+
+00:35:56.800 --> 00:36:05.119
+so this is the title these are the
+authors this is the abstract and then it
+
+00:36:02.640 --> 00:36:10.320
+seems I have access maybe it's an
+open-source article so everybody can
+
+00:36:07.119 --> 00:36:16.160
+read this some article they they ask you
+to pay or if you have a university login
+
+00:36:14.240 --> 00:36:19.920
+if you work at a university if you're a
+student in a university you can login
+
+00:36:17.839 --> 00:36:27.000
+through the university and then you'll
+be able to read so here what do they
+
+00:36:22.800 --> 00:36:27.000
+have there's an introduction section
+
+00:36:28.839 --> 00:36:36.640
+okay and then here you see so here
+they're saying something about black
+
+00:36:33.920 --> 00:36:42.000
+holes and then they put in brackets two
+right so two means the second reference
+
+00:36:40.320 --> 00:36:47.440
+in their references in the list of
+references this is the second one so the
+
+00:36:44.480 --> 00:36:53.280
+second paper is talking about this topic
+so that's this article so if you go here
+
+00:36:51.599 --> 00:36:59.400
+these are the references this is at the
+end so the second one that's what
+
+00:36:55.680 --> 00:37:08.079
+they're pointing to okay and
+then uh they're describing all of this
+
+00:37:04.359 --> 00:37:12.680
+then they have other things you can so I
+explained about different sections right
+
+00:37:10.240 --> 00:37:16.880
+sometimes you
+have different things okay other
+
+00:37:15.520 --> 00:37:25.000
+sections where they describe about
+different topics or it could be I think
+
+00:37:20.000 --> 00:37:29.560
+this is more of a theoretical uh
+paper they probably
+
+00:37:35.880 --> 00:37:41.440
+uh this is more of a theoretical paper
+that's also something that we'll learn
+
+00:37:39.920 --> 00:37:46.480
+today different types of scientific
+articles okay here they're not doing any
+
+00:37:44.880 --> 00:37:50.160
+actual experiments they're not looking
+at black holes because they're not black
+
+00:37:48.079 --> 00:37:54.640
+holes are not near us right yes you
+cannot reach them and experiment with
+
+00:37:52.079 --> 00:37:58.800
+them
+so but they can do other things
+
+00:37:56.640 --> 00:38:05.599
+mathematical analysis and all they can
+do okay so can they go in space and then
+
+00:38:02.720 --> 00:38:11.119
+throw a they can get a rock at the No
+it's not near we It's
+
+00:38:08.119 --> 00:38:15.280
+not at a point where we can reach
+they're so far away it'll take like
+
+00:38:13.200 --> 00:38:21.680
+thousands millions of years to go
+millions billions of years to go
+
+00:38:18.680 --> 00:38:27.359
+there even if you go in a rocket they're
+that far away okay a solar system and
+
+00:38:25.200 --> 00:38:31.839
+then at the end they have it's not just
+solar system right it's not in solar
+
+00:38:29.440 --> 00:38:38.400
+system it's away from solar system it's
+in other galaxies and I mean it's in
+
+00:38:35.240 --> 00:38:44.960
+other planet
+it's in the galaxy like Milky Way galaxy
+
+00:38:40.720 --> 00:38:51.839
+i think it'll have a black hole
+it's a vir how do I know where is it
+
+00:38:48.960 --> 00:38:56.240
+it's it's some somewhere far away that
+we cannot
+
+00:38:53.320 --> 00:39:01.040
+reach okay so these are the diff
+different things so that's how you
+
+00:38:57.520 --> 00:39:05.599
+search for a scientific article and then
+look for open access articles as we
+
+00:39:03.280 --> 00:39:09.119
+talked about these are free to read when
+you search on Google Scholar you might
+
+00:39:07.200 --> 00:39:14.640
+see a PDF link on the right which often
+means it's open access explore reputable
+
+00:39:12.160 --> 00:39:19.119
+science news websites like science
+sometimes uh some of these scientific
+
+00:39:16.960 --> 00:39:23.440
+articles for example this article is not
+so easy for you to understand right
+
+00:39:21.520 --> 00:39:29.200
+there are equations and all these things
+that you don't know but what you can do
+
+00:39:26.079 --> 00:39:34.599
+is sometimes people write a a news
+article about this research when it's a
+
+00:39:32.160 --> 00:39:39.800
+news article it's written
+for normal people to read and understand
+
+00:39:37.920 --> 00:39:45.119
+so you can look
+for science news
+
+00:39:42.280 --> 00:39:48.720
+websites and they often summarize recent
+scientific articles in a more
+
+00:39:46.640 --> 00:39:54.960
+understandable way and usually provide a
+link to the original paper if you want
+
+00:39:50.240 --> 00:39:57.920
+to dig deeper okay so uh approaching the
+article don't try to understand
+
+00:39:56.400 --> 00:40:01.960
+everything at once when you're reading
+an article for example if I have to read
+
+00:40:00.079 --> 00:40:09.280
+this article I have no idea about black
+holes what will I try to do first i'll
+
+00:40:05.440 --> 00:40:13.520
+try and read this title what's a black
+hole you don't know what a black hole is
+
+00:40:11.200 --> 00:40:18.480
+right just look up what a black hole
+means search Google for black hole black
+
+00:40:16.560 --> 00:40:23.440
+holes are regions in space with such
+strong gravity that nothing not even
+
+00:40:20.480 --> 00:40:28.240
+light can escape them so anything that
+goes near it gets absorbed that's what
+
+00:40:26.000 --> 00:40:35.440
+you understand that part you're able to
+understand right in simple way fuz
+
+00:40:32.079 --> 00:40:42.720
+proposal what's a fuzball
+a ball of fuzz what's fuzz fluffy or
+
+00:40:38.960 --> 00:40:52.240
+frizzy mass of hair or fiber okay so a
+fuzz ball is like a ball of
+
+00:40:46.599 --> 00:40:52.240
+hair right search Google for
+
+00:40:52.359 --> 00:41:01.839
+fuzball images
+it's kind of like this I think see if
+
+00:40:58.240 --> 00:41:07.920
+you have a bunch of hair and it's uh put
+together like a ball it looks like this
+
+00:41:04.079 --> 00:41:15.440
+right yes so they're saying a fuzball
+proposal proposal means like a plan
+
+00:41:12.200 --> 00:41:21.680
+like So they're saying a black hole
+could be like a fuzz
+
+00:41:18.119 --> 00:41:27.040
+ball maybe it's not like an actual ball
+it's like a fuzz ball like a hairy that
+
+00:41:25.119 --> 00:41:32.880
+ball that we just saw maybe it's like
+this I think that's what this paper is
+
+00:41:29.560 --> 00:41:37.760
+proposing proposing means they're saying
+uh they're coming up with a new idea so
+
+00:41:35.599 --> 00:41:43.359
+that's what it's saying okay so first we
+have to understand the
+
+00:41:39.720 --> 00:41:48.800
+title start with the title and abstract
+that's the most important thing so I I
+
+00:41:45.440 --> 00:41:53.200
+try to understand the title right next
+I'll try to understand the whole of the
+
+00:41:51.040 --> 00:41:57.520
+abstract this is the main research arch
+right this is the main summary of their
+
+00:41:55.119 --> 00:42:04.800
+research I'll read this I'll try to
+understand every single thing in this in
+
+00:41:59.680 --> 00:42:08.800
+a way that's simple okay and then and
+then I'll decide whether I want to read
+
+00:42:06.560 --> 00:42:13.520
+the actual research or methods and all
+of this okay if this does not interest
+
+00:42:11.359 --> 00:42:20.640
+me I don't have to read the rest of the
+article right so title is very important
+
+00:42:17.440 --> 00:42:27.119
+to understand it and same with abstract
+try to understand the whole of The
+
+00:42:24.599 --> 00:42:30.960
+abstract these are your road map the
+title tells you the main topic and the
+
+00:42:29.119 --> 00:42:35.520
+abstract gives you a quick summary of
+the research questions methods key
+
+00:42:32.960 --> 00:42:41.599
+findings and conclusions abstract gives
+you a quick summary of all of this right
+
+00:42:39.359 --> 00:42:44.800
+read these carefully to see if the
+article is relevant to what you're
+
+00:42:43.200 --> 00:42:49.280
+interested in and if it seems
+understandable enough to tackle so we
+
+00:42:47.200 --> 00:42:54.800
+have to read these carefully to see
+whether this is what we want to learn
+
+00:42:51.920 --> 00:42:57.760
+okay and whether it uh whether it's
+something you'll be able to
+
+00:43:02.440 --> 00:43:11.040
+understand so then read the
+introduction so the introduction is also
+
+00:43:08.240 --> 00:43:16.720
+very important why introduction gives
+you a background about everything right
+
+00:43:13.920 --> 00:43:21.599
+a background about black black holes and
+everything that's known so far so let's
+
+00:43:19.119 --> 00:43:26.800
+see the physics of black holes has been
+at the center stage of theoretical
+
+00:43:23.440 --> 00:43:32.079
+physics for over 30 years as black holes
+this was in which year so this was
+
+00:43:28.800 --> 00:43:36.760
+published in so here it says which year
+it was published in 2008 yeah october
+
+00:43:34.960 --> 00:43:43.680
+okay so that's
+almost how many years 17 years ago okay
+
+00:43:40.640 --> 00:43:48.319
+so then they're saying it has been so
+for almost 30 years people have been
+
+00:43:45.599 --> 00:43:55.599
+studying black holes and other thing
+like in detail so 30 + 17 now right as
+
+00:43:53.440 --> 00:44:00.240
+black holes raise puzzles that directly
+challenge many cherished fundamental
+
+00:43:57.599 --> 00:44:04.960
+physical properties such as unitarity
+and locality i don't know what these
+
+00:44:02.480 --> 00:44:08.640
+mean okay and this is all part of
+physics
+
+00:44:06.800 --> 00:44:14.440
+defining questions in this area have
+been why does a black hole have entropy
+
+00:44:11.200 --> 00:44:20.720
+proportional to its hor horizon
+area you don't know what this means
+
+00:44:16.960 --> 00:44:25.040
+right entropy horizon
+proportional proportional you don't know
+
+00:44:22.800 --> 00:44:30.960
+what this means is there information
+lost because of black holes how does one
+
+00:44:28.160 --> 00:44:35.160
+resolve space-time singularity
+so if we are talking because this is
+
+00:44:33.119 --> 00:44:39.280
+physics and more complicated maths
+involved those type of articles are more
+
+00:44:37.520 --> 00:44:43.960
+difficult to read unless you know that
+mathematics for example if I'm talking
+
+00:44:41.839 --> 00:44:48.960
+about
+uh powers of numbers and prime numbers
+
+00:44:46.880 --> 00:44:54.440
+and other things how you can use uh
+certain properties of prime
+
+00:44:51.640 --> 00:44:58.240
+numbers to create
+passwords unless you know prime number
+
+00:44:56.880 --> 00:45:02.960
+you'll not be able to understand
+anything else right yeah so that's why
+
+00:45:00.160 --> 00:45:07.280
+mathemat Mathemat papers on mathematics
+papers that use a lot of mathematics are
+
+00:45:04.960 --> 00:45:13.839
+difficult to understand whereas papers
+on biology for example are somewhat
+
+00:45:10.800 --> 00:45:18.720
+easier to follow once you understand
+like how the articles are generally
+
+00:45:15.960 --> 00:45:24.839
+organized because for example if I say
+amigdala you don't know what that means
+
+00:45:21.119 --> 00:45:29.839
+right but if you just look up
+amigdala it says amydala is a small
+
+00:45:27.920 --> 00:45:34.800
+almond shaped structure inside your
+brain it's easy to understand right it's
+
+00:45:32.160 --> 00:45:39.280
+a small part of the brain it's part of a
+larger network in your brain called the
+
+00:45:36.480 --> 00:45:43.920
+lyic system okay it's a part of the
+brain called lyic system and amydala is
+
+00:45:41.599 --> 00:45:47.200
+inside this part when it comes to your
+survival your amigdala and lyic system
+
+00:45:45.599 --> 00:45:52.040
+are extremely important they're very
+important for us to survive for us to
+
+00:45:49.040 --> 00:45:56.280
+live yes these automatically detect
+danger do you understand this they
+
+00:45:55.200 --> 00:46:00.560
+detect
+danger danger means like for example you
+
+00:45:59.119 --> 00:46:06.000
+are an animal you're living in the
+forest and suddenly you smell a tiger
+
+00:46:04.319 --> 00:46:13.280
+animals have like many animals have good
+sense of smell you smell a tiger or you
+
+00:46:09.440 --> 00:46:18.599
+hear the uh roar of a tiger then
+amigdala immediately responds to that
+
+00:46:17.200 --> 00:46:25.920
+it immediately
+recognizes that that the that the roar
+
+00:46:22.319 --> 00:46:30.480
+is that of a tiger okay and then you run
+away right otherwise you'll be dead
+
+00:46:28.800 --> 00:46:35.359
+right so that's the part that's
+controlling
+
+00:46:32.800 --> 00:46:39.839
+uh this behavior okay so it's protecting
+you from danger it senses when there is
+
+00:46:37.680 --> 00:46:45.280
+danger are you able to understand this
+yes right this uh so these kind of
+
+00:46:42.800 --> 00:46:50.480
+things are easier to understand whereas
+when it's uh when there's lot of
+
+00:46:48.280 --> 00:46:54.560
+mathematics it's not always easy to
+understand
+
+00:46:52.599 --> 00:47:00.240
+okay
+so for example
+
+00:46:56.480 --> 00:47:05.440
+uh when I was in my PhD my background
+was not in biology okay I did not know I
+
+00:47:03.200 --> 00:47:10.640
+did not study biology before that before
+joining PhD biology biology mean like
+
+00:47:08.079 --> 00:47:16.800
+about body parts brain all these I
+studied more mathematical things more
+
+00:47:13.680 --> 00:47:23.280
+more like phys computers and then some
+mathematics also
+
+00:47:18.359 --> 00:47:26.880
+okay so in our classes for neuroscience
+We
+
+00:47:24.200 --> 00:47:30.960
+had some most of the topics were biology
+related but I was able to follow I could
+
+00:47:28.720 --> 00:47:34.839
+just look up about different parts of
+the brain but when there was research
+
+00:47:33.599 --> 00:47:40.400
+about
+uh when there was research relate that's
+
+00:47:37.920 --> 00:47:44.160
+more mathematical I could follow because
+I knew the
+
+00:47:41.560 --> 00:47:47.920
+mathematics but there are people who
+only studied biology before for them
+
+00:47:46.160 --> 00:47:53.680
+it'll be difficult to follow the
+mathematics part of it right
+
+00:47:51.200 --> 00:47:58.720
+so I mean there are like pros and cons
+but in general like mathematical papers
+
+00:47:56.640 --> 00:48:03.640
+are more difficult to follow unless you
+know the mathematics others like for
+
+00:48:00.800 --> 00:48:10.000
+example if you people are talking about
+history you can read it right we may not
+
+00:48:06.560 --> 00:48:15.079
+know that part but it may be generally
+somewhat easier to
+
+00:48:12.440 --> 00:48:19.200
+follow
+okay read this carefully to see if the
+
+00:48:17.680 --> 00:48:22.880
+article is relevant okay then the
+introduction gives you some background
+
+00:48:20.640 --> 00:48:26.800
+on the topic it should also state the
+specific question the scientists were
+
+00:48:24.400 --> 00:48:31.200
+trying to answer or their hypothesis so
+introduction gives you a background and
+
+00:48:28.880 --> 00:48:34.800
+then it also tells you what they are
+trying to answer their question right
+
+00:48:33.119 --> 00:48:39.800
+and what's the hypothesis that they are
+going to test this can help you get to
+
+00:48:37.839 --> 00:48:44.640
+get a better grasp of the
+context then skip to the conclusion if
+
+00:48:42.960 --> 00:48:49.520
+the methods and results sections look
+too technical at first jump to the
+
+00:48:46.480 --> 00:48:54.599
+conclusion what they're saying is go to
+the conclusion and then uh see again
+
+00:48:52.640 --> 00:48:59.440
+there is the main summary right main
+findings so this section usually
+
+00:48:57.200 --> 00:49:02.880
+summarize the main findings in a more
+accessible way and discusses their
+
+00:49:01.000 --> 00:49:07.920
+implication and what are the main
+findings and what does it mean like the
+
+00:49:04.960 --> 00:49:11.200
+meth uh discussion part understanding
+the conclusion first can give you a
+
+00:49:09.520 --> 00:49:16.880
+framework for going back to the more
+detailed parts then tackling the tricky
+
+00:49:15.040 --> 00:49:21.920
+parts methods and results are usually
+the difficult part to
+
+00:49:19.000 --> 00:49:25.559
+follow don't get bogged down in every
+detail of the methods you don't need to
+
+00:49:23.760 --> 00:49:31.280
+understand every single part of the
+methods for example I I mean here they
+
+00:49:29.040 --> 00:49:36.160
+don't have a separate section saying
+methods but it's essentially it's more
+
+00:49:33.920 --> 00:49:41.839
+like a theoretical paper so these are
+the methods some methods that they're
+
+00:49:37.520 --> 00:49:41.839
+using holographic methods
+
+00:49:41.960 --> 00:49:50.480
+generalities I don't know what else two
+charge system so they're describing all
+
+00:49:46.319 --> 00:49:57.440
+the mathematics of black holes I guess
+and their theory and fuz balls and black
+
+00:49:55.200 --> 00:50:02.160
+hole physics here they're describing why
+they think it's fuzz balls and then
+
+00:50:00.240 --> 00:50:07.359
+these are the conclusions so what will
+we try if I have to read this paper I'll
+
+00:50:04.880 --> 00:50:12.000
+try can read the title title I think we
+understood right but abstract I don't
+
+00:50:10.160 --> 00:50:17.520
+really uh we haven't even looked at it
+we don't understand introduction
+
+00:50:14.680 --> 00:50:21.599
+also I may be able to understand if I
+read some of this okay i may have to
+
+00:50:19.599 --> 00:50:29.839
+look up a few things but I'll probably
+be able to understand
+
+00:50:24.760 --> 00:50:33.839
+uh at least a general idea okay
+but methods most likely I'll not
+
+00:50:31.599 --> 00:50:37.920
+understand because I don't know what
+what's going on here what type of
+
+00:50:35.440 --> 00:50:42.240
+mathematics and everything but
+conclusions will probably be able to
+
+00:50:40.480 --> 00:50:44.880
+understand i'll probably be able to
+understand
+
+00:50:45.480 --> 00:50:53.520
+okay
+see I have been uh studying for a lot of
+
+00:50:51.280 --> 00:50:58.000
+time right I'll also not understand a
+lot of papers so that's what I wanted to
+
+00:50:55.520 --> 00:51:03.040
+show that when you look at a paper it's
+okay if you don't understand
+
+00:50:59.880 --> 00:51:08.640
+anything okay but we will try break it
+down into
+
+00:51:04.599 --> 00:51:15.319
+simple things and
+uh try and understand like at least the
+
+00:51:12.480 --> 00:51:20.880
+main part main findings of that
+paper pay attention okay so don't get
+
+00:51:18.960 --> 00:51:24.319
+bogged down in every detail of the
+methods it means that you don't have to
+
+00:51:22.640 --> 00:51:28.240
+try and understand every part of the
+methods it's okay if you don't
+
+00:51:26.160 --> 00:51:33.920
+understand pay attention to figures and
+tables in the results this is the main
+
+00:51:30.760 --> 00:51:37.599
+thing so in this paper for example they
+don't have any figures and tables right
+
+00:51:36.079 --> 00:51:41.599
+usually that's what happens when it's a
+mathematical
+
+00:51:39.160 --> 00:51:46.000
+paper that's why it becomes more
+difficult to understand also it's all
+
+00:51:43.520 --> 00:51:51.520
+equations so you cannot understand but
+let's see another
+
+00:51:47.559 --> 00:51:58.280
+paper okay I'll show you another paper
+uh let's what topic let's talk about
+
+00:51:55.960 --> 00:52:02.640
+amigdala
+amigdala emotion
+
+00:52:04.119 --> 00:52:09.000
+okay this is some paper
+
+00:52:09.400 --> 00:52:18.559
+uh so here you see uh I have the they
+have the title and then there is the
+
+00:52:16.119 --> 00:52:21.920
+abstract and then this is a review
+article there are different typ types of
+
+00:52:20.480 --> 00:52:27.599
+articles that's something that we have
+to learn today okay
+
+00:52:25.520 --> 00:52:31.359
+what does review article i'll explain
+i'll explain when we learn the types of
+
+00:52:31.800 --> 00:52:39.800
+articles so for that paper I think it's
+a paid article see it's a paid
+
+00:52:38.200 --> 00:52:45.440
+article
+uh so I don't have access to it they
+
+00:52:42.640 --> 00:52:53.680
+only show the title and abstract so if I
+pay for it then I can read the article
+
+00:52:50.880 --> 00:53:01.839
+i'll start from there
+but yeah so this this is ah here this is
+
+00:52:58.960 --> 00:53:06.720
+open access okay so that's why I can
+read even without logging in so this is
+
+00:53:04.319 --> 00:53:13.839
+the title amigdala and emotion emotion
+what is emotion like fear happiness all
+
+00:53:10.720 --> 00:53:19.680
+of these are emotions right yes
+so they're saying they're talking about
+
+00:53:15.680 --> 00:53:19.680
+the relation between amydala and emotion
+
+00:53:20.400 --> 00:53:26.960
+And then so I'll try and understand the
+abstract the amygdala complex has long
+
+00:53:25.520 --> 00:53:33.359
+been known as part of the neural
+circuitry critical for emotion do you
+
+00:53:30.160 --> 00:53:38.960
+understand this for a long time they
+thought that amygdala amydala complex
+
+00:53:35.599 --> 00:53:43.240
+mean like the part amigdala
+uh is part of neural means like related
+
+00:53:41.440 --> 00:53:48.160
+to brain like brain cells are called
+neurons okay this is the neural
+
+00:53:46.000 --> 00:53:50.839
+circuitry critical for emotion so
+they're saying for a long time people
+
+00:53:49.760 --> 00:53:58.240
+knew that
+amydala is important for emotion okay so
+
+00:53:55.280 --> 00:54:02.319
+you can understand this part right and
+like that you will be able to understand
+
+00:54:00.880 --> 00:54:04.599
+you just have to look up a few words
+that you don't know you'll be able to
+
+00:54:03.520 --> 00:54:10.559
+understand these
+articles and
+
+00:54:06.680 --> 00:54:16.800
+then let's see so this is the actual
+article do they have any images they do
+
+00:54:13.599 --> 00:54:22.960
+there are some images not much again
+this is not so useful for what I was
+
+00:54:19.200 --> 00:54:22.960
+trying to
+
+00:54:26.200 --> 00:54:30.079
+explain brain
+
+00:54:31.640 --> 00:54:36.240
+research or let's say rocket
+
+00:54:36.760 --> 00:54:44.599
+research liquid propellant rocket this
+is a
+
+00:54:41.000 --> 00:54:48.079
+review rocket solid propellant rocket
+research this is a
+
+00:54:48.520 --> 00:54:54.599
+textbook fundamental problems in rocket
+research
+
+00:54:54.720 --> 00:55:04.960
+rocket propulsion
+components okay so so do we okay there
+
+00:55:02.319 --> 00:55:09.599
+are several images in this paper right
+so in this paper what I'll do is I'll
+
+00:55:06.800 --> 00:55:14.160
+read the title i'll read the abstract
+and understand and then decide whether I
+
+00:55:11.520 --> 00:55:17.839
+want to read this article and then if I
+want to then I'll read the introduction
+
+00:55:16.319 --> 00:55:25.040
+introduction points to all the previous
+research that was done right then I'll
+
+00:55:22.079 --> 00:55:29.359
+go directly into these images just go to
+this image they're explaining something
+
+00:55:27.520 --> 00:55:33.760
+and then usually results are all
+explained in these tables and images so
+
+00:55:31.599 --> 00:55:36.800
+just read the table what does it explain
+and then there is a caption for the
+
+00:55:35.440 --> 00:55:42.119
+table this called caption this is
+explaining what the table is showing
+
+00:55:38.640 --> 00:55:46.119
+uh-huh and same for this table there's a
+caption okay
+
+00:55:46.240 --> 00:55:53.040
+these are all And then there is
+something else
+
+00:55:50.079 --> 00:56:01.520
+and for figure two schematic of a simple
+neuron model they're using a neuron
+
+00:55:55.720 --> 00:56:01.520
+model for uh something
+
+00:56:01.880 --> 00:56:08.440
+okay and then you read
+this just try to understand the figures
+
+00:56:07.119 --> 00:56:15.160
+that's how you
+understand a paper okay
+
+00:56:12.720 --> 00:56:19.839
+let's go
+back don't pay attention to figures and
+
+00:56:18.079 --> 00:56:24.960
+tables in the results so when you're
+trying to understand the results don't
+
+00:56:22.319 --> 00:56:30.000
+read through the whole section first
+just try and understand the figures and
+
+00:56:26.880 --> 00:56:34.160
+tables first then read the text in the
+results section selectively then if you
+
+00:56:32.319 --> 00:56:38.240
+want whichever you don't understand or
+you want to understand in more detail
+
+00:56:35.839 --> 00:56:42.799
+you read that in more detail
+understanding the discussion this is
+
+00:56:40.079 --> 00:56:47.760
+where things start to come together in
+discussion the scientists explain what
+
+00:56:44.720 --> 00:56:51.920
+their results mean okay focus on the
+main interpretations what are the key
+
+00:56:49.599 --> 00:56:55.200
+takeaways from their research look for
+limitations and future directions
+
+00:56:53.520 --> 00:56:59.520
+usually in the paper itself sometimes
+you mention what are some problems that
+
+00:56:57.440 --> 00:57:05.440
+you face during this research what are
+some additional research
+
+00:57:02.119 --> 00:57:09.880
+uh what is some research that you can do
+later on to extend this research in
+
+00:57:07.760 --> 00:57:16.160
+future
+okay limitation means like uh for
+
+00:57:13.640 --> 00:57:20.640
+example we cannot travel to every part
+of the world right if we are looking at
+
+00:57:18.319 --> 00:57:25.520
+sunrise and sunset we are studying we
+can only do it from here or maybe we can
+
+00:57:22.400 --> 00:57:28.799
+travel like a few miles around our house
+but we cannot travel to every country in
+
+00:57:27.119 --> 00:57:32.880
+the world and then see we cannot travel
+to North Pole and South Pole and then
+
+00:57:30.480 --> 00:57:38.720
+see what happens there right so those
+are limitations of our study
+
+00:57:36.720 --> 00:57:42.799
+building your own your understanding
+over time don't expect to understand
+
+00:57:41.040 --> 00:57:46.799
+everything perfectly on the first read
+when you first read something you won't
+
+00:57:44.640 --> 00:57:52.000
+be able to understand everything but at
+least try to understand the title and
+
+00:57:48.640 --> 00:57:57.119
+abstract and then introduction okay look
+up unfamiliar words and concepts when
+
+00:57:54.160 --> 00:58:02.400
+there is some word that you don't know
+look up look up means like uh find out
+
+00:57:59.440 --> 00:58:06.559
+its meaning read multiple articles on
+the same topic on the same topic you
+
+00:58:04.400 --> 00:58:10.960
+have to read different
+uh papers talk about it you can also
+
+00:58:09.040 --> 00:58:16.359
+talk about your research to others be
+patient and persistent you have to be
+
+00:58:14.160 --> 00:58:21.040
+patient patient
+is uh don't give up just because you
+
+00:58:19.440 --> 00:58:25.520
+don't understand i'm saying like I don't
+understand this but if I have to
+
+00:58:22.920 --> 00:58:28.720
+understand I'll spend a lot of time and
+I'll try and understand all the ma i
+
+00:58:27.359 --> 00:58:31.839
+don't know this mathematics okay there
+are several different kinds of
+
+00:58:30.319 --> 00:58:37.599
+mathematics
+the two charge super symmetric d1 d5
+
+00:58:34.319 --> 00:58:41.680
+super gravity solution is d s² dt²
+whatever I don't understand anything in
+
+00:58:39.359 --> 00:58:50.480
+this but if I have to understand I'll
+sit I'll carefully try and
+
+00:58:44.440 --> 00:58:54.720
+uh uh learn everything about it okay
+in short when tackling a scientific
+
+00:58:52.200 --> 00:58:59.920
+article find a relevant article through
+reliable sources start with the title
+
+00:58:57.200 --> 00:59:04.400
+and abstract to get the main idea read
+the introduction for background jump to
+
+00:59:02.319 --> 00:59:07.720
+the conclusion for the key takeaways
+right introduction gives you background
+
+00:59:06.160 --> 00:59:12.640
+conclusion will give you the main
+findings focus on the visuals and main
+
+00:59:10.160 --> 00:59:18.400
+points in the results for results just
+look at the figures what do you do first
+
+00:59:15.599 --> 00:59:22.640
+understand the title and abstract then
+read the introduction then read the
+
+00:59:20.319 --> 00:59:27.839
+conclusions what did they find out maybe
+then just look at the figures okay that
+
+00:59:25.760 --> 00:59:33.200
+makes it easier so it's much simpler
+than reading the whole paper right
+
+00:59:30.799 --> 00:59:38.880
+carefully read I mean the reason I'm
+explaining all of this to you is when
+
+00:59:35.520 --> 00:59:42.880
+you write a paper also you'll need to
+follow the same thing so somebody else
+
+00:59:41.040 --> 00:59:48.760
+reading your paper will read the
+abstract first title first then abstract
+
+00:59:46.400 --> 00:59:53.359
+okay then the conclusions and then
+introduction okay so these are the main
+
+00:59:51.040 --> 00:59:57.440
+things and then your main results you
+need to convey in your
+
+00:59:55.160 --> 01:00:04.000
+images and then you'll have a lot of
+description in the text but that's
+
+01:00:01.559 --> 01:00:07.119
+okay jump to the conclusions focus on
+the visuals and main points in the
+
+01:00:05.440 --> 01:00:10.280
+results carefully read the discussion to
+understand the interpretation look up
+
+01:00:08.559 --> 01:00:14.880
+unfamiliar terms and don't be afraid to
+reread reread means you you can read
+
+01:00:12.799 --> 01:00:18.960
+again and again read more articles on
+the same topic over time you have got
+
+01:00:17.200 --> 01:00:22.160
+this it's like learning a new language
+it might seem tough at first but with
+
+01:00:20.559 --> 01:00:28.240
+practice you'll become fluent in reading
+the fascinating stories that science
+
+01:00:24.599 --> 01:00:33.680
+tells okay uh-huh this is a very
+important
+
+01:00:29.640 --> 01:00:39.599
+topic now actually we'll do some
+examples okay so it mentioned to read
+
+01:00:37.839 --> 01:00:45.160
+news articles on that scientific
+research right yes but now we don't need
+
+01:00:42.720 --> 01:00:51.000
+news articles because AI has
+developed so much it can summarize the
+
+01:00:48.799 --> 01:00:56.079
+scientific article in a way that we
+understand right we'll actually do that
+
+01:00:53.520 --> 01:01:01.599
+for these papers
+okay
+
+01:00:57.559 --> 01:01:08.240
+mhm are we in the last version which
+version can we go to another version
+
+01:01:04.400 --> 01:01:12.119
+another proof version for this I think
+that's I mean it's okay it keeps
+
+01:01:10.319 --> 01:01:18.720
+changing it doesn't
+matter so we have to make
+
+01:01:15.720 --> 01:01:18.720
+another
+
+01:01:20.119 --> 01:01:25.640
+article so I just copy this maybe
+
+01:01:32.400 --> 01:01:35.040
+so from
+
+01:01:40.200 --> 01:01:49.680
+here can read this it's it may sound
+difficult okay but it won't be that
+
+01:01:46.640 --> 01:01:54.960
+difficult once we uh get familiar with
+this okay initially it may look does it
+
+01:01:52.880 --> 01:02:01.160
+feel it's difficult or are you okay are
+you able to follow what I'm saying um
+
+01:01:57.839 --> 01:02:06.960
+about the no about like scientific
+articles it may be a bit difficult but
+
+01:02:05.280 --> 01:02:10.160
+right now we are not understanding any
+article right I'm just saying what are
+
+01:02:08.640 --> 01:02:16.480
+the different sections in an article and
+how to read it right I'm not asking you
+
+01:02:12.400 --> 01:02:16.480
+to read an article
+
+01:02:18.760 --> 01:02:23.599
+right
+this and
+
+01:02:33.799 --> 01:02:37.799
+Okay okay
+
+01:02:39.200 --> 01:02:46.960
+explain step by
+step how you could read scientific
+
+01:02:43.920 --> 01:02:51.160
+articles on various
+sir are there any book
+
+01:02:52.960 --> 01:03:00.480
+um everything is good okay so how to
+read scientific
+
+01:03:01.880 --> 01:03:11.480
+articles I mean the number may not
+really make sense it's okay okay Okay I
+
+01:03:07.359 --> 01:03:11.480
+think can keep two
+
+01:03:11.640 --> 01:03:15.640
+scientific articles
+
+01:03:20.880 --> 01:03:29.760
+this number actually doesn't make sense
+no it the reason I'm putting zero point
+
+01:03:26.319 --> 01:03:35.640
+is so that they'll all be at first and
+they're not related to one particular
+
+01:03:31.520 --> 01:03:42.280
+class right they'll always be useful
+so this part you understood right mhm
+
+01:03:39.760 --> 01:03:47.119
+the next part
+is what are the types of scientific
+
+01:03:48.760 --> 01:03:57.839
+articles let's go here
+what are the
+
+01:03:54.839 --> 01:03:57.839
+different
+
+01:04:00.280 --> 01:04:08.280
+types
+of
+
+01:04:04.280 --> 01:04:08.280
+scientific articles
+
+01:04:09.440 --> 01:04:14.640
+explain 15 year old yeah that
+
+01:04:15.319 --> 01:04:19.039
+explain 50 year
+
+01:04:21.000 --> 01:04:29.760
+old
+like review
+
+01:04:26.119 --> 01:04:34.400
+articles okay
+what are the different types
+
+01:04:35.240 --> 01:04:47.680
+of scientific research and types of
+scientific research and types of
+
+01:04:43.799 --> 01:04:53.720
+scientific articles
+okay there are different types like
+
+01:04:50.240 --> 01:04:53.720
+review articles
+
+01:04:57.799 --> 01:05:01.799
+uh theoretical
+
+01:05:20.760 --> 01:05:27.640
+theoretical mathematical I mean that's
+also theoretical
+
+01:05:25.200 --> 01:05:30.640
+uh or you could have
+comput
+
+01:05:32.920 --> 01:05:35.920
+computational
+
+01:05:35.960 --> 01:05:39.960
+modeling experimental
+
+01:05:40.720 --> 01:05:43.440
+etc
+
+01:05:47.079 --> 01:05:54.079
+okay let's break down the different ways
+scientists do research and the different
+
+01:05:52.480 --> 01:05:57.839
+kind of articles they write to share
+their findings all in a way that makes
+
+01:05:55.760 --> 01:06:01.920
+sense for a 15year-old types of
+scientific research different ways to
+
+01:05:59.799 --> 01:06:05.440
+investigate imagine scientists as
+detectives trying to solve mysteries
+
+01:06:03.599 --> 01:06:12.319
+about the world they use different tools
+and approaches okay so this is about
+
+01:06:08.799 --> 01:06:15.440
+scientific research
+okay this is good i
+
+01:06:16.119 --> 01:06:24.079
+think theoretical research brainstorming
+and building ideas what is it this is
+
+01:06:22.240 --> 01:06:27.599
+like sitting down and thinking deeply
+about how things work theoretical
+
+01:06:25.839 --> 01:06:31.920
+scientists develop new ideas concepts
+and explanations about the world often
+
+01:06:29.760 --> 01:06:36.960
+using logic and existing knowledge
+theoretical research is when you are not
+
+01:06:34.559 --> 01:06:43.480
+doing any actual experiments okay we are
+just sitting here and like thinking
+
+01:06:40.240 --> 01:06:50.079
+about it and just coming up with good
+ideas okay and then you can uh use some
+
+01:06:47.839 --> 01:06:54.400
+logical explanations like you learned
+about logic where did you learn like
+
+01:06:51.760 --> 01:07:00.000
+boolean logic right if this is correct
+that has to be correct if this is wrong
+
+01:06:57.039 --> 01:07:05.280
+that is wrong those kind of logic okay
+uh-huh that's theoretical research
+
+01:07:02.799 --> 01:07:08.640
+mathematical research this uses
+mathematical principles and tech
+
+01:07:06.960 --> 01:07:14.319
+techniques to explore relationships
+patterns and structures so for
+
+01:07:12.200 --> 01:07:21.839
+example we learned about ma
+multiplication right how you multiply
+
+01:07:17.200 --> 01:07:26.799
+three-digit numbers okay we learned that
+but then I also explained to you using
+
+01:07:24.240 --> 01:07:32.440
+the properties of numbers why this
+process works yes right associative law
+
+01:07:30.400 --> 01:07:38.039
+that's like more mathematical
+understanding of this technique okay
+
+01:07:35.760 --> 01:07:42.960
+mathematical research is usually like
+that okay
+
+01:07:40.559 --> 01:07:47.160
+yes it can be used to describe and
+predict how things behave in the real
+
+01:07:44.640 --> 01:07:54.240
+world or to explore abstract
+concepts abstract
+
+01:07:49.720 --> 01:07:58.559
+means like ideas uh-huh
+example developing developing new
+
+01:07:56.640 --> 01:08:04.000
+statistical methods to analyze large
+data sets if you have a large data set
+
+01:08:01.200 --> 01:08:10.240
+statistical methods means
+uh like there's a kind of mathematics
+
+01:08:07.319 --> 01:08:15.839
+okay to analyze a large data set you
+have a huge data like millions and
+
+01:08:13.200 --> 01:08:24.000
+billions of
+uh data that you collected how can it be
+
+01:08:19.920 --> 01:08:31.040
+possible it can be possible when how
+think about the data so let's say I'm I
+
+01:08:27.199 --> 01:08:37.560
+have this mouse pointer right huh and at
+every second it's at a different point
+
+01:08:33.679 --> 01:08:45.759
+right yes so at every for each
+second I can find out where it is on the
+
+01:08:42.080 --> 01:08:51.040
+screen right so that's my data point
+right and so how much how much data will
+
+01:08:48.799 --> 01:08:57.359
+I get in 1 hour
+um so 60 minutes time 60 seconds 3600
+
+01:08:54.719 --> 01:09:01.600
+data points in 1 hour i'm doing this
+every day so I'll collect this every day
+
+01:08:59.600 --> 01:09:05.679
+and then I can collect it not just on
+this computer from like there are so
+
+01:09:04.319 --> 01:09:09.759
+many computers like millions of
+computers around the world i can collect
+
+01:09:07.759 --> 01:09:16.239
+the data from all of them so million
+times 3600 times let's say 5 hours a day
+
+01:09:13.440 --> 01:09:20.319
+times 5 times let's say we collected it
+for 1 year 1
+
+01:09:17.799 --> 01:09:26.799
+year okay so do you think something like
+this is possible yes people do like
+
+01:09:23.239 --> 01:09:31.679
+Google search I you see how many times I
+am using Google search or AI right yeah
+
+01:09:29.679 --> 01:09:35.440
+so but how many people are actually
+using it like there are billions of
+
+01:09:33.359 --> 01:09:41.359
+people who are using this and they're
+using it every day at right so many
+
+01:09:39.040 --> 01:09:47.440
+times every day so you get they get
+billions of uh data points every day
+
+01:09:44.560 --> 01:09:52.880
+right so it happens and you if you want
+to analyze that amount of
+
+01:09:49.159 --> 01:09:57.920
+data you need certain techniques right
+if we just use Python to use that
+
+01:09:55.520 --> 01:10:04.239
+process that it'll take forever if we
+use like in our computer okay how huh
+
+01:10:01.440 --> 01:10:10.000
+because it's it's a lot of data right it
+takes some time to compute uh-huh it
+
+01:10:07.520 --> 01:10:15.679
+computer is still faster than us
+but still it takes time can a can the
+
+01:10:13.760 --> 01:10:20.000
+calculator take that time yeah
+calculator is even slower so then you
+
+01:10:18.400 --> 01:10:24.400
+have to use like hundreds and thousands
+of computers to do this to do the
+
+01:10:22.400 --> 01:10:29.520
+computations okay so the next one is
+computational research using computers
+
+01:10:26.480 --> 01:10:35.440
+to simulate and analyze this is the same
+thing that we doing in Python we are
+
+01:10:31.679 --> 01:10:40.159
+simulating things modeling things right
+like propeller a toy propeller we have
+
+01:10:37.600 --> 01:10:47.360
+modeled a toy propeller we have model
+modeled uh piano right so if you give
+
+01:10:44.719 --> 01:10:51.320
+the notes it plays the piano notes so
+that kind of research is called
+
+01:10:49.360 --> 01:10:57.120
+computational
+research then modeling research creates
+
+01:10:55.120 --> 01:11:00.880
+simplified representations if scientists
+build models to represent real world
+
+01:10:59.120 --> 01:11:06.320
+phenomena these models simplify complex
+systems to understand
+
+01:11:03.120 --> 01:11:10.000
+uh to help us understand them better
+building a miniature airplane to test
+
+01:11:08.239 --> 01:11:14.480
+its aerodynamics so instead of building
+a huge
+
+01:11:11.159 --> 01:11:18.880
+airplane you can build a small one and
+see whether it's working all the the
+
+01:11:16.880 --> 01:11:26.239
+shape of the airplane and all these
+things whether they make sense right you
+
+01:11:21.600 --> 01:11:30.800
+first use a small model and then make it
+work then you build the bigger thing
+
+01:11:28.880 --> 01:11:34.560
+that's called modeling research
+experimental research hands-on
+
+01:11:32.800 --> 01:11:37.960
+investigation this is what you probably
+think of as a typical science experiment
+
+01:11:36.719 --> 01:11:41.679
+normally when you think of science
+experiment this is what it is
+
+01:11:39.920 --> 01:11:46.320
+experimental research right you're
+actually doing the experiments
+
+01:11:43.199 --> 01:11:52.159
+collecting data and then doing and then
+analyzing it observational research
+
+01:11:49.360 --> 01:11:56.159
+watching and recording so sometimes
+you're not doing any experiments but
+
+01:11:54.000 --> 01:12:01.760
+you're just observing like when you if
+you want to study sun we are not making
+
+01:12:00.080 --> 01:12:07.120
+any changes to the sun or the earth
+right you're just observing right for
+
+01:12:04.480 --> 01:12:10.600
+black holes also you just observe what's
+happening how they're rotating those
+
+01:12:08.880 --> 01:12:15.920
+kind of things using a
+telescope that's obser observational
+
+01:12:13.040 --> 01:12:21.159
+research qualitative research exploring
+experiences and meanings
+
+01:12:17.800 --> 01:12:27.360
+supposing uh I ask 100
+people like how many hours uh uh like
+
+01:12:24.880 --> 01:12:32.880
+for each person I ask how many hours
+they slept on a particular day and then
+
+01:12:30.400 --> 01:12:38.000
+I asked them uh whether they were
+feeling more joyful that day or were
+
+01:12:35.040 --> 01:12:44.159
+they sad were they angry those kind of
+things okay i asked each person I asked
+
+01:12:41.199 --> 01:12:50.159
+the same question like every day for an
+year and I ask the same question
+
+01:12:47.120 --> 01:12:55.840
+uh to 100 different people okay so this
+is qualitative research so we are uh
+
+01:12:53.280 --> 01:13:01.280
+finding certain uh details from people
+through surveys this is called a survey
+
+01:12:58.400 --> 01:13:05.600
+okay and then we'll find out right where
+if we get this data then we can see if
+
+01:13:03.760 --> 01:13:12.480
+people are sleeping more are they
+becoming more angry or are they becoming
+
+01:13:08.640 --> 01:13:19.360
+more uh peaceful like how much amount of
+time if they sleep are is it good for
+
+01:13:14.960 --> 01:13:24.159
+them yes okay so quantitative research
+measuring and analyzing numbers so here
+
+01:13:21.360 --> 01:13:29.679
+you're just asking them
+uh whether they
+
+01:13:26.120 --> 01:13:35.640
+slept a long longer than usual or less
+than usual here you'll ask them actual
+
+01:13:32.719 --> 01:13:42.800
+numbers how many hours did you sleep
+quantitative quantity means how much
+
+01:13:38.800 --> 01:13:48.320
+right numbers qualitative means like
+whether it was good or bad whether they
+
+01:13:46.000 --> 01:13:53.040
+uh they thought their sleep was bad that
+day or good
+
+01:13:50.400 --> 01:13:59.840
+quantitative research is when you ask
+them how long this slept okay mhm
+
+01:13:58.080 --> 01:14:04.320
+so these are the different types of
+scientific research did you understand
+
+01:14:01.360 --> 01:14:04.320
+this part
+
+01:14:08.199 --> 01:14:12.480
+now types of scientific
+
+01:14:15.640 --> 01:14:21.440
+articles okay what are the different
+types of scientific articles so these
+
+01:14:20.080 --> 01:14:26.159
+are the different types of research
+right you know a few of these
+
+01:14:24.000 --> 01:14:29.679
+experimental research you understand you
+colle you do some experiments you
+
+01:14:27.520 --> 01:14:34.719
+collect data modeling research you
+understand that right
+
+01:14:32.239 --> 01:14:41.199
+you create a model of a toy propeller
+and then you do some experiments on that
+
+01:14:37.159 --> 01:14:46.000
+model so then these are types of
+scientific articles original research
+
+01:14:43.520 --> 01:14:50.159
+article or a research paper this is the
+most common type of article this
+
+01:14:48.400 --> 01:14:55.199
+describes a new study that the
+scientists themselves conducted so if we
+
+01:14:52.080 --> 01:15:00.080
+conducted a new modeling study or a new
+experimental study and then we uh
+
+01:14:57.920 --> 01:15:05.719
+describe our methods our results
+everything that's called an original
+
+01:15:02.719 --> 01:15:13.040
+research article or research
+paper review article review article
+
+01:15:10.280 --> 01:15:17.440
+means so in our article we are writing
+in the introduction all the research
+
+01:15:14.719 --> 01:15:23.360
+that pre uh people have done before
+right so review articles are usually
+
+01:15:20.080 --> 01:15:29.199
+like that introduction section okay so
+the whole article it's a big
+
+01:15:26.000 --> 01:15:33.880
+introduction section of this of uh
+another article okay so it's describing
+
+01:15:31.920 --> 01:15:38.880
+all the research that's done on black
+holes for
+
+01:15:35.480 --> 01:15:42.960
+example let's say so a review article
+will not have methods and all of these
+
+01:15:40.560 --> 01:15:47.239
+things conclusions i mean they will have
+conclusions or other things but main
+
+01:15:45.360 --> 01:15:50.560
+findings main
+summary black
+
+01:15:51.080 --> 01:15:59.920
+holes review black holes in astrophysics
+this was written in 2005 like 20 years
+
+01:16:00.199 --> 01:16:09.040
+ago sometimes they ask this to just make
+to tap every object that rotates like
+
+01:16:05.360 --> 01:16:12.679
+the one in the sample rotate rotate this
+doesn't this doesn't
+
+01:16:16.880 --> 01:16:20.159
+okay black holes in
+
+01:16:20.280 --> 01:16:27.280
+articles what is
+it article
+
+01:16:27.560 --> 01:16:35.920
+PDF again this also has a title this
+also has a an abstract this paper
+
+01:16:33.520 --> 01:16:42.880
+reviews the current article so it's like
+a review of all the research that's
+
+01:16:39.679 --> 01:16:47.440
+existing on that topic okay so they have
+introduction basic concepts measuring BH
+
+01:16:45.280 --> 01:16:53.440
+mass so these are all from different
+studies they put together all the
+
+01:16:49.520 --> 01:16:53.440
+details kind of like a textbook you
+
+01:16:56.120 --> 01:17:02.159
+know instead of presenting new research
+a review article looks back at a lot of
+
+01:17:00.560 --> 01:17:06.640
+existing research on a specific topic
+and summarizes what has already been
+
+01:17:04.080 --> 01:17:06.640
+found
+
+01:17:10.159 --> 01:17:20.080
+did you understand huh did you
+understand what's a review article
+
+01:17:16.280 --> 01:17:23.120
+um review article
+review article
+
+01:17:24.440 --> 01:17:35.280
+means like to just
+explain the main findings main findings
+
+01:17:31.360 --> 01:17:39.520
+of whose research their research yeah no
+of other research so when you're writing
+
+01:17:38.000 --> 01:17:46.159
+a review article supposing you have to
+write a review article on
+
+01:17:42.880 --> 01:17:51.520
+uh phonetics so you'll just see what
+other people have done on phonetics and
+
+01:17:48.880 --> 01:17:57.840
+then describe everything as a summary
+like a textbook okay you're not doing
+
+01:17:54.800 --> 01:18:03.199
+any new research there so that's what a
+review article is and systematic review
+
+01:18:00.560 --> 01:18:06.840
+and meta analysis
+these are types of review articles but
+
+01:18:05.280 --> 01:18:11.600
+even more
+rigorous so they'll find some uh analyze
+
+01:18:10.320 --> 01:18:14.320
+all the relevant studies and meta
+analysis goes a step further use
+
+01:18:12.880 --> 01:18:18.679
+statistical techniques to combine the
+results so review article just describes
+
+01:18:17.280 --> 01:18:23.760
+the results of
+others systematic review and meta
+
+01:18:21.480 --> 01:18:28.480
+analysis what they do is they collect
+the data from these other studies and
+
+01:18:25.440 --> 01:18:33.360
+they do some more analysis okay they're
+not doing more
+
+01:18:30.840 --> 01:18:36.320
+experiments methodology paper
+methodology paper
+
+01:18:38.760 --> 01:18:46.960
+means methodology paper means it's
+describing some new methods supposing
+
+01:18:44.640 --> 01:18:51.040
+you're not collecting any new data but
+you are finding a new method to analyze
+
+01:18:49.040 --> 01:18:57.199
+this kind of data you're creating a new
+method new analysis method okay analysis
+
+01:18:54.800 --> 01:19:02.120
+means like you have lots of data right
+you can analyze it in different ways
+
+01:19:03.679 --> 01:19:10.640
+so
+that's it or you can develop a new
+
+01:19:08.400 --> 01:19:15.920
+machine to get the data so people are
+getting data from human brains and using
+
+01:19:13.440 --> 01:19:22.679
+some machine supposing you develop a new
+machine that gives uh uh better data
+
+01:19:20.800 --> 01:19:27.440
+okay that's that will be a methodology
+paper
+
+01:19:24.280 --> 01:19:30.719
+okay short communication or letter these
+are shorter articles that present
+
+01:19:29.120 --> 01:19:36.080
+important findings that need to be
+shared okay these are like shorter
+
+01:19:33.040 --> 01:19:41.679
+articles these are not full-fledged like
+long papers like very short case
+
+01:19:39.320 --> 01:19:46.320
+study this type of article provides a
+detailed analysis of a specific case
+
+01:19:43.679 --> 01:19:51.920
+like a unique patient normally you
+collect data from many people right many
+
+01:19:49.320 --> 01:19:56.640
+subjects but supposing we have only one
+person with a
+
+01:19:53.960 --> 01:20:01.760
+disease you won't be able to get that
+data from 100 people 100 people don't
+
+01:19:59.280 --> 01:20:09.239
+have that disease it's a new disease so
+you write about that one person that's
+
+01:20:04.560 --> 01:20:16.000
+called a case study there's one case
+okay opinion or perspective it's usually
+
+01:20:12.880 --> 01:20:21.120
+like uh again this is more like theory
+there's no experiment or anything you're
+
+01:20:18.719 --> 01:20:25.520
+just expressing your opinion maybe we
+should do it this way then it'll be
+
+01:20:22.719 --> 01:20:28.960
+better those kind of things mhm usually
+written by experts in a field who share
+
+01:20:27.199 --> 01:20:36.000
+their opinion perspective or commentary
+on recent on some recent topics okay did
+
+01:20:32.880 --> 01:20:36.000
+you understand this
+
+01:20:36.560 --> 01:20:39.840
+what are the different types of
+
+01:20:43.960 --> 01:20:47.960
+scientific articles
+
+01:20:56.600 --> 01:21:04.199
+then
+0.6 types of scientific artic types of
+
+01:21:02.320 --> 01:21:09.280
+scientific research and scientific
+articles types of scientific
+
+01:21:09.560 --> 01:21:18.000
+research and articles
+okay so what was our question
+
+01:21:24.199 --> 01:21:28.199
+this no
+
+01:21:36.640 --> 01:21:46.000
+I have to understand it all of these
+um if I read more detail I might
+
+01:21:44.159 --> 01:21:50.239
+understand
+did you understand the previous ones
+
+01:21:47.920 --> 01:21:54.880
+these four articles did you understand 1
+2 3 4 this is from last time right yes
+
+01:21:52.800 --> 01:22:00.159
+if you understood those then you'll be
+able to understand these also okay there
+
+01:21:57.440 --> 01:22:06.679
+are only two more articles today two
+more uh documents today okay huh so now
+
+01:22:07.360 --> 01:22:14.159
+uh we have to actually read some
+articles okay so let's actually read
+
+01:22:21.800 --> 01:22:29.360
+these summarize this article for a
+15year-old
+
+01:22:37.159 --> 01:22:41.360
+uh okay so let's
+
+01:22:41.960 --> 01:22:50.320
+see summarize this
+article per 15y
+
+01:22:53.400 --> 01:23:01.920
+old okay so this scientific article is
+about something called the placebo
+
+01:22:58.480 --> 01:23:04.080
+effect in pain clinical trials it got
+some
+
+01:23:04.280 --> 01:23:09.199
+other did not get anything
+
+01:23:11.560 --> 01:23:17.440
+about it's not about black
+holes
+
+01:23:19.080 --> 01:23:29.400
+okay see these are the mistakes that it
+makes other things are useful yes so the
+
+01:23:25.679 --> 01:23:33.960
+reason I don't want you to use AI is
+because you need to know for example all
+
+01:23:31.760 --> 01:23:40.800
+of these things I kind of know it's just
+easier if it writes it down as an
+
+01:23:37.360 --> 01:23:44.840
+article so you can read it later on
+why did this
+
+01:23:48.960 --> 01:23:52.560
+summarize this
+
+01:23:53.320 --> 01:23:57.639
+article 15 year old
+
+01:24:16.320 --> 01:24:24.480
+all right imagine black holes those
+super dense objects in space that suck
+
+01:24:20.960 --> 01:24:29.080
+everything in even light for a long time
+scientists thought of them as having a
+
+01:24:26.480 --> 01:24:34.880
+single point in the very center called a
+singularity okay for a long time people
+
+01:24:31.840 --> 01:24:42.000
+thought that it's a single point
+it's very massive but they thought it's
+
+01:24:37.760 --> 01:24:45.840
+just one point like one tiny point okay
+this singular singularity was weird
+
+01:24:44.159 --> 01:24:49.840
+because our current laws of physics
+break down there there are laws of
+
+01:24:47.840 --> 01:24:56.159
+physics right there are different uh
+rules that we have learned so
+
+01:24:52.760 --> 01:25:01.199
+far but those do not seem to work very
+well for those black holes
+
+01:24:58.719 --> 01:25:06.800
+now this article talks about a different
+idea called the fuzball proposal for
+
+01:25:03.760 --> 01:25:12.000
+what black holes might actually be like
+so they're saying instead of a single
+
+01:25:08.800 --> 01:25:16.000
+point it's like a fuzz ball we learned
+what a fuzz ball was right it's like
+
+01:25:14.000 --> 01:25:21.600
+very big
+fuzz ball is like hairy thing it's not
+
+01:25:18.639 --> 01:25:25.760
+one point like if you have all the hair
+in one point like one tiny mass that
+
+01:25:23.760 --> 01:25:31.520
+would be how people thought black holes
+were but this article says it's not like
+
+01:25:28.159 --> 01:25:37.000
+one that tiny point it's more like a
+spread out like more dense at the center
+
+01:25:34.159 --> 01:25:41.760
+and outside there is less
+hair instead of a tiny point the fuzz
+
+01:25:39.600 --> 01:25:48.480
+ball proposal suggests that a black hole
+is more like a tangled fuzzy ball of
+
+01:25:44.600 --> 01:25:54.639
+strings think of it like old idea is a
+black hole is like a drain in your sink
+
+01:25:52.159 --> 01:25:58.639
+everything just goes down to a single
+infinitely small point what happens
+
+01:25:56.719 --> 01:26:03.360
+there we don't really know it's like one
+point where everything's going but going
+
+01:26:00.960 --> 01:26:08.639
+inside what happens we don't know what's
+happening after that yes now fuzzball a
+
+01:26:06.639 --> 01:26:14.400
+black hole is more like a giant super
+compact hair ball made of incredibly
+
+01:26:10.880 --> 01:26:18.159
+tiny vibrating strings these strings are
+fundamental idea and string theory a
+
+01:26:16.080 --> 01:26:22.719
+theory that explains everything uh in
+the universe
+
+01:26:20.000 --> 01:26:28.560
+okay so they're saying it's like a fuzz
+ball with tiny strings like hair
+
+01:26:25.320 --> 01:26:32.960
+right with strings here is the breakdown
+of the main idea are you able to
+
+01:26:30.320 --> 01:26:37.600
+understand this now i think right this
+is easier to understand right usually
+
+01:26:35.120 --> 01:26:42.639
+news articles on that research would
+describe things like this but now we
+
+01:26:40.239 --> 01:26:47.840
+don't really need news articles you can
+just use AI to summarize those articles
+
+01:26:45.760 --> 01:26:52.560
+okay here is the breakdown of the main
+ideas no singularity the fuzzball
+
+01:26:50.880 --> 01:26:56.800
+proposal gets rid of the problematic
+singularity at the center quantum
+
+01:26:54.800 --> 01:27:00.239
+mechanics included the usual picture of
+a black hole comes from Einstein's
+
+01:26:58.320 --> 01:27:04.880
+theory of gravity this is somebody's
+theory okay some famous scientist made a
+
+01:27:02.400 --> 01:27:08.480
+theory the fuzball idea tries to bring
+in the rules of quantum mechanics which
+
+01:27:07.040 --> 01:27:14.400
+might be important at the extreme
+conditions of a black
+
+01:27:11.320 --> 01:27:19.840
+hole so it's using some other theory to
+explain this okay you don't need to
+
+01:27:16.960 --> 01:27:26.480
+understand every detail just get a sense
+so some black uh the old theory was
+
+01:27:23.840 --> 01:27:31.080
+explaining using this theory the new
+theory is you're bringing in some other
+
+01:27:28.960 --> 01:27:35.679
+theory okay that's all you have to
+understand information paradox solve one
+
+01:27:33.760 --> 01:27:39.520
+of the big mysteries about black hole is
+the information paradox if everything
+
+01:27:37.600 --> 01:27:43.440
+falls into a black hole and disappears
+into singularity what happens to all the
+
+01:27:41.360 --> 01:27:47.440
+information about it
+quantum mechanics says information
+
+01:27:44.960 --> 01:27:51.679
+cannot just vanish so quantum this is
+some other theory in physics okay it
+
+01:27:49.360 --> 01:27:57.280
+says that the information about any
+object it cannot be
+
+01:27:54.520 --> 01:28:01.199
+destroyed okay so for example there is
+information about the shape of our body
+
+01:27:59.199 --> 01:28:05.520
+there is other things right that
+information even though we are I I think
+
+01:28:03.840 --> 01:28:11.800
+I don't understand properly what will
+happen if we go into the black hole
+
+01:28:07.600 --> 01:28:16.880
+that's what it says in the
+old theory if it's a if it goes into
+
+01:28:15.360 --> 01:28:20.800
+singularity singularity means like one
+point the old
+
+01:28:18.120 --> 01:28:23.639
+theory in that case the information is
+also going away they don't know what's
+
+01:28:22.320 --> 01:28:28.000
+happening to the
+information but in the fuzball proposal
+
+01:28:26.320 --> 01:28:31.840
+the information might be stored in the
+structure of the fuzz ball itself
+
+01:28:29.760 --> 01:28:37.199
+they're saying even though this object
+is going into the black hole it's
+
+01:28:34.000 --> 01:28:42.480
+creating more fuzziness in that fuzz
+ball and that fuzziness will have the
+
+01:28:39.480 --> 01:28:48.320
+information this extra information did
+you understand no so earlier they said
+
+01:28:45.920 --> 01:28:53.040
+it's a point right yes i think quantum
+mechanics says information cannot be
+
+01:28:50.639 --> 01:28:57.920
+destroyed something like that okay i am
+not accurate my I have no knowledge of
+
+01:28:54.800 --> 01:29:02.239
+this i'm just trying to understand okay
+but if it's going into a point so
+
+01:29:00.239 --> 01:29:07.520
+supposing we I'm walking near the black
+hole i go inside i am sucked into that
+
+01:29:04.960 --> 01:29:11.840
+black hole now in that point where is
+this information my information all this
+
+01:29:10.080 --> 01:29:15.920
+the shape of my body everything that is
+in my brain all of this where did that
+
+01:29:13.920 --> 01:29:20.560
+information go we don't know right we
+cannot explain it first of all nobody's
+
+01:29:18.719 --> 01:29:25.120
+going into a black hole so we are
+sitting here and this is all like
+
+01:29:22.000 --> 01:29:30.679
+theoretical research right but the
+fuzball rearch fuzzball theory says that
+
+01:29:28.080 --> 01:29:36.400
+if I go inside this black
+hole even though I am getting sucked in
+
+01:29:33.840 --> 01:29:43.679
+and I am destroyed the information about
+me is getting stored in that first ball
+
+01:29:38.880 --> 01:29:50.639
+it's creating more hairs more details
+okay so more powers more hair uh like
+
+01:29:47.440 --> 01:29:55.840
+that we thought of it as a ball of hair
+right it's creating more hair uh
+
+01:29:53.520 --> 01:30:01.520
+fragments and creating more information
+that all that information from me it's
+
+01:29:58.239 --> 01:30:07.320
+creating in another form okay are you
+able to understand this yes right i also
+
+01:30:04.719 --> 01:30:11.880
+understand whatever you are you
+understand so it's solving some other
+
+01:30:09.840 --> 01:30:16.960
+problem with the old
+theory different from empty space unlike
+
+01:30:15.040 --> 01:30:21.800
+the empty space around it the inside of
+a black hole would be very complex and
+
+01:30:19.199 --> 01:30:26.800
+active place made of these vibrating
+strings okay
+
+01:30:24.120 --> 01:30:33.280
+so black hole is different from empty
+space empty space you know right where
+
+01:30:28.960 --> 01:30:38.719
+there's nothing no air also okay uh so
+they're saying with the first ball
+
+01:30:36.440 --> 01:30:42.560
+theory this fuz ball is different from
+the empty space still a theory it's
+
+01:30:41.120 --> 01:30:47.840
+important to remember that the fuz ball
+proposal is also still a theoretical
+
+01:30:44.560 --> 01:30:51.600
+idea nobody has tested it nobody knows
+if it's true or not it's not something
+
+01:30:49.440 --> 01:30:55.600
+we directly observed scientists are
+still working on it and trying to find
+
+01:30:53.199 --> 01:30:59.120
+evidence to support or disprove it
+they're still trying to see whether it's
+
+01:30:57.040 --> 01:31:02.159
+true or not in short this article
+explains a cool and different way to
+
+01:31:00.639 --> 01:31:06.080
+think about black holes instead of a
+simple point in the middle where physics
+
+01:31:04.159 --> 01:31:11.040
+goes crazy it suggests they might be
+giant fuzzy balls made of tiny strings
+
+01:31:09.360 --> 01:31:15.600
+this could potentially solve some of the
+weird mysteries about black holes and
+
+01:31:12.880 --> 01:31:19.920
+might help us understand better how
+gravity and quantum mechanics work
+
+01:31:17.120 --> 01:31:23.639
+together okay this is giving a better
+explanation for some of the things but
+
+01:31:21.920 --> 01:31:30.320
+they don't know whether this is true or
+not now did we understand that article
+
+01:31:26.960 --> 01:31:35.600
+yes see you are able to understand this
+such a complicated scientific article i
+
+01:31:32.800 --> 01:31:42.719
+won't be able to understand this
+but AI did no it's not AI but even if we
+
+01:31:40.239 --> 01:31:47.239
+read it we should be able to understand
+this part this part we should be able to
+
+01:31:45.360 --> 01:31:54.320
+understand just by reading the
+introduction abstract and conclusions
+
+01:31:51.560 --> 01:31:59.400
+okay okay
+and this is the part that we should be
+
+01:31:56.639 --> 01:32:05.320
+able to understand for any
+paper actually let's do this let's save
+
+01:32:02.760 --> 01:32:11.440
+this
+uh so how should I do i'll make it as 2
+
+01:32:09.679 --> 01:32:15.719
+something okay these are just examples
+right yes so 2.1
+
+01:32:18.000 --> 01:32:25.760
+I think two you can just keep two no I I
+have other articles I'll put there
+
+01:32:23.120 --> 01:32:31.280
+science and research science and No it's
+not this research projects scientific
+
+01:32:29.040 --> 01:32:41.560
+publications and grants how to study
+scientific papers posters okay not this
+
+01:32:37.560 --> 01:32:41.560
+no PDF
+
+01:32:48.800 --> 01:33:00.560
+why is it saving as a HTML document
+actually I know why why you can go on
+
+01:32:56.800 --> 01:33:00.560
+that and change it no it's not
+
+01:33:00.920 --> 01:33:03.920
+changing
+
+01:33:07.159 --> 01:33:11.040
+download PDF
+
+01:33:11.800 --> 01:33:21.320
+okay class material science science and
+textbook no research projects and
+
+01:33:19.280 --> 01:33:27.960
+publications how to
+study and in this
+
+01:33:24.920 --> 01:33:37.840
+two black
+holes paper black holes fuz paper right
+
+01:33:34.960 --> 01:33:46.880
+uh when was this published 2005
+I think 17 years ago I said so
+
+01:33:42.600 --> 01:33:54.080
+2008 okay uh-huh is that correct 2008
+date where does it say 2018 here so it
+
+01:33:50.159 --> 01:33:58.600
+was published so it was accepted on this
+date and available on the published date
+
+01:33:56.080 --> 01:34:06.159
+on this date
+okay so this is the article right
+
+01:34:03.040 --> 01:34:16.719
+and then this is the actual
+uh summary of that article so let's
+
+01:34:12.280 --> 01:34:19.719
+copy okay i'll make it 2.1
+2.1
+
+01:34:27.679 --> 01:34:30.679
+2.1
+
+01:34:30.800 --> 01:34:35.400
+Why does it say two copies
+
+01:34:35.840 --> 01:34:42.120
+it's okay 2.1
+2.1
+
+01:34:42.199 --> 01:34:54.679
+M and then what
+2.1 actually paper AI
+
+01:34:50.679 --> 01:34:54.679
+summary okay
+
+01:34:55.960 --> 01:35:01.520
+uhhuh uh I don't know why it says how to
+read scientific
+
+01:35:02.600 --> 01:35:10.360
+articles it's not copy right
+maybe it
+
+01:35:19.760 --> 01:35:28.960
+Sir can you keep the last question over
+here it will be so better
+
+01:35:24.800 --> 01:35:28.960
+it's okay we'll see black
+
+01:35:33.480 --> 01:35:38.920
+horse summarize this article
+
+01:35:42.320 --> 01:35:50.800
+so this is actually good because we know
+that it does not know the article unless
+
+01:35:48.159 --> 01:35:55.520
+we if we just give a link it found some
+other article right some other random
+
+01:35:52.560 --> 01:35:58.880
+article yes
+if you give the name I think it
+
+01:35:58.920 --> 01:36:08.000
+knows okay so this is a very good
+summary so this kind of summary I want
+
+01:36:04.800 --> 01:36:13.760
+you to write just by reading the article
+okay how can I write you can write so
+
+01:36:10.480 --> 01:36:19.199
+I'll I'll find some simple article okay
+mhm
+
+01:36:15.880 --> 01:36:23.719
+and so this is a review article right so
+should we do it for this also
+
+01:36:27.280 --> 01:36:30.760
+how many pages
+
+01:36:31.880 --> 01:36:35.760
+actually amdala and
+
+01:36:35.800 --> 01:36:40.719
+emotion so let's summarize this article
+
+01:36:43.800 --> 01:36:52.239
+okay summarize this article for a 15
+year
+
+01:36:48.280 --> 01:36:52.239
+old but the article is
+
+01:37:01.560 --> 01:37:07.440
+different okay this scientific article
+is about a small but super important
+
+01:37:05.679 --> 01:37:10.480
+part of your brain called the amygdala
+think of the amydala as your brain's
+
+01:37:08.800 --> 01:37:14.719
+emotional headquarters especially for
+things like fear but also for other
+
+01:37:12.520 --> 01:37:19.520
+emotions headquarter means like the main
+building amigdala is like the main
+
+01:37:16.880 --> 01:37:24.080
+building in our brain here is the
+breakdown for you what is amigdala the
+
+01:37:21.440 --> 01:37:28.159
+fear center learning fear beyond fear
+connections to other brain areas
+
+01:37:25.679 --> 01:37:35.679
+amagdala in action in simple term and if
+you read you'll be able to understand
+
+01:37:29.600 --> 01:37:38.400
+okay mhm let's try and read this summary
+so I just save
+
+01:37:39.800 --> 01:37:43.800
+this UPDF
+
+01:37:44.400 --> 01:37:54.960
+save as amigdala and emotion and when
+was this uh paper
+
+01:37:50.280 --> 01:37:57.960
+published to 1996
+1996
+
+01:38:01.760 --> 01:38:07.560
+this is 2.2 two right yes
+
+01:38:08.320 --> 01:38:13.320
+and
+emotion 1996
+
+01:38:23.159 --> 01:38:29.880
+yeah and then I'll put the summary also
+
+01:38:35.400 --> 01:38:41.920
+rename Ren
+name AI
+
+01:38:42.520 --> 01:38:49.440
+some okay earlier you would have to look
+up for news articles you'll have to find
+
+01:38:47.119 --> 01:38:55.920
+some news articles which did something
+like this now we don't need that okay so
+
+01:38:52.800 --> 01:38:59.880
+actually how to read scientific articles
+in that I'll update this
+
+01:39:03.520 --> 01:39:09.080
+you explore reputable science news
+websites
+
+01:39:11.719 --> 01:39:20.159
+alternatively you can use AI
+tools to
+
+01:39:20.840 --> 01:39:28.400
+summarize the
+article at the level
+
+01:39:28.440 --> 01:39:38.159
+of 6 year
+old 15 year old etc
+
+01:39:35.719 --> 01:39:46.520
+okay this is what we'll probably do
+these days you don't really need
+
+01:39:40.679 --> 01:39:46.520
+to explore it why did you keep it
+
+01:39:47.840 --> 01:39:55.920
+okay this this is what we'll use
+actually yeah why did you keep that
+
+01:39:51.920 --> 01:40:02.960
+itallic it's okay so it's easier to see
+it's different from this title right
+
+01:39:59.920 --> 01:40:05.360
+or I'll just change this and make the
+color
+
+01:40:05.880 --> 01:40:09.880
+different okay
+
+01:40:10.080 --> 01:40:16.360
+now this is 2.1 amdala in amigdala
+
+01:40:16.639 --> 01:40:19.920
+so here we have to do
+
+01:40:41.560 --> 01:40:54.080
+this okay so
+What will you do what's your homework
+
+01:40:48.480 --> 01:40:59.440
+going to be um to f you can find another
+simple paper for me that I can read and
+
+01:40:56.520 --> 01:41:06.159
+then I think we can make this summary
+yeah right actually let's follow the
+
+01:41:06.679 --> 01:41:16.400
+steps types of how to read a scientific
+paper we have the steps right
+
+01:41:13.679 --> 01:41:16.400
+yes sir
+
+01:41:17.040 --> 01:41:19.600
+step by
+
+01:41:21.880 --> 01:41:32.040
+step follow the step bystep
+process you
+
+01:41:29.080 --> 01:41:41.480
+described
+about to read scientific papers to read
+
+01:41:36.400 --> 01:41:47.280
+scientific papers and describe those
+steps for this article
+
+01:41:44.440 --> 01:41:52.400
+well which article what topic do you
+want rockets black holes space anything
+
+01:41:50.400 --> 01:41:56.880
+like it doesn't matter
+what
+
+01:41:54.560 --> 01:42:02.960
+rockets black holes you tell me a new
+topic a new topic
+
+01:42:01.080 --> 01:42:09.920
+yeah what What do you want to learn
+about about
+
+01:42:06.159 --> 01:42:19.840
+planets and uh like sun and earth no huh
+i want to learn about Mars how Mars work
+
+01:42:15.159 --> 01:42:27.199
+mars what mars atmosphere mars mars how
+it works life on Mars no how it works
+
+01:42:23.440 --> 01:42:33.719
+how it works meaning how it rotates no
+um Mars
+
+01:42:30.239 --> 01:42:33.719
+okay surface
+
+01:42:34.080 --> 01:42:44.480
+um who lives in Mars
+life on Mars yes life on Mars
+
+01:42:41.440 --> 01:42:48.480
+search for life on Mars like new article
+let's say these are old articles right
+
+01:42:46.639 --> 01:42:54.320
+let's say we want to look for a new
+paper the search for ancient life on
+
+01:42:50.960 --> 01:42:59.760
+Mars using some analysis
+okay that's quantitative analysis of
+
+01:42:56.639 --> 01:43:03.960
+Martian image evidence of life this has
+a PDF so let's do this
+
+01:43:05.880 --> 01:43:15.119
+uh perspectives on Mars sample return a
+critical source for planetary
+
+01:43:11.719 --> 01:43:17.440
+science so these are PDFs somewhere they
+don't have
+
+01:43:20.520 --> 01:43:31.119
+PDFs okay quantitative analys of Martian
+images wages evidence of
+
+01:43:25.880 --> 01:43:36.400
+life okay so this is something about
+life on
+
+01:43:32.920 --> 01:43:40.159
+Mars okay using some soil and other
+things it doesn't matter how many pages
+
+01:43:38.239 --> 01:43:47.119
+you will only read the abstract right
+you'll read the title abstract
+
+01:43:42.560 --> 01:43:51.480
+introduction it's okay and then I wrote
+this is the
+
+01:43:49.239 --> 01:43:56.320
+uh where the
+well what do they
+
+01:43:53.639 --> 01:44:00.639
+have these are references so you don't
+need to read anything there these are
+
+01:43:57.920 --> 01:44:06.440
+just links to other papers right and
+then future challenges here they're
+
+01:44:02.719 --> 01:44:06.440
+describing their
+
+01:44:06.760 --> 01:44:13.440
+uh
+results okay so these are all their
+
+01:44:14.520 --> 01:44:24.400
+results and no just see
+uh so for this paper we'll ask EI to do
+
+01:44:21.520 --> 01:44:29.520
+it i'll find another paper you just try
+to understand how much you can okay
+
+01:44:27.760 --> 01:44:35.119
+actually let's do a paper on karnatic
+music you try and understand that paper
+
+01:44:32.880 --> 01:44:40.560
+okay you'll be able to do that that'll
+be good and then we can also do it for
+
+01:44:37.760 --> 01:44:47.080
+AI and like schooling those kind of
+things because that's our project right
+
+01:44:42.159 --> 01:44:47.080
+that we'll do yeah in the classroom
+
+01:44:47.719 --> 01:44:57.159
+yeah quantitative analysis of Martian
+images okay
+
+01:44:54.000 --> 01:45:06.800
+so this is
+2.3 and 2025 paper wait uh this is
+
+01:45:04.199 --> 01:45:11.040
+Mars evidence evidence means proof of
+life evidence of
+
+01:45:12.199 --> 01:45:19.679
+life
+2025 okay so that's the paper yeah
+
+01:45:21.960 --> 01:45:26.880
+now let's ask AI to do
+
+01:45:28.040 --> 01:45:34.280
+this follow the step-by-step process you
+described about to read scientific
+
+01:45:32.400 --> 01:45:39.040
+papers and describe those steps for this
+article those steps to understand this
+
+01:45:43.800 --> 01:45:50.800
+article finding the article we already
+got it right
+
+01:45:49.119 --> 01:45:54.000
+we approaching the article title and
+abstract since I don't have the abstract
+
+01:45:52.480 --> 01:45:57.800
+right in front of me I'll make some
+educated guesses why it does not have
+
+01:45:56.239 --> 01:46:01.600
+the
+article jumping to the
+
+01:46:05.000 --> 01:46:12.440
+conclusion no it says it does not have
+the article so
+
+01:46:10.600 --> 01:46:18.400
+actually
+for to describe to understand this
+
+01:46:20.280 --> 01:46:26.400
+article but because we downloaded it we
+can just
+
+01:46:26.600 --> 01:46:31.080
+use Google Drive
+
+01:46:32.400 --> 01:46:36.320
+uh or we upload
+
+01:46:36.360 --> 01:46:39.679
+that files
+
+01:46:40.400 --> 01:46:49.960
+Where is this home school class
+material science research project
+
+01:46:48.440 --> 01:46:57.080
+scientific
+publications this
+
+01:46:53.920 --> 01:47:01.719
+uh it did not download why is it not
+there it did not download
+
+01:47:10.600 --> 01:47:16.560
+save we just downloaded this
+right
+
+01:47:17.080 --> 01:47:30.000
+2.3 oh maybe I used a different name no
+it's not there
+
+01:47:24.280 --> 01:47:30.000
+2.3 Mars Life
+
+01:47:31.400 --> 01:47:42.960
+202 okay so that's the paper now we have
+it
+
+01:47:38.840 --> 01:47:42.960
+now I'll add it from
+
+01:47:44.360 --> 01:47:52.199
+drive recent no start 2.3 Mars life
+
+01:47:55.360 --> 01:47:58.760
+let's see
+
+01:48:02.480 --> 01:48:08.800
+okay let's break down the scientific
+article step by step to make it easier
+
+01:48:06.159 --> 01:48:11.360
+the article is titled this okay finding
+the article we have the full article
+
+01:48:10.159 --> 01:48:15.840
+which is great we already have the
+article title tells us the main topic
+
+01:48:13.520 --> 01:48:20.639
+the other is using quantitative analysis
+analyzing with numbers on pictures from
+
+01:48:17.760 --> 01:48:26.400
+Mars to look for evidence of life okay
+so they took some pictures of Mars using
+
+01:48:23.760 --> 01:48:32.960
+telescope or something okay they have a
+rocket and that went and then uh
+
+01:48:30.719 --> 01:48:38.080
+they took some they took some pictures
+and use they're using that to see
+
+01:48:35.600 --> 01:48:42.639
+whether there is life approaching the
+article title and abstract title
+
+01:48:40.320 --> 01:48:48.560
+breakdown qualitative analysis means
+other is using qual quantitative right
+
+01:48:45.920 --> 01:48:54.719
+he's using some numbers of Martian
+images like images of Mars evidence of
+
+01:48:52.560 --> 01:48:58.880
+life to check for whether there is life
+on
+
+01:48:56.320 --> 01:49:03.520
+uh Mars now or previously abstract
+summary the abstract tells us many that
+
+01:49:01.440 --> 01:49:07.600
+many photos from Mars rovers show
+details of Martian landscape reading the
+
+01:49:06.400 --> 01:49:12.080
+introduction introduction uction gives
+us more
+
+01:49:08.679 --> 01:49:17.600
+background jump to the conclusion then
+tackling the tricky parts you you can
+
+01:49:14.719 --> 01:49:24.080
+read this Vata okay just try to see try
+to understand this part okay it has done
+
+01:49:21.360 --> 01:49:29.360
+all the steps right
+right whatever steps that we learned
+
+01:49:27.360 --> 01:49:36.159
+before like step by step how to read
+scientific articles it followed those
+
+01:49:31.760 --> 01:49:41.960
+steps for this article okay
+so that's what we will do so let's add
+
+01:49:38.960 --> 01:49:41.960
+that
+
+01:49:44.800 --> 01:49:47.760
+uh so
+
+01:49:48.040 --> 01:49:58.159
+this
+2 so this is how you'll read a
+
+01:49:52.560 --> 01:49:58.159
+scientific article okay that's what it's
+
+01:49:59.239 --> 01:50:06.119
+showing
+AI step by step
+
+01:50:17.520 --> 01:50:20.159
+so you read
+
+01:50:31.480 --> 01:50:35.840
+this it did not copy it
+
+01:50:41.520 --> 01:50:44.560
+no we don't need the
+
+01:50:45.800 --> 01:50:54.480
+prompt query successful
+what query successful it's not
+
+01:50:54.920 --> 01:51:01.639
+saving
+why maybe it's too much
+
+01:51:01.840 --> 01:51:12.880
+finding article abstract summary i I did
+it until step four okay uhhuh until step
+
+01:51:13.000 --> 01:51:20.520
+four
+then from step five
+
+01:51:30.800 --> 01:51:42.280
+okay yes now let's check why this is qu
+successfully copy again
+
+01:51:38.639 --> 01:51:50.080
+i don't know that's
+okay step three step four step five step
+
+01:51:47.440 --> 01:51:56.239
+six step seven okay so these are the
+steps
+
+01:51:51.920 --> 01:52:03.960
+here in doing this now we'll find one
+other article
+
+01:51:58.880 --> 01:52:10.000
+uh scholar and then katic
+music what do you want to do do you want
+
+01:52:06.639 --> 01:52:15.920
+a review paper or
+music ragas identifying ragas in Indian
+
+01:52:13.760 --> 01:52:21.719
+raga identification of karnatic music
+for music information
+
+01:52:17.800 --> 01:52:28.040
+retrieval okay so this is some
+paper you just try and understand what
+
+01:52:24.719 --> 01:52:28.040
+they're doing
+
+01:52:29.040 --> 01:52:38.800
+hey this is four pages it's simple right
+yes so you can do this but not 44 pages
+
+01:52:36.719 --> 01:52:44.880
+so you don't have to read everything try
+and understand this part then read the
+
+01:52:41.320 --> 01:52:48.960
+abstract then read this then read the
+conclusion then try and understand what
+
+01:52:46.719 --> 01:52:56.840
+they do
+follow those steps as in that
+
+01:52:51.639 --> 01:53:03.400
+example okay so 2.4
+for Raa
+
+01:53:00.199 --> 01:53:07.000
+identification karnatic
+music right when was this published I
+
+01:53:06.320 --> 01:53:12.320
+don't
+know 2009 I'll change the
+
+01:53:13.159 --> 01:53:19.360
+name actually you know what I'll also do
+something else for
+
+01:53:21.000 --> 01:53:28.800
+you maybe maybe I'll not do this so you
+try to do the step by step next time
+
+01:53:26.320 --> 01:53:37.440
+I'll summarize this for you okay and
+we'll do the stepby-step process
+
+01:53:31.880 --> 01:53:41.599
+also what's the year 2009 right
+identification karnatic music is that
+
+01:53:39.280 --> 01:53:50.280
+what it was called identification
+karnatic music
+
+01:53:44.199 --> 01:53:50.280
+okay so now let's write the class notes
+
+01:54:11.599 --> 01:54:20.360
+uh so let's write the nodes and we'll be
+done
+
+01:54:17.360 --> 01:54:23.840
+okay nodes class
+nodes create
+
+01:54:27.800 --> 01:54:38.119
+notepad class notes what's the date
+um
+
+01:54:35.320 --> 01:54:43.280
+0205
+2025 science oh I have to do something
+
+01:54:41.440 --> 01:54:46.960
+else
+what exercises i'll give you some
+
+01:54:45.119 --> 01:54:51.360
+exercises okay because there's a lot of
+material that you learn but this is all
+
+01:54:48.880 --> 01:54:56.560
+that we have to learn if you understand
+this that's all about scientific
+
+01:54:53.199 --> 01:55:02.239
+articles even until you grow up
+that's all
+
+01:54:59.280 --> 01:55:06.080
+oh that's about the process of writing
+scientific articles or reading
+
+01:55:04.080 --> 01:55:11.679
+scientific articles these are the same
+steps whether I do it I I am actually
+
+01:55:08.880 --> 01:55:14.679
+doing research right I also do the same
+things
+
+01:55:28.119 --> 01:55:33.760
+So 2nd
+May
+
+01:55:34.679 --> 01:55:41.480
+25
+scientific articles
+
+01:55:43.199 --> 01:55:48.840
+how to read and then what did we learn
+
+01:55:49.000 --> 01:55:57.320
+um how to read and then the step-by-step
+process of how to read scientific
+
+01:55:53.360 --> 01:56:03.400
+articles yeah and then types of and then
+types of
+
+01:55:59.320 --> 01:56:11.679
+articles and we also did types
+of scientific research yes right both of
+
+01:56:07.760 --> 01:56:15.239
+them so I wrote T and F the same way yes
+so I erased
+
+01:56:13.320 --> 01:56:22.679
+scientific
+research then we did
+
+01:56:20.440 --> 01:56:25.679
+example
+articles
+
+01:56:25.960 --> 01:56:28.960
+AI
+
+01:56:29.960 --> 01:56:34.679
+summaries step by step
+
+01:56:35.719 --> 01:56:45.560
+uh step by step
+what a summaries and stepbystep
+
+01:56:42.920 --> 01:56:53.040
+uh
+reading of article right
+
+01:56:50.400 --> 01:56:53.040
+what's your
+
+01:56:54.760 --> 01:56:58.639
+homework for
+
+01:56:59.400 --> 01:57:06.000
+article 2.4
+4 on karnatic
+
+01:57:06.840 --> 01:57:15.320
+music
+follow this step by
+
+01:57:12.840 --> 01:57:18.880
+step
+process to
+
+01:57:20.679 --> 01:57:28.719
+understand follow the stepbystep process
+to
+
+01:57:25.480 --> 01:57:32.880
+understand to understand it okay that's
+one homework and the other
+
+01:57:33.239 --> 01:57:42.040
+homework is I have to go
+here my
+
+01:57:39.080 --> 01:57:48.920
+drive home
+school class material scientific
+
+01:57:45.360 --> 01:57:52.880
+research research projects
+scientific how to study
+
+01:57:54.840 --> 01:57:58.159
+scientific papers
+
+01:57:58.760 --> 01:58:01.760
+Okay
+
+01:58:03.400 --> 01:58:11.679
+so
+using all the
+
+01:58:07.719 --> 01:58:11.679
+documents in this
+
+01:58:12.440 --> 01:58:16.440
+folder create
+
+01:58:16.560 --> 01:58:25.880
+uh how many 50
+50 homework exercises
+
+01:58:26.320 --> 01:58:40.760
+50 homework exercises with multiple
+choice fill in the blanks
+
+01:58:35.280 --> 01:58:44.960
+etc fill in the blanks matching
+etc type of
+
+01:58:45.080 --> 01:58:49.760
+questions 50 50 is enough I think
+
+01:58:52.800 --> 01:58:59.480
+there are no documents so I cannot
+create
+
+01:58:55.480 --> 01:58:59.480
+homework but
+
+01:58:59.760 --> 01:59:07.840
+oh we have to say using the documents
+using all the Google
+
+01:59:08.040 --> 01:59:15.199
+okay using all the Google Docs google
+
+01:59:16.119 --> 01:59:24.599
+Docs in the
+folder which folder
+
+01:59:25.360 --> 01:59:36.480
+one dot how to study scientific papers
+and posters right create 50 homework
+
+01:59:31.920 --> 01:59:36.480
+exercises in multiple the type of
+
+01:59:38.679 --> 01:59:45.440
+questions or we just have to make it
+into PDFs this folder contains various
+
+01:59:43.360 --> 01:59:48.239
+resources and documents related to
+understanding analyzing and writing
+
+01:59:46.800 --> 01:59:52.159
+scientific papers as well as related
+topics such as research reproducibility
+
+01:59:49.760 --> 01:59:55.920
+and the publication process here are 50
+homework exercises which section of a
+
+01:59:54.239 --> 02:00:01.599
+scientific paper is like a movie trailer
+providing a brief overview why don't
+
+01:59:59.119 --> 02:00:07.840
+highlight the answers it's highlight
+showing the answers already right we
+
+02:00:04.639 --> 02:00:07.840
+don't want it to show the
+
+02:00:13.800 --> 02:00:19.960
+answers don't show the answers
+
+02:00:23.440 --> 02:00:26.239
+don't show the
+
+02:00:28.920 --> 02:00:37.000
+answers so we have to create another
+document
+
+02:00:33.480 --> 02:00:42.840
+here right so I'll
+create there's so many Google Docs here
+
+02:00:43.159 --> 02:00:46.159
+yeah
+
+02:00:49.719 --> 02:00:53.360
+actually next 10
+
+02:01:00.840 --> 02:01:09.400
+Google I'll just call it
+two okay one two because this is for two
+
+02:01:08.159 --> 02:01:12.960
+right
+uh two
+
+02:01:13.000 --> 02:01:18.760
+AI
+homework
+
+02:01:16.280 --> 02:01:21.760
+exercises
+on
+
+02:01:22.280 --> 02:01:32.760
+scientific articles
+scientific articles peer
+
+02:01:28.679 --> 02:01:32.760
+review etc
+
+02:01:33.599 --> 02:01:42.800
+now did it give let's create those
+homework exercises multiple choice what
+
+02:01:39.520 --> 02:01:42.800
+is the primary purpose
+
+02:01:48.520 --> 02:01:55.440
+of abstract to list all others to
+provide a
+
+02:01:52.199 --> 02:01:59.000
+detail to get the results which section
+of a scientific paper should contain a
+
+02:01:56.880 --> 02:02:05.040
+detailed description of experimental
+procedure what is open access i don't
+
+02:02:02.000 --> 02:02:09.520
+understand this can you ask for a what i
+don't understand these questions what
+
+02:02:07.599 --> 02:02:14.400
+why which section of a scientific paper
+should contain a detailed description of
+
+02:02:11.119 --> 02:02:20.400
+experimental procedure procedure means
+process how you're doing the experiment
+
+02:02:16.880 --> 02:02:26.920
+which section will have it to produce to
+provide a detailed methodology
+
+02:02:24.040 --> 02:02:32.880
+methodology detailed
+methods like to describe your methods in
+
+02:02:29.800 --> 02:02:40.000
+detail uh-huh
+or should I say
+
+02:02:35.320 --> 02:02:40.000
+it create 50 homework
+
+02:02:43.000 --> 02:02:53.800
+exercises use the language uh use the
+language of six year old not six year
+
+02:02:50.880 --> 02:02:59.119
+language of 15 year
+old well actually this is fine vata what
+
+02:02:57.119 --> 02:03:03.199
+do you not understand in this what does
+open access and scientific publishing
+
+02:03:01.280 --> 02:03:06.880
+mean we learned about open access right
+the journal is is available only to
+
+02:03:04.960 --> 02:03:10.880
+experience research is free for anyone
+to access the others pay to have the
+
+02:03:08.880 --> 02:03:16.639
+paper published research is kept secret
+which what's the answer um research is
+
+02:03:14.320 --> 02:03:20.320
+free for anyone to know it right what is
+peer review in the context of scientific
+
+02:03:18.480 --> 02:03:24.480
+publication reviewed by friends of the
+other reviewed by general public
+
+02:03:22.080 --> 02:03:29.920
+evaluated by other experts in the field
+reviewed by journal editor
+
+02:03:27.679 --> 02:03:35.840
+general editor is the general editor
+going to review it no who is going to
+
+02:03:32.480 --> 02:03:40.920
+review it general public public you are
+going to review some research on black
+
+02:03:37.920 --> 02:03:40.920
+holes
+
+02:03:41.760 --> 02:03:53.040
+um reviewing by the friends or author no
+h read all of the options
+
+02:03:50.159 --> 02:03:58.440
+reviewing by the friends reviewing by
+the general public
+
+02:03:55.679 --> 02:04:05.639
+evaluating by other
+experts in the field
+
+02:04:01.760 --> 02:04:05.639
+um what's the answer
+
+02:04:06.239 --> 02:04:17.199
+reviewing by the general editor only so
+what's the answer this one no huh what
+
+02:04:13.840 --> 02:04:23.119
+is the answer to the question
+what does the third one mean evaluation
+
+02:04:20.719 --> 02:04:29.360
+means like reviewing reviewing by other
+experts in the field
+
+02:04:25.119 --> 02:04:34.480
+yes that's the answer right right
+what is P hacking did you know this data
+
+02:04:31.440 --> 02:04:37.440
+dredging oh well that may be difficult
+use the language of a
+
+02:04:42.119 --> 02:04:50.080
+15year-old yeah I know what that means
+like
+
+02:04:46.520 --> 02:04:52.719
+to mess up the data yeah when you're
+first looking at scientific article
+
+02:04:51.440 --> 02:04:57.199
+which part should you read to get a
+quick idea of what it is about methods
+
+02:04:54.480 --> 02:05:01.520
+introduction abstract results
+um I think this language is better right
+
+02:04:59.360 --> 02:05:05.199
+what is P hacking do you know this
+cleaning up data making data look better
+
+02:05:03.280 --> 02:05:11.040
+than it is storing data in a database
+presenting data visually
+
+02:05:07.360 --> 02:05:16.440
+um P hacking or data dragging huh what
+is it what's the answer you said you
+
+02:05:12.560 --> 02:05:23.239
+know it the second option yes
+exactly okay so it's asking about
+
+02:05:19.679 --> 02:05:23.239
+fuzball proposal
+
+02:05:24.800 --> 02:05:30.760
+that's okay i think this is good okay
+mhm
+
+02:05:38.000 --> 02:05:44.040
+oh it copied everything no even that
+Germany
+
+02:05:45.440 --> 02:05:52.119
+so these homework exercises you do this
+AI homework
+
+02:05:59.000 --> 02:06:06.800
+Okay folder overview it gave an overview
+of the folder that that is fine okay and
+
+02:06:05.119 --> 02:06:12.480
+then we'll look at the answers should I
+give get the answers also
+
+02:06:10.159 --> 02:06:16.880
+yeah i think you can get it at the end
+and then you can tell me but are you
+
+02:06:14.400 --> 02:06:22.320
+going to look at the answers no before
+answering i'm not are you sure yes
+
+02:06:25.159 --> 02:06:33.199
+okay I'll put the answers in a separate
+document okay just don't look at that i
+
+02:06:30.639 --> 02:06:39.280
+think you can add a pin to that document
+look you can lock that document and then
+
+02:06:35.920 --> 02:06:45.199
+after I answer then you can unlock
+okay
+
+02:06:41.280 --> 02:06:48.679
+yeah you can keep some password 20 30 +
+20 okay
+
+02:06:49.119 --> 02:06:56.679
+give the
+answers to these questions
+
+02:06:58.239 --> 02:07:00.960
+only the
+
+02:07:17.239 --> 02:07:25.840
+answers okay so this is done right so
+you can just answer here itself in the
+
+02:07:22.639 --> 02:07:30.800
+document itself or will you create a
+copy and then answer
+
+02:07:28.320 --> 02:07:35.679
+um uh create a separate document similar
+to this document uh so we are going to
+
+02:07:33.760 --> 02:07:39.520
+create another document here right I'll
+just put the answers so like that you
+
+02:07:37.760 --> 02:07:44.520
+create a document and just have the
+answers there
+
+02:07:41.520 --> 02:07:44.520
+okay
+
+02:07:47.719 --> 02:07:59.800
+uh so this is the
+document okay now this we don't
+
+02:07:56.280 --> 02:08:04.719
+need now I'll copy
+this and so I'll change the
+
+02:08:05.400 --> 02:08:11.840
+name so these are answers right AI
+
+02:08:14.360 --> 02:08:21.679
+answers and in
+this I'll put just the
+
+02:08:24.840 --> 02:08:34.280
+answers give the answers to these
+questions from
+
+02:08:29.639 --> 02:08:38.760
+here these are matching short
+answers true false
+
+02:08:53.800 --> 02:09:04.800
+okay okay so these are the answers so
+I'll just change the
+
+02:09:00.199 --> 02:09:08.719
+permissions yeah i will keep Yeah
+permissions right
+
+02:09:06.639 --> 02:09:15.119
+i think you cannot even keep it to my
+mom why because I might look at my mom's
+
+02:09:12.159 --> 02:09:22.400
+laptop why oh you look at your mom's
+laptop no
+
+02:09:18.520 --> 02:09:27.880
+actually I'll just trust you to not look
+at the answers okay okay but uh let's
+
+02:09:26.639 --> 02:09:37.520
+just keep
+it where are the answers a answers right
+
+02:09:32.639 --> 02:09:45.000
+so let's change file information
+lock share no you don't need to do that
+
+02:09:41.520 --> 02:09:51.920
+no let's see so there was
+virus viewer commenter
+
+02:09:48.639 --> 02:09:59.920
+sir i think you can just lock the file
+how go there
+
+02:09:54.920 --> 02:10:04.480
+um go yeah below below file lock and
+what does it do this will prevent anyone
+
+02:10:02.000 --> 02:10:11.719
+from editing or commenting but you can
+still see edit can unlock the
+
+02:10:06.920 --> 02:10:18.400
+file okay mhm file
+information share
+
+02:10:15.400 --> 02:10:18.400
+organize
+
+02:10:18.520 --> 02:10:27.040
+share
+vata editor view remove access yes
+
+02:10:24.719 --> 02:10:31.599
+should I
+okay you
+
+02:10:28.040 --> 02:10:36.239
+can should I keep it there just don't
+look at it okay okay don't look at the
+
+02:10:33.920 --> 02:10:42.280
+answers we'll go over the answers
+afterwards
+
+02:10:37.920 --> 02:10:42.280
+okay uh-huh
+
+02:10:43.400 --> 02:10:52.840
+so that's all and then we created I'll
+update the
+
+02:10:48.360 --> 02:10:52.840
+nodes class nodes
+
+02:11:00.079 --> 02:11:06.440
+so
+homework
+
+02:11:04.040 --> 02:11:10.440
+AI
+exercises on
+
+02:11:11.960 --> 02:11:24.800
+siric I have got a good experience
+peer review
+
+02:11:20.520 --> 02:11:24.800
+etc 50 AI exercises
+
+02:11:25.960 --> 02:11:33.760
+Complete
+complete write answers in a separate
+
+02:11:30.880 --> 02:11:39.280
+file not as comments right
+right so you can create a document in
+
+02:11:36.079 --> 02:11:39.280
+your Google Drive write
+
+02:11:39.320 --> 02:11:47.840
+answers in a
+new
+
+02:11:44.920 --> 02:11:55.440
+Google doc
+sir huh i have a good experiment of of
+
+02:11:52.400 --> 02:12:01.199
+what why will this work why what will
+work why if we do like this sometimes
+
+02:11:58.960 --> 02:12:06.719
+why why do that you have to explain it
+to me why if you look then you can
+
+02:12:03.199 --> 02:12:14.880
+understand you're talking about what
+if we like shake our hands like this
+
+02:12:11.599 --> 02:12:22.239
+after some time why will water come out
+why water will come out um like likeid
+
+02:12:18.239 --> 02:12:30.280
+sweat yeah liquid or something why do we
+sweat okay we'll talk about it later
+
+02:12:24.880 --> 02:12:34.760
+okay so we are done we'll just raise our
+take
+
+02:12:32.119 --> 02:12:38.119
+happy
+mother
+
+02:12:36.360 --> 02:12:43.400
+happy
+mother one two
+
+02:12:41.560 --> 02:12:47.760
+happy
+mother one two
+
+02:12:49.400 --> 02:12:53.400
+three star
+
