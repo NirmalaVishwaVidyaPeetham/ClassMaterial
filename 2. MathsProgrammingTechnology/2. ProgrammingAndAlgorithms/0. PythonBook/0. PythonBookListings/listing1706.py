@@ -1,0 +1,11 @@
+try:
+    num = 3 / int( input( "Please enter a number: " ) ) 
+except ZeroDivisionError:
+    print( "Dividing by zero is not allowed" )
+except ValueError:
+    print( "You have not entered an integer" )
+except:
+    print( "Something unforeseen went wrong" )
+else:
+    print( num )
+print( "Goodbye" )
