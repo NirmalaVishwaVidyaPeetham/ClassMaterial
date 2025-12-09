@@ -1,0 +1,196 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage[a4paper, top=1.5cm, bottom=1.5cm, left=1.5cm, right=1.5cm]{geometry}
+
+% --- CORE ENGINE SETUP ---
+\usepackage{fontspec} 
+\usepackage{etoolbox} 
+\usepackage{xparse} 
+
+\usepackage[english, bidi=basic, provide=*]{babel} 
+\usepackage{xcolor} 
+\usepackage{tikz} 
+\usepackage{pgffor} 
+
+% --- FONT CONFIGURATION ---
+\babelprovide[import, onchar=ids fonts]{telugu}
+\babelprovide[import, onchar=ids fonts]{hindi}
+
+\babelfont{rm}{Noto Sans}
+\babelfont[telugu]{rm}{Noto Sans Telugu}
+\babelfont[hindi]{rm}{Noto Sans Devanagari}
+
+\pagestyle{empty} % Remove page numbers
+\parindent=0pt
+\parskip=0pt
+
+% --- DIMENSION AND COLOR SETUP (PREAMBLE ONLY) ---
+\makeatletter
+% Define global dimension registers
+\newdimen\PracticeTextWidth
+\newdimen\TotalRuleHeight
+
+% Define Gaps/Offsets as *constants* (pure numbers for calculation)
+\def\RuleGapA{10}      
+\def\RuleGapB{10}      
+\def\RuleGapC{10}      
+\def\RuleThickness{0.4} 
+
+% Define macro variables for offsets (number, not pt)
+\def\BaselineOffset{0} 
+
+% Define Rule Colors
+\definecolor{TopLineColor}{rgb}{0.7, 0.7, 0.7}    
+\definecolor{AscenderLineColor}{rgb}{0.8, 0.5, 0.2} 
+\definecolor{BaselineColor}{rgb}{0.0, 0.0, 0.6}    
+\definecolor{DescenderLineColor}{rgb}{0.6, 0.2, 0.2} 
+\definecolor{textblack}{rgb}{0, 0, 0}
+
+
+% --- LANGUAGE PARAMETER SETTER ---
+\newcommand{\SetLanguageParams}[1]{%
+    % The numerical offset for vertical alignment
+    \ifstrequal{#1}{english}{%
+        \def\BaselineOffset{15}%
+    }{\ifstrequal{#1}{hindi}{%
+        \def\BaselineOffset{18}%
+    }{\ifstrequal{#1}{telugu}{%
+        \def\BaselineOffset{20}%
+    }{}}}
+}
+
+
+% The command to draw the four rules
+\newcommand{\DrawFourRules}{%
+    % 1. Top Guide (Highest point)
+    \noindent{\color{TopLineColor}\rule{\PracticeTextWidth}{\dimexpr \RuleThickness pt}} 
+    \vspace*{-\dimexpr\RuleGapA pt} 
+    
+    % 2. Ascender Line
+    \noindent{\color{AscenderLineColor}\rule{\PracticeTextWidth}{\dimexpr \RuleThickness pt}} 
+    \vspace*{-\dimexpr\RuleGapB pt} 
+    
+    % 3. Baseline
+    \noindent{\color{BaselineColor}\rule{\PracticeTextWidth}{\dimexpr \RuleThickness pt}} 
+    \vspace*{-\dimexpr\RuleGapC pt}
+    
+    % 4. Descender Line
+    \noindent{\color{DescenderLineColor}\rule{\PracticeTextWidth}{\dimexpr \RuleThickness pt}} 
+}
+
+% Macro to switch language and print text 
+\newbox{\MyPrintBox} 
+\newcommand{\PrintText}[3]{% #1=language code, #2=text content, #3=opacity
+    % Align the text vertically so its baseline aligns with the blue line (BaselineColor).
+    \raisebox{-\BaselineOffset pt}{%
+        \fontsize{16pt}{20pt}\selectfont
+        \selectlanguage{#1}
+        
+        \pgfsetfillopacity{#3} 
+        \pgfsetstrokeopacity{#3}
+        
+        \begin{lrbox}{\MyPrintBox}%
+            \begin{minipage}{\PracticeTextWidth}
+                \color{textblack} #2%
+            \end{minipage}%
+        \end{lrbox}\usebox{\MyPrintBox}%
+        
+        \pgfsetfillopacity{1.0} 
+        \pgfsetstrokeopacity{1.0}
+    }%
+}
+
+
+% Macro to print one complete set (rules + text/phantom)
+\newcommand{\DrawSinglePracticeSet}[3]{% #1=language, #2=text, #3=opacity
+    \SetLanguageParams{#1}
+    
+    % Group 1: Rules (Drawn first)
+    \DrawFourRules 
+    
+    % Group 2: Text (Placed over rules)
+    % Move cursor UP by the total height of the rules 
+    \vspace*{-\TotalRuleHeight}
+    \noindent\PrintText{#1}{#2}{#3} 
+    
+    % Group 3: Spacing (Push down past the rules)
+    \vspace*{\dimexpr\TotalRuleHeight + 10pt}
+}
+
+% --- Setup Command (Sets fixed width and height) ---
+\newcommand{\SetupDimensions}{%
+    % 1. Calculate the text width based on geometry minus margins.
+    \PracticeTextWidth=\dimexpr\paperwidth-3cm\relax
+    
+    % 2. Calculate the fixed total vertical space taken up by the rules and gaps.
+    \pgfmathsetmacro{\CalculatedTotalHeight}{\RuleGapA + \RuleGapB + \RuleGapC + 4 * \RuleThickness}
+    \global\TotalRuleHeight=\CalculatedTotalHeight pt
+}
+\makeatother
+% --- End MACRO DECLARATIONS ---
+
+
+\begin{document}
+% --- EXECUTE SETUP COMMANDS (Must be inside \begin{document}) ---
+\SetupDimensions
+
+\vspace*{0.5cm}
+
+% =========================================================================
+% --- PAGE 1: TELUGU (1 Original + 3 Trace + 4 Empty) ---
+% =========================================================================
+\SetLanguageParams{telugu}
+
+% 1x Original Text (Opaque)
+\DrawSinglePracticeSet{telugu}{ఇది తెలుగు అక్షరరూపం పరీక్ష. త్వరగా, క్రమం సరిగ్గా కనబడుతున్నాయి.}{1.0}
+
+% 3x Tracing Text (Transparent)
+\foreach \i in {1,...,3} {
+    \DrawSinglePracticeSet{telugu}{ఇది తెలుగు అక్షరరూపం పరీక్ష. త్వరగా, క్రమం సరిగ్గా కనబడుతున్నాయి.}{0.3}
+}
+
+% 4x Empty Practice Lines
+\foreach \i in {1,...,4} {
+    \DrawSinglePracticeSet{telugu}{\phantom{ఇది తెలుగు అక్షరరూపం పరీక్ష. త్వరగా, క్రమం సరిగ్గా కనబడుతున్నాయి.}}{1.0}
+}
+
+\newpage
+
+% =========================================================================
+% --- PAGE 2: HINDI (1 Original + 3 Trace + 4 Empty) ---
+% =========================================================================
+\SetLanguageParams{hindi}
+
+% 1x Original Text (Opaque)
+\DrawSinglePracticeSet{hindi}{नमस्ते, जटिल हिंदी लिपि का सही प्रदर्शन हो रहा है। अक्षर और मात्राएं सीखें।}{1.0}
+
+% 3x Tracing Text (Transparent)
+\foreach \i in {1,...,3} {
+    \DrawSinglePracticeSet{hindi}{नमस्ते, जटिल हिंदी लिपि का सही प्रदर्शन हो रहा है। अक्षर और मात्राएं सीखें।}{0.3}
+}
+
+% 4x Empty Practice Lines
+\foreach \i in {1,...,4} {
+    \DrawSinglePracticeSet{hindi}{\phantom{नमस्ते, जटिल हिंदी लिपि का सही प्रदर्शन हो रहा है। अक्षर और मात्राएं सीखें।}}{1.0}
+}
+
+\newpage
+
+% =========================================================================
+% --- PAGE 3: ENGLISH (1 Original + 3 Trace + 4 Empty) ---
+% =========================================================================
+\SetLanguageParams{english}
+
+% 1x Original Text (Opaque)
+\DrawSinglePracticeSet{english}{The quick brown fox jumps over the lazy dog. Writing practice is fun.}{1.0}
+
+% 3x Tracing Text (Transparent)
+\foreach \i in {1,...,3} {
+    \DrawSinglePracticeSet{english}{The quick brown fox jumps over the lazy dog. Writing practice is fun.}{0.3}
+}
+
+% 4x Empty Practice Lines
+\foreach \i in {1,...,4} {
+    \DrawSinglePracticeSet{english}{\phantom{The quick brown fox jumps over the lazy dog. Writing practice is fun.}}{1.0}
+}
+
+\end{document}

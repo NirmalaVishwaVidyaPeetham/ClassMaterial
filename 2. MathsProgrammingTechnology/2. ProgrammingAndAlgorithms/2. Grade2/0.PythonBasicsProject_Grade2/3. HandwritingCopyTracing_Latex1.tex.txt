@@ -1,0 +1,249 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage[a4paper, top=1.5cm, bottom=1.5cm, left=1.5cm, right=1.5cm]{geometry}
+
+% --- CORE ENGINE SETUP ---
+\usepackage{fontspec} 
+\usepackage{etoolbox} 
+\usepackage{xparse} 
+
+\usepackage[english, bidi=basic, provide=*]{babel} 
+\usepackage{xcolor} 
+\usepackage{tikz} 
+\usepackage{pgffor} 
+
+% --- FONT CONFIGURATION ---
+\babelprovide[import, onchar=ids fonts]{telugu}
+\babelprovide[import, onchar=ids fonts]{hindi}
+
+\babelfont{rm}{Noto Sans}
+\babelfont[telugu]{rm}{Noto Sans Telugu}
+\babelfont[hindi]{rm}{Noto Sans Devanagari}
+
+\pagestyle{empty} 
+\parindent=0pt
+\parskip=0pt
+
+% --- DIMENSION AND COLOR SETUP (PREAMBLE ONLY) ---
+\makeatletter
+% Define global dimension registers
+\newdimen\PracticeTextWidth
+\newdimen\CalculatedSetHeight
+\newdimen\dim@CurrentRedLineGap
+\newdimen\dim@CurrentGreenLineGap
+\newdimen\dim@CurrentBlackLineGap
+\newdimen\dim@CurrentBlueShift
+\newdimen\dim@CurrentTextShift
+
+% --- LANGUAGE-SPECIFIC OFFSETS (All values are RELATIVE to the TEXT BASELINE (0)) ---
+\def\EnglishRedLineGap{-3}      
+\def\EnglishGreenLineGap{-9}    
+\def\EnglishBlueShift{-26}        % Adjustable Blue Line position (Relative to Y=0)
+\def\EnglishBlackLineGap{-33}   
+\def\EnglishTextShift{4.5}      % Text correction to align its natural baseline with 0
+
+\def\HindiRedLineGap{-2}        
+\def\HindiGreenLineGap{-12}       
+\def\HindiBlueShift{-29}          % ADJUSTABLE: Shift Blue Line UP by 5pt
+\def\HindiBlackLineGap{-34}     
+\def\HindiTextShift{4.5}        
+
+\def\TeluguRedLineGap{-6}      
+\def\TeluguGreenLineGap{-12}    
+\def\TeluguBlueShift{-29}
+\def\TeluguBlackLineGap{-34}         
+\def\TeluguTextShift{4.5}       
+
+% Constant definitions
+\def\RuleThickness{0.4} 
+
+% Define Rule Colors
+\definecolor{WhiteColor}{rgb}{1, 1, 1}             % Reference Line (Invisible)
+\definecolor{RedLineColor}{rgb}{0.6, 0., 0.}       % Red (Top Guide)
+\definecolor{GreenLineColor}{rgb}{0, 0.6, 0.}      % Green (Ascender Line)
+\definecolor{BlueLineColor}{rgb}{0.0, 0.0, 0.6}    % BLUE LINE (Instructional Baseline)
+\definecolor{BlackLineColor}{rgb}{0, 0, 0}         % Black (Descender Line)
+\definecolor{textblack}{rgb}{0, 0, 0}
+
+
+% --- LANGUAGE PARAMETER SETTER ---
+\newcommand{\SetLanguageParams}[1]{%
+    \ifstrequal{#1}{english}{%
+        \dim@CurrentRedLineGap=\EnglishRedLineGap pt\relax
+        \dim@CurrentGreenLineGap=\EnglishGreenLineGap pt\relax
+        \dim@CurrentBlackLineGap=\EnglishBlackLineGap pt\relax
+        \dim@CurrentBlueShift=\EnglishBlueShift pt\relax
+        \dim@CurrentTextShift=\EnglishTextShift pt\relax
+    }{\ifstrequal{#1}{hindi}{%
+        \dim@CurrentRedLineGap=\HindiRedLineGap pt\relax
+        \dim@CurrentGreenLineGap=\HindiGreenLineGap pt\relax
+        \dim@CurrentBlackLineGap=\HindiBlackLineGap pt\relax
+        \dim@CurrentBlueShift=\HindiBlueShift pt\relax
+        \dim@CurrentTextShift=\HindiTextShift pt\relax
+    }{\ifstrequal{#1}{telugu}{%
+        \dim@CurrentRedLineGap=\TeluguRedLineGap pt\relax
+        \dim@CurrentGreenLineGap=\TeluguGreenLineGap pt\relax
+        \dim@CurrentBlackLineGap=\TeluguBlackLineGap pt\relax
+        \dim@CurrentBlueShift=\TeluguBlueShift pt\relax
+        \dim@CurrentTextShift=\TeluguTextShift pt\relax
+    }{}}}
+
+    % Calculate Total Drawing Height: Distance from highest line to lowest line, plus thickness.
+    % Use \the\dimen to safely use the stored dimension registers in PGF math.
+    \pgfmathsetmacro{\CalculatedTotalHeight}{%
+        \the\dim@CurrentRedLineGap - \the\dim@CurrentBlackLineGap + 5 * \RuleThickness pt
+    }
+    \global\CalculatedSetHeight=\CalculatedTotalHeight pt\relax
+}
+
+
+% The command to draw the five rules anchored at the Reference White Baseline (0,0)
+\newcommand{\DrawFiveRules}{%
+    % Draw rules using numerical expressions for coordinates
+    \noindent\begin{tikzpicture}[overlay, remember picture]
+        
+        % 1. Reference White Baseline (Drawn at Y=0)
+        \draw[line width=\RuleThickness pt, color=WhiteColor] 
+            (0, 0pt) -- (\PracticeTextWidth, 0pt);
+
+        % 2. Adjustable Blue Line (Instructional Baseline)
+        \draw[line width=\RuleThickness pt, color=BlueLineColor] 
+            (0, \dim@CurrentBlueShift) -- (\PracticeTextWidth, \dim@CurrentBlueShift);
+
+        % 3. Black Descender Line (Relative to 0pt)
+        \draw[line width=\RuleThickness pt, color=BlackLineColor] 
+            (0, \dim@CurrentBlackLineGap) -- (\PracticeTextWidth, \dim@CurrentBlackLineGap);
+            
+        % 4. Green Ascender Line (Relative to 0pt)
+        \draw[line width=\RuleThickness pt, color=GreenLineColor] 
+            (0, \dim@CurrentGreenLineGap) -- (\PracticeTextWidth, \dim@CurrentGreenLineGap);
+            
+        % 5. Red Top Guide (Relative to 0pt)
+        \draw[line width=\RuleThickness pt, color=RedLineColor] 
+            (0, \dim@CurrentRedLineGap) -- (\PracticeTextWidth, \dim@CurrentRedLineGap);
+
+    \end{tikzpicture}\par 
+    % Advance cursor down by the required height for the next operation.
+    \vspace*{\CalculatedSetHeight}
+}
+
+
+% Macro to draw the text, relying on minipage for line breaks
+\newbox{\MyPrintBox} 
+\newcommand{\PrintText}[3]{% #1=language code, #2=text content, #3=opacity
+    % Text Alignment: Shift the text block DOWN by the amount needed to align its natural 
+    % baseline (0pt anchor line).
+    \raisebox{-\dim@CurrentTextShift}{% 
+        \fontsize{32pt}{40pt}\selectfont 
+        \selectlanguage{#1}
+        
+        \pgfsetfillopacity{#3} 
+        \pgfsetstrokeopacity{#3}
+        
+        \begin{lrbox}{\MyPrintBox}%
+            \begin{minipage}{\PracticeTextWidth}
+                \color{textblack} #2%
+            \end{minipage}%
+        \end{lrbox}\usebox{\MyPrintBox}%
+        
+        \pgfsetfillopacity{1.0} 
+        \pgfsetstrokeopacity{1.0}
+    }%
+}
+
+
+% Macro to print one complete set (rules + text/phantom)
+\newcommand{\DrawSinglePracticeSet}[3]{% #1=language, #2=text, #3=opacity
+    \SetLanguageParams{#1} % Sets dimension variables
+
+    % 1. Move cursor UP by the distance from the top rule (Red Line) to the current cursor position.
+    % This establishes the top of the drawing area.
+    \vspace*{-\dim@CurrentRedLineGap}
+    
+    % 2. Draw all five rules (anchored at 0pt, where the text baseline is designed to align)
+    \DrawFiveRules 
+    
+    % 3. Move cursor back UP by the total drawing height (CalculatedSetHeight)
+    \vspace*{-\CalculatedSetHeight}
+    
+    % 4. Print text ON TOP of the drawn rules
+    \noindent\rlap{\PrintText{#1}{#2}{#3}} 
+    
+    % 5. Add vertical space below the set
+    \vspace*{50pt} 
+}
+
+
+% --- Setup Command (Sets fixed width) ---
+\newcommand{\SetupDimensions}{%
+    \PracticeTextWidth=\dimexpr\paperwidth-3cm\relax
+    \SetLanguageParams{english} 
+}
+\makeatother
+% --- End MACRO DECLARATIONS ---
+
+
+\begin{document}
+% --- EXECUTE SETUP COMMANDS (Must be inside \begin{document}) ---
+\SetupDimensions
+
+\vspace*{0.5cm} % Start just below the top margin
+
+% =========================================================================
+% --- PAGE 1: TELUGU (1 Original + 3 Trace + 4 Empty) ---
+% =========================================================================
+\SetLanguageParams{telugu} 
+
+% 1x Original Text (Opaque) - Text is colored black, overlapping the rules
+\DrawSinglePracticeSet{telugu}{ఇది తెలుగు అక్షరరూపం పరీక్ష.}{1.0}
+
+% 3x Tracing Text (Transparent)
+\foreach \i in {1,...,3} {
+    \DrawSinglePracticeSet{telugu}{ఇది తెలుగు అక్షరరూపం పరీక్ష.}{0.3}
+}
+
+% 4x Empty Practice Lines
+\foreach \i in {1,...,4} {
+    \DrawSinglePracticeSet{telugu}{\phantom{ఇది తెలుగు అక్షరరూపం పరీక్ష.}}{1.0}
+}
+
+\newpage
+
+% =========================================================================
+% --- PAGE 2: HINDI (1 Original + 3 Trace + 4 Empty) ---
+% =========================================================================
+\SetLanguageParams{hindi}
+
+% 1x Original Text (Opaque)
+\DrawSinglePracticeSet{hindi}{नमस्ते, जटिल हिंदी लिपि प्रदर्शन अक्षर।}{1.0}
+
+% 3x Tracing Text (Transparent)
+\foreach \i in {1,...,3} {
+    \DrawSinglePracticeSet{hindi}{नमस्ते, जटिल हिंदी लिपि प्रदर्शन अक्षर।}{0.3}
+}
+
+% 4x Empty Practice Lines
+\foreach \i in {1,...,4} {
+    \DrawSinglePracticeSet{hindi}{\phantom{नमस्ते, जटिल हिंदी लिपि प्रदर्शन अक्षर।}}{1.0}
+}
+
+\newpage
+
+% =========================================================================
+% --- PAGE 3: ENGLISH (1 Original + 3 Trace + 4 Empty) ---
+% =========================================================================
+\SetLanguageParams{english}
+
+% 1x Original Text (Opaque)
+\DrawSinglePracticeSet{english}{The quick brown dog jumps.}{1.0}
+
+% 3x Tracing Text (Transparent)
+\foreach \i in {1,...,3} {
+    \DrawSinglePracticeSet{english}{The quick brown dog jumps.}{0.3}
+}
+
+% 4x Empty Practice Lines
+\foreach \i in {1,...,4} {
+    \DrawSinglePracticeSet{english}{\phantom{The quick brown dog jumps.}}{1.0}
+}
+
+\end{document}
