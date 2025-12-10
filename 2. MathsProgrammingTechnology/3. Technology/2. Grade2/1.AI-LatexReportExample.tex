@@ -1,0 +1,68 @@
+% --- LaTeX is used for professional, highly structured documents. ---
+% The document class defines the fundamental layout (e.g., article, report, book).
+\documentclass[11pt, a4paper]{article}
+
+% --- UNIVERSAL PREAMBLE BLOCK ---
+% Set geometry for clean margins
+\usepackage[a4paper, top=2.5cm, bottom=2.5cm, left=2cm, right=2cm]{geometry}
+\usepackage{fontspec}
+
+% Set up language support
+\usepackage[english, bidi=basic, provide=*]{babel}
+
+\babelprovide[import, onchar=ids fonts]{english}
+
+% Set default/Latin font to Sans Serif (clean and modern)
+\babelfont{rm}{Noto Sans}
+
+% Required packages for math and tables
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{hyperref} % Must be the last package loaded
+
+% Define document information
+\title{Introduction to Document Typesetting}
+\author{A Digital Learner}
+\date{\today}
+% ---------------------------------
+
+\begin{document}
+
+% The \maketitle command generates the title block
+\maketitle
+
+\begin{abstract}
+This brief document serves as a minimal example of a LaTeX file. It demonstrates basic structural elements, including sections, simple text formatting, and a mathematical equation, which is where LaTeX truly excels.
+\end{abstract}
+
+\section{Document Structure}
+LaTeX automatically manages all numbering for sections, subsections, and figures. This makes maintaining a consistent and clean table of contents very easy for long reports.
+
+\subsection{Formatting Basics}
+To emphasize text, we use commands like \textbf{bold text} and \textit{italic text}. Notice the control over the paragraph layout and spacing.
+
+\section{Mathematics Example}
+Complex formulas are easily rendered with professional quality. The equation below is an example of an integral.
+$$
+\int_{0}^{\pi} \sin(x) \, dx = [-\cos(x)]_{0}^{\pi} = 1 - (-1) = 2
+$$
+This level of precision is why LaTeX is the standard for scientific papers.
+
+\section{Data Presentation}
+For data, we use the \texttt{tabular} environment, often enhanced by the \texttt{booktabs} package for cleaner lines.
+
+\begin{table}[htbp]
+    \centering
+    \caption{Simple Data Table}
+    \label{tab:data}
+    \begin{tabular}{lcc}
+        \toprule
+        Category & Value 1 & Value 2 \\
+        \midrule
+        A & 10 & 25 \\
+        B & 15 & 30 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
+
+\end{document}
