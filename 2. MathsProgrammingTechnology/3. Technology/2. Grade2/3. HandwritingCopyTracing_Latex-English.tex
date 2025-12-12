@@ -1,0 +1,319 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage[a4paper, top=1.5cm, bottom=1.5cm, left=1.5cm, right=1.5cm]{geometry}
+
+% --- CORE ENGINE SETUP ---
+\usepackage{fontspec} 
+\usepackage{etoolbox} 
+\usepackage{xparse} 
+
+\usepackage[english, bidi=basic, provide=*]{babel} 
+\usepackage{xcolor} 
+\usepackage{tikz} 
+\usepackage{pgffor} 
+
+% --- FONT CONFIGURATION ---
+\babelprovide[import, onchar=ids fonts]{telugu}
+\babelprovide[import, onchar=ids fonts]{hindi}
+
+\babelfont{rm}{Noto Sans}
+%\babelfont{rm}{Playpen_Sans}
+\babelfont[telugu]{rm}{Noto Sans Telugu}
+\babelfont[hindi]{rm}{Noto Sans Devanagari}
+
+\pagestyle{empty} 
+\parindent=0pt
+\parskip=0pt
+
+% --- DIMENSION AND COLOR SETUP (PREAMBLE ONLY) ---
+\makeatletter
+% Define global dimension registers
+\newdimen\PracticeTextWidth
+\newdimen\CalculatedSetHeight
+\newdimen\dim@CurrentRedLineGap
+\newdimen\dim@CurrentGreenLineGap
+\newdimen\dim@CurrentBlackLineGap
+\newdimen\dimen@CurrentBlueShift % Keeping original typo for consistency
+\newdimen\dim@CurrentTextShift
+\newdimen\dim@RuleOffset % Global dimension register for the optional offset
+
+% --- LANGUAGE-SPECIFIC OFFSETS (All values are RELATIVE to the TEXT BASELINE (0)) ---
+\def\EnglishRedLineGap{-3}      
+\def\EnglishGreenLineGap{-9}    
+\def\EnglishBlueShift{-26}        % Adjustable Blue Line position (Relative to Y=0)
+\def\EnglishBlackLineGap{-33}   
+\def\EnglishTextShift{4.5}      % Text correction to align its natural baseline with 0
+
+\def\HindiRedLineGap{-2}        
+\def\HindiGreenLineGap{-12}       
+\def\HindiBlueShift{-29}          % ADJUSTABLE: Shift Blue Line UP by 5pt
+\def\HindiBlackLineGap{-34}     
+\def\HindiTextShift{4.5}        
+
+\def\TeluguRedLineGap{-6}      
+\def\TeluguGreenLineGap{-12}    
+\def\TeluguBlueShift{-29}
+\def\TeluguBlackLineGap{-34}         
+\def\TeluguTextShift{4.5}       
+
+% Constant definitions
+\def\RuleThickness{0.4} 
+
+% Define Rule Colors
+\definecolor{WhiteColor}{rgb}{1, 1, 1}             % Reference Line (Invisible)
+\definecolor{RedLineColor}{rgb}{0.6, 0., 0.}       % Red (Top Guide)
+\definecolor{GreenLineColor}{rgb}{0, 0.6, 0.}      % Green (Ascender Line)
+\definecolor{BlueLineColor}{rgb}{0.0, 0.0, 0.6}    % BLUE LINE (Instructional Baseline)
+\definecolor{BlackLineColor}{rgb}{0, 0, 0}         % Black (Descender Line)
+\definecolor{textblack}{rgb}{0, 0, 0}
+
+
+% --- LANGUAGE PARAMETER SETTER ---
+\newcommand{\SetLanguageParams}[1]{%
+	% 1. Set base parameters
+	\ifstrequal{#1}{english}{%
+		\dim@CurrentRedLineGap=\EnglishRedLineGap pt\relax
+		\dim@CurrentGreenLineGap=\EnglishGreenLineGap pt\relax
+		\dim@CurrentBlackLineGap=\EnglishBlackLineGap pt\relax
+		\dimen@CurrentBlueShift=\EnglishBlueShift pt\relax
+		\dim@CurrentTextShift=\EnglishTextShift pt\relax
+	}{\ifstrequal{#1}{hindi}{%
+			\dim@CurrentRedLineGap=\HindiRedLineGap pt\relax
+			\dim@CurrentGreenLineGap=\HindiGreenLineGap pt\relax
+			\dim@CurrentBlackLineGap=\HindiBlackLineGap pt\relax
+			\dimen@CurrentBlueShift=\HindiBlueShift pt\relax
+			\dim@CurrentTextShift=\HindiTextShift pt\relax
+		}{\ifstrequal{#1}{telugu}{%
+				\dim@CurrentRedLineGap=\TeluguRedLineGap pt\relax
+				\dim@CurrentGreenLineGap=\TeluguGreenLineGap pt\relax
+				\dim@CurrentBlackLineGap=\TeluguBlackLineGap pt\relax
+				\dimen@CurrentBlueShift=\TeluguBlueShift pt\relax
+				\dim@CurrentTextShift=\TeluguTextShift pt\relax
+			}{}}}
+	
+	% 2. Apply the fixed offset (Only to the rule positions, not to text alignment)
+	\dim@CurrentRedLineGap=\dimexpr\dim@CurrentRedLineGap + \dim@RuleOffset \relax
+	\dim@CurrentGreenLineGap=\dimexpr\dim@CurrentGreenLineGap + \dim@RuleOffset \relax
+	\dim@CurrentBlackLineGap=\dimexpr\dim@CurrentBlackLineGap + \dim@RuleOffset \relax
+	\dimen@CurrentBlueShift=\dimexpr\dimen@CurrentBlueShift + \dim@RuleOffset \relax
+	
+	% 3. Calculate Total Drawing Height based on shifted positions for accurate spacing
+	\pgfmathsetmacro{\CalculatedTotalHeight}{%
+		\the\dim@CurrentRedLineGap - \the\dim@CurrentBlackLineGap + 5 * \RuleThickness pt
+	}
+	\global\CalculatedSetHeight=\CalculatedTotalHeight pt\relax
+}
+
+
+% The command to draw the five rules anchored at the Reference White Baseline (0,0)
+\newcommand{\DrawFiveRules}{%
+	% Draw rules using numerical expressions for coordinates
+	\noindent\begin{tikzpicture}[overlay, remember picture]
+		
+		% 1. Reference White Baseline (Drawn at Y=0)
+		\draw[line width=\RuleThickness pt, color=WhiteColor] 
+		(0, 0pt) -- (\PracticeTextWidth, 0pt);
+		
+		% 2. Adjustable Blue Line (Instructional Baseline)
+		\draw[line width=\RuleThickness pt, color=BlueLineColor] 
+		(0, \dimen@CurrentBlueShift) -- (\PracticeTextWidth, \dimen@CurrentBlueShift);
+		
+		% 3. Black Descender Line (Relative to 0pt)
+		\draw[line width=\RuleThickness pt, color=BlackLineColor] 
+		(0, \dim@CurrentBlackLineGap) -- (\PracticeTextWidth, \dim@CurrentBlackLineGap);
+		
+		% 4. Green Ascender Line (Relative to 0pt)
+		\draw[line width=\RuleThickness pt, color=GreenLineColor] 
+		(0, \dim@CurrentGreenLineGap) -- (\PracticeTextWidth, \dim@CurrentGreenLineGap);
+		
+		% 5. Red Top Guide (Relative to 0pt)
+		\draw[line width=\RuleThickness pt, color=RedLineColor] 
+		(0, \dim@CurrentRedLineGap) -- (\PracticeTextWidth, \dim@CurrentRedLineGap);
+		
+	\end{tikzpicture}%\par 
+	% Advance cursor down by the required height for the next operation.
+	\vspace*{\CalculatedSetHeight}
+}
+
+
+% Macro to draw the text, relying on minipage for line breaks
+\newbox{\MyPrintBox} 
+\newcommand{\PrintText}[3]{% #1=language code, #2=text content, #3=opacity
+	% Text Alignment: Shift the text block DOWN by the amount needed to align its natural 
+	% baseline (0pt anchor line).
+	\raisebox{-\dim@CurrentTextShift}{% 
+		\fontsize{32pt}{40pt}\selectfont 
+		\selectlanguage{#1}
+		
+		\pgfsetfillopacity{#3} 
+		\pgfsetstrokeopacity{#3}
+		
+		\begin{lrbox}{\MyPrintBox}%
+			\begin{minipage}{\PracticeTextWidth}
+				\color{textblack} #2%
+			\end{minipage}%
+		\end{lrbox}\usebox{\MyPrintBox}%
+		
+		\pgfsetfillopacity{1.0} 
+		\pgfsetstrokeopacity{1.0}
+	}%
+}
+
+
+% Macro to print one complete set (rules + text/phantom)
+\newcommand{\DrawSinglePracticeSet}[3]{% #1=language, #2=text, #3=opacity
+	% NOTE: \SetLanguageParams is called inside the master function now, 
+	% so we ensure the current rule definitions include the offset.
+	
+	% 1. Move cursor UP by the distance from the top rule (Red Line) to the current cursor position.
+	% This establishes the top of the drawing area.
+	\vspace*{-\dim@CurrentRedLineGap}
+	
+	% 2. Draw all five rules (anchored at 0pt, where the text baseline is designed to align)
+	\DrawFiveRules 
+	
+	% 3. Move cursor back UP by the total drawing height (CalculatedSetHeight)
+	\vspace*{-\CalculatedSetHeight}
+	
+	% 4. Print text ON TOP of the drawn rules
+	\noindent\rlap{\PrintText{#1}{#2}{#3}} 
+	
+	% 5. Add vertical space below the set
+	\vspace*{20pt} 
+}
+
+% --- NEW MASTER PAGE FUNCTION (Single macro replacing all PageXContent) ---
+% \GeneratePracticePage[<offset_in_points>]{<text_to_print>}{<is_new_block>}
+% <text_to_print>: The content of the line.
+% <is_new_block>: 1 if this line defines a new \myalphabets content (i.e., not the story lines).
+\NewDocumentCommand{\GeneratePracticePage}{
+	O{0pt}  % #1: Optional vertical offset (default 0pt)
+	m       % #2: The content macro (or text string)
+	m       % #3: The language code (e.g., english)
+}{
+	\newpage
+	% 1. Set the temporary rule offset for this page
+	\dim@RuleOffset=#1\relax
+	
+	% 2. Set language params (which applies the offset to the dimension registers)
+	\SetLanguageParams{#3} 
+	
+	% 3. Define the content macro for this page. 
+	% This re-defines \myalphabets, mimicking the behavior of the original code
+	\def\currentPageText{#2}
+	
+	% 4. Print the sets (1x opaque, 6x trace, 6x phantom)
+	\DrawSinglePracticeSet{#3}{\currentPageText}{1.0}
+	
+	\foreach \i in {1,...,6} {
+		\DrawSinglePracticeSet{#3}{\currentPageText}{0.3}
+	}
+	
+	\foreach \i in {1,...,6} {
+		\DrawSinglePracticeSet{#3}{\phantom{\currentPageText}}{1.0}
+	}
+	
+	% 5. Clear the offset after page generation
+	\dim@RuleOffset=0pt\relax
+	
+	% For cases where \myalphabets was redefined in the page content, we re-declare 
+	% it here using the page's original text content.
+	\def\myalphabets{#2}
+}
+
+
+% --- Setup Command (Sets fixed width) ---
+\newcommand{\SetupDimensions}{%
+	\PracticeTextWidth=\dimexpr\paperwidth-3cm\relax
+	\SetLanguageParams{english} 
+}
+\makeatother
+% --- End MACRO DECLARATIONS ---
+
+
+\begin{document}
+	
+	
+	% --- EXECUTE SETUP COMMANDS (Must be inside \begin{document}) ---
+		\SetupDimensions
+		
+		% =========================================================================
+		% --- PAGES GENERATED USING THE NEW FUNCTION ---
+		% =========================================================================
+		
+		% --- Example of adjusting Page 3 if drift occurs ---
+		% \GeneratePracticePage[3pt]{Nn \quad Oo \quad Pp \quad Qq \quad Rr \quad Ss}{english}
+		
+		% Page 1 (Original Page 3 Content)
+		\GeneratePracticePage{Aa \quad Bb \quad    Cc \quad    Dd \quad    Ee\quad Ff}{english}
+		
+		% Page 2 (Original Page 4 Content)
+		\GeneratePracticePage{Gg \quad Hh \quad    Ii \quad  Jj \quad Kk \quad Ll \quad Mm}{english}
+		
+		% Page 3 (Original Page 5 Content)
+		% Note: The original used \newcommand{\myalphabets}{...}, which is illegal on subsequent calls. 
+		% This simple macro replaces the need for \myalphabets command handling entirely.
+		\GeneratePracticePage[2pt]{Nn \quad Oo \quad Pp \quad Qq \quad Rr \quad Ss}{english}
+		
+		% Page 4 (Original Page 6 Content)
+		\GeneratePracticePage[2pt]{Tt \quad Uu \quad Vv \quad Ww \quad Xx \quad Yy}{english}
+		
+		% Page 5 (Original Page 7 Content)
+		\GeneratePracticePage[3pt]{Zz \quad Zz \quad Zz \quad Zz \quad Zz \quad Zz \quad Zz}{english}
+		
+		% Page 6 (Original Page 8 Content)
+		\GeneratePracticePage[3pt]{0\quad1\quad2\quad3\quad4\quad5\quad6\quad7\quad8\quad9}{english}
+		
+		
+		% Story -- Scientific viewpoint by Shri Mataji (5 year old summary):
+		% Page 7 (Original Story Page 1)
+		\GeneratePracticePage{Imagine you have a special}{english}
+		
+		% Page 8 (Original Story Page 2)
+		\GeneratePracticePage{power sleeping inside you, like a}{english}
+		
+		% Page 9 (Original Story Page 3)
+		\GeneratePracticePage{tiny dragon. Sahaja Yoga is a}{english}
+		
+		% Page 10 (Original Story Page 4)
+		\GeneratePracticePage{way to wake up that power}{english}
+		
+		% Page 11 (Original Story Page 5)
+		\GeneratePracticePage{gently and safely. When the}{english}
+		
+		% Page 12 (Original Story Page 6)
+		\GeneratePracticePage{power wakes up, it makes you}{english}
+		
+		% Page 13 (Original Story Page 7)
+		\GeneratePracticePage{feel good, happy, and}{english}
+		
+		% Page 14 (Original Story Page 8)
+		\GeneratePracticePage{peaceful. It's like magic, but}{english}
+		
+		% Page 15 (Original Story Page 9)
+		\GeneratePracticePage{it's real! This power can even}{english}
+		
+		% Page 16 (Original Story Page 10)
+		\GeneratePracticePage{help you if you're feeling sick}{english}
+		
+		% Page 17 (Original Story Page 11)
+		\GeneratePracticePage{or sad. It's like a superhero}{english}
+		
+		% Page 18 (Original Story Page 12)
+		\GeneratePracticePage{inside you! Sahaja Yoga is}{english}
+		
+		% Page 19 (Original Story Page 13)
+		\GeneratePracticePage{easy and anyone can do it.}{english}
+		
+		% Page 20 (Original Story Page 14)
+		\GeneratePracticePage{You don't need to be special}{english}
+		
+		% Page 21 (Original Story Page 15)
+		\GeneratePracticePage{or know a lot of things. Just try}{english}
+		
+		% Page 22 (Original Story Page 16)
+		\GeneratePracticePage{it and see how amazing it feels!}{english}
+		
+		
+		\SetLanguageParams{english}
+		
+	\end{document}
