@@ -2,11 +2,11 @@
 **Grade \- 2**  
 **\------------------------------------------**
 
-**From 21st August \- 21st September**
+**<u>From 21st August \- 21st September</u>**
 
 1. Student worked on scientific papers with parents.
 
-**22092025 Monday** (First week of Grade 2 \- Grade 1 review)
+**<u>22092025 Monday</u>** (First week of Grade 2 \- Grade 1 review)
 
 1. Overview:   
    1. Checked  AI grading criteria for Grade 1 (To be continued)  
@@ -19,22 +19,32 @@
 **077102025 Tuesday**
 
 1. Telugu:   
+   
    1. Checked last HWs from Grade 1;   
+      
       1. HW: FIx last HW on Tenali Ramakrishna chapter summaries \- manual copy; Ask your parents to verify.   
+   
    2. Checked student grading of AI grading of student responses to AI quiz  
+   
    3. HW: Create a table of contents for everything we learnt in Grade 1 \- Telugu, like in a textbook. Ask your parents to verify.   
+      
       1. Example \- Maths   
+         
          1. Ap text book (Numbers, additions, multiplications etc.)  
+            
             1. Class 1  
             2. Class 2  
             3. Class 3  
+         
          2. Money, Measurements, Time   
+            
             1. Class 4  
             2. Class 5  
+         
          3. Properties of numbers (Closure, associative etc.)  
+            
             1. Class 6
-
-				(And so on)
+                (And so on)
 
 **08102025, 09102025 Wednesday/Thursday**
 
@@ -96,7 +106,6 @@ Worked on revision. The student and teacher were sick for a few days. Diwali hol
    1. Checked previous HWs  
    2. Checked final quiz \- Grade 1  
    3. HW: Prepare Table of Contents for Grade 1 \- Social  
-      
 
 **29102025 Wednesday** No classes \- worked on homeworks, math league questions etc. 
 
@@ -110,8 +119,8 @@ Worked on revision. The student and teacher were sick for a few days. Diwali hol
       1. HW: Practice student’s song composition 100 times   
    2. Checked final quiz \- Grade 1  
    3. HW: Prepare Table of Contents for Grade 1 \- Music
-
-   
+      
+      
 
 **31102025 Friday**
 
@@ -122,7 +131,7 @@ Worked on revision. The student and teacher were sick for a few days. Diwali hol
    2. Sadashiva’s progress  
    3. NirmalaAmrutha’s progress 
 
-**04112025 Tuesday**	Starting new material for Grade 2\.
+**04112025 Tuesday**    Starting new material for Grade 2\.
 
 1. Telugu: AP Grade 2 Telugu textbook \- Chapter 1  
    1. HW: Complete Ch.1 textbook, workbook  
@@ -131,11 +140,11 @@ Worked on revision. The student and teacher were sick for a few days. Diwali hol
    2. Roman numerals \- AI notes   
       1. HW: Complete AI exercises  
    3. Basic discussion of square/cube roots \- to be continued
-
-   
+      
+      
 
 **05112025 Wednesday**     
-	No classes. Finished homeworks.
+    No classes. Finished homeworks.
 
 **06112025 Thursday**
 
@@ -150,14 +159,14 @@ Worked on revision. The student and teacher were sick for a few days. Diwali hol
       1. HW: Convert into Python notebook file
 
 **07112025 Friday**  
-	No classes \- checked textbooks for Music, Hindi etc. 
+    No classes \- checked textbooks for Music, Hindi etc. 
 
 1. Music: Sangeetha saastra sudharnavamu \- Grahabhedhas, Gamakalu, Thaalalu  
 2. Hindi:   
    1. Textbooks \- CBSE 1st, Telangana 1st, AP 6th grade \- may be find one from English/Telugu to Hindi?   
    2. Hindi books \- [https://repositories.lib.utexas.edu/collections/0e59780a-95e4-425f-bd12-82bcda18634c/search](https://repositories.lib.utexas.edu/collections/0e59780a-95e4-425f-bd12-82bcda18634c/search)   
       [https://repositories.lib.utexas.edu/communities/a2c5ec78-9339-4a41-ac18-20715a33496f/subcoms-cols](https://repositories.lib.utexas.edu/communities/a2c5ec78-9339-4a41-ac18-20715a33496f/subcoms-cols)   
-   3. Michigan univ \- [https://openbooks.lib.msu.edu/basichindi/](https://openbooks.lib.msu.edu/basichindi/) \- 	Online version looking good, but not pdf download \- but the following version looks good [https://open.umn.edu/opentextbooks/textbooks/basic-hindi-i](https://open.umn.edu/opentextbooks/textbooks/basic-hindi-i) 
+   3. Michigan univ \- [https://openbooks.lib.msu.edu/basichindi/](https://openbooks.lib.msu.edu/basichindi/) \-     Online version looking good, but not pdf download \- but the following version looks good [https://open.umn.edu/opentextbooks/textbooks/basic-hindi-i](https://open.umn.edu/opentextbooks/textbooks/basic-hindi-i) 
 
 **10112025 Monday \- 12112025 Wednesday**  
 No classes; Teacher sick; Finished homeworks and practice. 
@@ -270,8 +279,8 @@ No classes. Student finished homeworks. Teacher worked on Programming project on
          2. Hindi: Do the same for Hindi  
          3. English: Standard English print (both lower and upper case).  
          4. English with a cursive font ("French cursive" is specified). 
-
-   
+            
+            
 
 **10122025 Wednesday**  
 No classes. Finished homeworks. 
@@ -283,8 +292,8 @@ No classes. Finished homeworks.
       1. HW:Complete next chapters of textbook & workbook   
    2. Created our own 'handwriting practice template’  
       1. HW: Complete this book
-
-   
+         
+         
 
 **12122025 Friday**  
 No classes. Finished homeworks, revision.
@@ -312,8 +321,8 @@ No classes; Finished homeworks and revision.
       7. Bandhan video \- Fix timing  
       8. Include videos directly in the presentation.   
       9. Once all the changes are done, meditate and then record the whole presentation at once, in that meditative state
-
-      
+         
+         
 
 **17122025 Wednesday \- 23122025 Tuesday; 05012026-16012026**  
 Worked on AI in Classroom journal paper and submitted; Completed Sahajayoga presentation; Christmas/NewYear holidays in between
@@ -387,9 +396,59 @@ Worked on AI in Classroom journal paper and submitted; Completed Sahajayoga pres
    3. Discussed potential topics for rest of Grade 2  
       1. Updated Class\_ToDos document
 
+**04022026, 05022026 Wednesday, Thursday:** 
+
+Completed homeworks and revision
+
+**06022026 Friday:**
+
+1. Telugu:
+   1. HW: Complete Grade 2 AP textbook/workbook (last HW)
+   2. Nakka-puli kadha; AI translation, summary; 
+      1. HW: 
+         1. Read whole story in Telugu, English and write meanings
+         2. Do this for summaries as well
+         3. Memorize the summaries
+
+**<u>09022026 Monday:</u>**
+
+1. Maths: 
    
+   1. Checked previous HWs
+      1. HW: Solve previous AI word problems and check AI solutions (mark down files) 
+   2. Checked NIOS A-level textbook (too many typos, mistakes); Used AI to update this text 
+      1. HW: Read this text and solve all the problems. Correct any mistakes
 
+2. English: Mahavira Chapter 2; AI Summary
    
+   1. HW: Study this summary; write meanings
+   
+   2. HW: Complete previous HWs
+      
+      
 
-Technology: 
+**<u>10022026 Tuesday:</u>**
 
+1. Programming: 
+   
+   1. Checked Python application for live music spectrum and notes detection. 
+   
+   2. Checked AI exercises solutions on roots etc. Problems 1 to 11
+      
+      1. HW: Write a function to convert a decimal value like 5.2344 to a fraction $\frac{52344}{10000}$. Check if the value is an integer, or else keep multiplying with 10 in a loop until it becomes an integer. Take care of the Sign (+/-) of the value as well. Update previous HD ex-4 using this function.
+      
+      2. HW: For Exercise 11 on finding perfect integer roots (e.g., $81=9^2$ or $343=7^3$) , instead of finding only one root, find all possible roots.
+         
+         * E.g., (1) $81=9^2=3^4$
+         
+         * E.g., (2) $1024=2^{10}=4^5=32^2$
+   
+   3* HW: Check remaining AI exercises & remaining HWs from 05 Dec 25
+
+
+
+
+
+
+
+1. Technology: 
