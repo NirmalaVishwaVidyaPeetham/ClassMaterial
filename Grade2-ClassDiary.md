@@ -498,23 +498,60 @@ No classes; Completed homeworks and revision;
        2. Add to the 'Readme file' in 'Class Material' links & description to Sahaja Yoga meditation & your presentation video, ppt etc.
        
        3. Take your parents' help
+   - Structure of our website (Github pages): README.md 
+     
+     - Describes our school and what we do
+     
+     - Intro to Sahaja Yoga with video / PPT links
+     
+     - Describes how to navigate the website.
+       
+       - Grade-wise (with links to Class Diary MD files) 
+       
+       - Subject-wise (with links to TOC for each subject)
+         
+         
+
+**<u>13022026 Friday:</u>**
+
+1. Music: 
    
-   . Structure of our website (Github pages): README.md 
+   - A Python application for pitch detection and showing the frequency spectrum for each note played 
      
-     . Describes our school and what we do.
+     - can show the 'timbre'
+   
+   - Previous homeworks were checked, specifically songs breakdown.
+   
+   - Raag Jayjaywanti and new composition in Telugu - Sharana Gori - AI translation 
      
-     . Intro to Sahaja Yoga with video / PPT links.
+     - HW: Fix the breakdown and translation
+   
+   - HW: Record audio with both people singing and playing instruments for the following songs:
      
-     . Describes how to navigate the website.
-       
-       . Grade-wise (with links to Class Diary MD files) 
-       
-       . Subject-wise (with links to TOC for each subject). 
+     - Mata Nirmala Maheswari
+     
+     - Raag Bilawal - Jaag Uthe Song
+     
+     - Raag Jayjaywanti (flute) - Sharanu Gori Song
 
-
-
-
-
-
+2. Devanagari: 
+   
+   - HW: Complete all previous HWs
+   
+   - HW: For Jaag Uthe Song:
+     
+     - Write it manually by hand
+     
+     - Type it into the word document
+     
+     - Memorize the meanings
+   
+   - Ayi Ayi Diwali Song - AI Breakdown 
+     
+     - HW: Fix AI breakdown - formatting and meanings.
+     
+     - HW: Write it manually - neatly!
+     
+     - HW: Learn the meanings.
 
 

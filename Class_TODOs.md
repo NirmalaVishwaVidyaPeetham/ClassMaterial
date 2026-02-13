@@ -6,7 +6,7 @@
 
 **Music:**
 
-1. Hindustani ragas/songs practiced  
+1. Hindustani ragas/songs practiced  - ayi ayi song
 2. Carnatic music \- gamakas  
 3. Grahabhedham code  
 4. Automate swara detection from live/file feed, extracting vocal channel first  
@@ -42,7 +42,6 @@
 2. How AI is reshaping college for students and professors \- PBS news hour video  
 3. Problems with technology \- on attention, eyes, children etc.; Read scientific papers; Social media \- problems;   
 4. Agentic AI  
-   
 
 **Maths:** 
 
@@ -51,6 +50,7 @@
 
 **Programming:** 
 
+0. Write numbers in english words: https://x.com/hitesh_ml/status/2022009244808360052/photo/1
 1. Sorting algos  
    1. Logarithms; Then time complexity of algorithms;   
 2. Pro: Letters tracing \- python or otherwise \- First row words \- next 3 rows dotted tracing- next 3 rows blank \- all are four rules lines .. use AI  
@@ -81,31 +81,31 @@
 * Update Class Diary & subject notes.  
 * Make logos, uniforms, certificates, etc., for the school.  
 * Define GPA criteria.
-
-	
+  
+  
 
 Science: check AI in classroom \- HW multiple file copies..            
 Copy video files to the right folder from recordings.. 
 
 Overview: Daily schedule align for everyone for 3-3.5 hours.. so working together..   
 Parent: Daily check the answer for the first question asked in each class \- abt prvys classes what was learnt and hw..   
-	TODO: Similar to how we got the transcript, description, summary for class 2 in 1\. HowToStudyScientificPapersPostersAndGrants/ , we can try to use Gemini API to do this for all our video files.   
+    TODO: Similar to how we got the transcript, description, summary for class 2 in 1\. HowToStudyScientificPapersPostersAndGrants/ , we can try to use Gemini API to do this for all our video files.   
 \------------------------------------------
 
 Next up:  Overview continue, daily homework diary check, check homeworks excel, parent student teacher responsibilities everyday..  weekend music full practice, daily swaras start end and spontaneous ..    
-	TODO:   
+    TODO:   
 Revision all subjects full  
 Promise less fulfill more than the other way around..   
 Be confident abt what we can do r not.. say multiplication of 3 dgt nmbrs.. without paper.. how.. 363x427   
 School Identity Card \- with rights of when to leave classroom/hw- on the backside
 
-		
+
 
 Attention exercises.. answering questions fast..  program additions attention  
-	[https://github.com/grantjenks/free-python-games](https://github.com/grantjenks/free-python-games)   
+    [https://github.com/grantjenks/free-python-games](https://github.com/grantjenks/free-python-games)   
 How to read class notes..   
 May be start writing everything like classnotes etc. in phonetic scripts.. same with any write ups..   
-      
+
 Meditation   
 How to explain about SY to people, and give realization.. how to behave when presenting 
 
@@ -123,9 +123,9 @@ Technology:
 8. Using AI \- pros and cons   
    1. Is AI affecting critical thinking in a negative way?   
       [https://phys.org/news/2025-01-ai-linked-eroding-critical-skills.html](https://phys.org/news/2025-01-ai-linked-eroding-critical-skills.html)   
-      
 
    Overview:   
+
 * Sadashiva/Neera also for overview class  
 * Daily music \+ one exercise on maths \+ one on programming etc.   
 * Fall sem 5 months theory; Spring sem 5 months practicals; Summer 2 months real world experiences/internships  
@@ -139,11 +139,10 @@ Technology:
 * Daily schedule for whole day \- with free time  
 * Plan Exams
 
-	  
 Telugu:   
 Tenali ramakrishna summary .. handwriting   
 Tenali ramakrishna movie.. Story book..   
-	AI Summary \- change from page by page to chapter wise.   
+    AI Summary \- change from page by page to chapter wise.   
 AI generated exercises on Gautama Buddha story etc.   
 Write poetry, songs   
 Mahavira story   
@@ -155,10 +154,9 @@ Telugu sentences: [https://archive.org/details/in.ernet.dli.2015.392617/page/26/
 Balavyakaranam: [https://archive.org/details/BALAVYAKARANADIGDARSINI/page/n3/mode/1up](https://archive.org/details/BALAVYAKARANADIGDARSINI/page/n3/mode/1up)   
 [https://archive.org/details/BalaVyakaranam/page/n42/mode/1up](https://archive.org/details/BalaVyakaranam/page/n42/mode/1up)   
 Telugu sandhi: [https://www.researchgate.net/publication/280112779\_Telugu\_Bigram\_Splitting\_Using\_Consonant-based\_and\_Phrase-based\_Splitting](https://www.researchgate.net/publication/280112779_Telugu_Bigram_Splitting_Using_Consonant-based_and_Phrase-based_Splitting) 
-
-	English:   
-		[https://en.wikipedia.org/wiki/Iambic\_pentameter](https://en.wikipedia.org/wiki/Iambic_pentameter)  
-		English: 10 primordial gurus \- script \- play (summer) 
+    English:   
+        [https://en.wikipedia.org/wiki/Iambic\_pentameter](https://en.wikipedia.org/wiki/Iambic_pentameter)  
+        English: 10 primordial gurus \- script \- play (summer)
 
 Music Programming:
 
@@ -189,16 +187,15 @@ Music Programming:
 10. Write code to find grahabhedhams of each raaga..   
 11. Put all of these codes together as a project – and publish it as a paper as well.. Make it into Android app as well..   
     1. App should also display time series of volume of singing..   
-       
 
-	Maths Programming:  
+    Maths Programming:  
+
 Chess \-  teaches how to follow a sequence of steps obeying valid rules.. and to try and arrive at a goal.. (math).. for programming, try to write functions for different pieces on the board.. and your final goal..  gradually develop more complex code.. 
 
 2. May be do it with Brainvita first as it’s easier  
 * Binary, Hexadecimal, Decimal number systems  
   * Bitwise and shift operators  
 * Sets (unordered) \- union, intersection like and or operations 
-
 
 Music
 
@@ -229,7 +226,7 @@ Music
   * this is the hypothesis why sometimes Virata had difficulty singing higher notes  
   * test this by making python code to detect all harmonics we are singing and their intensities.. plot from c d e f to c etc. on x axis .. but plot different scales in different colors.. yhen when we are singing some note say Sa1, we will will have peak of blue curve at C1 with higher intensity or height, but C2 peak in green is also there but with lower intensity.. then when we go to ri1, … sa2, see hiw these different colored curves are changing.. that will coearly show us our mistakes.. you can also hear this in practice without using any code..   
 * Hasal ali break down of the song: add at the top \- Raaga, Aarohana, Avarohana, Thaalam; And then for the swaras, we need to add timing info also may be break into boxes, or use underscores etc, one for each beat   
-  * pa\_ paða	paðani ðapa	ma\_ ɡasa	ɡama pa\_  
+  * pa\_ paða    paðani ðapa    ma\_ ɡasa    ɡama pa\_  
   * May be find a better way still if side by side there are smaller beat swaras etc. .. if there are 16 beats per llne, may be break down everything at that level   
 * Types of thaalas  
   * 35 beat cycle udu practice , 7 beat, 11 beat cycles also  
@@ -303,7 +300,6 @@ HSKM
 * Anushtup chandah.. lalitha sahasranaamam etc.. many shlokas  
 * Hindi text: [https://openbooks.lib.msu.edu/basichindi/](https://openbooks.lib.msu.edu/basichindi/)  
 
-
 Science : 
 
 1. AI paper: Generative AI and digitization in elementary school education   
@@ -314,10 +310,12 @@ Science :
 4. Program to simulate toy fan.. propellor.. and how changing speeds affect how high it flies etc.   
    1. Flight simulator code AI generated: [http://fly.pieter.com/](http://fly.pieter.com/)   
 5. Add all todos from first science class for Spring trimester plan..   
-   	Research paper example: [https://phys.org/news/2025-01-ai-linked-eroding-critical-skills.html](https://phys.org/news/2025-01-ai-linked-eroding-critical-skills.html)   
+   
+       Research paper example: [https://phys.org/news/2025-01-ai-linked-eroding-critical-skills.html](https://phys.org/news/2025-01-ai-linked-eroding-critical-skills.html)   
+   
    [https://www.mdpi.com/2075-4698/15/1/6](https://www.mdpi.com/2075-4698/15/1/6) 
-
-	
+   
+   
 
 1. Scientific method – Moon phases, tides  
    1. Delayed choice quantum entanglement double slit experiment.. future seems to affect past..   
@@ -344,7 +342,7 @@ Science :
 12. Science \- Python \- Drones  
 13. Science \- apply for grants \- drones, openbci stuff.. elementary classroom teaching  
 14. Physics : Intermediate physics; Biology: Human anotomy, neuroanatomy, relation to Sahajayoga; Chemistry?
-
+    
     
 
              Social: 
@@ -373,40 +371,57 @@ Science :
        1. Can visit people in different cities, countries also.. these can be like summer/winter internships etc.  
 11. Movies: Dangal, Bommarillu  
     1. forwarding/skipping 
-
-     
-
-
        
-
+       
+       
+       
+       
        
 
 NIOS EVS A, B levels    
 [https://nios.ac.in/media/documents/OBE\_SLM/Science\_Level\_C.pdf](https://nios.ac.in/media/documents/OBE_SLM/Science_Level_C.pdf)   
-	OpenStaxx books 
+    OpenStaxx books 
 
 Maths: 
 
 * Math league competition \- discussion \- to solve problems faster  
+  
   * Roman numerals  
-* GCD \- recursive algorithm..   
-* Prime factorization for LCM GCD  
-* Fraction sum with lcm  
-* Fractions simplification   
-* Daily music \+ one exercise on maths \+ one on programming etc.   
-* Fractions word problems \- write units in each case  
-* AI prompt to create HW exercises on all the topics we learnt so far  
-  * Create a game with timed exercises  
-* Percentages vs. fractions vs proportions  
-* Fractions types \- proper, improper, mixed,   
-  * Explain ⅜ in two different ways with pizza \- each pizza cut into 8 slices, each persons gets 1 slice of each pizza, or 3 slices of 1 pizza  
-  * Explain equality of 11/9 \= 1.1 \= 1 \+ 1/9 \- decimal division, integer division, mixed fractions etc.   
-    * Mixed to improper different ways \- including unlike fractions  
-  * (a/b) / (c/d) how and why  
-  * Multiplication vs Addition of several fractions – numerator vs denominator .. when u forget, try simple examples and check..   
-  * Subtractions also of improper fractions 
 
+* GCD \- recursive algorithm..   
+
+* Prime factorization for LCM GCD  
+
+* Fraction sum with lcm  
+
+* Fractions simplification   
+
+* Daily music \+ one exercise on maths \+ one on programming etc.   
+
+* Fractions word problems \- write units in each case  
+
+* AI prompt to create HW exercises on all the topics we learnt so far  
+  
+  * Create a game with timed exercises  
+
+* Percentages vs. fractions vs proportions  
+
+* Fractions types \- proper, improper, mixed,   
+  
+  * Explain ⅜ in two different ways with pizza \- each pizza cut into 8 slices, each persons gets 1 slice of each pizza, or 3 slices of 1 pizza  
+  
+  * Explain equality of 11/9 \= 1.1 \= 1 \+ 1/9 \- decimal division, integer division, mixed fractions etc.   
+    
+    * Mixed to improper different ways \- including unlike fractions  
+  
+  * (a/b) / (c/d) how and why  
+  
+  * Multiplication vs Addition of several fractions – numerator vs denominator .. when u forget, try simple examples and check..   
+  
+  * Subtractions also of improper fractions 
+  
   * Simple fractions, factoring, GCF, LCM etc.  
+    
     * LCM .. 4beat swara repeat using 6 beat thaalam.. after LCM, it repeats..   
     * Prime factorization for LCM and GCD  
     * show 3/9, ⅓ are same in decimals.. and in fractions.. shows why factoring is important to simplify computations   
@@ -414,42 +429,64 @@ Maths:
       * For each divisibility rule, elaborate why they work \- along with which properties we are using; For 11, abcd \- remainder is d \- c \+ b \- a \- every second one remainder is 1, or 10  
     * Rules for finding the last digit of a power.. does 5 divide 217^43+3^57? How about 4?  
     * For checking factors of number, check up to int(sqrt(number))  
-    *  Fibonacci sequence  
+    * Fibonacci sequence  
     * Last digit of any exponents   
       * Fun exercise \- 9th grade American vs. 7th Indian \- [https://x.com/HPhobiaWatch/status/1874015245020320087/photo/2](https://x.com/HPhobiaWatch/status/1874015245020320087/photo/2)   
         * If we learn everything early (say by grade 5, finish school level?), may be the question some have is what to learn next? But PhD teaches there is an infinite amount of learning that we can focus on many useful things..   
+  
   * Numbers basics .. so much more you can do just with these.. Ramanujan number story.. and it's speciality..   
+    
     * number theory  
     * ganitha chandrika   
       * [https://aimedonline.co.in/wp-content/uploads/2023/08/gc-vol-23-1-2-2022.pdf](https://aimedonline.co.in/wp-content/uploads/2023/08/gc-vol-23-1-2-2022.pdf)  
       * [https://aimedonline.co.in/wp-content/uploads/2023/08/gc-vol-23-3-4-2022.pdf](https://aimedonline.co.in/wp-content/uploads/2023/08/gc-vol-23-3-4-2022.pdf)   
+  
   * Prime numbers \- prime factors  
+  
   * Fractions \- period periodicity  
+    
     * Show in my PhD research  
       * Yin Yang \- chaos order \- show some real world examples \- music raagam taalam \-   
+
 * Powers \- Explain why 10^0 \= 1  
+  
   * a ^ b \= c \=\> a \= c^(1/b); b \= (log c )/(log a)  
+
 * Practice everything from previous classes \- classroom examples and homework  
+
 * Integer additions, multiplications  
+
 * Bodmas pemdas addition subtraction terms left to right  
+  
   * use variables/numbers to explain  
   * precedence same for \+,- so left to right; same for \*,/  
   * step by step b, d, m, a, s   
   * O in bodmas is order \- exponent/power.. so pemdas n bodmas are both same  
   * In Python, multiplication and division have the same order of precedence. They are evaluated from left to right if they appear in the same expression.  
+
 * Expansion of terms in \+/-  
+
 * Distributive \- left right \* /  
+
 * Floating point \+,-,/,\* manually  
+
 * Closure, commutative, associative, distributive laws \- for basic arithmetic. Relation, Function. Group. Definitions.   
+  
   * Manual Addition/Subtraction/Multiplication algorithms using these rules \- addition needs both associative and commutative rules; Multiplication needs distributive as well.   
   * Division algorithm   
   * explain with variables and with examples of chocolates.. in a way we do not need to remember the rules.. derive them when needed  
+
 * Timed exercises of maths operations to improve attention   
+
 * Basic arithmetic problems in text descriptions   
+
 * Pre Algebra openstax textbook \- [https://openstax.org/details/books/prealgebra-2e](https://openstax.org/details/books/prealgebra-2e)   
+  
   * Maths for elementary teachers: [https://pressbooks-dev.oer.hawaii.edu/math111/](https://pressbooks-dev.oer.hawaii.edu/math111/)   
   * NIOS A, B, C level maths – can finish up to B level in our first grade  
+
 * Geometry \- basics. And problem solving. Motivation and wonder of Cartesian system for geometry..  or even graphs of functions.. without this, trying to study ellipses etc. and then how it becomes simpler with it.. see if we can come up with any other alternatives.. tycobrahe vs. newton.. change of equations makes the system so intuitive and beautiful.. same in neuroscience as well..   
+  
   * After learning trigonometry, go back to maps \- latitude longitude code and explain it.   
   * Vector sums etc. \- explain in a boat \- which way you should row when there is a current
 
@@ -464,24 +501,24 @@ Programming:
   * Several strong and open-source chess engines and training resources are available. Stockfish is a leading open-source chess engine, widely used and highly ranked. Leela Chess Zero is another powerful engine, trained using reinforcement learning and self-play. Additionally, Chessli2 provides a free and open-source platform for practicing and analyzing chess games, leveraging Lichess.org data. \[1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6\]    
   * This video explains how to make a chess bot and demonstrates some of its functionalities: https://www.youtube.com/watch?v=\_vqlIPDR2TU (https://www.youtube.com/watch?v=\_vqlIPDR2TU)   
   * Open Source Chess Engines:   
-  *   
+  * 
   * • Stockfish: A leading open-source chess engine, known for its strength and use of minimax algorithm and neural networks. \[1, 2, 7\]    
   * • Leela Chess Zero (Lc0): An open-source engine inspired by AlphaZero, trained through reinforcement learning and self-play. \[3, 4\]    
   * • Maia Chess: Aims to create AI models that mimic human play at various skill levels. \[8\]    
   * • Chessli2: A free, open-source chess trainer that analyzes games, identifies mistakes, and sharpens tactics using Lichess.org data. \[5\]    
-  *   
+  * 
   * This video explains how to create a chess engine using TensorFlow and Python: https://www.youtube.com/watch?v=v3jMr0Ppd9Y\&pp=0gcJCfwAo7VqN5tD (https://www.youtube.com/watch?v=v3jMr0Ppd9Y\&pp=0gcJCfwAo7VqN5tD)   
   * Training Resources:   
-  *   
+  * 
   * • Kaggle: A platform for machine learning competitions, including chess AI development, with free GPU time. \[10\]    
   * • Lichess.org: A free and open-source chess platform that provides data for training chess AIs. \[5, 11\]    
   * • Noctie.ai: A chess AI that mimics human play and offers personalized training, including puzzle creation from mistakes. \[12\]    
   * • LLMChess: An open-source chess engine where players can challenge language models like GPT-3.5 and GPT-4. \[13\]    
-  *   
+  * 
   * This video demonstrates the main loop of a complete chess game AI written in Python: https://www.youtube.com/watch?v=OpL0Gcfn4B4\&pp=0gcJCfwAo7VqN5tD (https://www.youtube.com/watch?v=OpL0Gcfn4B4\&pp=0gcJCfwAo7VqN5tD)   
-  *   
+  * 
   * AI responses may include mistakes.  
-  *   
+  * 
   * \[1\] https://en.wikipedia.org/wiki/Stockfish\_(chess)\[2\] https://medium.com/@mitrajeetgolsangi/a-different-outlook-toward-chess-and-artificial-intelligence-66ddae87812c\[3\] https://www.chess.com/terms/chess-engine\[4\] https://lczero.org/\[5\] https://github.com/pwenker/chessli2\[6\] https://www.reddit.com/r/chess/comments/1g7pbdk/list\_of\_opensource\_chess\_software/\[7\] https://github.com/FilippoScaramuzza/online-chess\[8\] https://www.maiachess.com/\[9\] https://www.youtube.com/watch?v=Y2MkEuZ3AEw\[10\] https://www.youtube.com/watch?v=l0bv8IgELfU\[11\] https://medium.com/data-science/train-your-own-chess-ai-66b9ca8d71e4\[12\] https://noctie.ai/\[13\] https://www.reddit.com/r/opensource/comments/10a087c/an\_open\_source\_chess\_game\_analysis\_software/  
   * Not all images can be exported from Search.  
 * Prime factorization  
@@ -551,9 +588,9 @@ Programming:
 * [https://en.m.wikipedia.org/wiki/Wave\_equation](https://en.m.wikipedia.org/wiki/Wave_equation)   
 * 4cell CPG.. train ai with min. no of cells..   
 * Smart Pitching/Bowling machine \- baseball and cricket \- programmable \- speed, line, length, spin, swing \- app
-
-
   
+  
+
 Languages \- 
 
 * Sandhulu   
@@ -571,7 +608,7 @@ Languages \-
 * Can use these dictionaries for programming later on.   
 * Excel file with all the words we learnt so far, their meanings, synonyms and translations  
 * Speech  
-  *  AI Summary \- explain like I am five  
+  * AI Summary \- explain like I am five  
   * AI transcript to IPA phonetics for reading   
 * Write a simple song with lyrics, music, chandassu \- learn the vocabulary, dictionary usage, raaga structure etc.   
   * Can we do it in both telugu and english?  
@@ -582,37 +619,43 @@ Languages \-
 English
 
 * Hanumantudu book \- Tirumala  
+
 * Quiz \- AI \- multiple choice, fill in the blanks, matching etc. on all the books we read so far.. testing factual knowledge and understanding..   
+
 * Mahavira \- Jainism \- books  
+
 * Ten incarnations of Shri Vishnu  
+
 * Cursive writing   
+
 * Find out some movies on the lives all the adigurus  
+
 * Find which gurus on left and which on right   
+
 * Primordial masters \- locate all the important places related to these gurus on the world map  
+  
   * Main message about same God for all  
   * coloring in the book  
   * unlike fraction sum done in different ways decimals, conversion to and fro.. tiny example in 1st grade maths.. imagine God the infinite.. words can’t describe.. how many different ways they tried to explain to us.. no idols, said only one to keep it simple.. difficult to understand so many Gods when asking not to follow their old idols etc..   
+
 * Jesus of Nazareth movie  
+
 * Budha Mahavira left right incarnations \- other forms \- Lava Kusa \- etc.   
   Indian scriptures \- Ramayana Mahabharatha \- 10 incarnationss of Shri Vishnu  
+  
   * Meeting of Shri Rama And Shri Parashurama
-
+  
   Chapter AI transcript to IPA phonetics for reading 
-
   First paycheck story on internet
-
   Sahaj comic book.. and translate to telugu?
-
     Business English:  [https://saylordotorg.github.io/text\_business-english-for-success/](https://saylordotorg.github.io/text_business-english-for-success/)
-
     English grammar: [https://open.umn.edu/opentextbooks/textbooks/717](https://open.umn.edu/opentextbooks/textbooks/717) Sherlock holmes stories \- rewrite for a 6 year old 
-
-    
-
-    
+  
+  
+  
+  
 
 * End of Grade1: make textbooks on our Grade1 level understanding of all subjects we learnt
 
 Fix class schedule for days of the week   
-	Two classes each week for each subject; May be keep schedule flexible;
-
+    Two classes each week for each subject; May be keep schedule flexible;
