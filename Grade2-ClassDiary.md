@@ -444,6 +444,72 @@ Completed homeworks and revision
          * E.g., (2) $1024=2^{10}=4^5=32^2$
    
    3* HW: Check remaining AI exercises & remaining HWs from 05 Dec 25
+   
+   
+   
+   
+   
+   
+
+**<u>11022026 Wednesday:</u>**
+
+No classes; Completed homeworks and revision;
+
+
+
+**<u>12022026 Thursday:</u>**
+
+1. Technology:
+   
+   * Checked previous Hws
+     
+     * HW: Embed images into html: 
+       
+       * (1) Image from local folder
+       
+       * Image in Base64 format (see example) - edit some of those values and see what happens.
+       
+       * Create a long binary string and convert to hexadecimal, and Base64 (use 0-9, A-Z, a-z, + / symbols).
+         
+         * Example: $1011_2 = (8+0+2+1)_{10} = {11}_{10} = B_{16}$. (Binary, Decimal, Base16/Hexadecimal).
+   
+   * Open html file in Chrome, right-click, 'inspect' to see tree structure of all elements.
+   
+   * HW: Complete copy tracing books (Latex) for English cursive, Telugu, Hindi.
+   
+   * Github pages for our school website
+     
+     * Github pages documentation: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+     
+     * Github pages example with links to our files: https://basodianjali.github.io/gitPagesHomeStudy/
+       
+       * Corresponding repo: GitHub - (https://github.com/basodianjali/gitPagesHomeStudy/)
+     
+     * Our github repo: https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/
+       
+       * Our github pages link: https://nirmalavishwavidyapeetham.github.io/ClassMaterial/
+       
+       * See 'Programming' Table of Contents (updated).
+     
+     * HW:
+       
+       1. Create Table of Contents (TOC) in a Markdown file for every subject in Grade 1 and Grade 2 - with links to all the files (use your updated TOC).
+       
+       2. Add to the 'Readme file' in 'Class Material' links & description to Sahaja Yoga meditation & your presentation video, ppt etc.
+       
+       3. Take your parents' help
+   
+   . Structure of our website (Github pages): README.md 
+     
+     . Describes our school and what we do.
+     
+     . Intro to Sahaja Yoga with video / PPT links.
+     
+     . Describes how to navigate the website.
+       
+       . Grade-wise (with links to Class Diary MD files) 
+       
+       . Subject-wise (with links to TOC for each subject). 
 
 
 
@@ -451,4 +517,4 @@ Completed homeworks and revision
 
 
 
-1. Technology: 
+
