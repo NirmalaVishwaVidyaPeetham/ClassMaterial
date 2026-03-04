@@ -3,6 +3,7 @@
 1. Add children’s telugu story books  
 2. Maa telugu thalliki paata swaralu, sangeetham \- learn  
 3. Learn Vande maatharam, Jana Gana Mana, Pratignya (with English translation)
+4. Children stories, chandamama kathalu
 
 **Music:**
 
@@ -23,6 +24,7 @@
 
 1. Learn Indian and American National Anthems; Indian pledge;  
 2. Project Gutenberg books \- add to drive
+3. William Blake's writings
 
 **Social:**
 
@@ -32,7 +34,7 @@
 
 **Tech:**
 
-1. Tech \- md vs html vs latex \- github pages \- fix our website;  
+1. Tech \- md vs html vs latex \- github pages \- fix our website;  markdown online - https://md2word.com/en 
    1. English \- create a copy writing practice book and then complete it; another with cursive font; Add cover pages, page background images etc. to make it a complete book  
       1. [https://www.overleaf.com/latex/templates/fontspec-all-the-fonts/hjrpnxhrrtxc](https://www.overleaf.com/latex/templates/fontspec-all-the-fonts/hjrpnxhrrtxc)   
       2. [https://fonts.google.com/?categoryFilters=Calligraphy:%2FScript%2FHandwritten](https://fonts.google.com/?categoryFilters=Calligraphy:%2FScript%2FHandwritten) \- Download and install any font locally and then use in latex \- ABeeZee, Handlee, Playpen\_Sans, Playwrite\_CA\_Guides (with rules automatically included), caveat  
@@ -45,17 +47,19 @@
 
 **Maths:** 
 
+0. Percentages, Proportions, ratios, equations lhs rhs, geometry
 1. Maths: ‘negative n’th roots ; y \= 1/x; sq. roots \+ve/-ve; rational, irrational, real/imaginary \- complex numbers; Logarithms;  Powers like 3^4.2; Use binary search to find logarithms; Powers of numbers \> 1 vs \<1/\>0; Equations \- move variables between LHS and RHS;   
 2. NIOS levels A/B/C textbooks \- cover all these topics; texts have several typos \- fix or use different textbooks for those topics; 
 
 **Programming:** 
 
 0. Write numbers in english words: https://x.com/hitesh_ml/status/2022009244808360052/photo/1
-1. Sorting algos  
+1. Flow charts - and programmatically create flowcharts (use AI and understand the code) - markdown online - https://md2word.com/en
+2. Sorting algos  
    1. Logarithms; Then time complexity of algorithms;   
-2. Pro: Letters tracing \- python or otherwise \- First row words \- next 3 rows dotted tracing- next 3 rows blank \- all are four rules lines .. use AI  
-3. Grahabhedham code   
-4. Flowcharts.. (how to convert a logic into flowchart and then to algorithm \-- might help to visualize)
+3. Pro: Letters tracing \- python or otherwise \- First row words \- next 3 rows dotted tracing- next 3 rows blank \- all are four rules lines .. use AI  
+4. Grahabhedham code   
+5. Flowcharts.. (how to convert a logic into flowchart and then to algorithm \-- might help to visualize)
 
 **Science:** 
 
@@ -112,20 +116,29 @@ How to explain about SY to people, and give realization.. how to behave when pre
 Technology: 
 
 1. [https://medium.com/data-science/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876](https://medium.com/data-science/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876)   
+
 2. Slides/PPT/Poster, Excel, Word text styles/images etc.   
+
 3. Dangers of Technology   
+   
    1. movies \- forwarding/skipping.. parental guidance   
+
 4. Browsers \- Internet; Emails;   
+
 5. Video editing, Movie making, editing  
+   
    1. Musical, fun, cinematic liberty, goof  
+
 6. Version control  
+
 7. NIOS A,B,C level computer skills  
+
 8. Using AI \- pros and cons   
+   
    1. Is AI affecting critical thinking in a negative way?   
       [https://phys.org/news/2025-01-ai-linked-eroding-critical-skills.html](https://phys.org/news/2025-01-ai-linked-eroding-critical-skills.html)   
-
+   
    Overview:   
-
 * Sadashiva/Neera also for overview class  
 * Daily music \+ one exercise on maths \+ one on programming etc.   
 * Fall sem 5 months theory; Spring sem 5 months practicals; Summer 2 months real world experiences/internships  
@@ -161,33 +174,48 @@ Telugu sandhi: [https://www.researchgate.net/publication/280112779\_Telugu\_Bigr
 Music Programming:
 
 1. Python code for notes and harmonics from frequencies: [https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3\_HarmonicSeries.html\#:\~:text=Let%20us%20again%20consider%20the,the%20note%20as%20specified%20by](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_HarmonicSeries.html#:~:text=Let%20us%20again%20consider%20the,the%20note%20as%20specified%20by)   
+
 2. Waves python code.. to display 2D and 1D waves..   
+   
    1. Fix the code  
    2. Waves attenuate  
    3. Play with wavelength, amplitude, velocity, attenuation, colormap  etc.   
       1. [https://matplotlib.org/stable/users/explain/colors/colormaps.html](https://matplotlib.org/stable/users/explain/colors/colormaps.html)   
    4. Waves on a rope  
    5. Save some wave images from program with parameter changes for easier reading later  
+
 3. Music notes from frequency.. not midi..  harmonics using flute C4\*nu \= 2\*C3\*nu..  C1 to C2 to C3  etc. each time frequency is doubling..   
+   
    1. Understand how to convert for different scales and notes  
    2. A harmonic is a wave or signal whose frequency is an integral (whole number) multiple of the frequency of the same reference signal or wave.   
    3. [https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3\_HarmonicSeries.html\#:\~:text=Let%20us%20again%20consider%20the,the%20note%20as%20specified%20by](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C1/C1S3_HarmonicSeries.html#:~:text=Let%20us%20again%20consider%20the,the%20note%20as%20specified%20by)   
    4. [https://www.idrumtune.com/ultimate-guide-to-musical-frequencies/\#:\~:text=When%20a%20piano%20string%20vibrates,value%20for%20each%20musical%20note](https://www.idrumtune.com/ultimate-guide-to-musical-frequencies/#:~:text=When%20a%20piano%20string%20vibrates,value%20for%20each%20musical%20note).   
    5. [https://portlandpianolab.com/the-harmonic-series/\#:\~:text=Here%20is%20the%20first%20part,+%20fifth](https://portlandpianolab.com/the-harmonic-series/#:~:text=Here%20is%20the%20first%20part,+%20fifth)    
+
 4. Waves display visually wavelength etc. and also play audio  and see how different properties change it..   
+   
    1. For a given set of swaras, write code that plays those notes in piano/harmonium style – changing duration \- and attenuation  
    2. Play those swaras in carnatic music style and in hindustani music style.. When moving from one swara to next, doesn’t go in steps, but make it continuous..   
+
 5. write a program function that prints swaras and plays arohana avarohana based on raaga number  
+
 6. Write code to simulate timbre of different instruments when playing a note (along with its harmonics)   
+   
    1. Timbre will be akin to different Fourier sums .. coefficients change from one instrument to another  
    2. Simulate waves as sin/cosine waves.. then their amplitudes will change for timbres..   
-7. Also combine wave images and music notes playing  
-8. Show in code the differences between carnatic and hindusthani style singing  
-9. Write code to recognize our singing swaras.. Plot the timbre for each swara we are singing.. Not just the highest note harmonic..   
-10. Write code to find grahabhedhams of each raaga..   
-11. Put all of these codes together as a project – and publish it as a paper as well.. Make it into Android app as well..   
-    1. App should also display time series of volume of singing..   
 
+7. Also combine wave images and music notes playing  
+
+8. Show in code the differences between carnatic and hindusthani style singing  
+
+9. Write code to recognize our singing swaras.. Plot the timbre for each swara we are singing.. Not just the highest note harmonic..   
+
+10. Write code to find grahabhedhams of each raaga..   
+
+11. Put all of these codes together as a project – and publish it as a paper as well.. Make it into Android app as well..   
+    
+    1. App should also display time series of volume of singing..   
+    
     Maths Programming:  
 
 Chess \-  teaches how to follow a sequence of steps obeying valid rules.. and to try and arrive at a goal.. (math).. for programming, try to write functions for different pieces on the board.. and your final goal..  gradually develop more complex code.. 
@@ -303,12 +331,18 @@ HSKM
 Science : 
 
 1. AI paper: Generative AI and digitization in elementary school education   
+   
    1. Eg: [https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00088-9](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(25\)00088-9)   
    2. Both music and AI papers are more of tutorials and methodology than original research.  
+
 2. ATL science festival \- perimeter \- telescopes, microscopes  
+
 3. AI HW exercises on topics we studied so far  
+
 4. Program to simulate toy fan.. propellor.. and how changing speeds affect how high it flies etc.   
+   
    1. Flight simulator code AI generated: [http://fly.pieter.com/](http://fly.pieter.com/)   
+
 5. Add all todos from first science class for Spring trimester plan..   
    
        Research paper example: [https://phys.org/news/2025-01-ai-linked-eroding-critical-skills.html](https://phys.org/news/2025-01-ai-linked-eroding-critical-skills.html)   

@@ -1,0 +1,189 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage[a4paper, top=1.5cm, bottom=1.5cm, left=1.5cm, right=1.5cm]{geometry}
+
+% --- CORE ENGINE SETUP ---
+\usepackage{fontspec} 
+\usepackage{etoolbox} 
+\usepackage{xparse} 
+
+\usepackage[english, bidi=basic, provide=*]{babel} 
+\usepackage{xcolor} 
+\usepackage{tikz} 
+\usepackage{pgffor} 
+% --- FONT CONFIGURATION ---
+\babelprovide[import, onchar=ids fonts]{telugu}
+\babelprovide[import, onchar=ids fonts]{hindi}
+
+% Use Noto Sans for environment compatibility; local users can uncomment Playpen_Sans
+\babelfont{rm}{Noto Sans}
+%\babelfont{rm}{Playpen_Sans}
+\babelfont[telugu]{rm}{Noto Sans Telugu}
+\babelfont[hindi]{rm}{Noto Sans Devanagari}
+
+\pagestyle{empty} 
+\parindent=0pt
+\parskip=0pt
+
+% --- DIMENSION AND COLOR SETUP (PREAMBLE ONLY) ---
+\makeatletter
+% Define global dimension registers
+\newdimen\PracticeTextWidth
+\newdimen\CalculatedSetHeight
+\newdimen\dim@CurrentRedLineGap
+\newdimen\dim@CurrentGreenLineGap
+\newdimen\dim@CurrentBlackLineGap
+\newdimen\dimen@CurrentBlueShift 
+\newdimen\dim@CurrentTextShift
+\newdimen\dim@RuleOffset 
+
+% --- LANGUAGE-SPECIFIC OFFSETS ---
+\def\EnglishRedLineGap{-2}      
+\def\EnglishGreenLineGap{-10}    
+\def\EnglishBlueShift{-27}        
+\def\EnglishBlackLineGap{-36}   
+\def\EnglishTextShift{4.5}      
+
+\def\HindiRedLineGap{-2}        
+\def\HindiGreenLineGap{-12}       
+\def\HindiBlueShift{-29}          
+\def\HindiBlackLineGap{-34}     
+\def\HindiTextShift{4.5}        
+
+\def\TeluguRedLineGap{9}      
+\def\TeluguGreenLineGap{-3}    
+\def\TeluguBlueShift{-30}
+\def\TeluguBlackLineGap{-50}         
+\def\TeluguTextShift{4.5}   
+
+% Constant definitions
+\def\RuleThickness{0.4} 
+
+% Define Rule Colors
+\definecolor{WhiteColor}{rgb}{1, 1, 1}             % Reference Line (Invisible)
+\definecolor{RedLineColor}{rgb}{0.6, 0., 0.}       % Red (Top Guide)
+\definecolor{GreenLineColor}{rgb}{0, 0.6, 0.}      % Green (Ascender Line)
+\definecolor{BlueLineColor}{rgb}{0.0, 0.0, 0.6}    % BLUE LINE (Instructional Baseline)
+\definecolor{BlackLineColor}{rgb}{0, 0, 0}         % Black (Descender Line)
+\definecolor{textblack}{rgb}{0, 0, 0}
+
+
+% --- LANGUAGE PARAMETER SETTER ---
+\newcommand{\SetLanguageParams}[1]{%
+	\ifstrequal{#1}{english}{%
+		\dim@CurrentRedLineGap=\EnglishRedLineGap pt\relax
+		\dim@CurrentGreenLineGap=\EnglishGreenLineGap pt\relax
+		\dim@CurrentBlackLineGap=\EnglishBlackLineGap pt\relax
+		\dimen@CurrentBlueShift=\EnglishBlueShift pt\relax
+		\dim@CurrentTextShift=\EnglishTextShift pt\relax
+	}{\ifstrequal{#1}{hindi}{%
+			\dim@CurrentRedLineGap=\HindiRedLineGap pt\relax
+			\dim@CurrentGreenLineGap=\HindiGreenLineGap pt\relax
+			\dim@CurrentBlackLineGap=\HindiBlackLineGap pt\relax
+			\dimen@CurrentBlueShift=\HindiBlueShift pt\relax
+			\dim@CurrentTextShift=\HindiTextShift pt\relax
+		}{\ifstrequal{#1}{telugu}{%
+				\dim@CurrentRedLineGap=\TeluguRedLineGap pt\relax
+				\dim@CurrentGreenLineGap=\TeluguGreenLineGap pt\relax
+				\dim@CurrentBlackLineGap=\TeluguBlackLineGap pt\relax
+				\dimen@CurrentBlueShift=\TeluguBlueShift pt\relax
+				\dim@CurrentTextShift=\TeluguTextShift pt\relax
+			}{}}}
+	
+	\dim@CurrentRedLineGap=\dimexpr\dim@CurrentRedLineGap + \dim@RuleOffset \relax
+	\dim@CurrentGreenLineGap=\dimexpr\dim@CurrentGreenLineGap + \dim@RuleOffset \relax
+	\dim@CurrentBlackLineGap=\dimexpr\dim@CurrentBlackLineGap + \dim@RuleOffset \relax
+	\dimen@CurrentBlueShift=\dimexpr\dimen@CurrentBlueShift + \dim@RuleOffset \relax
+	
+	\pgfmathsetmacro{\CalculatedTotalHeight}{%
+		\the\dim@CurrentRedLineGap - \the\dim@CurrentBlackLineGap + 5 * \RuleThickness pt
+	}
+	\global\CalculatedSetHeight=\CalculatedTotalHeight pt\relax
+}
+
+
+\newcommand{\DrawFiveRules}{%
+	\noindent\begin{tikzpicture}[overlay, remember picture]
+		\draw[line width=\RuleThickness pt, color=WhiteColor] (0, 0pt) -- (\PracticeTextWidth, 0pt);
+		\draw[line width=\RuleThickness pt, color=BlueLineColor] (0, \dimen@CurrentBlueShift) -- (\PracticeTextWidth, \dimen@CurrentBlueShift);
+		\draw[line width=\RuleThickness pt, color=BlackLineColor] (0, \dim@CurrentBlackLineGap) -- (\PracticeTextWidth, \dim@CurrentBlackLineGap);
+		\draw[line width=\RuleThickness pt, color=GreenLineColor] (0, \dim@CurrentGreenLineGap) -- (\PracticeTextWidth, \dim@CurrentGreenLineGap);
+		\draw[line width=\RuleThickness pt, color=RedLineColor] (0, \dim@CurrentRedLineGap) -- (\PracticeTextWidth, \dim@CurrentRedLineGap);
+	\end{tikzpicture}% <--- CHANGE: Removed \par and \vspace. Drawing is now height-neutral.
+}
+
+
+\newbox{\MyPrintBox} 
+\newcommand{\PrintText}[3]{%
+	\raisebox{-\dim@CurrentTextShift}{% 
+		\fontsize{55pt}{110pt}\selectfont \selectlanguage{#1}%
+		\pgfsetfillopacity{#3}\pgfsetstrokeopacity{#3}%
+		\begin{lrbox}{\MyPrintBox}\begin{minipage}{\PracticeTextWidth}\color{textblack} #2\end{minipage}\end{lrbox}\usebox{\MyPrintBox}%
+		\pgfsetfillopacity{1.0}\pgfsetstrokeopacity{1.0}%
+	}%
+}
+
+
+\newcommand{\DrawSinglePracticeSet}[3]{%
+	\par\nointerlineskip%
+	% <--- CHANGE: Wrapped in a fixed-height vbox to guarantee identical spacing regardless of content
+	\vbox to 82pt { 
+		\hrule height 0pt % Anchor for vspace inside vbox
+		\vspace*{\dim@CurrentRedLineGap}% Position for rules
+		\DrawFiveRules 
+		%\hspace*{-30pt}
+		\PrintText{#1}{#2}{#3}%
+		\vss % Push everything up and fill the 82pt box
+	}%
+	\nointerlineskip%
+}
+
+\NewDocumentCommand{\GeneratePracticePage}{ O{0pt} m m }{%
+	\newpage
+	\topskip=0pt % <--- CHANGE: Removes standard header padding
+	\hrule height 0pt % <--- CHANGE: Absolute top-of-page anchor
+	\vspace*{10pt} % <--- CHANGE: Consistent margin from the top edge
+	\dim@RuleOffset=#1\relax
+	\SetLanguageParams{#3} 
+	\def\currentPageText{#2}
+	
+	\DrawSinglePracticeSet{#3}{\currentPageText}{1.0}%
+	\foreach \i in {1,...,4} {\DrawSinglePracticeSet{#3}{\currentPageText}{0.3}}%
+	\foreach \i in {1,...,4} {\DrawSinglePracticeSet{#3}{\phantom{\currentPageText}}{1.0}}%
+	
+	\dim@RuleOffset=0pt\relax
+}
+
+\newcommand{\SetupDimensions}{%
+	\PracticeTextWidth=\dimexpr\paperwidth-3cm\relax
+	\SetLanguageParams{english} 
+}
+\makeatother
+
+\begin{document}
+	\SetupDimensions 
+	\GeneratePracticePage[11pt]{అ ఆ ా ఇ ి  ఈ  ీ  ఉ  ు }{telugu}
+	\GeneratePracticePage[26pt]{ఊ ూ ఋ ృ ౠ  ౄ}{telugu}
+	\GeneratePracticePage[18pt]{ఎ ె ఏ ే ఐ  ై ఒ  ొ }{telugu}
+	\GeneratePracticePage[9pt]{ఓ ో  ~ ఔ  ౌ  ~ అం  ం   }{telugu}
+	\GeneratePracticePage[18pt]{అః ః }{telugu}
+	\GeneratePracticePage[25pt]{క ్క  ఖ  ్ఖ గ  ్గ ఘ ్ఘ ఙ ్ఙ}{telugu}
+	\GeneratePracticePage[25pt]{చ ్చ ఛ ్ఛ జ  ్జ ఝ ్ఝ}{telugu}
+	\GeneratePracticePage[30pt]{ ఞ ్ఞ}{telugu}
+	\GeneratePracticePage[25pt]{ట ్ట ఠ  ్ఠ డ  ్డ ఢ  ్ఢ ణ  ్ణ}{telugu}
+	\GeneratePracticePage[25pt]{త ్త థ  ్థ ద  ్ద ధ  ్ధ  న  ్న}{telugu}
+	\GeneratePracticePage[25pt]{ప ్ప ఫ  ్ఫ బ  ్బ భ  ్భ }{telugu}
+	\GeneratePracticePage[23pt]{ మ  ్మ}{telugu}
+	\GeneratePracticePage[23pt]{య ్య ర ర్ర  ల  ్ల వ  ్వ}{telugu}
+	\GeneratePracticePage[25pt]{శ ్శ ష  ్ష స  ్స హ  ్హ}{telugu}
+	\GeneratePracticePage[24pt]{ళ ్ళ క్ష  ఱ ్ఱ}{telugu}
+	\GeneratePracticePage[18pt]{నిర్మలవిశ్వవిద్యాపీఠం}{telugu}
+	\GeneratePracticePage[13pt]{సహజ యోగం  చాలా}{telugu}
+	\GeneratePracticePage[15pt]{ సులభం మరియు}{telugu}
+	\GeneratePracticePage[18pt]{ ఎవరైనా చేయవచ్చు.}{telugu}
+	\GeneratePracticePage[20pt]{ప్రయత్నించి చూడండి!}{telugu}
+	\GeneratePracticePage[25pt]{ఇది ఎంత అద్భుతంగా}{telugu}
+	\GeneratePracticePage[18pt]{అనిపిస్తుందో!}{telugu}
+	\GeneratePracticePage[18pt]{నిర్మలవిశ్వవిద్యాపీఠం}{telugu}
+	
+	
+\end{document}

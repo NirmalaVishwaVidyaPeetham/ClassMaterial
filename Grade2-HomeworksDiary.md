@@ -1,4 +1,3 @@
-  
 **Daily student duties:**
 
 1. Daily total homework/study time: Minimum 3 hours 40 minutes \- Maximum 5 hours 40 minutes \- plus 20 minutes eye exercises  
@@ -32,7 +31,6 @@
 3. Class notes revision: 30 minutes \- 2:10 pm to 2:40 PM  
 4. Music practice: 30 minutes \-  3:30  to 4:00 PM  
 5. **Total: 5 hours 30 minutes**  
-   
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -43,7 +41,6 @@
 3. Class notes revision: 30 minutes \- 12:00 to 12:30 PM  
 4. Music Orchestra : 2 hours \- 8:00 PM to 10:00 PM  
 5. **Total: 4 hours 0 minutes**  
-   
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -72,7 +69,7 @@
 2. English Textbook (completed chp. 4\) : 45 minutes \- 9:05 AM to 9:50 AM;   
 3. Telugu Chp.2 Textbook: 1 hour 15 minutes \-  9:50 to 11:05 AM  
 4. Maths Roman numbers practice: 1 hour 8 minutes \- 11:45 to 12:35 PM; 12:40 to 12:58 PM  
-6. **Total: 3 hours 38 minutes**
+5. **Total: 3 hours 38 minutes**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -231,126 +228,168 @@ Total:1 hours 20 minutes
 5. Maths practice/revision: 20 minutes \- 2:55 to 3:15 PM  
 6. Music practice: 20 minutes \- 3:40 to 4:00 PM  
 7. **Total: 3 hours 50 minutes**  
-   
 
  **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **4 December 2025 \- Thursday**
 
 1. English HW: 1 hour \- 9:30 to 10:30 AM  
-2. Maths HW: 30 minutes \- 10:30 to 11:00 AM  
-3. Programming HW: 30 minutes \- 11:00 to 11:30 AM  
-4. Music HW:  30 minutes \- 11:30 to 12:00 PM  
-5. \<Took rest for eyes for eye test \>  
-6. **Total: 2 hours 30 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. Maths HW: 30 minutes \- 10:30 to 11:00 AM  
+
+3. Programming HW: 30 minutes \- 11:00 to 11:30 AM  
+
+4. Music HW:  30 minutes \- 11:30 to 12:00 PM  
+
+5. \<Took rest for eyes for eye test \>  
+
+6. **Total: 2 hours 30 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **5 December 2025 \- Friday**
 
 1. Music HW:  1 hour \- 9:11 to 10:11 AM  
-2. Programming HW: 1 hour \- 10:15 to 11:15 AM  
-3. Math league practice: 30 minutes \- 11:20 to 11:50 AM  
-4. Programming practice:  25 minutes \-  12:05 to 12:15; 12:45 to 12:55 PM  
-5. Music practice: 20 minutes \- 12:55  to 1:15 PM  
-6. Hindi HW: 30 minutes \- 1:30 \- 2:00 PM  
-7. **Total: 3 hours 45 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. Programming HW: 1 hour \- 10:15 to 11:15 AM  
+
+3. Math league practice: 30 minutes \- 11:20 to 11:50 AM  
+
+4. Programming practice:  25 minutes \-  12:05 to 12:15; 12:45 to 12:55 PM  
+
+5. Music practice: 20 minutes \- 12:55  to 1:15 PM  
+
+6. Hindi HW: 30 minutes \- 1:30 \- 2:00 PM  
+
+7. **Total: 3 hours 45 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **8 December 2025 \- Monday**
 
 1. Programming HW: 1 hour 50 minutes \- 9:10 to 11:00 AM  
-2. Hindi HW: 2 hour 40 minutes \- 11:00 to 12:10 PM; 7:00 to 8:30 PM  
-3. Maths practice: 20 minutes \- 12:45 to 1:05 PM  
-4. Music practice: 20 minutes \- 12:55  to 1:15 PM  
-5. Eye exercise: 10 minutes \- (not included in total)  
-6. **Total: 5 hours 10 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. Hindi HW: 2 hour 40 minutes \- 11:00 to 12:10 PM; 7:00 to 8:30 PM  
+
+3. Maths practice: 20 minutes \- 12:45 to 1:05 PM  
+
+4. Music practice: 20 minutes \- 12:55  to 1:15 PM  
+
+5. Eye exercise: 10 minutes \- (not included in total)  
+
+6. **Total: 5 hours 10 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **9 December 2025 \- Tuesday**
 
 1. Music HW:  1 hour \- 9:00 to 10:00 AM  
-2. Hindi HW: 30 minutes \- 10:05 to 10:35 AM  
-3. Class notes revision : 30 minutes \- 10:40 to 11:10 AM  
-4. Programming:  1 hour 5 minutes \-  11:20 to 12:20;   
-5. Maths practice: 20 minutes \- 12:55  to 1:15 PM  
-6. Music practice: 20 minutes \- 1:20 to 1:40 PM  
-7. Eye exercise: 10 minutes \- 4:00 to 4:10 PM (not included in total)  
-8. **Total: 3 hours 45 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. Hindi HW: 30 minutes \- 10:05 to 10:35 AM  
+
+3. Class notes revision : 30 minutes \- 10:40 to 11:10 AM  
+
+4. Programming:  1 hour 5 minutes \-  11:20 to 12:20;   
+
+5. Maths practice: 20 minutes \- 12:55  to 1:15 PM  
+
+6. Music practice: 20 minutes \- 1:20 to 1:40 PM  
+
+7. Eye exercise: 10 minutes \- 4:00 to 4:10 PM (not included in total)  
+
+8. **Total: 3 hours 45 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **10 December 2025 \- Wednesday**
 
 1. Music HW: 2 hours 30 minutes \- 9:20 to 10:20 AM; 2:20 to 3:50 PM  
-2. Music practice: 20 minutes \- 10:30 to 10:50 PM  
-3. Technology HW: 15 minutes \- 10:50 to 11:15 AM (10 minutes looked at parents fixing latex)  
-4. Telugu HW: 50 minutes \- 11:30 \- 12:20 PM  
-5. Programming practice:  25 minutes \-  12:45 to 1:10;   
-6. Maths practice: 20 minutes \- 1:12  to 1:32 PM  
-7. Hindi HW: 45 minutes \- 1:35 to 2:20 PM  
-8. Eye exercise: 20 minutes \- 9:00 to 9:10 ; 12:25 to 12:35; (not included in total)  
-9. **Total: 5 hours 25 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. Music practice: 20 minutes \- 10:30 to 10:50 PM  
+
+3. Technology HW: 15 minutes \- 10:50 to 11:15 AM (10 minutes looked at parents fixing latex)  
+
+4. Telugu HW: 50 minutes \- 11:30 \- 12:20 PM  
+
+5. Programming practice:  25 minutes \-  12:45 to 1:10;   
+
+6. Maths practice: 20 minutes \- 1:12  to 1:32 PM  
+
+7. Hindi HW: 45 minutes \- 1:35 to 2:20 PM  
+
+8. Eye exercise: 20 minutes \- 9:00 to 9:10 ; 12:25 to 12:35; (not included in total)  
+
+9. **Total: 5 hours 25 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **11 December 2025 \- Thursday**
 
 1. Technology HW: 2 hours \- 8:20 to 10:20 AM;   
-2. Class notes revision: 30 minutes \- 10:55 to 11:25 AM  
-3. Music HW: 1 hour \- 11:30 to 12:30 PM  
-4. Music practice: 20 minutes \- 1:05 to 1:25 PM  
-5. Programming practice: 20 minutes \- 1:30 to 1:50 PM  
-6. Maths practice:  20 minutes \-  1:55 to 2:15 pm   
-7. Eye exercise: 20 minutes \- 12:45 to 12:55; 3:40 to 3:50 PM (not included in total)  
-8. **Total: 4 hours 30 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. Class notes revision: 30 minutes \- 10:55 to 11:25 AM  
+
+3. Music HW: 1 hour \- 11:30 to 12:30 PM  
+
+4. Music practice: 20 minutes \- 1:05 to 1:25 PM  
+
+5. Programming practice: 20 minutes \- 1:30 to 1:50 PM  
+
+6. Maths practice:  20 minutes \-  1:55 to 2:15 pm   
+
+7. Eye exercise: 20 minutes \- 12:45 to 12:55; 3:40 to 3:50 PM (not included in total)  
+
+8. **Total: 4 hours 30 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **12 December 2025 \- Friday**
 
 1. English HW: 1hour \- 9:30 to 10:30 AM  
-2. Technology HW: 1 hours 20 minutes \- 11:00 to 12:20 PM;   
-3. Music HW: 1 hour 20 minutes ; 3:10 to 3:30; 3:50 to 4:50 PM   
-4. Maths and programming practice:  40 minutes  
-5. Eye exercise: 20 minutes \- 12:25 to 12:35; 5:00 to 5:10 PM (not included in total)  
-6. **Total: 4 hours 20 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. Technology HW: 1 hours 20 minutes \- 11:00 to 12:20 PM;   
+
+3. Music HW: 1 hour 20 minutes ; 3:10 to 3:30; 3:50 to 4:50 PM   
+
+4. Maths and programming practice:  40 minutes  
+
+5. Eye exercise: 20 minutes \- 12:25 to 12:35; 5:00 to 5:10 PM (not included in total)  
+
+6. **Total: 4 hours 20 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **13 December 2025 \- Saturday**
 
 1. Music practice: 20 minutes \- 9:22 to 9:42 AM  
-2. Eye exercise: 10 minutes \- 10:05 to 10:15; (not included in total)  
-3. **Total: 20 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. Eye exercise: 10 minutes \- 10:05 to 10:15; (not included in total)  
+
+3. **Total: 20 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **15 December 2025 \- Monday**
 
 1. Music HW: 1 hour 10 minutes- 9:10 to 10:20 AM  
-2. English HW: 2 hour \- 10:25 to 11:25 AM ; 7:50 to 8:50 PM  
-3. Music practice: 20 minutes \- 11:50 to 12:10 PM  
-4. Maths practice: 20 minutes \- 12:12 to 12:35 PM  
-4. Eye exercise: 20 minutes \- 12:37 to 12:47; 3:00 to 3:10 PM (not included in total)  
-5. Programing practice: 30 minutes \- 12:55 to 1:30 PM  
-6. Programing practice: 1 hour \- 1:35 to 2:35 PM   
-7. **Total: 5 hours 20 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. English HW: 2 hour \- 10:25 to 11:25 AM ; 7:50 to 8:50 PM  
+
+3. Music practice: 20 minutes \- 11:50 to 12:10 PM  
+
+4. Maths practice: 20 minutes \- 12:12 to 12:35 PM  
+
+5. Eye exercise: 20 minutes \- 12:37 to 12:47; 3:00 to 3:10 PM (not included in total)  
+
+6. Programing practice: 30 minutes \- 12:55 to 1:30 PM  
+
+7. Programing practice: 1 hour \- 1:35 to 2:35 PM   
+
+8. **Total: 5 hours 20 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **16 December 2025 \- Tuesday**
 
 1. English HW: 1 hour \- 9:48  to 10:48 AM ;   
 2. Music HW: 1 hour- 10:55:10 to 11:55 AM  
 3. Music practice: 20 minutes \- 12:40 to 1:00 PM  
-5. Maths practice: 25 minutes \- 1:05 to 1:30 PM  
-8. Eye exercise: 10 minutes \- 6:25 to 6:35 (not included in total)  
-9. Programing practice: 15 minutes \- 1:35 to 1:50 PM  
-10. Programing practice: 1 hour 5 minutes \- 1:50 to 2:55 PM   
-11. **Total: 4 hours 5 minutes**
+4. Maths practice: 25 minutes \- 1:05 to 1:30 PM  
+5. Eye exercise: 10 minutes \- 6:25 to 6:35 (not included in total)  
+6. Programing practice: 15 minutes \- 1:35 to 1:50 PM  
+7. Programing practice: 1 hour 5 minutes \- 1:50 to 2:55 PM   
+8. **Total: 4 hours 5 minutes**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -418,52 +457,74 @@ Total:1 hours 20 minutes
 **07 January 2026 \- Wednesday:** 
 
 1. Social HW: 2 hour 50 minutes \- 10:15 AM to 11:20 PM; 2:45 to 3:30; 4:00 to 5:00 PM  
-2. Music practice: 30 minutes \-  11:30  to 12:00 PM  
-3. Telugu HW: 1 hour 40 minutes \- 12:30 PM to 2:00 PM  
-4. Class notes revision: 30 minutes \- 2:10 pm to 2:40 PM  
-5. Eye exercise: 20 minutes \- 10:00 to 10:10 ; 12:25 to 12:35; (not included in total)  
-6. **Total: 5 hours 30 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. Music practice: 30 minutes \-  11:30  to 12:00 PM  
+
+3. Telugu HW: 1 hour 40 minutes \- 12:30 PM to 2:00 PM  
+
+4. Class notes revision: 30 minutes \- 2:10 pm to 2:40 PM  
+
+5. Eye exercise: 20 minutes \- 10:00 to 10:10 ; 12:25 to 12:35; (not included in total)  
+
+6. **Total: 5 hours 30 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **08 January 2026 \- Thursday**
 
 1. Music HW: 1 hour 10 minutes- 9:10 to 10:20 AM  
-2. English HW: 2 hour \- 10:25 to 11:25 AM ; 7:50 to 8:50 PM  
-3. Music practice: 20 minutes \- 11:50 to 12:10 PM  
-4. Maths practice: 20 minutes \- 12:12 to 12:35 PM  
-5. Eye exercise: 20 minutes \- 12:37 to 12:47; 3:00 to 3:10 PM (not included in total)  
-6. Programing practice: 30 minutes \- 12:55 to 1:30 PM  
-7. Social HW: 1 hour \- 1:35 to 2:35 PM   
-8. **Total: 5 hours 20 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. English HW: 2 hour \- 10:25 to 11:25 AM ; 7:50 to 8:50 PM  
+
+3. Music practice: 20 minutes \- 11:50 to 12:10 PM  
+
+4. Maths practice: 20 minutes \- 12:12 to 12:35 PM  
+
+5. Eye exercise: 20 minutes \- 12:37 to 12:47; 3:00 to 3:10 PM (not included in total)  
+
+6. Programing practice: 30 minutes \- 12:55 to 1:30 PM  
+
+7. Social HW: 1 hour \- 1:35 to 2:35 PM   
+
+8. **Total: 5 hours 20 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **09 January 2026 \- Friday**
 
 1. English HW: 1 hour \- 10:30 to 11:30 AM  
-2. Devanagari HW: 1 hour 20 minutes \- 12:00 to 1:20 PM;   
-3. Programming HW: 1 hour 20 minutes ; 1:40 to 3:00 PM  
-4. Maths and programming practice:  40 minutes   
-5. Eye exercise: 20 minutes \- 3:25 to 3:35; 5:00 to 5:10 PM (not included in total)  
-6. Understanding AI Paper work: 45 minutes; 4:00 to 4:45 PM  
-7. **Total: 5 hours 5 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. Devanagari HW: 1 hour 20 minutes \- 12:00 to 1:20 PM;   
+
+3. Programming HW: 1 hour 20 minutes ; 1:40 to 3:00 PM  
+
+4. Maths and programming practice:  40 minutes   
+
+5. Eye exercise: 20 minutes \- 3:25 to 3:35; 5:00 to 5:10 PM (not included in total)  
+
+6. Understanding AI Paper work: 45 minutes; 4:00 to 4:45 PM  
+
+7. **Total: 5 hours 5 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **12 January 2026 \- Monday**
 
 1. Social HW: 2 hours \- 10:20 to 11:20 AM; 2:30 to 3:30 PM  
-2. Devanagari HW: 1 hour \- 11:30 to 12:30 PM  
-3. Music practice: 20 minutes \- 1:05 to 1:25 PM  
-4. Programming practice: 20 minutes \- 1:30 to 1:50 PM  
-5. Maths practice:  20 minutes \-  1:55 to 2:15 pm   
-6. Class notes revision: 30 minutes \- 3:35 to 4:05 AM  
-7. Eye exercise: 20 minutes \- 11:20 to 11:30; 4:40 to 4:50 PM (not included in total)  
-8. AI Paper work: 1 hour 10 minutes \- 5:00 to 5:45; 8:00 to 8:25 PM  
-9. **Total: 5 hours 30 minutes**
 
- **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+2. Devanagari HW: 1 hour \- 11:30 to 12:30 PM  
+
+3. Music practice: 20 minutes \- 1:05 to 1:25 PM  
+
+4. Programming practice: 20 minutes \- 1:30 to 1:50 PM  
+
+5. Maths practice:  20 minutes \-  1:55 to 2:15 pm   
+
+6. Class notes revision: 30 minutes \- 3:35 to 4:05 AM  
+
+7. Eye exercise: 20 minutes \- 11:20 to 11:30; 4:40 to 4:50 PM (not included in total)  
+
+8. AI Paper work: 1 hour 10 minutes \- 5:00 to 5:45; 8:00 to 8:25 PM  
+
+9. **Total: 5 hours 30 minutes**
+   **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **13 January 2026 \- Tuesday**
 
@@ -630,9 +691,217 @@ Total:1 hours 20 minutes
 7. **Total: 5 hours 40 minutes**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-
 **3 February 2026 \- Tuesday:**
 
 1. Maths HW: 1 hour 10 minutes \-  8:20  to 9:30 AM  
 2. Music HW: 1 hour \- 9:40 to 10:40 AM  
-3. **Total: 2 hours 10 minutes**
+3. Telugu HW: 1 hour \- 10:45 to 11:45 AM
+4. Music practice: 20 minutes \- 11:55 to 12:15 PM  
+5. Programming practice: 20 minutes \- 12:20 to 12:40 PM  
+6. **Total: 3 hours 50 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**4 February 2026 \- Wednesday:**
+
+1. Maths HW: 1 hour  \-  8:15  to 9:15 AM  
+2. Music HW: 1 hour \- 9:20 to 10:20 AM
+3. Music practice: 20 minutes \- 10:30 to 10:50 PM
+4. English HW : 1 hour \- 10:55 to 11:55 AM
+5. Telugu HW: 1 hour 10 minutes \- 11:57 to 1:07 AM
+6. Programming practice: 25 minutes \- 1:10 to 1:35 PM
+7. **Total: 4 hours 55 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**5 February 2026 \- Thursday:**
+
+1. Maths HW: 1 hour 10 minutes \-  8:20  to 9:30 AM  
+2. Telugu HW: 1 hour \- 10:45 to 11:45 AM
+3. Music practice: 20 minutes \- 11:55 to 12:15 PM  
+4. Programming HW: 1 hour 5 minutes \- 12:20 to 1:25 PM  
+5. Math league: 1 hour \- 8:00 PM to 9:00 PM
+6. **Total: 4 hours 45 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**6 February 2026 \- Friday:**
+
+1. Telugu HW: 1 hour \- 8:20  to 9:30 AM    
+2. Maths HW: 1 hour \- 9:30 to 10:30 AM  
+3. Music practice: 20 minutes \- 10:35 to 10:55 AM  
+4. Programming practice: 25 minutes \- 11:05 to 11:30 AM  
+5. Music HW: 1 hour  \- 12:00 to 1:00 PM  
+6. **Total: 3 hours 45 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**9 February 2026 \- Monday:**
+
+1. Music HW: 1 hour \- 8:15 to 9:15 AM  
+2. Telugu HW: 1 hour 15 minutes \- 9:20  to 10:35 AM  
+3. English HW: 1 hour \- 10:45 to 11:45 PM  
+4. Music practice: 20 minutes \- 12:05 to 12:25 PM  
+5. Programming practice: 25 minutes \- 12:35 to 1:00 PM   
+6. **Total: 5 hours 40 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**10 February 2026 \- Tuesday:**
+
+1. English HW: 1 hour  \-  8:20  to 9:20 AM  
+2. Maths HW: 1 hour 15 minutes \- 9:25 to 10:40 AM  
+3. Telugu HW: 1 hour \- 10:45 to 11:45 AM
+4. Music practice: 20 minutes \- 11:55 to 12:15 PM  
+5. Programming practice: 20 minutes \- 12:20 to 12:40 PM  
+6. **Total: 3 hours 55 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**11 February 2026 \- Wednesday:**
+
+1. Programming HW: 55 minutes \-  8:30  to 9:25 AM  
+2. Class notes revision: Science, Languages, Social, Technology: 45 minutes \- 9:30 to 10:15 AM
+3. Music practice: 20 minutes \- 11:45 to 12:05 PM
+4. Telugu HW : 2 hours 20 minutes \- 10:30 to 11:40 AM;  1:45 to 2:55 PM
+5. Maths HW: 1 hour 10 minutes \- 12:10 to 1:20 PM
+6. English HW : 30 minutes \- 6:30 to 7:00 PM
+7. **Total: 6 hours**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**12 February 2026 \- Thursday:**
+
+1. Programming HW: 1 hour \-  8:15  to 9:15 AM  
+2. Telugu HW: 1 hour \- 9:25 to 10:25 AM 
+3. Maths HW: 1 hour 10 minutes \- 11:30 to 12:40 PM
+4. Music practice: 20 minutes \- 12:45 to 1:05 PM  
+5. Math league: 1 hour \- 8:00 PM to 9:00 PM
+6. **Total: 4 hours 30 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**13 February 2026 \- Friday:**
+
+1. Telugu HW: 1 hour \- 8:20  to 9:30 AM    
+2. Maths HW: 1 hour \- 9:30 to 10:30 AM  
+3. Music practice: 20 minutes \- 10:35 to 10:55 AM  
+4. Programming practice: 25 minutes \- 11:05 to 11:30 AM  
+5. Technology HW: 1 hour  \- 12:00 to 1:00 PM  
+6. **Total: 3 hours 45 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**16 February 2026 \- Monday:**
+
+1. Music HW: 1 hour \- 8:15 to 9:15 AM  
+2. Maths HW: 1 hour 10 minutes \-  9:20  to 10:30 AM  
+3. English HW: 40 minutes \- 10:35 to 11:15 AM  
+4. Technology HW: 1 hour 15 minutes \- 11:45 to 1:00 PM  
+5. Music practice: 20 minutes \- 1:05 to 1:25 PM  
+6. Telugu: 1 hour 15 minutes \- 5:45 to 7:00 PM  
+7. **Total: 5 hours 40 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**17 February 2026 \- Tuesday:**
+
+1. Maths HW: 1 hour 10 minutes \-  8:20  to 9:30 AM  
+2. Telugu HW: 1 hour 20 minutes \- 9:30 to 10:50 AM  
+3. Technology HW: 2 hours 15 minutes \- 10:55 to 11:55 AM ; 7:00 PM to 8:15 PM
+4. Music practice: 20 minutes \- 11:55 to 12:15 PM
+5. Programming practice: 20 minutes \- 12:20 to 12:40 PM
+6. **Total: 5 hours 25 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**18 February 2026 \- Wednesday:**
+
+1. Maths HW: 1 hour 10 minutes \-  8:15  to 9:25 AM  
+2. Technology HW: 1 hour 15 minutes\- 9:30 to 10:45 AM
+3. Music practice: 20 minutes \- 10:50 to 11:10 AM
+4. English HW : 1 hour \- 11:15 to 12:15 PM
+5. Telugu HW: 1 hour 10 minutes \- 12:17 to 1:27 AM
+6. Programming practice: 25 minutes \- 2:10 to 2:35 PM
+7. **Total: 5 hours 20 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**19 February 2026 \- Thursday:**
+
+1. Maths HW: 1 hour 10 minutes \-  8:20  to 9:30 AM  
+2. Telugu HW: 1 hour \- 10:45 to 11:45 AM 
+3. Music practice: 20 minutes \- 11:55 to 12:15 PM
+4. Technology HW: 2 hour 5 minutes \- 9:35 to 10:35; 12:20 to 1:25 PM 
+5. Math league: 1 hour \- 8:00 PM to 9:00 PM
+6. **Total: 5 hours 35 minutes**
+
+__\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**20 February 2026 \- Friday:**
+
+1. Telugu HW: 1 hour \- 9:10 to 10:10 AM    
+2. Maths HW: 1 hour 10 minutes\- 10:15 to 11:25 AM
+3. **_Got fever and slept_**
+4. **Total: 2 hours 10 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**23 February 2026 \- Monday:**
+
+1. Telugu HW: 1 hour \- 9:05 to 10:05 AM  
+2. Class notes revision: 30 minutes \-  10:15  to 10:45 AM  
+3. Technology HW: 1 minutes 10 minutes \- 11:20 to 12:20 PM 
+4. Maths HW: 1 hour \- 12:25 to 1:25 PM  
+5. Music practice: 20 minutes \- 1:45 to 2:05 PM  
+6. Devanagari/Hindi HW: 1 hour \- 4:10 to 5:10 PM 
+7. **_Total: 3 hours 50 minutes_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+**_24 February 2026 \- Tuesday:_**
+
+1. Technology/Telugu HW (LaTeX/TeX Multilingual Copy-Tracing Books): 1 hour 50 minutes \- 8:25 to 10:15 AM
+2. Telugu HW: 1 hour \- 10:15 to 11:15 AM
+3. Devanagari/Hindi HW: 1 hour \- 11:20 AM to 12:20 PM
+4. Music Practice: 20 minutes \- 12:20 to 12:40 PM
+5. **_Total: 4 hours 10 minutes_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_25 February 2026 \- Wednesday:_**
+1. Telugu HW: 1 hour \- 7:43 to 8:43 AM
+2. Technology HW: 2 hours \- 8:43 to 9:00 PM\; 11:00 AM to 12:43 PM
+3. Devanagari HW: 1 hour \- 9:00 to 10:00 PM
+4. Music Practice: 20 minutes \- 12:43 to 1:03 PM
+6. **_Total: 4 hours 20 minutes_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_26 February 2026 \- Thursday:_**
+1. Maths HW: 4 hours 40 minutes \- 8:30 to 11:00 AM; 1:00 to 3:10 PM
+2. Math League: 1 hour - 8:00 to 9:00 PM
+3. **_Total: 5 hours 40 minutes_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_27 February 2026 \- Friday:_**
+1. Telugu HW: 1 hour \- 7:00 to 8:00 AM
+2. Music Practice: 20 minutes \- 8:10 to 8:30 AM
+3. English HW: 1 hour \- 9:00 to 10:00 AM
+4. Maths HW: 3 hours 35 minutes \- 10:10 AM to 1:45 PM
+5. **_Total: 5 hours 55 minutes_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_02 March 2026 \- Monday_<u>**:
+1. English HW: 1 hour \- 7:20 to 8:20 AM
+2. Programming HW: 1 hour \- 8:30 to 9:30 AM
+3. Devanagari/Hindi HW: 1 hour 10 minutes \- 10:30 to 11:40 AM
+4. Music Practice: 20 minutes \- 12:45 to 1:05 PM
+5. **_<u>Total: 3 hours 30 minutes<u>_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_03 March 2026 \- Tuesday_<u>**:
+1. Maths HW: 1 hour \- 8:10 to 9:10 AM
+2. English HW: 1 hour \- 9:30 to 10:30 AM
+3. Devanagari/Hindi HW: 1 hour \- 10:40 to 11:40 AM
+4. Programming Revision: 30 minutes \- 12:00 to 12:30 PM
+5. Music Practice: 30 minutes \- 1:00 to 1:30 PM
+6. **<u>_Total: 4 hours_<u>**

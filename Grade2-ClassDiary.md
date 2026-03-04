@@ -553,5 +553,67 @@ No classes; Completed homeworks and revision;
      - HW: Write it manually - neatly!
      
      - HW: Learn the meanings.
+       
+       
+
+**<u>16022026 - 23022026 Monday - Monday:</u>** No classes; Presidents day holiday; Teacher/Student sick; Finished HWs, revision;
+
+
+
+**<u>24022026 Tuesday:</u>**
+
+1. Telugu: 
+   
+   - HW: Memorize last two stories by heart; Recite to your parents 10 times
+   
+   - HW: Complete textbook/workbook
+   
+   - Latex copy tracing book - Telugu
+     
+     - HW: Verify and complete this 
+       
+       
+
+**<u>25022026-27022026 Wednesday, Thursday, Friday:</u>** No classes; Finished HWs, revision; Student had trouble with Maths homework - worked on it again. 
+
+
+
+**<u>02032026 Monday:</u>**
+
+1. Maths:
+   
+   - Checked AI word problems HW 
+   - Prime factorization to find no. of common factors - See AI notes 
+     - HW: Complete AI exercises 
+   - Percentages, ratios, proportions (direct/indirect) - see AI notes
+     - HW: Complete AI exercises
+       
+       
+
+**<u>03032026 Tuesday:</u>**
+
+1. English: 
+   
+   - HW: Complete (1) AP textbook (2) Ap workbook (3) Copy tracing book (4) Copy tracing cursive 
+   
+   - Mahavira -Chapter 3 - AI Summary 
+     
+     - This book goes into more details about the history and disagreements that historians have about Mahavira's life. The story becomes difficult to follow but teaches us about how history is not always straight forward and we shouldn't blindly believe it just because it's written in a book. 
+     
+     - HW Read Ch.3 - AI Summary
+
+2- Programming: 
+   
+   - Completed AI exercises from 05 Dec 25 
+     
+     - HW: Practice Ex-12 - write all of it yourself using functions from Ex-1 to 11
+   
+   - HW: Update Jupyter notebooks from 05 Dec 25
+
+
+
+
+
+
 
 
