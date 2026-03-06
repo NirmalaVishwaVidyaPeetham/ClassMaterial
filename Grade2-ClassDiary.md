@@ -603,17 +603,39 @@ No classes; Completed homeworks and revision;
      - HW Read Ch.3 - AI Summary
 
 2- Programming: 
+
+- Completed AI exercises from 05 Dec 25 
+  
+  - HW: Practice Ex-12 - write all of it yourself using functions from Ex-1 to 11
+
+- HW: Update Jupyter notebooks from 05 Dec 25
+  
+  
+
+**<u>04032026 Wednesday:</u>** No classes; Finished homeworks and revision;
+
+
+
+**<u>05032026 Thursday:</u>**
+
+1. Science: 
    
-   - Completed AI exercises from 05 Dec 25 
+   - Checked AP Intermediate Physics textbooks (Grade 11&12) 
+   
+   - Proportions - examples from Physics; See AI notes 
      
-     - HW: Practice Ex-12 - write all of it yourself using functions from Ex-1 to 11
+     - HW: Complete AI exercises 
    
-   - HW: Update Jupyter notebooks from 05 Dec 25
+   - Next class: Use AI to find all the exemples of proportions in AP Intermediate Physics-I textbook
 
-
-
-
-
-
-
-
+2. Social studies - Life Skills: 
+   
+   - Curriculum vitae vs. Resume 
+     
+     - See university examples 
+     
+     - See Al notes 
+     
+     - See draft CV for student (not corrected) 
+     
+     - HW: Prepare your own CV & resume in 'markdown' 
