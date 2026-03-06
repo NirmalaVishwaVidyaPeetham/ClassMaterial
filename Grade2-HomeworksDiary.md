@@ -907,7 +907,7 @@ __\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 6. **<u>_Total: 4 hours_<u>**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
-**<u>_4 March 2026 \- Tuesday_<u>**
+**<u>_4 March 2026 \- Wednesday_<u>**
 1. English HW: 1 hour \- 8:45 to 9:45 AM
 2. Programming HW: 1 hour 15 minutes \- 10:00 to 11:15 AM
 3. Devanagari/Hindi HW: 3 hours 40 minutes \- 11:25 AM to 12:30 PM; 1:00 to 2:20 PM; 2:30 to 3:45 PM
@@ -915,9 +915,17 @@ __\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 5. **<u>_Total: 6 hours 15 minutes_<u>**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
-**<u>_5 March 2026 \- Wednesday<u>**
+**<u>_5 March 2026 \- Thursday<u>**
 1. Maths HW: 1 hour \- 8:00 to 9:00 AM
 2. Telugu HW: 1 hour \- 9:10 to 10:10 AM
 3. Programming HW: 1 hour \- 10:15 to 10:15 AM
 4. Music Practice: 20 minutes \- 11:15 to 11:35 AM
-5. **<u>_3 hours 20 minutes<u>**
+5. Math League: 1 hour \- 8:00 to 9:00 PM
+6. **<u>_4 hours 20 minutes<u>**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_6 March 2026 \- Friday<u>**
+1. Social HW: 1 hour \- 8:00 to 9:00 AM
+2. Music Practice: 20 minutes \- 9:55 to 10:15 AM
+3. Going to the Great Smoky Mountains, Gatlinburg, Tennessee, USA in the afternoon + there are classes, so couldn't complete 3 hours 30 minutes
+4. **<u>_Total: 1 hour 20 minutes_<u>**

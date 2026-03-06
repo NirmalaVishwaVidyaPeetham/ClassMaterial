@@ -639,3 +639,17 @@ No classes; Completed homeworks and revision;
      - See draft CV for student (not corrected) 
      
      - HW: Prepare your own CV & resume in 'markdown' 
+
+
+
+**<u>06032026 Friday:</u>**
+
+1. Music:  Practiced 3 songs (1) Mata nirmala Maheswari (2) Jaag uthe (3) Sharanu gori 
+   
+   - HW: Correct these songs, breakdown etc. and practice singing together
+
+2. Devanagari: Copy tracing book (latex) 
+   
+   - HW: fix it - show it to your parents; Add missing letters; Complete copy tracing
+
+
