@@ -924,8 +924,25 @@ __\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 6. **<u>_4 hours 20 minutes<u>**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
-**<u>_6 March 2026 \- Friday<u>**
+**<u>_6 March 2026 \- Friday_<u>**
 1. Social HW: 1 hour \- 8:00 to 9:00 AM
 2. Music Practice: 20 minutes \- 9:55 to 10:15 AM
-3. Going to the Great Smoky Mountains, Gatlinburg, Tennessee, USA in the afternoon + there are classes, so couldn't complete 3 hours 30 minutes
+3. Going to the Great Smoky Mountains, Gatlinburg, Tennessee, USA in the afternoon $+$ there are classes, so couldn't complete 3 hours 30 minutes
 4. **<u>_Total: 1 hour 20 minutes_<u>**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_9 March 2026 \- Monday_<u>**
+1. Social HW: 1 hour \- 10:00 to 11:00 AM
+2. Maths HW: 2 hours 25 minutes \- 11:20 AM to 1:00 PM; 7:15 to 8:00 PM
+3. Music HW: 1 hour \- 1:10 to 2:10 PM
+4. Devanagari/Hindi HW: 45 minutes \- 2:15 to 3:00 PM
+5. Music Practice: 20 minutes \- 3:40 to 4:00 PM
+6. **<u>_Total: 5 hours 30 minutes_<u>**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_10 March 2026 \- Tuesday_<u>**
+1. Telugu HW: 1 hour \- 8:10 to 9:10 AM
+2. Maths HW: 1 hour 45 minutes \- 9:30 to 11:15 AM
+3. Music Practice: 20 minutes \- 1:00 to 1:20 PM
+4. Class Notes Revision (Telugu, Maths): 25 minutes \- 1:30 to 1:55 PM
+5. **<u>_Total: 3 hours 30 minutes_<u>**

@@ -639,8 +639,8 @@ No classes; Completed homeworks and revision;
      - See draft CV for student (not corrected) 
      
      - HW: Prepare your own CV & resume in 'markdown' 
-
-
+       
+       
 
 **<u>06032026 Friday:</u>**
 
@@ -651,5 +651,25 @@ No classes; Completed homeworks and revision;
 2. Devanagari: Copy tracing book (latex) 
    
    - HW: fix it - show it to your parents; Add missing letters; Complete copy tracing
+     
+     
 
+**<u>09032026 Monday:</u>** No classes; Homeworks and revision;
 
+**<u>10032026 Tuesday:</u>** 
+
+1. Telugu: 
+   
+   - HW: పాత HWs పూర్తి చేయాలి 
+   
+   - తెలుగు సహజయోగ భజనలు/ పాటలు: (1) శరణుగోరి నీ చరణము (2) మాతా నిర్మల మహేశ్వరి - AI తో ఈ పాటల మీద అభ్యాసాలు/ప్రశ్నలు తయారు చేసాం 
+     
+     - HW: ఈ పాటలు, అభ్యాసాలు సరిజేసి సమాధానాలు వ్రాయాలి.
+   
+   - మూషిక మార్గాలాల కథ; AI తో ప్రతి పదార్థాలు వ్రాసాం; AI తో English అనువాదం, సారాంశాలు 
+     
+     - HW: ఇవి చదివి సరి చేయాలి
+   
+   - తెలుగు చందమామ కథలు 
+     
+     - HW: వీలైనపుడు చదవాలి
