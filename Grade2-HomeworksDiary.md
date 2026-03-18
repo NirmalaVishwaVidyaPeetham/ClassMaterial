@@ -193,7 +193,7 @@ Total:1 hours 20 minutes
 
 1. Telugu HW: 1 hour 30 minutes \- 9:40 to 11:10  
 2. Music practice: 30 minutes \- 11:10 to 11:40 AM  
-3. \<Travelled for Thanksgiving break\>  
+3. Travelled for Thanksgiving break
 4. **Total: 2 hours**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -946,3 +946,53 @@ __\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 3. Music Practice: 20 minutes \- 1:00 to 1:20 PM
 4. Class Notes Revision (Telugu, Maths): 25 minutes \- 1:30 to 1:55 PM
 5. **<u>_Total: 3 hours 30 minutes_<u>**
+
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_11 March 2026 \- Wednesday_<u>**
+1. Telugu HW: 1 hour 15 minutes \- 8:00 to 9:15 AM
+2. Maths HW: 2 hours \- 9:20 AM to 11:20 AM
+3. Music HW: 1 hour \- 11:30 to 12:30 PM
+4. Devanagari/Hindi HW: 1 hour  \- 1:15 to 2:15 PM
+5. Music Practice: 20 minutes \- 2:20 to 2:40 PM
+6. **<u>_Total: 5 hours 35 minutes_<u>**
+
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_12 March 2026 \- Thursday_<u>**
+1. English HW: 2 hours \- 7:45 to 9:00 AM;  3:00-3:45PM
+2. Maths HW: 1 hours 25 minutes \- 9:30 AM to 10:55 PM
+3. Devanagari/Hindi HW: 2 hours \- 11:00 to 1:00 PM
+4. Music Practice: 20 minutes \- 1:40 to 2:00 PM
+5. Math League: 1 hour \- 8:00 - 9:00 PM 
+6. **<u>_Total: 6 hours 45 minutes_<u>**
+
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_13 March 2026 \- Friday_<u>**
+1. Telugu HW: 1 hour \- 8:00 to 9:00 AM
+2. Maths HW: 3 hours 35 minutes \- 9:25 AM to 12:00 PM; 8:00 to 9:00 PM
+3. Science HW: 1 hour 15 minutes \- 1:00 to 2:15 PM
+4. Programming Revision: 25 minutes \- 2:15 to 2:35 PM
+5. Music Practice: 20 minutes \- 2:40 to 3:00 PM
+6. **<u>_Total: 6 hours 45 minutes_<u>**
+
+
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_16 March 2026 \- Monday_<u>**
+1. Telugu HW: 1 hour \- 7:50 to 8:50 AM
+2. English HW: 1 hour \- 9:00 AM to 9:25 PM; 10:10 to 10:45 AM
+3. Devanagari/Hindi HW: 35 minutes \- 9:35 to 10:05 AM
+4. Science HW: 3 hours 35 minutes \- 10:10 to 12:30 PM; 6:10 to 7:25 PM
+5. Music Practice: 20 minutes \- 1:00 to 1:20 PM
+6. **<u>_Total: 6 hours 30 minutes_<u>**
+
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_17 March 2026 \- Tuesday_<u>**
+1. Devanagari/Hindi: 2 hours \- 9:00 to 11:00 AM
+2. Telugu HW: 30 minutes \- 11:20 to 11:50
+3. English HW: 30 minutes \- 11:50 AM to 12:20 PM
+4. Music Practice: 1 hour 10 minutes \- 1:50 to 2:00 PM; 2:10 to 3:10 PM
+5. **<u>_Total: 4 hours 10 minutes_<u>**

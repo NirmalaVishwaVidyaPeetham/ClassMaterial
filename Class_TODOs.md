@@ -47,7 +47,7 @@
 
 **Maths:** 
 
-0. Percentages, Proportions, ratios, equations lhs rhs, geometry
+0. Percentages, Proportions, ratios, equations lhs rhs, geometry - proportions direct indirect combined
 1. Maths: ‘negative n’th roots ; y \= 1/x; sq. roots \+ve/-ve; rational, irrational, real/imaginary \- complex numbers; Logarithms;  Powers like 3^4.2; Use binary search to find logarithms; Powers of numbers \> 1 vs \<1/\>0; Equations \- move variables between LHS and RHS;   
 2. NIOS levels A/B/C textbooks \- cover all these topics; texts have several typos \- fix or use different textbooks for those topics; 
 
@@ -63,7 +63,8 @@
 
 **Science:** 
 
-1. Music Chandassu paper   
+1. proportions direct indirect combined
+Music Chandassu paper   
 2. Projects \- Drones and Brain Computer Interfaces   
 3. Textbooks \- Physics,Biology \- OpenStax, AP/Telangana/CBSE Intermediate level physics; Introductory Neuroscience for BCI \- some background of electricity for Neuroscience; Chemistry basics; 
 

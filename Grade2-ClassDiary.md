@@ -673,3 +673,29 @@ No classes; Completed homeworks and revision;
    - తెలుగు చందమామ కథలు 
      
      - HW: వీలైనపుడు చదవాలి
+       
+       
+
+**<u>11032026 - 16032026 Wednesday - Monday :</u>** No classes; Homeworks and revision; 
+
+
+
+**<u>17032026 Tuesday:</u>**
+
+1. Maths & Science: Proportions 
+   
+   - Maths class from 02 Mar' 26; Science class from 05 Mar' 26
+   
+   - Checked Maths HWs
+   
+   - Inverse proportion - Sequential & parallel work - examples - AI notes
+     
+     - HW: Run the python example with different number of cores from 1 to 4 and note how the time changes
+   
+   - Solving two simple equations - AI notes
+     
+     - HW: Solve AI exercises
+
+
+
+
