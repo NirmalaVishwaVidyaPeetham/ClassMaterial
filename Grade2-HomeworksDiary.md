@@ -988,7 +988,6 @@ __\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 5. Music Practice: 20 minutes \- 1:00 to 1:20 PM
 6. **<u>_Total: 6 hours 30 minutes_<u>**
 
-
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
 **<u>_17 March 2026 \- Tuesday_<u>**
 1. Devanagari/Hindi: 2 hours \- 9:00 to 11:00 AM
@@ -996,3 +995,33 @@ __\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 3. English HW: 30 minutes \- 11:50 AM to 12:20 PM
 4. Music Practice: 1 hour 10 minutes \- 1:50 to 2:00 PM; 2:10 to 3:10 PM
 5. **<u>_Total: 4 hours 10 minutes_<u>**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_18 March 2026 \- Wednesday_</u>**
+1. Maths HW: 2 hours 30 minutes \- 8:15 to 9:30 AM; 1:35 to 3:00 PM
+2. Telugu HW: 1 hour \- 9:35 to 10:35 AM
+3. English HW: 1 hour \- 10:45 to 11:45 AM
+4. Music Practice: 30 minutes \- 12:00 to 12:30 PM
+5. Devanagari/Hindi HW: 30 minutes \- 3:20 to 3:50 PM
+6. **<u>_Total: 5 hours 30 minutes_</u>**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_19 March 2026 \- Thursday_</u>**
+1. Class Notes Revision: 30 minutes \- 8:20 to 8:50 AM
+2. Music Practice: 20 minutes \- 8:55 to 9:15 AM
+3. Eye Exercise (Morning Time and Not Included in Total): 15 minutes \- 9:15 to 9:30 AM
+4. Telugu HW: 30 minutes \- 11:30 AM to 12:00 PM
+5. English HW: 1 hour 40 minutes \- 12:00 to 1:40 PM
+6. Math League (Practiced Old Files): 30 minutes \- 9:00 to 9:30 PM
+> (Ugadi Break + No Classes, So Teacher Told Me To Study 3 hours 30 minutes)
+7. **<u>_Total: 3 hours 30 minutes_</u>**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**<u>_20 March 2026 \- Friday_</u>**
+1. Telugu HW: 30 minutes \- 8:20 to 8:50 AM
+2. English HW: 30 minutes \- 9:00 to 9:30 AM
+3. Math League (Practiced Old Files): 30 minutes \- 9:30 to 10:00 AM
+4. Music Practice: 20 minutes \- 10:00 to 10:20 AM
+5. Class Notes Revision + అప్పజెప్పడం: 1 hour \- 10:20 to 11:20 AM
+6. Maths HW: 1 hour \- 11:20 AM to 12:20 PM
+7. **<u>_3 hours 50 minutes_</u>**

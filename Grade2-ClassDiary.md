@@ -695,7 +695,23 @@ No classes; Completed homeworks and revision;
    - Solving two simple equations - AI notes
      
      - HW: Solve AI exercises
+       
+       
 
+**<u>18032026-19032026 Wednesday,Thursdayy:</u>** No classes; Homeworks and revision; Plus Ugadi holiday;
 
+**<u>20032026 Friday:</u>**
+
+1. English: 
+   
+   - HW: Complete previous 
+   
+   - Mahavira story: the text is not written in an interesting way to read as a story; And also doesn't seem to believe in the miracles of the incarnation. So we used AI summaries for all the chapters.
+     
+     - HW: Study AI Summaries of all the chapters: 
+   
+   - Shri Mataji's Speech on Mahavira puja 1991; AI Summary and comparison with text chapters; 
+     
+     - HW: Study this; Listen to + read full puja speech
 
 

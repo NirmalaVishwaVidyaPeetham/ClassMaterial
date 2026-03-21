@@ -24,7 +24,8 @@
 
 1. Learn Indian and American National Anthems; Indian pledge;  
 2. Project Gutenberg books \- add to drive
-3. William Blake's writings
+3. William Blake's writings; Mahavira's teachings; 
+4. Carl Jung's writings - Red book 
 
 **Social:**
 
@@ -64,7 +65,7 @@
 **Science:** 
 
 1. proportions direct indirect combined
-Music Chandassu paper   
+   Music Chandassu paper   
 2. Projects \- Drones and Brain Computer Interfaces   
 3. Textbooks \- Physics,Biology \- OpenStax, AP/Telangana/CBSE Intermediate level physics; Introductory Neuroscience for BCI \- some background of electricity for Neuroscience; Chemistry basics; 
 
