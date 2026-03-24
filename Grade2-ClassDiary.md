@@ -713,5 +713,16 @@ No classes; Completed homeworks and revision;
    - Shri Mataji's Speech on Mahavira puja 1991; AI Summary and comparison with text chapters; 
      
      - HW: Study this; Listen to + read full puja speech
+       
+       
 
+**<u>23032026 Monday:</u>** No classes; Revision, homeworks;
 
+**<u>24032026 Tuesday:</u>**
+
+1. Programming: 
+   - Checked previous homeworks 
+   
+   - Bitwise operators - See AI notes
+     
+     - HW: (1) Fix AI notes MD files based on pdfs etc. (2) Circular shift operations - python code - run and understand (3) Complete AI exercises - manually and verify in python (4) Complete advanced operator exercises - manually and in python 

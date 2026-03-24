@@ -17,6 +17,7 @@
 8. Carnatic songs:   
    1. [https://www.karnatik.com/co1010.shtml](https://www.karnatik.com/co1010.shtml)   
    2. [http://www.sangeetasudha.org/annamacharya/](http://www.sangeetasudha.org/annamacharya/)   
+      3. Ramachandrudithadu like jayjayvanti.. dwijaywanti 
 9. Create Jupyter notebooks for playing music notes etc.   
 10. Read paper on Carnatic music vs Maths
 
