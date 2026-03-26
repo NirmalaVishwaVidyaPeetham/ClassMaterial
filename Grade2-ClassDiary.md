@@ -721,8 +721,37 @@ No classes; Completed homeworks and revision;
 **<u>24032026 Tuesday:</u>**
 
 1. Programming: 
+   
    - Checked previous homeworks 
    
    - Bitwise operators - See AI notes
      
      - HW: (1) Fix AI notes MD files based on pdfs etc. (2) Circular shift operations - python code - run and understand (3) Complete AI exercises - manually and verify in python (4) Complete advanced operator exercises - manually and in python 
+       
+       
+
+**<u>25032026 Wednesday:</u>** No classes; Revision, homeworks
+
+
+
+**<u>26032026 Thursday:</u>** 
+
+1. Music: 
+   
+   - HW: Write Sharanugo:ri song in the following way: Telugu lyrics, Phonetic lyrics, Swaras
+   
+   - HW: Spring Break Complete the Chandassh paper
+   
+   - Practiced singing
+     
+     - HW: Sing loudly and ensure it sounds nice.
+   
+   - Book/Study Materials: Sangeetha sastra suthernavamu - Gamakas chapter - AI translation - Python code - AI notes
+   
+   - HW: Study these documents and fix any mistakes; run the Python code.
+   
+   - HW: See chapters on Shruthis and Grehabhecham
+   
+   - HW: Watch a video on Carnatic vs Hindusthani Indian classical music. : [Hindustani vs Carnatic | Indian Classical Music - YouTube](https://www.youtube.com/watch?app=desktop&v=StBjFqBCBHQ)
+
+

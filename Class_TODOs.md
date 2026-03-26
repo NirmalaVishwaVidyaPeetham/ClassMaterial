@@ -9,17 +9,22 @@
 
 1. Hindustani ragas/songs practiced  - ayi ayi song
 2. Carnatic music \- gamakas  
-3. Grahabhedham code  
-4. Automate swara detection from live/file feed, extracting vocal channel first  
-5. Bhajans swaranjali book.. spontaneous singing looking at swaras  
-6. Melakartha 14+15 \- 3 songs+1 composition  
-7. Maa telugu thalliki paata swaralu, sangeetham \- learn  
-8. Carnatic songs:   
+3. * Hindustani vs carnatic .. gamakas.. embellishments of notes
+     * https://m.youtube.com/watch?v=StBjFqBCBHQ
+     * 6\_PDFsam\_UV481-SangeetaSastraSudharnavamu.pdf has detailed descriptions of gamakas.. also see about 22 shruthis, melakartha grahabhedha/moorchana tables..
+     * Python code for Hindusthani vs Carnatic gamakas
+     * Instead of step functions, using a smooth function to transition.. like sigmoid functions.. natural in neurons so may be natural for human brains to process.. different kinds of smoothing functions .. may be even spontaneous..
+4. Grahabhedham code  
+5. Automate swara detection from live/file feed, extracting vocal channel first  
+6. Bhajans swaranjali book.. spontaneous singing looking at swaras  
+7. Melakartha 14+15 \- 3 songs+1 composition  
+8. Maa telugu thalliki paata swaralu, sangeetham \- learn  
+9. Carnatic songs:   
    1. [https://www.karnatik.com/co1010.shtml](https://www.karnatik.com/co1010.shtml)   
    2. [http://www.sangeetasudha.org/annamacharya/](http://www.sangeetasudha.org/annamacharya/)   
       3. Ramachandrudithadu like jayjayvanti.. dwijaywanti 
-9. Create Jupyter notebooks for playing music notes etc.   
-10. Read paper on Carnatic music vs Maths
+10. Create Jupyter notebooks for playing music notes etc.   
+11. Read paper on Carnatic music vs Maths
 
 **English:**
 
@@ -230,10 +235,6 @@ Chess \-  teaches how to follow a sequence of steps obeying valid rules.. and to
 
 Music
 
-* Hindustani vs carnatic .. gamakas.. embellishments of notes  
-  * https://m.youtube.com/watch?v=StBjFqBCBHQ  
-  * 6\_PDFsam\_UV481-SangeetaSastraSudharnavamu.pdf has detailed descriptions of gamakas.. also see about 22 shruthis, melakartha grahabhedha/moorchana tables..   
-  * Instead of step functions, using a smooth function to teansition.. like sigmoid functions.. natural in neurons so may be natural for human brains to process.. different kinds of smoothing functions .. may be even spontaneous..   
 * Pillari geethaalu graha bhedham  
 * Daily practice \- what and how long \- with and without vocal pitch monitor app..   
 * SY Bhajans harmonium: [https://www.youtube.com/@SAHAJAYOGAHARMONIUM](https://www.youtube.com/@SAHAJAYOGAHARMONIUM)   

@@ -1046,3 +1046,23 @@ __\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 4. Music Practice: 20 minutes \- 11:45 AM to 12:05 PM
 5. Programming Revision: 10 minutes \- 12:15 to 12:25 PM
 6. **_<u>3 hours 30 minutes</u>_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>25 March 2026 \- Wednesday</u>_**
+1. Programming HW: 2 hours \- 9:00 to 10:00 AM; 2:10 to 3:10 PM
+2. Maths Practice/Revision: 20 minutes \- 11:00 to 11:20 AM
+3. Telugu HW: 1 hour \- 11:40 AM to 12:40 PM
+4. English HW: 1 hour \- 12:40 to 1:40 PM
+5. Music Practice: 20 minutes \- 1:40 to 2:00 PM
+6. Class Notes Revision (Social, Music, Devanagari/Hindi, Science, Technology): 30 minutes \- 3:10 to 3:40 PM
+7. Devanagari/Hindi HW: 20 minutes \- 3:40 to 4:00 PM
+8. **_<u>Total: 5 hours 30 minutes</u>_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>25 March 2026 \- Wednesday</u>_**
+1. Programming HW: 1 hour \- 9:20 to 10:20 AM
+2. Devanagari/Hindi HW: 1 hour 10 minutes \- 10:20 to 10:30 AM; 1:00 to 2:00 PM
+3. English HW: 1 hour \- 10:30 to 11:30 AM
+4. Telugu HW: 30 minutes \- 11:30 AM to 12:00 PM
+5. Social Life Skills HW: 20 minutes \- 3:10 to 3:20 PM
+6. **_<u>Total: 4 hours</u>_**
