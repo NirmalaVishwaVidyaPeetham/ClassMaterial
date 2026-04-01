@@ -755,3 +755,33 @@ No classes; Completed homeworks and revision;
    - HW: Watch a video on Carnatic vs Hindusthani Indian classical music. : [Hindustani vs Carnatic | Indian Classical Music - YouTube](https://www.youtube.com/watch?app=desktop&v=StBjFqBCBHQ)
 
 
+
+**<u>27032026 Friday, 30032026 Monday:</u>** No classes; Revision, Homeworks
+
+
+
+**<u>31032026 Tuesday:</u>**
+
+1. Telugu: 
+   
+   - Checked previous HWs on Sahajayoga bhajans
+   
+   - HW: Complete previous HWs
+   
+   - AI exercises on stories read so far
+     
+     - HW: Complete these exercises
+
+2. Science/Maths: 
+   
+   - Checked previous HWs on proportions
+   
+   - Combined proportions - AI notes - exercises
+     
+     - HW: Fix MD file and complete exercises
+
+
+
+
+
+

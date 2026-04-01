@@ -16,7 +16,7 @@
 
 **Daily parents duties:** 
 
-1. Check the student is following the schedule above for a minimum of 3 and half hours to a maximum of 5 and half hours. (+ 2 hours if there are no classes on school days).   
+1. Check the student is following the schedule above for a minimum of 3 and half hours to a maximum of 5 and half hours. (+2 hours if there are no classes on school days).   
 2. Do not help him a lot with homework, only help if he has any questions from the class materials. Use similar explanations as in class.   
    1. If you think of a better way of explaining, inform the teacher so it can be done in class and there is a record for the student to revise later on.  
 3. When revising class material, let the student explain everything to see if he understands the course materials. Ask several questions to make sure he understands everything.   
@@ -848,7 +848,6 @@ __\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **23 February 2026 \- Monday:**
-
 1. Telugu HW: 1 hour \- 9:05 to 10:05 AM  
 2. Class notes revision: 30 minutes \-  10:15  to 10:45 AM  
 3. Technology HW: 1 minutes 10 minutes \- 11:20 to 12:20 PM 
@@ -1059,10 +1058,30 @@ __\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 8. **_<u>Total: 5 hours 30 minutes</u>_**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
-**_<u>25 March 2026 \- Wednesday</u>_**
+**_<u>26 March 2026 \- Thursday</u>_**
 1. Programming HW: 1 hour \- 9:20 to 10:20 AM
 2. Devanagari/Hindi HW: 1 hour 10 minutes \- 10:20 to 10:30 AM; 1:00 to 2:00 PM
 3. English HW: 1 hour \- 10:30 to 11:30 AM
 4. Telugu HW: 30 minutes \- 11:30 AM to 12:00 PM
 5. Social Life Skills HW: 20 minutes \- 3:10 to 3:20 PM
 6. **_<u>Total: 4 hours</u>_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>27 March 2026 \- Friday</u>_**
+1. Music HW: 1 hour \- 8:35 to 9:35 AM
+2. Devanagari/Hindi HW: 3 hours \- 9:40 to 10:40 AM; 12:30 to 2:30 PM
+3. Telugu HW: 1 hour \- 10:40 to 11:40 AM
+4. Music Practice: 30 minutes \- 11:40 AM to 12:10 PM
+5. **_<u>Total: 5 hours 30 minutes</u>_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>30 March 2026 \- Monday</u>_**
+1. Programming HW: 1 hour 10 minutes \- 8:10 to 9:30 AM (10 minutes break)
+2. Telugu HW: 1 hour \- 10:05 to 11:05 AM
+3. English HW: 1 hour \- 11:10 to 11:40 AM; 12:30 to 1:00 PM
+4. Music Practice: 20 minutes \- 12:10 to 12:30 PM
+5. **_<u>Total:  hours  minutes</u>_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>31 March 2026 \- Tuesday</u>_**
+1. Telugu HW/Revision: 30 minutes \- 7:50 to 8:20 AM
