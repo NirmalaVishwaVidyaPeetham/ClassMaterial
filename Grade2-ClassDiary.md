@@ -753,8 +753,8 @@ No classes; Completed homeworks and revision;
    - HW: See chapters on Shruthis and Grehabhecham
    
    - HW: Watch a video on Carnatic vs Hindusthani Indian classical music. : [Hindustani vs Carnatic | Indian Classical Music - YouTube](https://www.youtube.com/watch?app=desktop&v=StBjFqBCBHQ)
-
-
+     
+     
 
 **<u>27032026 Friday, 30032026 Monday:</u>** No classes; Revision, Homeworks
 
@@ -782,6 +782,24 @@ No classes; Completed homeworks and revision;
 
 
 
+**<u>01042026 Wenesday:</u>** No class; Revision, HW
 
+**<u>02042026 Thursday:</u>**
+
+1. English:
+   
+   - HW: Complete all previous HWs
+   
+   - Summaries: Mahavira story summaries
+   
+   - AI Summaries for another book - Mahavira's Life & Teachings (1936)
+     
+     - HW: Read this summary
+
+2- Social: Lifeskills - Preparing CV
+   
+   - HW: Complete your resume
+   
+   - HW: Fix your CV based on classroom suggestions - see notes 
 
 

@@ -1084,4 +1084,26 @@ __\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
 **_<u>31 March 2026 \- Tuesday</u>_**
-1. Telugu HW/Revision: 30 minutes \- 7:50 to 8:20 AM
+1. Telugu HW/Revision: 1 hour \- 7:50 to 8:50 AM
+2. Programming HW: 1 hour \- 9:00 to 10:00 AM
+3. Music HW: 1 hour \- 10:30 to 11:30 AM
+4. Music Practice: 20 minutes \- 11:40 AM to 12:00 PM
+5. Maths అప్పజెప్పడం: 10 minutes \- 12:10 to 12:20 PM
+6. **_<u>Total: 3 hours 30 minutes</u>_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>1 April 2026 \- Wednesday</u>_**
+1. Telugu HW: 1 hour \- 8:20 to 9:20 AM
+2. Science HW: 1 hour \- 9:20 to 10:20 AM
+3. Programming HW: 1 hour 10 minutes \- 11:00 AM to 12:00 PM
+4. Music Practice: 20 minutes \- 12:20 to 12:40 PM
+5. **_<u>Total: 3 hours 30 minutes</u>_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>2 April 2026 \- Tuesday</u>_**
+1. Programming HW: 1 hour \- 9:00 to 10:00 AM
+2. English HW: 1 hour \- 10:10 to 11:10 AM
+3. Music HW: 1 hour \- 11:15 AM to 12:15 PM
+4. Maths Practice/Revision: 10 minutes \- 12:15 to 12:25 PM
+5. Music Practice: 20 minutes \- 1:20 to 1:40 PM
+6. **_<u>Total: 3 hours 30 minutes</u>_**
