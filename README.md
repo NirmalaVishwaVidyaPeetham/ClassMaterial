@@ -1,13 +1,133 @@
-# ClassMaterial
+# Nirmala Vishwa Vidya Peetham 
 
-Currently, all material is for Grades 1 & 2 in our homeschool. Follow ClassDiary (md file) to see the class details for each school day in sequence. Each class also has a corresponding "ClassNotes_<date>_<subject>.pdf" file in its subject subfolder. The files/contents of each subject subfolder are ordered sequentially with prefixes 1., 2., 3. etc. along with date and one can follow them in that sequence to follow the course/teaching materials for that subject. 
+---
 
-Eg: To follow programming class material, go to its subfolder (ClassMaterial/2. MathsProgrammingTechnology/2. Programming/), and see "1.ClassNotes\*.pdf" for handwritten notes from the first class, "2.ClassNotes\*.pdf" for the second class and so on (these details are also in the main ClassMaterial/ClassDiary\*.md file).   Any other material associated with a class will have the same prefix. For example, for the sixteen class, "16.ClassNotes\*pdf" shows the class notes, "16.Loops.pdf" is additional material for that class, while "16.HW\*" shows the associated HW exercises.  
+Welcome to **Nirmala Vishwa Vidya Peetham Homeschool**, a completely digital and advanced learning environment for children to learn in the modern world. Our approach focuses on interdisciplinary learning, meaning we break down traditional walls between school subjects so students immediately use concepts from various subjects together in hands-on projects, such as using concepts of math, science, social and coding to build music programs or 3D globe. Our holistic program also includes [Sahaja Yoga Meditation](#introduction-to-sahaja-yoga-meditation) as a crucial activity for supporting overall well-being. We use Artificial Intelligence (AI) integrated, fully digital environment and utilize eye-friendly e-ink technology, ensuring a permanent, searchable record of every lesson. 
 
 
 ## Introduction to Sahaja Yoga Meditation
 We have also integrated Sahaja Yoga meditation as a part of our homeschool curriculum. If you are interested in how it works and the benefits it offers, please watch the video introduction [here](https://drive.google.com/file/d/1oWgFfzMNCR1hGIal0RxQMr7v3l57ANf3/view?usp=sharing) or a detailed PowerPoint presentation [here](https://docs.google.com/presentation/d/1ddhFRXDZGicnElHk9FxHlr6JQ70PG7yY/edit?usp=sharing&ouid=104652573605668601787&rtpof=true&sd=true).
 
+
+  
+## Courses taught
+<details>
+<summary><strong> Maths </strong></summary>
+
+* **[Grade 1](2.%20MathsProgrammingTechnology/1.%20Maths/1.%20Grade1/0.%20Grade-1-Maths-Table-of-Contents.md)**
+
+* **[Grade 2](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/0.%20Grade-2-Maths-Table-of-Contents.md)**
+</details>
+
+<details>
+<summary><strong> Programming </strong></summary>
+
+* **[Grade 1](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20Grade-1-Programming-Table-of-Contents.md)**
+
+* **[Grade 2](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.%20Grade-2-Programming-Table-of-Contents.md)**
+</details>
+
+<details>
+<summary><strong> Technology </strong></summary>
+
+* **[Grade 1](2.%20MathsProgrammingTechnology/3.%20Technology/1.%20Grade1/0.%20Grade-1-Technology-Table-of-Contents.md)**
+
+* **[Grade 2](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/0.%20Grade-2-Technology-of-Contents.md)**
+</details>
+
+<details>
+<summary><strong> Science </strong></summary>
+
+* **[Grade 1](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/0.%20Grade-1-Science-Table-of-Contents.md)**
+
+* **[Grade 2](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/0.%20Grade-2-Science-Table-of-Contents.md)**
+</details>
+
+
+<details>
+<summary><strong> Social Studies </strong></summary>
+
+* **[Grade 1](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/0.%20Grade-1-Social-Table-of-Contents.md)**
+
+* **[Grade 2](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/0.%20Grade-2-Social-Table-of-Contents.md)**
+</details>
+
+<details> <summary><strong> Telugu (Language)</strong></summary>
+  
+* **[Grade 1](1.%20Languages/1.%20Telugu/1.%20Grade1/0.%20Grade-1-Telugu-Table-of-Contents.md)**
+
+* **[Grade 2](1.%20Languages/1.%20Telugu/2.%20Grade2/0.%20Grade-2-Telugu-Technology-of-Contents.md)**
+ </details>
+
+ <details> <summary><strong> English (Language)</strong></summary>
+
+  * **[Grade 1](1.%20Languages/2.%20English/1.%20Grade1/0.%20Grade-1-English-Table-of-Contents.md)**
+
+  * **[Grade 2](1.%20Languages/2.%20English/2.%20Grade2/0.%20Grade-2-English-Table-of-Contents.md)**
+ </details>
+
+ <details> <summary><strong> Devanagari (Language)</strong></summary>
+
+  *  <details> <summary><strong> AllDevanagari (Language)</strong></summary>
+
+     * **[Grade 1](1.%20Languages/3.%20Devanagari_HSKM/0.%20AllDevanagariLanguages/1.%20Grade1/0.%20Grade-1-Devanagari-Table-of-Contents.md)**
+
+     * **[Grade 2](1.%20Languages/3.%20Devanagari_HSKM/0.%20AllDevanagariLanguages/2.%20Grade2/0.%20Grade-2-Devanagari-Table-of-Contents.md)**
+     
+  *  <details> <summary><strong> Hindi (Language)</strong></summary>
+
+     * **[Grade 2](1.%20Languages/3.%20Devanagari_HSKM/1.%20Hindi/2.%20Grade2/0.%20Grade-2-Hindi-Table-of-Contents.md)**
+
+
+ </details>
+ </details>
+
+ <details> <summary><strong> All Languages Combined </strong></summary>
+
+  * **[Grade 1](1.%20Languages/4.%20AllLangugages/0.%20Grade-1-AllLanguages-Table-of-Contents.md)**
+ </details>
+
+
+<details>
+<summary><strong> Music </strong></summary>
+
+* **[Grade 1](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/0.%20Grade-1-Music-Table-of-Contents.md)**
+
+* **[Grade 2](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/0.%20Grade-2-Music-Table-of-Contents.md)**
+</details>
+
+
+ <details> <summary><strong> Overview </strong></summary>
+
+  * **[Grade 1](0.%20ProgressOverview/1.%20Grade1/0.%20Grade-1-Overview-Table-of-Contents.md)**
+
+  * **[Grade 2](0.%20ProgressOverview/2.%20Grade2/0.%20Grade-2-Overview-Table-of-Contents.md)**
+ </details>
+
+
+ <details> <summary><strong> Sahaja Yoga Meditation </strong></summary>
+
+  * We have also integrated Sahaja Yoga meditation as a part of our homeschool curriculum. If you are interested in how it works and the benefits it offers, please watch the video introduction [here](https://drive.google.com/file/d/1oWgFfzMNCR1hGIal0RxQMr7v3l57ANf3/view?usp=sharing) or a detailed PowerPoint presentation [here](https://docs.google.com/presentation/d/1ddhFRXDZGicnElHk9FxHlr6JQ70PG7yY/edit?usp=sharing&ouid=104652573605668601787&rtpof=true&sd=true).
+ </details>
+
+ <details> <summary><strong> Sports </strong></summary>
+
+  * Soccer
+  * Baseball
+  * Cricket
+ </details>
+
+
+## Github repository
+We openly share all curriculum and projects on our website to act as a blueprint for the future of personalized education. All our materials (except for class recordings) are available in the [NirmalaVishwaVidyaPeetham/ClassMaterial](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/) github repository. 
+
+ <details> <summary><strong> Understanding our github repo</strong></summary>
+
+  * **[ClassMaterial repo structure](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/)**
+    * Currently, all material is for Grades 1 & 2 in our homeschool. Follow ClassDiary (md file) to see the class details for each school day in sequence. Each class also has a corresponding "ClassNotes__.pdf" file in its subject subfolder. The files/contents of each subject subfolder are ordered sequentially with prefixes 1., 2., 3. etc. along with date and one can follow them in that sequence to follow the course/teaching materials for that subject.
+    
+    * Eg: To follow programming class material, go to its subfolder (ClassMaterial/2. MathsProgrammingTechnology/2. Programming/), and see "1.ClassNotes*.pdf" for handwritten notes from the first class, "2.ClassNotes*.pdf" for the second class and so on (these details are also in the main ClassMaterial/ClassDiary*.md file). Any other material associated with a class will have the same prefix. For example, for the sixteen class, "16.ClassNotes*pdf" shows the class notes, "16.Loops.pdf" is additional material for that class, while "16.HW*" shows the associated HW exercises.
+ </details>
 
 ## License
 
