@@ -11,7 +11,8 @@ We have also integrated Sahaja Yoga meditation as a part of our homeschool curri
 
   
 ## Courses taught
-<details>
+Please click on the subject name to view its course materials.
+<details markdown="1">
 <summary><strong> Maths </strong></summary>
 
 * **[Grade 1](2.%20MathsProgrammingTechnology/1.%20Maths/1.%20Grade1/0.%20Grade-1-Maths-Table-of-Contents.md)**
@@ -19,7 +20,7 @@ We have also integrated Sahaja Yoga meditation as a part of our homeschool curri
 * **[Grade 2](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/0.%20Grade-2-Maths-Table-of-Contents.md)**
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong> Programming </strong></summary>
 
 * **[Grade 1](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20Grade-1-Programming-Table-of-Contents.md)**
@@ -27,7 +28,7 @@ We have also integrated Sahaja Yoga meditation as a part of our homeschool curri
 * **[Grade 2](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.%20Grade-2-Programming-Table-of-Contents.md)**
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong> Technology </strong></summary>
 
 * **[Grade 1](2.%20MathsProgrammingTechnology/3.%20Technology/1.%20Grade1/0.%20Grade-1-Technology-Table-of-Contents.md)**
@@ -35,7 +36,7 @@ We have also integrated Sahaja Yoga meditation as a part of our homeschool curri
 * **[Grade 2](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/0.%20Grade-2-Technology-of-Contents.md)**
 </details>
 
-<details>
+<details markdown="1">
 <summary><strong> Science </strong></summary>
 
 * **[Grade 1](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/0.%20Grade-1-Science-Table-of-Contents.md)**
@@ -44,7 +45,7 @@ We have also integrated Sahaja Yoga meditation as a part of our homeschool curri
 </details>
 
 
-<details>
+<details markdown="1">
 <summary><strong> Social Studies </strong></summary>
 
 * **[Grade 1](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/0.%20Grade-1-Social-Table-of-Contents.md)**
@@ -52,29 +53,29 @@ We have also integrated Sahaja Yoga meditation as a part of our homeschool curri
 * **[Grade 2](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/0.%20Grade-2-Social-Table-of-Contents.md)**
 </details>
 
-<details> <summary><strong> Telugu (Language)</strong></summary>
+<details markdown="1"> <summary><strong> Telugu (Language)</strong></summary>
   
 * **[Grade 1](1.%20Languages/1.%20Telugu/1.%20Grade1/0.%20Grade-1-Telugu-Table-of-Contents.md)**
 
 * **[Grade 2](1.%20Languages/1.%20Telugu/2.%20Grade2/0.%20Grade-2-Telugu-Technology-of-Contents.md)**
  </details>
 
- <details> <summary><strong> English (Language)</strong></summary>
+ <details markdown="1"> <summary><strong> English (Language)</strong></summary>
 
   * **[Grade 1](1.%20Languages/2.%20English/1.%20Grade1/0.%20Grade-1-English-Table-of-Contents.md)**
 
   * **[Grade 2](1.%20Languages/2.%20English/2.%20Grade2/0.%20Grade-2-English-Table-of-Contents.md)**
  </details>
 
- <details> <summary><strong> Devanagari (Language)</strong></summary>
+ <details markdown="1"> <summary><strong> Devanagari (Language)</strong></summary>
 
-  *  <details> <summary><strong> AllDevanagari (Language)</strong></summary>
+  *  <details markdown="1"> <summary><strong> AllDevanagari (Language)</strong></summary>
 
      * **[Grade 1](1.%20Languages/3.%20Devanagari_HSKM/0.%20AllDevanagariLanguages/1.%20Grade1/0.%20Grade-1-Devanagari-Table-of-Contents.md)**
 
      * **[Grade 2](1.%20Languages/3.%20Devanagari_HSKM/0.%20AllDevanagariLanguages/2.%20Grade2/0.%20Grade-2-Devanagari-Table-of-Contents.md)**
      
-  *  <details> <summary><strong> Hindi (Language)</strong></summary>
+  *  <details markdown="1"> <summary><strong> Hindi (Language)</strong></summary>
 
      * **[Grade 2](1.%20Languages/3.%20Devanagari_HSKM/1.%20Hindi/2.%20Grade2/0.%20Grade-2-Hindi-Table-of-Contents.md)**
 
@@ -82,13 +83,13 @@ We have also integrated Sahaja Yoga meditation as a part of our homeschool curri
  </details>
  </details>
 
- <details> <summary><strong> All Languages Combined </strong></summary>
+ <details markdown="1"> <summary><strong> All Languages Combined </strong></summary>
 
   * **[Grade 1](1.%20Languages/4.%20AllLangugages/0.%20Grade-1-AllLanguages-Table-of-Contents.md)**
  </details>
 
 
-<details>
+<details markdown="1">
 <summary><strong> Music </strong></summary>
 
 * **[Grade 1](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/0.%20Grade-1-Music-Table-of-Contents.md)**
@@ -97,7 +98,7 @@ We have also integrated Sahaja Yoga meditation as a part of our homeschool curri
 </details>
 
 
- <details> <summary><strong> Overview </strong></summary>
+ <details markdown="1"> <summary><strong> Overview </strong></summary>
 
   * **[Grade 1](0.%20ProgressOverview/1.%20Grade1/0.%20Grade-1-Overview-Table-of-Contents.md)**
 
@@ -105,12 +106,12 @@ We have also integrated Sahaja Yoga meditation as a part of our homeschool curri
  </details>
 
 
- <details> <summary><strong> Sahaja Yoga Meditation </strong></summary>
+ <details markdown="1"> <summary><strong> Sahaja Yoga Meditation </strong></summary>
 
   * We have also integrated Sahaja Yoga meditation as a part of our homeschool curriculum. If you are interested in how it works and the benefits it offers, please watch the video introduction [here](https://drive.google.com/file/d/1oWgFfzMNCR1hGIal0RxQMr7v3l57ANf3/view?usp=sharing) or a detailed PowerPoint presentation [here](https://docs.google.com/presentation/d/1ddhFRXDZGicnElHk9FxHlr6JQ70PG7yY/edit?usp=sharing&ouid=104652573605668601787&rtpof=true&sd=true).
  </details>
 
- <details> <summary><strong> Sports </strong></summary>
+ <details markdown="1"> <summary><strong> Sports </strong></summary>
 
   * Soccer
   * Baseball
@@ -121,7 +122,7 @@ We have also integrated Sahaja Yoga meditation as a part of our homeschool curri
 ## Github repository
 We openly share all curriculum and projects on our website to act as a blueprint for the future of personalized education. All our materials (except for class recordings) are available in the [NirmalaVishwaVidyaPeetham/ClassMaterial](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/) github repository. 
 
- <details> <summary><strong> Understanding our github repo</strong></summary>
+ <details markdown="1"> <summary><strong> Understanding our github repo</strong></summary>
 
   * **[ClassMaterial repo structure](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/)**
     * Currently, all material is for Grades 1 & 2 in our homeschool. Follow ClassDiary (md file) to see the class details for each school day in sequence. Each class also has a corresponding "ClassNotes__.pdf" file in its subject subfolder. The files/contents of each subject subfolder are ordered sequentially with prefixes 1., 2., 3. etc. along with date and one can follow them in that sequence to follow the course/teaching materials for that subject.
