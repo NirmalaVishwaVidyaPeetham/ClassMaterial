@@ -5,21 +5,21 @@
 <summary><strong> 1. Sahajayoga Presentation </strong></summary>
 
 * **Class 1 (19/11/2025): Sahajayoga presentation** 
-  * [1. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/1.%20ClassNotes-19112025-Social-SYPresentation.pdf)  
+  * [1. ClassNotes.pdf](1.%20ClassNotes-19112025-Social-SYPresentation.pdf)  
   * Video  
   * **Verified HW Solutions:**  
-    * [5. HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/5.%20HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx)
+    * [5. HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/5.%20HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx)
   * **Details:** 
     * Sahajayoga presentation  
     * HW: Fix formatting etc. in presentation as described in class notes; Add images/video for Bandhan; Make foot-soaking image bigger; Make full slide notes and a recording of your whole presentation.
 
 
 * **Class 2 (16/12/2025): Checked Sahajayoga presentation** 
-  * [2. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/2.%20ClassNotes-16122025-Social-SYPresentation.pdf)  
+  * [2. ClassNotes.pdf](2.%20ClassNotes-16122025-Social-SYPresentation.pdf)  
   * Video  
   * **Verified HW Solutions:**  
-    * [6. HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/6.%20HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx)
-    * [0. Virata-introduction-to-Sahaja-Yoga-Poster-Notes - Final.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/0.%20Virata-introduction-to-Sahaja-Yoga-Poster-Notes%20-%20Final.docx)
+    * [6. HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/6.%20HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx)
+    * [0. Virata-introduction-to-Sahaja-Yoga-Poster-Notes - Final.docx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/0.%20Virata-introduction-to-Sahaja-Yoga-Poster-Notes%20-%20Final.docx)
   * **Details:** 
     * Checked Sahajayoga presentation  
     * Homework (HW):  
@@ -35,12 +35,12 @@
 
 
 * **Class 3 (29/01/2026): Sahajayoga presentation \- checked final version (0. IntroductionToSY…)** 
-  * [3. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/3.%20ClassNotes-29012026-SocialSYPresentation.pdf)  
+  * [3. ClassNotes.pdf](3.%20ClassNotes-29012026-SocialSYPresentation.pdf)  
   * Video  
   * **Other materials:**
-    * [0.Introduction-to-Sahaja-Yoga-Slides-Final-NirmalaVishwaVidyaPeetham.pptx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/0.Introduction-to-Sahaja-Yoga-Slides-Final-NirmalaVishwaVidyaPeetham.pptx)
+    * [0.Introduction-to-Sahaja-Yoga-Slides-Final-NirmalaVishwaVidyaPeetham.pptx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/0.Introduction-to-Sahaja-Yoga-Slides-Final-NirmalaVishwaVidyaPeetham.pptx)
   * **Verified HW Solutions:**
-    * [7. HW-Virata-introduction-to-Sahaja-Yoga-Poster-Final.pptx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/7.%20HW-Virata-introduction-to-Sahaja-Yoga-Poster-Final.pptx)
+    * [7. HW-Virata-introduction-to-Sahaja-Yoga-Poster-Final.pptx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/7.%20HW-Virata-introduction-to-Sahaja-Yoga-Poster-Final.pptx)
   * **Details:** 
     * Sahajayoga presentation \- checked final version (0. IntroductionToSY…)  
     * HW: Upload to website  
@@ -54,16 +54,16 @@
 
 
 * **Class 4 (05/03/2026): Curriculum Vitae vs. Resume** 
-  * [4. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/4.%20ClassNotes-05032026-SocialLifeSkillsCV.pdf)  
+  * [4. ClassNotes.pdf](4.%20ClassNotes-05032026-SocialLifeSkillsCV.pdf)  
   * Video  
   * **Other materials:**
-    * [0.AINotes-CVsResumes-HowTo.md](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.AINotes-CVsResumes-HowTo.md)
-    * [0.CornellUniv-ResumesAndCVs.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.CornellUniv-ResumesAndCVs.pdf)
-    * [0.HowToWriteYourCV.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.HowToWriteYourCV.pdf)
-    * [0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf)
-    * [1.VP_CV_AIGenerated-NotCorrected.md](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/1.VP_CV_AIGenerated-NotCorrected.md)
+    * [0.AINotes-CVsResumes-HowTo.md](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.AINotes-CVsResumes-HowTo.md)
+    * [0.CornellUniv-ResumesAndCVs.pdf](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.CornellUniv-ResumesAndCVs.pdf)
+    * [0.HowToWriteYourCV.pdf](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.HowToWriteYourCV.pdf)
+    * [0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf)
+    * [1.VP_CV_AIGenerated-NotCorrected.md](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/1.VP_CV_AIGenerated-NotCorrected.md)
   * **Verified HW Solutions:**   
-    * [1. HW-05032026-Social_Life-Skills_VP-CV_Without-Weaknesses.md](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/1.%20HW-05032026-Social_Life-Skills_VP-CV_Without-Weaknesses.md)
+    * [1. HW-05032026-Social_Life-Skills_VP-CV_Without-Weaknesses.md](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/1.%20HW-05032026-Social_Life-Skills_VP-CV_Without-Weaknesses.md)
   * **Details:** 
     * Curriculum vitae vs. Resume  
     * See university examples  
@@ -73,13 +73,13 @@
 
 
 * **Class 5 (02/04/2026): Lifeskills - Preparing CV** 
-  * [5. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/5.%20ClassNotes-02042026-SocialLifeskillsCV.pdf)  
+  * [5. ClassNotes.pdf](5.%20ClassNotes-02042026-SocialLifeskillsCV.pdf)  
   * Video  
   * **Other materials:**
-    * [0.AINotes-CVsResumes-HowTo.md](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.AINotes-CVsResumes-HowTo.md)
-    * [0.CornellUniv-ResumesAndCVs.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.CornellUniv-ResumesAndCVs.pdf)
-    * [0.HowToWriteYourCV.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.HowToWriteYourCV.pdf)
-    * [0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf)
+    * [0.AINotes-CVsResumes-HowTo.md](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.AINotes-CVsResumes-HowTo.md)
+    * [0.CornellUniv-ResumesAndCVs.pdf](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.CornellUniv-ResumesAndCVs.pdf)
+    * [0.HowToWriteYourCV.pdf](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.HowToWriteYourCV.pdf)
+    * [0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf)
   * **Verified HW Solutions:**   
   * **Details:** 
     * Lifeskills - Preparing CV  
