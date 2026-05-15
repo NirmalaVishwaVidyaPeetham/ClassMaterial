@@ -6,12 +6,12 @@
 <summary><strong> 1. Overview of subjects to be covered as a part of HomeSchooling </strong></summary>
 
 * **Class 1 (06/08/2024): Overview of what we learnt so far before starting school.** 
-  * [1. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/1.ClassNotes-06082024.pdf)  
+  * [1. ClassNotes.pdf](1.ClassNotes-06082024.pdf)  
   * Video  
   * **Other materials:** 
-	* [1. PronunciationGuide-OxfordLearnersDictionaries.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/1.%20PronunciationGuide-OxfordLearnersDictionaries.pdf)
+	* [1. PronunciationGuide-OxfordLearnersDictionaries.pdf](1.%20PronunciationGuide-OxfordLearnersDictionaries.pdf)
   * **Verified HW Solutions:**
-	* [1.HW1-06082024.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/1.HW1-06082024.pdf)  
+	* [1.HW1-06082024.pdf](1.HW1-06082024.pdf)  
   * **Details:** 
     1. Overview of what we learnt so far before starting school.  
     2. Overview of what we will cover going forward. 
@@ -20,7 +20,7 @@
 
 
 * **Class 2 (07/08/2024): Designed Curriculum** 
-  * [2. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/2.ClassNotes-07082024.pdf)  
+  * [2. ClassNotes.pdf](2.ClassNotes-07082024.pdf)  
   * Video  
   * **Details:** 
     * 1. Syllabus  
@@ -68,7 +68,7 @@
 
 
 * **Class 4 (21/08/2024): Class schedule for each week** 
-  * [4. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/4.%20ClassNotes21082024-Overview-Languages.pdf)  
+  * [4. ClassNotes.pdf](4.%20ClassNotes21082024-Overview-Languages.pdf)  
   * Video  
   * **Details:** 
     1. class schedule each week.
@@ -87,14 +87,14 @@
 <summary><strong> 2. Monthly overview </strong></summary>
 
 * **Class 5 (06/09/2024): One Month Overview \+ Exams** 
-  * [5. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/5.%20ClassNotes06092024-ProgressOverviewOneMonth.pdf)  
+  * [5. ClassNotes.pdf](5.%20ClassNotes06092024-ProgressOverviewOneMonth.pdf)  
   * Video  
   * **Details:** 
     1. One Month Overview \+ Exams
 
 
 * **Class 6 (04/10/2024): Two months overview** 
-  * [6. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/6.%20ClassNotes-04102024-Overview.pdf)  
+  * [6. ClassNotes.pdf](6.%20ClassNotes-04102024-Overview.pdf)  
   * Video  
   * **Verified HW Solutions:**   
   * **Details:** 
@@ -106,10 +106,10 @@
 
 
 * **Class 7 (06/11/2024): 3 months overview** 
-  * [7. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/7.%20ClassNotes-06112024-Overview-SadashivaPlanYears3-5.pdf)  
+  * [7. ClassNotes.pdf](7.%20ClassNotes-06112024-Overview-SadashivaPlanYears3-5.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [7. HW-04112024-overview-OneLineSummariesOfEachSubject.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/7.%20HW-04112024-overview-OneLineSummariesOfEachSubject.pdf)  
+	* [7. HW-04112024-overview-OneLineSummariesOfEachSubject.pdf](7.%20HW-04112024-overview-OneLineSummariesOfEachSubject.pdf)  
   * **Details:** 
     1. (3 months)  
     2. Good news: new baby coming in to the family  
@@ -118,7 +118,7 @@
 
 
 * **Class 8 (09/12/2024): 4 months overview \- Daily schedule \- Overall progress \- How to revise each class’ notes..** 
-  * [8. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/8.%20ClassNotes-09122024-Overview.pdf)  
+  * [8. ClassNotes.pdf](8.%20ClassNotes-09122024-Overview.pdf)  
   * Video  
   * **Verified HW Solutions:**   
   * **Details:** 
@@ -126,10 +126,10 @@
 
 
 * **Class 9 (17/01/2025): Fall trimester overview** 
-  * [9. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/9.%20ClassNotes-17012025-Overview.pdf)  
+  * [9. ClassNotes.pdf](9.%20ClassNotes-17012025-Overview.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [9. HW-17012025-Overveiw-DecFallTrimester.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/9.%20HW-17012025-Overveiw-DecFallTrimester.xlsx)  
+	* [9. HW-17012025-Overveiw-DecFallTrimester.xlsx](9.%20HW-17012025-Overveiw-DecFallTrimester.xlsx)  
   * **Details:** 
     1. Fall trimester overview  
     3. HW: Prepare an Excel file with details of everything we learned in each subject during the Fall trimester (August to December), such as the AP class textbook and a story about Gautama Buddha in Telugu.  
@@ -140,11 +140,11 @@
 
 
 * **Class 10 (27/01/2025): Fall trimester overview (from last HW)** 
-  * [10. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/10.%20ClassNotes-27012025-Overview.pdf)  
+  * [10. ClassNotes.pdf](10.%20ClassNotes-27012025-Overview.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [10. Old-Overview-StudentParentDailyResponsibilities.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/10.%20Old-Overview-StudentParentDailyResponsibilities.ODT)
-	* [10. Old-Overview-StudentParentDailyResponsibilities.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/10.%20Old-Overview-StudentParentDailyResponsibilities.pdf)  
+	* [10. Old-Overview-StudentParentDailyResponsibilities.ODT](10.%20Old-Overview-StudentParentDailyResponsibilities.ODT)
+	* [10. Old-Overview-StudentParentDailyResponsibilities.pdf](10.%20Old-Overview-StudentParentDailyResponsibilities.pdf)  
   * **Details:** 
     1. Fall trimester overview (from last HW)  
     2. Daily responsibilities for student and parent  
@@ -157,11 +157,11 @@
 
 
 * **Class 11 (10/02/2025): Discussed how to revise previous class material** 
-  * [11. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/11.%20ClassNotes-10022025-Overview.pdf)  
+  * [11. ClassNotes.pdf](11.%20ClassNotes-10022025-Overview.pdf)  
   * Video  
   * **Other materials:** 
-	* [11. Overview-StudentParentDailyResponsibilities.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/11.%20Overview-StudentParentDailyResponsibilities.ODT)
-	* [11. Overview-StudentParentDailyResponsibilities.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/11.%20Overview-StudentParentDailyResponsibilities.pdf)  
+	* [11. Overview-StudentParentDailyResponsibilities.ODT](11.%20Overview-StudentParentDailyResponsibilities.ODT)
+	* [11. Overview-StudentParentDailyResponsibilities.pdf](11.%20Overview-StudentParentDailyResponsibilities.pdf)  
   * **Details:** 
     1. Discussed how to revise previous class material  
     2. Make an audio recording for each new class with 1 line, 1 paragraph, and detailed summaries  
@@ -169,7 +169,7 @@
 
 
 * **Class 12 (24/02/2025): Discussed more on how to revise class material** 
-  * [12. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/12.%20ClassNotes-24022025-Overview.pdf)  
+  * [12. ClassNotes.pdf](12.%20ClassNotes-24022025-Overview.pdf)  
   * Video  
   * **Details:** 
     1. Discussed more on how to revise class material  
@@ -178,7 +178,7 @@
 
 
 * **Class 13 (13/05/2025): How to prepare captions, description, summary for class videos using AI** 
-  * [13. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/13.%20ClassNotes-13052025-Overview.pdf)  
+  * [13. ClassNotes.pdf](13.%20ClassNotes-13052025-Overview.pdf)  
   * Video  
   * **Details:** 
     1. How to prepare captions, description, summary for class videos using AI  
@@ -192,24 +192,24 @@
 <summary><strong> 4. Grade 1 - Goals and Grading Criteria </strong></summary>
 
 * **Class 14 (16/06/2025): Updated goals for grade 1 \- created quizzes for all subjects** 
-  * [14. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/14.%20ClassNotes-16062025-Overview.pdf)  
+  * [14. ClassNotes.pdf](14.%20ClassNotes-16062025-Overview.pdf)  
   * Video  
   * **Other materials:**
-	* [14. GoalsForGrade1-Updated.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/14.%20GoalsForGrade1-Updated.docx)
-	* [14. GoalsForGrade1-Updated.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/14.%20GoalsForGrade1-Updated.pdf)
+	* [14. GoalsForGrade1-Updated.docx](14.%20GoalsForGrade1-Updated.docx)
+	* [14. GoalsForGrade1-Updated.pdf](14.%20GoalsForGrade1-Updated.pdf)
   * **Verified HW Solutions:** 
-	* [14. HW-13052025-Overview-TeluguVideo9. 2024-10-14 08-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.txt](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/14.%20HW-13052025-Overview-TeluguVideo9.%202024-10-14%2008-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.txt)
-	* [14.HW-13052025-Overview-AI-Description-summary-TeluguVideo9. 2024-10-14 08-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/14.HW-13052025-Overview-AI-Description-summary-TeluguVideo9.%202024-10-14%2008-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.docx)
-	* [14.HW-13052025-Overview-AI-Description-summary-TeluguVideo9. 2024-10-14 08-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/14.HW-13052025-Overview-AI-Description-summary-TeluguVideo9.%202024-10-14%2008-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.pdf)
-	* [14.HW-13052025-Overview-TeluguVideo9. 2024-10-14 08-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/14.HW-13052025-Overview-TeluguVideo9.%202024-10-14%2008-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.docx)
-	* [14.HW-13052025-Overview-TeluguVideo9. 2024-10-14 08-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/14.HW-13052025-Overview-TeluguVideo9.%202024-10-14%2008-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.pdf)  
+	* [14. HW-13052025-Overview-TeluguVideo9. 2024-10-14 08-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.txt](14.%20HW-13052025-Overview-TeluguVideo9.%202024-10-14%2008-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.txt)
+	* [14.HW-13052025-Overview-AI-Description-summary-TeluguVideo9. 2024-10-14 08-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.docx](14.HW-13052025-Overview-AI-Description-summary-TeluguVideo9.%202024-10-14%2008-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.docx)
+	* [14.HW-13052025-Overview-AI-Description-summary-TeluguVideo9. 2024-10-14 08-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.pdf](14.HW-13052025-Overview-AI-Description-summary-TeluguVideo9.%202024-10-14%2008-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.pdf)
+	* [14.HW-13052025-Overview-TeluguVideo9. 2024-10-14 08-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.docx](14.HW-13052025-Overview-TeluguVideo9.%202024-10-14%2008-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.docx)
+	* [14.HW-13052025-Overview-TeluguVideo9. 2024-10-14 08-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.pdf](14.HW-13052025-Overview-TeluguVideo9.%202024-10-14%2008-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.pdf)  
   * **Details:** 
     1. Updated goals for grade 1 \- created quizzes for all subjects  
     2. HW: complete previous HW to create a video transcript  
 
 
 * **Class 15 (01/07/2025): Completed final quizzes for all subjects.** 
-  * [15. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/15.%20ClassNotes-01072025-Overview.pdf)  
+  * [15. ClassNotes.pdf](15.%20ClassNotes-01072025-Overview.pdf)  
   * Video  
   * **Verified HW Solutions:**   
   * **Details:** 
@@ -237,11 +237,11 @@
 
 
 * **Class 16 (22/09/2025): Checked  AI grading criteria for Grade 1 (To be continued)** 
-  * [16. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/16.%20ClassNotes-22092025-Overview.pdf)  
+  * [16. ClassNotes.pdf](16.%20ClassNotes-22092025-Overview.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [16. GradingCriteriaAI-Uncorrected.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/16.%20GradingCriteriaAI-Uncorrected.docx)
-	* [16. GradingCriteriaAI-Uncorrected.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/1.%20Grade1/16.%20GradingCriteriaAI-Uncorrected.pdf)  
+	* [16. GradingCriteriaAI-Uncorrected.docx](16.%20GradingCriteriaAI-Uncorrected.docx)
+	* [16. GradingCriteriaAI-Uncorrected.pdf](16.%20GradingCriteriaAI-Uncorrected.pdf)  
   * **Details:** 
     1. Checked  AI grading criteria for Grade 1 (To be continued)  
     2. TODO: Complete all tasks fromm last class  
