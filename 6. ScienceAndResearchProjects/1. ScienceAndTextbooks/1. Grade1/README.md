@@ -6,11 +6,11 @@
 <summary><strong>1. What is Science, Scientific Method and Learning Science Textbook Chapters from India (AP)</strong></summary>
 
    * **Class 1 (13/09/2024): Definition of Science, Scientific method and Textbook Chapter about Plants**  
-     * [1\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/1.%20ClassNotes-13092024-Science.pdf)  
+     * [1\. ClassNotes.pdf](1.%20ClassNotes-13092024-Science.pdf)  
      * Video  
      * **Verified HW Solutions:**
-       * [1\. HW-13092024-Science.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/1.%20HW-13092024-Science.pdf) 
-       * [1\. Class3-AP-environmental-1-Chapter2Plants.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/1.%20Class3-AP-environmental-1-Chapter2Plants.pdf)  
+       * [1\. HW-13092024-Science.pdf](1.%20HW-13092024-Science.pdf) 
+       * [1\. Class3-AP-environmental-1-Chapter2Plants.pdf](1.%20Class3-AP-environmental-1-Chapter2Plants.pdf)  
   * **Details:**   
     1. Definition of Science   
     2. Simple exercises on scientific method;   
@@ -21,7 +21,7 @@
 
 
    * **Class 2 (20/09/2024): More on Scientific Method; Read Chapter 1 \- Plants**  
-     * [2\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/2.%20ClassNotes-20092024-Science.pdf)  
+     * [2\. ClassNotes.pdf](2.%20ClassNotes-20092024-Science.pdf)  
      * Video   
      * **Details:**   
        1. More examples scientific method  
@@ -30,10 +30,10 @@
 
 
    * **Class 3 (26/09/2024): More on Scientific Method**  
-     * [3\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/3.%20ClassNotes-26092024-Science.pdf)  
+     * [3\. ClassNotes.pdf](3.%20ClassNotes-26092024-Science.pdf)  
      * Video   
      * **Verified HW Solutions:** 
-       * [3\. HW\_26092024\_science.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/3.%20HW_26092024_science.pdf)  
+       * [3\. HW\_26092024\_science.pdf](3.%20HW_26092024_science.pdf)  
      * **Details:**   
        1. Scientific Method   
           1. Steps   
@@ -43,17 +43,17 @@
 
 
    * **Class 4 (02/10/2024): Read Chapter 3 \- Animals**  
-     * [4\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/4.%20ClassNotes-02102024-Science.pdf)   
+     * [4\. ClassNotes.pdf](4.%20ClassNotes-02102024-Science.pdf)   
      * Video  
      * **Verified HW Solutions:** 
-       * [4\. Class3-AP-environmental-1-Chapter3Animals.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/4.%20Class3-AP-environmental-1-Chapter3Animals.pdf)  
+       * [4\. Class3-AP-environmental-1-Chapter3Animals.pdf](4.%20Class3-AP-environmental-1-Chapter3Animals.pdf)  
      * **Details:**   
        1. Read Chapter3 about Animals   
        2. HW: Read and finish exercises of AP ES Class 3 textbook Chp. 3 (Animals). Write meanings of the complex words.  
 
 
    * **Class 5 (10/10/2024): Summaries of Chapter 2, 3 (Plants, Animals)**  
-     * [5\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/5.%20ClassNotes-10102024-Science.pdf)  
+     * [5\. ClassNotes.pdf](5.%20ClassNotes-10102024-Science.pdf)  
      * Video  
      * **Other materials:**    
      * **Verified HW Solutions:**   
@@ -64,21 +64,21 @@
 
 
    * **Class 6 (17/10/2024): Read Chapter 4 \- Our Body**  
-     * [6\. ClassNotes-17102024-Science.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/6.%20ClassNotes-17102024-Science.pdf)  
+     * [6\. ClassNotes-17102024-Science.pdf](6.%20ClassNotes-17102024-Science.pdf)  
      * Video  
      * **Verified HW Solutions:** 
-       * [6\. HW-Class3-AP-environmental-1-Chapter4BodyParts.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/6.%20HW-Class3-AP-environmental-1-Chapter4BodyParts.pdf)  
+       * [6\. HW-Class3-AP-environmental-1-Chapter4BodyParts.pdf](6.%20HW-Class3-AP-environmental-1-Chapter4BodyParts.pdf)  
      * **Details:** Ch.4 Our Body \- Summary   
        1. HW:(1)Read and remember Ch.4 Summary \- write meanings of any difficult words   
        2. Complete Ch.4 exercises from textbook  
 
 
    * **Class 7 (29/10/2024): More on Chapter 4 \- Our Body**  
-     * [7\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/7.%20ClassNotes-29102024-Science.pdf)  
+     * [7\. ClassNotes.pdf](7.%20ClassNotes-29102024-Science.pdf)  
      * Video  
      * **Other materials:**    
      * **Verified HW Solutions:** 
-       * [7\. ClassNotes-29102024-Science.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/7.%20ClassNotes-29102024-Science.pdf)  
+       * [7\. ClassNotes-29102024-Science.pdf](7.%20ClassNotes-29102024-Science.pdf)  
      * **Details:** Science: Ch. 4 Our Body \- Summary   
        1. HW: Finish some of the remaining exercises   
        2. HW: Learn the summary of all the chapters and describe without looking to your parents  
@@ -86,24 +86,24 @@
 
    * **Class 8 (13/11/2024): Steps to prepare/present a poster at a ScienceFair**  
      * **Other materials:** 
-       * [8\. ScienceFair-13112024-VirataMusicAndWaves-Poster.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/8.%20ScienceFair-13112024-VirataMusicAndWaves-Poster.pdf) 
-       * [8\. Sciencefair-13112024-PosterNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/8.%20Sciencefair-13112024-PosterNotes.pdf) 
-       * [1\. ClassNotes-12112024-LifeSkills-Presentations.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/1.%20MusicAndWaves-CentralGeorgiaHomeschoolersScienceFair-13112024/1.%20ClassNotes-12112024-LifeSkills-Presentations.pdf) (TODO check if we can keep this classnotes from life skills here  
+       * [8\. ScienceFair-13112024-VirataMusicAndWaves-Poster.pdf](8.%20ScienceFair-13112024-VirataMusicAndWaves-Poster.pdf) 
+       * [8\. Sciencefair-13112024-PosterNotes.pdf](8.%20Sciencefair-13112024-PosterNotes.pdf) 
+       * [1\. ClassNotes-12112024-LifeSkills-Presentations.pdf](../../../5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/1.%20MusicAndWaves-CentralGeorgiaHomeschoolersScienceFair-13112024/1.%20ClassNotes-12112024-LifeSkills-Presentations.pdf) (TODO check if we can keep this classnotes from life skills here  
      * **Details:** Studied, planned and discussed everything needed for a Science fair presentation.  
 
 
    * **Class 9 (25/11/2024): Read Chapter 5 \- Food**  
-     * [9\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/9.%20ClassNotes-25112024-Science.pdf)  
+     * [9\. ClassNotes.pdf](9.%20ClassNotes-25112024-Science.pdf)  
      * Video   
      * **Verified HW Solutions:** 
-       * [9\. HW-Class3-AP-environmental-1-Chapter5-Food.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/9.%20HW-Class3-AP-environmental-1-Chapter5-Food.pdf) 
-       * [9\. HW\_FoodsListInDifferentLanguages.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/9.%20HW_FoodsListInDifferentLanguages.xlsx)  
+       * [9\. HW-Class3-AP-environmental-1-Chapter5-Food.pdf](9.%20HW-Class3-AP-environmental-1-Chapter5-Food.pdf) 
+       * [9\. HW\_FoodsListInDifferentLanguages.xlsx](9.%20HW_FoodsListInDifferentLanguages.xlsx)  
      * **Details:** Ch 5 Food   
        1. HW: Finish exercises, read summary, write meanings of difficult words  
 
 
    * **Class 10 (05/12/2024): More on Chapter 5 \- Food**  
-     * [10\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/10.%20ClassNotes-05122025-Science.pdf)  
+     * [10\. ClassNotes.pdf](10.%20ClassNotes-05122025-Science.pdf)  
      * Video   
      * **Details:**   
        1. HW: Typing the names of all food items in both English and Telugu in an Excel file.   
@@ -112,10 +112,10 @@
 
 
    * **Class 11 (12/12/2024):**   
-     * [11\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/11.%20ClassNotes-12122024-Science.pdf)  
+     * [11\. ClassNotes.pdf](11.%20ClassNotes-12122024-Science.pdf)  
      * Video  
      * **Verified HW Solutions:** 
-       * [11\. Class3-AP-environmental-1-Ch6Water.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/11.%20Class3-AP-environmental-1-Ch6Water.pdf)  
+       * [11\. Class3-AP-environmental-1-Ch6Water.pdf](11.%20Class3-AP-environmental-1-Ch6Water.pdf)  
      * **Details:** Ch.6 Water \- Summary    
        1. HW: Read the summary and write meanings in summary   
        2. HW: Finish Ch. 6 exercises \- Answer all the questions in the exercises in whole sentences.   
@@ -123,7 +123,7 @@
 
 
    * **Class 12 (02/01/2025): Read Chapter 6 \- Ch. 6 Water \+ water cycle**  
-     * [12\. ClassNotes-02012025-Science.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/12.%20ClassNotes-02012025-Science.pdf)  
+     * [12\. ClassNotes-02012025-Science.pdf](12.%20ClassNotes-02012025-Science.pdf)  
      * Video  
      * **Other materials:**    
      * **Verified HW Solutions:**   
@@ -138,13 +138,13 @@
 <summary><strong>2. Scientific Projects – Discussion, Ideas, Plans</strong></summary>
 
    * **Class 13 (14/01/2025):**   
-     * [13\. ClassNotes-14012025-Science.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/13.%20ClassNotes-14012025-Science.pdf)  
+     * [13\. ClassNotes-14012025-Science.pdf](13.%20ClassNotes-14012025-Science.pdf)  
      * Video  
      * **Other materials:** 
-       * [13\. PlansAndProjectsForSpring2025.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/13.%20PlansAndProjectsForSpring2025.ODT) 
-       * [13\. PlansAndProjectsForSpring2025.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/13.%20PlansAndProjectsForSpring2025.pdf)  
+       * [13\. PlansAndProjectsForSpring2025.ODT](13.%20PlansAndProjectsForSpring2025.ODT) 
+       * [13\. PlansAndProjectsForSpring2025.pdf](13.%20PlansAndProjectsForSpring2025.pdf)  
      * **Verified HW Solutions:** 
-       * [13.HW-14012024-Science-AIInClassroom.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/13.HW-14012024-Science-AIInClassroom.xlsx)  
+       * [13.HW-14012024-Science-AIInClassroom.xlsx](13.HW-14012024-Science-AIInClassroom.xlsx)  
      * **Details:** Projects for this semester:   
        1. Understanding and using scientific method   
           1. Moon phases, tides   
@@ -173,13 +173,13 @@
 
 
    * **Class 14 (03/02/2025): Pros and Cons of AI ; Introduction to Drones**  
-     * [14\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/14.%20ClassNotes-03022025-Science.pdf)  
+     * [14\. ClassNotes.pdf](14.%20ClassNotes-03022025-Science.pdf)  
      * Video  
      * **Other materials:** 
-       * [14\. QuadcopterDroneBasics-AIGenerated.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/14.%20QuadcopterDroneBasics-AIGenerated.pdf) 
-       * [14\. QuadcopterDroneBasics-AIGenerated.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/14.%20QuadcopterDroneBasics-AIGenerated.ODT)  
+       * [14\. QuadcopterDroneBasics-AIGenerated.pdf](14.%20QuadcopterDroneBasics-AIGenerated.pdf) 
+       * [14\. QuadcopterDroneBasics-AIGenerated.ODT](14.%20QuadcopterDroneBasics-AIGenerated.ODT)  
      * **Verified HW Solutions:** 
-       * [14\. HW-03022025-Science-My-Paper-Working-Fan.jpg](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/14.%20HW-03022025-Science-My-Paper-Working-Fan.jpg)  
+       * [14\. HW-03022025-Science-My-Paper-Working-Fan.jpg](14.%20HW-03022025-Science-My-Paper-Working-Fan.jpg)  
      * **Details:**   
        1. AI in classroom \- when/where to use, advantages, problems   
           1. HW: Complete the excel with advantages/problems in our classroom AI usage   
@@ -192,21 +192,21 @@
 
 
    * **Class 15 (21/02/2025): Toy propeller simulation**  
-     * [15\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/15.%20ClassNotes-21022025-Science.pdf)  
-     * Video  
+     * [15\. ClassNotes.pdf](15.%20ClassNotes-21022025-Science.pdf)  
+     * Video
      * **Verified HW Solutions:** 
-       * [15\. HW-2102205-Science](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/tree/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/15.%20HW-2102205-Science)  
+       * [15\. HW-2102205-Science](15.%20HW-2102205-Science)  
      * **Details:** Toy propeller simulation \- AI generated code needs to be fixed (Mostly worked on fixing the AI generated code \- so that part can be skipped by others).   
        1. HW: Ask your parents to fix the code   
        2. HW: Change parameters (initial speed of rotation, weight, air properties etc. and see how the flight is affected)  
 
 
    * **Class 16 (11/03/2025): Working of Toy Propellor**  
-     * [16\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/16.%20ClassNotes-11032025-Science-Drones.pdf)  
+     * [16\. ClassNotes.pdf](16.%20ClassNotes-11032025-Science-Drones.pdf)  
      * Video  
      * **Other materials:** 
-       * [16\. ToyPropellorWorking-AISummary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/16.%20ToyPropellorWorking-AISummary.pdf) 
-       * [16\. ToyPropellorWorking-AISummary.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/16.%20ToyPropellorWorking-AISummary.docx)  
+       * [16\. ToyPropellorWorking-AISummary.pdf](16.%20ToyPropellorWorking-AISummary.pdf) 
+       * [16\. ToyPropellorWorking-AISummary.docx](16.%20ToyPropellorWorking-AISummary.docx)  
      * **Details:**   
      * Fixed Toy propeller AI python code   
        1. Examples   
@@ -223,12 +223,12 @@
 <summary><strong>4. Quiz using AI – Generation of Questions and Verification of Solutions</strong></summary>
 
    * **Class 17 (28/03/2025): Generating quiz using AI and Asking students to solve and verify**  
-     * [17\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/17.%20ClassNotes-28032025-Science_Social.pdf)  
+     * [17\. ClassNotes.pdf](17.%20ClassNotes-28032025-Science_Social.pdf)  
      * Video  
      * **Other materials: TODO Add AIQUIZ WITHOUT ANSWERS**  
      * **Verified HW Solutions:** 
-       * [17\. HW-Summary-class3-AP-environmental-1-AIQuiz-with-answer.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/17.%20HW-Summary-class3-AP-environmental-1-AIQuiz-with-answers.docx) 
-       * [17\. HW-Summary-class3-AP-environmental-1-AIQuiz-with-answers.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/17.%20HW-Summary-class3-AP-environmental-1-AIQuiz-with-answers.pdf)  
+       * [17\. HW-Summary-class3-AP-environmental-1-AIQuiz-with-answer.docx](17.%20HW-Summary-class3-AP-environmental-1-AIQuiz-with-answers.docx) 
+       * [17\. HW-Summary-class3-AP-environmental-1-AIQuiz-with-answers.pdf](17.%20HW-Summary-class3-AP-environmental-1-AIQuiz-with-answers.pdf)  
      * **Details:** Checked AI generated HW exercises on AP Env.3 textbook \- Generated AI answers to those questions   
        1. HW: Verify your HW answers with AI answers and correct where wrong. 
 </details>
@@ -238,56 +238,56 @@
 <summary><strong>5. Scientific Papers: How to Read Scientific Articles How to write Papers, Types of Papers, Problems with Reproducibility, Peer Review</strong></summary>
 
    * **Class 18 (24/04/2025):**   
-     * [18\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/18.%20ClassNotes-24042025-Science-ScientificArticles.pdf)  
+     * [18\. ClassNotes.pdf](18.%20ClassNotes-24042025-Science-ScientificArticles.pdf)  
      * Video  
      * **Other materials:** 
-       * [0.1. HowScientificeAritclesArePublished\_PeerReview.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.1.%20HowScientificeAritclesArePublished_PeerReview.pdf) 
-       * [0.1. HowScientificeAritclesArePublished\_PeerReview.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.1.%20HowScientificeAritclesArePublished_PeerReview.docx) 
-       * [0.2. ProblemsWithReproducibilityInScientificResearch.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.2.%20ProblemsWithReproducibilityInScientificResearch.pdf) 
-       * [0.2. ProblemsWithReproducibilityInScientificResearch.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.2.%20ProblemsWithReproducibilityInScientificResearch.docx) 
-       * [0.3. HowToWriteAScientificPaper-DifferentSections.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.3.%20HowToWriteAScientificPaper-DifferentSections.pdf) 
-       * [0.3. HowToWriteAScientificPaper-DifferentSections.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.3.%20HowToWriteAScientificPaper-DifferentSections.docx) 
-       * [0.4. HowToMakeScientificResearchAvailableToEveryone.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.4.%20HowToMakeScientificResearchAvailableToEveryone.pdf) 
-       * [0.4. HowToMakeScientificResearchAvailableToEveryone.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.4.%20HowToMakeScientificResearchAvailableToEveryone.docx) 
-       * [0.5. HowToReadScientificArticles.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.5.%20HowToReadScientificArticles.pdf) 
-       * [0.5. HowToReadScientificArticles.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.5.%20HowToReadScientificArticles.docx) 
-       * [0.6. TypesofScientificResearchAndArticles.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.6.%20TypesofScientificResearchAndArticles.pdf) 
-       * [0.6. TypesofScientificResearchAndArticles.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.6.%20TypesofScientificResearchAndArticles.docx)  
+       * [0.1. HowScientificeAritclesArePublished\_PeerReview.pdf](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.1.%20HowScientificeAritclesArePublished_PeerReview.pdf) 
+       * [0.1. HowScientificeAritclesArePublished\_PeerReview.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.1.%20HowScientificeAritclesArePublished_PeerReview.docx) 
+       * [0.2. ProblemsWithReproducibilityInScientificResearch.pdf](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.2.%20ProblemsWithReproducibilityInScientificResearch.pdf) 
+       * [0.2. ProblemsWithReproducibilityInScientificResearch.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.2.%20ProblemsWithReproducibilityInScientificResearch.docx) 
+       * [0.3. HowToWriteAScientificPaper-DifferentSections.pdf](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.3.%20HowToWriteAScientificPaper-DifferentSections.pdf) 
+       * [0.3. HowToWriteAScientificPaper-DifferentSections.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.3.%20HowToWriteAScientificPaper-DifferentSections.docx) 
+       * [0.4. HowToMakeScientificResearchAvailableToEveryone.pdf](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.4.%20HowToMakeScientificResearchAvailableToEveryone.pdf) 
+       * [0.4. HowToMakeScientificResearchAvailableToEveryone.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.4.%20HowToMakeScientificResearchAvailableToEveryone.docx) 
+       * [0.5. HowToReadScientificArticles.pdf](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.5.%20HowToReadScientificArticles.pdf) 
+       * [0.5. HowToReadScientificArticles.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.5.%20HowToReadScientificArticles.docx) 
+       * [0.6. TypesofScientificResearchAndArticles.pdf](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.6.%20TypesofScientificResearchAndArticles.pdf) 
+       * [0.6. TypesofScientificResearchAndArticles.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/0.6.%20TypesofScientificResearchAndArticles.docx)  
      * **Details:** AI notes on how scientific articles are written, peer review process, reproducibility of scientific research, different sections in a scientific paper and how to write them   
        1. HW: Read today’s document, write meanings, and remember the main details.
 
 
 
    * **Class 19 (02/05/2025): More on Scientific Papers**  
-     * [19\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/19.%20ClassNotes-02052025-Science-ScientificArticles.pdf)  
+     * [19\. ClassNotes.pdf](19.%20ClassNotes-02052025-Science-ScientificArticles.pdf)  
      * Video  
      * **Other materials:** 
-       * [2\. AI-DetailedClassVideoDescription-FromCaptions-NotCo.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.%20AI-DetailedClassVideoDescription-FromCaptions-NotCo.docx) 
-       * [2.1. BlackHolesFuzzballPaper-2008-AISummary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.1.%20BlackHolesFuzzballPaper-2008-AISummary.pdf),  [2.1. BlackHolesFuzzballPaper-2008-AISummary.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.1.%20BlackHolesFuzzballPaper-2008-AISummary.docx) 
-       * [2.1. BlackHolesFuzzballPaper-2008.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.1.%20BlackHolesFuzzballPaper-2008.pdf) 
-       * [2.2. TheAmygdalaAndEmotion-1996-AISummary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.2.%20TheAmygdalaAndEmotion-1996-AISummary.pdf) 
-       * [2.2. TheAmygdalaAndEmotion-1996-AISummary.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.2.%20TheAmygdalaAndEmotion-1996-AISummary.docx) 
-       * [2.2. TheAmygdalaAndEmotion-1996.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.2.%20TheAmygdalaAndEmotion-1996.pdf) 
-       * [2.3. MarsLife-2025-AI-StepByStep.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.3.%20MarsLife-2025-AI-StepByStep.pdf) 
-       * [2.3. MarsLife-2025-AI-StepByStep.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.3.%20MarsLife-2025-AI-StepByStep.docx) 
-       * [2.3. MarsLife-2025.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.3.%20MarsLife-2025.pdf) 
-       * [2.4. RagaIdentificationCarnaticMusic-2009.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.4.%20RagaIdentificationCarnaticMusic-2009.pdf) 
-       * [2.4. RagaIdentificationCarnaticMusic-AI-StepByStep.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.4.%20RagaIdentificationCarnaticMusic-AI-StepByStep.docx)  
+       * [2\. AI-DetailedClassVideoDescription-FromCaptions-NotCo.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.%20AI-DetailedClassVideoDescription-FromCaptions-NotCo.docx) 
+       * [2.1. BlackHolesFuzzballPaper-2008-AISummary.pdf](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.1.%20BlackHolesFuzzballPaper-2008-AISummary.pdf),  [2.1. BlackHolesFuzzballPaper-2008-AISummary.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.1.%20BlackHolesFuzzballPaper-2008-AISummary.docx) 
+       * [2.1. BlackHolesFuzzballPaper-2008.pdf](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.1.%20BlackHolesFuzzballPaper-2008.pdf) 
+       * [2.2. TheAmygdalaAndEmotion-1996-AISummary.pdf](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.2.%20TheAmygdalaAndEmotion-1996-AISummary.pdf) 
+       * [2.2. TheAmygdalaAndEmotion-1996-AISummary.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.2.%20TheAmygdalaAndEmotion-1996-AISummary.docx) 
+       * [2.2. TheAmygdalaAndEmotion-1996.pdf](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.2.%20TheAmygdalaAndEmotion-1996.pdf) 
+       * [2.3. MarsLife-2025-AI-StepByStep.pdf](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.3.%20MarsLife-2025-AI-StepByStep.pdf) 
+       * [2.3. MarsLife-2025-AI-StepByStep.docx](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.3.%20MarsLife-2025-AI-StepByStep.docx) 
+       * [2.3. MarsLife-2025.pdf](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.3.%20MarsLife-2025.pdf) 
+       * [2.4. RagaIdentificationCarnaticMusic-2009.pdf](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.4.%20RagaIdentificationCarnaticMusic-2009.pdf) 
+       * [2.4. RagaIdentificationCarnaticMusic-AI-StepByStep.docx](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.4.%20RagaIdentificationCarnaticMusic-AI-StepByStep.docx)  
      * **Verified HW Solutions:** 
-       * [2\. AI\_HW\_ExercisesOnScientificAriticlesPeerReviewEtc..pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.%20AI_HW_ExercisesOnScientificAriticlesPeerReviewEtc..pdf),  [2\. AI\_HW\_ExercisesOnScientificAriticlesPeerReviewEtc..docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.%20AI_HW_ExercisesOnScientificAriticlesPeerReviewEtc..docx) 
-       * [2\. AI\_HW\_ExercisesOnScientificAriticlesPeerReviewEtc-A.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.%20AI_HW_ExercisesOnScientificAriticlesPeerReviewEtc-A.docx) 
-       * [2\. AI\_HW\_ExercisesOnScientificAriticlesPeerReviewEtc-AnswersHW.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.%20AI_HW_ExercisesOnScientificAriticlesPeerReviewEtc-AnswersHW.pdf)  
+       * [2\. AI\_HW\_ExercisesOnScientificAriticlesPeerReviewEtc..pdf](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.%20AI_HW_ExercisesOnScientificAriticlesPeerReviewEtc..pdf),  [2\. AI\_HW\_ExercisesOnScientificAriticlesPeerReviewEtc..docx](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.%20AI_HW_ExercisesOnScientificAriticlesPeerReviewEtc..docx) 
+       * [2\. AI\_HW\_ExercisesOnScientificAriticlesPeerReviewEtc-A.docx](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.%20AI_HW_ExercisesOnScientificAriticlesPeerReviewEtc-A.docx) 
+       * [2\. AI\_HW\_ExercisesOnScientificAriticlesPeerReviewEtc-AnswersHW.pdf](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/1.%20HowToStudyScientificPapersPostersAndGrants/2.%20AI_HW_ExercisesOnScientificAriticlesPeerReviewEtc-AnswersHW.pdf)  
      * **Details:** How to read scientific articles, types of articles, types of scientific research; Example articles with AI Summaries, step by step process to read them etc.   
        1. HW: Read and understand the article ((2.4.CarnaticMusic…) using the step by step procedure   
        2. HW: Complete 50 AI HW exercises on scientific articles, peer review etc. Write answers in a separate document.  
 
 
    * **Class 20 (15/05/2025): Writing Scientific Papers \- Carnatic Music Pronunciation Paper**  
-     * [20\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/20.%20ClassNotes-15052025-Science-ScientificArticles.pdf)  
+     * [20\. ClassNotes.pdf](20.%20ClassNotes-15052025-Science-ScientificArticles.pdf)  
      * Video   
      * **Verified HW Solutions:** 
-       * [1\. HW-15052025-Science-AI-in-our-classroom-teachings.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-15052025-Science-AI-in-our-classroom-teachings.docx) 
-       * [1\. HW-15052025-Science-AI-in-our-classroom-teachings.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-15052025-Science-AI-in-our-classroom-teachings.pdf)  
+       * [1\. HW-15052025-Science-AI-in-our-classroom-teachings.docx](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-15052025-Science-AI-in-our-classroom-teachings.docx) 
+       * [1\. HW-15052025-Science-AI-in-our-classroom-teachings.pdf](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-15052025-Science-AI-in-our-classroom-teachings.pdf)  
      * **Details:**   
        1. Checked AI quiz on scientific papers, review process etc.   
        2. Carnatic music raaga identification paper \- AI steps to understand it and summary   
@@ -300,11 +300,11 @@
 
 
    * **Class 21 (04/06/2025): Writing Scientific Papers \- AI in Classroom Paper**  
-     * [21\. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/21.%20ClassNotes-04062025-Science_AI_Music_Papers.pdf)  
+     * [21\. ClassNotes.pdf](21.%20ClassNotes-04062025-Science_AI_Music_Papers.pdf)  
      * Video  
      * **Verified HW Solutions:** 
-       * [1\. HW-Al-In-Our-Classroom-Teachings-Grade-1-From-14012024-Science-HW.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-Al-In-Our-Classroom-Teachings-Grade-1-From-14012024-Science-HW.xlsx) 
-       * [1\. HW-Music-Breakdown-For-Paper-NotCorrected.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/3.%20ChandassuPronunciationInCarnaticMusic/1.%20HW-Music-Breakdown-For-Paper-NotCorrected.xlsx)  
+       * [1\. HW-Al-In-Our-Classroom-Teachings-Grade-1-From-14012024-Science-HW.xlsx](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-Al-In-Our-Classroom-Teachings-Grade-1-From-14012024-Science-HW.xlsx) 
+       * [1\. HW-Music-Breakdown-For-Paper-NotCorrected.xlsx](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/3.%20ChandassuPronunciationInCarnaticMusic/1.%20HW-Music-Breakdown-For-Paper-NotCorrected.xlsx)  
      * **Details:** Working on our papers   
        1. AI in classroom: see Notes   
           1. HW: complete excel sheet with all the results   
@@ -318,20 +318,20 @@
 
  * **Class 22 (16/05/2025): Final Quiz**  
      * **Final Quiz:** 
-       * [22\. ScienceFinalQuizGrade1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/22.%20ScienceFinalQuizGrade1.pdf) 
-       * [22\. ScienceFinalQuizGrade1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/22.%20ScienceFinalQuizGrade1.docx)  
+       * [22\. ScienceFinalQuizGrade1.pdf](22.%20ScienceFinalQuizGrade1.pdf) 
+       * [22\. ScienceFinalQuizGrade1.docx](22.%20ScienceFinalQuizGrade1.docx)  
      * **Verified quiz solutions:** 
-       * [22\. HWScienceFinalQuizGrade1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/22.%20HWScienceFinalQuizGrade1.pdf) 
-       * [22\. HWScienceFinalQuizGrade1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/22.%20HWScienceFinalQuizGrade1.docx) 
-       * [22\. HWScienceFinalQuizGrade1-AIGrading.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/22.%20HWScienceFinalQuizGrade1-AIGrading.pdf) 
-       * [22\. HWScienceFinalQuizGrade1-AIGrading.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/22.%20HWScienceFinalQuizGrade1-AIGrading.docx)  
+       * [22\. HWScienceFinalQuizGrade1.pdf](22.%20HWScienceFinalQuizGrade1.pdf) 
+       * [22\. HWScienceFinalQuizGrade1.docx](22.%20HWScienceFinalQuizGrade1.docx) 
+       * [22\. HWScienceFinalQuizGrade1-AIGrading.pdf](22.%20HWScienceFinalQuizGrade1-AIGrading.pdf) 
+       * [22\. HWScienceFinalQuizGrade1-AIGrading.docx](22.%20HWScienceFinalQuizGrade1-AIGrading.docx)  
      * **Details:**   
        1. Student completed AI generated quiz   
        2. Asked AI to grade the student's completed work and asked student to verify for any issues in AI grading.  
 
 
    * **Class 23 (27/10/2025): Review**   
-     * [23\. Classnotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/23.%20Classnotes-27102025-Science.pdf)  
+     * [23\. Classnotes.pdf](23.%20Classnotes-27102025-Science.pdf)  
      * Video   
      * **Details:**   
        1. Checked previous HWs, papers   
