@@ -6,7 +6,7 @@
 <summary><strong>1. Guru, Laghuvu concepts; Sangeetha Vidya Bhodhni Musical Textbook - Sarali Swaras, Janta Swaras, Akaradhi Sadhanas</strong></summary>
 
 * **Class 1 (15/08/2024): Learnt about Guru, Laghuvu concepts** 
-  * [1. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/1.%20ClassNotes15082024-Carnatic.pdf)  
+  * [1. ClassNotes.pdf](1.%20ClassNotes15082024-Carnatic.pdf)  
   * Video  
   * **Details:** 
     1. Learnt about Chandassu (Prosody)- Guru, Laghuvulu (Long and short syllables in poetic meter)
@@ -16,10 +16,10 @@
 
 
 * **Class 2 (09/11/2024): Sarali swaras from textbook** 
-  * [2. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/2.%20ClassNotes-Music-09112024.pdf)  
+  * [2. ClassNotes.pdf](2.%20ClassNotes-Music-09112024.pdf)  
   * Video  
   * **Other materials:**
-    * [0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf)
+    * [0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf](../0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf)
   * **Details:**   
     1. Doing this class in English instead of Telugu  
         1. We will write all songs in Telugu and English phonetics  
@@ -34,12 +34,12 @@
 
 
 * **Class 3 (23/09/2024): More practice on Sarali swaras with harmonium and flute** 
-  * [3. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/3.%20ClassNotes-23092024-Music.pdf)  
+  * [3. ClassNotes.pdf](3.%20ClassNotes-23092024-Music.pdf)  
   * Video  
   * **Other materials:**
-    * [0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf)
+    * [0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf](../0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf)
   * **Verified HW Solutions:**
-      * [3. HW-23092024-CarnaticMusicmajorscales.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/3.%20HW-23092024-CarnaticMusicmajorscales.pdf)  
+      * [3. HW-23092024-CarnaticMusicmajorscales.pdf](3.%20HW-23092024-CarnaticMusicmajorscales.pdf)  
   * **Details:** 
     1. More practice on Sarali swaras with harmonium and flute  
     2. HW: Practice Ch.2 9 and 10 swaras more  
@@ -49,12 +49,12 @@
 
 
 * **Class 4 (27/09/2024): Practiced sarali swaras in maya malava goula raaga.** 
-  * [4. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/4.%20ClassNotes-27092024-Music.pdf)  
+  * [4. ClassNotes.pdf](4.%20ClassNotes-27092024-Music.pdf)  
   * Video
   * **Other materials:**
-    * [0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf)
-    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.pdf)
-    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx)
+    * [0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf](../0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf)
+    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.pdf](../0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.pdf)
+    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx](../0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx)
   * **Details:** 
     1. Practiced sarali swaras in maya malava goula raaga..  
     2. Read Chapter 1 in textbook and translated into English using AI and corrected it. To be continued in next class. 
@@ -67,7 +67,7 @@
 <summary><strong>2. Major Scales and Normal Scales</strong></summary>
 
 * **Class 5 (04/10/2024): Major scales examples: with different flutes** 
-  * [5. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/5.%20ClassNotes-04102024-Music.pdf)  
+  * [5. ClassNotes.pdf](5.%20ClassNotes-04102024-Music.pdf)  
   * Video  
   * **Details:** 
     1. Major scales examples: with different flutes (checked different flutes and found their scales \- can be skipped for about 50 minutes or so)  
@@ -77,14 +77,14 @@
 
 
 * **Class 6 (11/10/2024): Scales for Mayamalava gowla and mohana raagam** 
-  * [6. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/6.%20ClassNotes-11102024-Music.pdf)  
+  * [6. ClassNotes.pdf](6.%20ClassNotes-11102024-Music.pdf)  
   * Video  
   * **Other materials:**
-    * [0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf)
-    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.pdf)
-    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx) 
+    * [0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf](../0_1_UV484-SangeetaVidyaaBhodini-GoodChandassuPracticeAndTheory.pdf)
+    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.pdf](../0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.pdf)
+    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx](../0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx) 
   * **Verified HW Solutions:**
-      * [6. HW_11102024_Music.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/6.%20HW_11102024_Music.pdf) 
+      * [6. HW_11102024_Music.pdf](6.%20HW_11102024_Music.pdf) 
   * **Details:** 
     1. Scales for Mayamalava gowla and mohana raagam  
     2. HW: Make different scales for both these raagas. 
@@ -97,7 +97,7 @@
 <summary><strong>3. Music, Waves and their properties, Harmonics </strong></summary>
 
 * **Class 7 (16/10/2024): Waves and their properties; More on scales for mayamalava gowla and mohana raagas** 
-  * [7. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/7.%20ClassNotes-16102024-Music.pdf)  
+  * [7. ClassNotes.pdf](7.%20ClassNotes-16102024-Music.pdf)  
   * Video  
   * **Verified HW Solutions:**   
   * **Details:** 
@@ -108,7 +108,7 @@
 
 
 * **Class 8 (28/10/2024): More on wave properties and their relation to music \- amplitude, attenuation** 
-  * [8. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/8.%20ClassNotes-28102024-Music.pdf)  
+  * [8. ClassNotes.pdf](8.%20ClassNotes-28102024-Music.pdf)  
   * Video  
   * **Other materials:** 
     * [11. WaveAnimationsCircular-2D1D-Attenuation-AI.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/11.%20WaveAnimationsCircular-2D1D-Attenuation-AI.py)
@@ -124,16 +124,16 @@
 
 
 * **Class 9 (07/11/2024): Harmonics and Timbre** 
-  * [9. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/9.%20ClassNotes-07112024-Music.pdf)  
+  * [9. ClassNotes.pdf](9.%20ClassNotes-07112024-Music.pdf)  
   * Video  
   * **Other materials:** 
-      * [9. FrequenciesOfMusicNotes.png](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/9.%20FrequenciesOfMusicNotes.png)
-      * [9. HarmonicsOfMusicalSounds.png](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/9.%20HarmonicsOfMusicalSounds.png)
-      * [9. MusicalIntervalsChart.png](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/9.%20MusicalIntervalsChart.png)
-      * [9. OctavesOfA.png](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/9.%20OctavesOfA.png)  
+      * [9. FrequenciesOfMusicNotes.png](9.%20FrequenciesOfMusicNotes.png)
+      * [9. HarmonicsOfMusicalSounds.png](9.%20HarmonicsOfMusicalSounds.png)
+      * [9. MusicalIntervalsChart.png](9.%20MusicalIntervalsChart.png)
+      * [9. OctavesOfA.png](9.%20OctavesOfA.png)  
 
   * **Verified HW Solutions:**
-      * [9. HW-Telephone](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/9.%20HW-Telephone)
+      * [9. HW-Telephone](9.%20HW-Telephone)
       * [9. HW-07112024-music-VelocitySetToZeroToSaveImages-ButNotReallyZero](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/tree/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/9.%20HW-07112024-music-VelocitySetToZeroToSaveImages-ButNotReallyZero)
       * [9. HW-07112024-music-VelocitySetToZeroToSaveImages-ButNotReallyZero1](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/tree/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/9.%20HW-07112024-music-VelocitySetToZeroToSaveImages-ButNotReallyZero1)
   * **Details:**
@@ -153,7 +153,7 @@
 
 
 * **Class 10 (26/11/2024): Tried singing HW bhajans but student struggling with higher notes in C-scale. Found that G-scale is better for him. Practiced in class.** 
-  * [10. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/10.%20ClassNotes-26112024-Music.pdf)  
+  * [10. ClassNotes.pdf](10.%20ClassNotes-26112024-Music.pdf)  
   * Video  
   * **Details:** 
     1. Tried singing HW bhajans but student struggling with higher notes in C-scale. Found that G-scale is better for him. Practiced in class.  
@@ -166,13 +166,13 @@
 <summary><strong>5. Sangeetha Vidya Bhodhni Musical Textbook - Sarali Swaras, Janta Swaras, Akaradhi Sadhanas ; Song breakdown </strong></summary>
 
 * **Class 11 (06/12/2024): Discrete and continuous steps in musical instruments; Chapter 1 from textbook and English translation** 
-  * [11. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/11.%20ClassNotes-06122024-Music.pdf)  
+  * [11. ClassNotes.pdf](11.%20ClassNotes-06122024-Music.pdf)  
   * Video  
   * **Other materials:**
-      * [11. SangeetaVidyaaBhodini-Chapter1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/11.%20SangeetaVidyaaBhodini-Chapter1.pdf)
+      * [11. SangeetaVidyaaBhodini-Chapter1.pdf](11.%20SangeetaVidyaaBhodini-Chapter1.pdf)
   * **Verified HW Solutions:**
-    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.pdf)
-    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx)
+    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.pdf](../0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.pdf)
+    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx](../0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx)
   * **Details:** 
     1. Discrete and continuous steps in musical instruments; Chapter 1 from textbook and English translation  
     2. HW: Type phonetics for all Telugu words/names in English translation  
@@ -182,14 +182,14 @@
 
 
 * **Class 12 (13/12/2024): 72 Melakartha raagas and their numbers** 
-  * [12. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/12.%20ClassNotes-13122024-Music.pdf)  
+  * [12. ClassNotes.pdf](12.%20ClassNotes-13122024-Music.pdf)  
   * Video  
   * **Other materials:**
-      * [12. Melakarta.katapayadi.sankhya.72.devanagari.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/12.%20Melakarta.katapayadi.sankhya.72.devanagari.pdf)
-      * [12. Melakarta.katapayadi.sankhya.72.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/12.%20Melakarta.katapayadi.sankhya.72.pdf) 
+      * [12. Melakarta.katapayadi.sankhya.72.devanagari.pdf](12.%20Melakarta.katapayadi.sankhya.72.devanagari.pdf)
+      * [12. Melakarta.katapayadi.sankhya.72.pdf](12.%20Melakarta.katapayadi.sankhya.72.pdf) 
   * **Verified HW Solutions:** 
-      * [1. HW_13122024_Music_HasatAli-Corrected.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/1.%20HW_13122024_Music_HasatAli-Corrected.xlsx)
-      * [12. HW_13122024_Music_RaagaNumberToNotes.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/12.%20HW_13122024_Music_RaagaNumberToNotes.py)
+      * [1. HW_13122024_Music_HasatAli-Corrected.xlsx](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/1.%20HW_13122024_Music_HasatAli-Corrected.xlsx)
+      * [12. HW_13122024_Music_RaagaNumberToNotes.py](12.%20HW_13122024_Music_RaagaNumberToNotes.py)
   * **Details:** 
     1. 72 Melakartha raagas \- from variations of swaras \- how to get raaga number from given set of notes or vice versa..  
     2. HW: Finish last HW breaking down Hasat Ali song \- type in excel (don't write) as in corrected HW  
@@ -199,13 +199,13 @@
 
 
 * **Class 13 (16/01/2025): Converting between melakartha raagaa number and notes; format & breakdown of a song** 
-  * [13. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/13.%20ClassNotes-16012025-Music.pdf)  
+  * [13. ClassNotes.pdf](13.%20ClassNotes-16012025-Music.pdf)  
   * Video  
   * **Other materials:** 
     * [15. HW_13122024_Music_RaagaNumberToNotes.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/15.%20HW_13122024_Music_RaagaNumberToNotes.py)
   * **Verified HW Solutions:**
-    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx)
-    * [1. HW_13122024_Music_HasatAli-Corrected.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/1.%20HW_13122024_Music_HasatAli-Corrected.xlsx)
+    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx](../0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx)
+    * [1. HW_13122024_Music_HasatAli-Corrected.xlsx](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/1.%20HW_13122024_Music_HasatAli-Corrected.xlsx)
   * **Details:** 
     1. HW: Ch.1 textbook \- English translation previous HW \- write phonetics/Telugu for Telugu words not as comments but in brackets; Also, make sure phonetics & Telugu text match.  
     2. Checked how to convert between melakartha raagaa number and notes (python code)  
@@ -214,15 +214,15 @@
 
 
 * **Class 14 (07/02/2025): Sarali swaras** 
-  * [14. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/14.%20ClassNotes-07022025-Music.pdf)  
+  * [14. ClassNotes.pdf](14.%20ClassNotes-07022025-Music.pdf)  
   * Video  
   * **Other materials:**
-      * [14.SaraliSwarasMadhyamavathiRaagam-SangeethaVidyaBodhini.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/14.SaraliSwarasMadhyamavathiRaagam-SangeethaVidyaBodhini.pdf)
-      * [14.SaraliSwarasMayamalavaGowlaRaagam-SangeethaVidyaBodhini.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/14.SaraliSwarasMayamalavaGowlaRaagam-SangeethaVidyaBodhini.pdf)
-      * [14.SaraliSwarasMohanaRaagam-SangeethaVidyaBodhini.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/14.SaraliSwarasMohanaRaagam-SangeethaVidyaBodhini.pdf)  
+      * [14.SaraliSwarasMadhyamavathiRaagam-SangeethaVidyaBodhini.pdf](14.SaraliSwarasMadhyamavathiRaagam-SangeethaVidyaBodhini.pdf)
+      * [14.SaraliSwarasMayamalavaGowlaRaagam-SangeethaVidyaBodhini.pdf](14.SaraliSwarasMayamalavaGowlaRaagam-SangeethaVidyaBodhini.pdf)
+      * [14.SaraliSwarasMohanaRaagam-SangeethaVidyaBodhini.pdf](14.SaraliSwarasMohanaRaagam-SangeethaVidyaBodhini.pdf)  
   * **Verified HW Solutions:**
-    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx)
-    * [1. HW_13122024_Music_HasatAli-Corrected.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/1.%20HW_13122024_Music_HasatAli-Corrected.xlsx)
+    * [0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx](../0_1_UV484-SangeetaVidyaaBhodini_EnglishTranslationWithAIHelp.docx)
+    * [1. HW_13122024_Music_HasatAli-Corrected.xlsx](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/1.%20HW_13122024_Music_HasatAli-Corrected.xlsx)
   * **Details:** 
     1. Daily practice \- what and how long  
     2. Sarali swaras \- Mayamalava, Mohana, Madhyamavati Raagas  
@@ -233,13 +233,13 @@
 
 
 * **Class 15 (23/02/2025): Janta and Dhathu swaras** 
-  * [15. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/15.%20ClassNotes-23022025-Music.pdf)  
+  * [15. ClassNotes.pdf](15.%20ClassNotes-23022025-Music.pdf)  
   * Video  
   * **Other materials:**
-      * [15. JantaDhathuSwaras.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/15.%20JantaDhathuSwaras.pdf) 
+      * [15. JantaDhathuSwaras.pdf](15.%20JantaDhathuSwaras.pdf) 
   * **Verified HW Solutions:**
-      * [15. HW-23022025-Music-Find-out-which-malakarta-raaga-is-it.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/15.%20HW-23022025-Music-Find-out-which-malakarta-raaga-is-it.pdf)
-      * [15. HW-23022025-Music-Graha-Bhedam-3-examples.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/15.%20HW-23022025-Music-Graha-Bhedam-3-examples.pdf) 
+      * [15. HW-23022025-Music-Find-out-which-malakarta-raaga-is-it.pdf](15.%20HW-23022025-Music-Find-out-which-malakarta-raaga-is-it.pdf)
+      * [15. HW-23022025-Music-Graha-Bhedam-3-examples.pdf](15.%20HW-23022025-Music-Graha-Bhedam-3-examples.pdf) 
   * **Details:** 
     1. HW: Finish all previous class HWs  
     2. Madhyamavati similar to Mohana under Graha Bhedam
@@ -250,11 +250,11 @@
 
 
 * **Class 16 (14/03/2025): More examples of graha bhedam** 
-  * [16. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/16.%20ClassNotes-14032025-Music.pdf)  
+  * [16. ClassNotes.pdf](16.%20ClassNotes-14032025-Music.pdf)  
   * Video  
   * **Verified HW Solutions:**
-      * [16. HW-14032025-Music.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/16.%20HW-14032025-Music.pdf)  
-      * [1. HW_13122024_Music_HasatAli-Corrected.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/1.%20HW_13122024_Music_HasatAli-Corrected.xlsx)
+      * [16. HW-14032025-Music.pdf](16.%20HW-14032025-Music.pdf)  
+      * [1. HW_13122024_Music_HasatAli-Corrected.xlsx](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/1.%20HW_13122024_Music_HasatAli-Corrected.xlsx)
   * **Details:** 
     1. HW: Hasal ali song, add beats and swaras to the excel file with improved formatting  
     2. Practice "Janta" and "Dhathu" swaras.  
@@ -264,14 +264,14 @@
 
 
 * **Class 17 (27/03/2025): Practiced Janta, Dhathu Swaras** 
-  * [17. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/17.%20ClassNotes-27032025-Music.pdf)  
+  * [17. ClassNotes.pdf](17.%20ClassNotes-27032025-Music.pdf)  
   * Video  
   * **Other materials:**
-      * [17. JantaSwarasInDheeraSankarabharanam-SangeethaVidyaBodhini-AIEnglishTranscript-Corrected.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/17.%20JantaSwarasInDheeraSankarabharanam-SangeethaVidyaBodhini-AIEnglishTranscript-Corrected.docx)
-      * [17. JantaSwarasInDheeraSankarabharanam-SangeethaVidyaBodhini-AIEnglishTranscript-Corrected.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/17.%20JantaSwarasInDheeraSankarabharanam-SangeethaVidyaBodhini-AIEnglishTranscript-Corrected.pdf)
-      * [17. JantaSwarasInDheeraSankarabharanam-SangeethaVidyaBodhini.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/17.%20JantaSwarasInDheeraSankarabharanam-SangeethaVidyaBodhini.pdf)  
+      * [17. JantaSwarasInDheeraSankarabharanam-SangeethaVidyaBodhini-AIEnglishTranscript-Corrected.docx](17.%20JantaSwarasInDheeraSankarabharanam-SangeethaVidyaBodhini-AIEnglishTranscript-Corrected.docx)
+      * [17. JantaSwarasInDheeraSankarabharanam-SangeethaVidyaBodhini-AIEnglishTranscript-Corrected.pdf](17.%20JantaSwarasInDheeraSankarabharanam-SangeethaVidyaBodhini-AIEnglishTranscript-Corrected.pdf)
+      * [17. JantaSwarasInDheeraSankarabharanam-SangeethaVidyaBodhini.pdf](17.%20JantaSwarasInDheeraSankarabharanam-SangeethaVidyaBodhini.pdf)  
   * **Verified HW Solutions:**
-      * [1. HW_13122024_Music_HasatAli-Corrected.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/1.%20HW_13122024_Music_HasatAli-Corrected.xlsx)
+      * [1. HW_13122024_Music_HasatAli-Corrected.xlsx](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/1.%20HW_13122024_Music_HasatAli-Corrected.xlsx)
   * **Details:** 
     1. Practiced Janta, Dhathu Swaras more  
     2. HW: Practice in Dheera sankarabharanam from SangeethaVidyaBodhini and fix AI English transcription  
@@ -283,12 +283,12 @@
 
 
 * **Class 18 (28/04/2025): Sangeethavidya bodhini Ch.4 \- Akaaradi saadhana** 
-  * [18. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/18.%20ClassNotes-28042025-Music.pdf)  
+  * [18. ClassNotes.pdf](18.%20ClassNotes-28042025-Music.pdf)  
   * Video  
   * **Other materials:**
-      * [18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.docx)
-      * [18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.pdf)
-      * [18.AkaradiSadhanamu-SangeethaVidyaBodhini.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/18.AkaradiSadhanamu-SangeethaVidyaBodhini.pdf)  
+      * [18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.docx](18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.docx)
+      * [18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.pdf](18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.pdf)
+      * [18.AkaradiSadhanamu-SangeethaVidyaBodhini.pdf](18.AkaradiSadhanamu-SangeethaVidyaBodhini.pdf)  
   * **Details:** 
     1. Sangeethavidya bodhini Ch.4 \- Akaaradi saadhana  
     2. HW: Practice all sarali, janta, dhathu swaras using aa, ee, uu, ae, oo  
@@ -298,16 +298,16 @@
 
 
 * **Class 19 (12/05/2025): Akaradi sadhanas \- more practice** 
-  * [19. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/19.%20ClassNotes-12052025-Music.pdf)  
+  * [19. ClassNotes.pdf](19.%20ClassNotes-12052025-Music.pdf)  
   * Video  
   * **Other materials:**
-      * [18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.docx)
-      * [18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.pdf)
-      * [3. Graha bhedam - Wikipedia.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/3.%20Graha%20bhedam%20-%20Wikipedia.pdf)
+      * [18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.docx](18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.docx)
+      * [18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.pdf](18.AkaradiSadhanamu-SangeethaVidyaBodhini-EnglishTranslation.pdf)
+      * [3. Graha bhedam - Wikipedia.pdf](../0.%20Books/3.%20Graha%20bhedam%20-%20Wikipedia.pdf)
   * **Verified HW Solutions:**   
-      * [3. Grahabhedham72MelakarthaRaagas.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/3.%20Grahabhedham72MelakarthaRaagas.docx)
-      * [3. Grahabhedham72MelakarthaRaagas.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/3.%20Grahabhedham72MelakarthaRaagas.pdf)
-      * [1. HW_13122024_Music_HasatAli-Corrected.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/1.%20HW_13122024_Music_HasatAli-Corrected.xlsx)
+      * [3. Grahabhedham72MelakarthaRaagas.docx](../0.%20Books/3.%20Grahabhedham72MelakarthaRaagas.docx)
+      * [3. Grahabhedham72MelakarthaRaagas.pdf](../0.%20Books/3.%20Grahabhedham72MelakarthaRaagas.pdf)
+      * [1. HW_13122024_Music_HasatAli-Corrected.xlsx](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/1.%20HW_13122024_Music_HasatAli-Corrected.xlsx)
   * **Details:** 
     1. Singing: Suggestions from Shilpa aunty  
     2. Two/2.5 octaves mostly enough for krishna. Virata 1.5/2 octaves. G scale is probably better for Virata.  
@@ -325,12 +325,12 @@
 
 
 * **Class 20 (20/05/2025): Pillaari geethalu** 
-  * [20. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/20.%20ClassNotes-20052025-Music.pdf)  
+  * [20. ClassNotes.pdf](20.%20ClassNotes-20052025-Music.pdf)  
   * Video  
   * **Other materials:**
-      * [20. PillaariGeethaalu1,2,3-SangeethaVidyaBodhini-Breakdown-NotCorrected.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/20.%20PillaariGeethaalu1,2,3-SangeethaVidyaBodhini-Breakdown-NotCorrected.docx)
-      * [20. PillaariGeethaalu1,2,3-SangeethaVidyaBodhini-Breakdown-NotCorrected.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/20.%20PillaariGeethaalu1,2,3-SangeethaVidyaBodhini-Breakdown-NotCorrected.pdf)
-      * [20. PillaariGeethaalu1And2-SangeethaVidyaBodhini.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/20.%20PillaariGeethaalu1And2-SangeethaVidyaBodhini.pdf)  
+      * [20. PillaariGeethaalu1,2,3-SangeethaVidyaBodhini-Breakdown-NotCorrected.docx](20.%20PillaariGeethaalu1,2,3-SangeethaVidyaBodhini-Breakdown-NotCorrected.docx)
+      * [20. PillaariGeethaalu1,2,3-SangeethaVidyaBodhini-Breakdown-NotCorrected.pdf](20.%20PillaariGeethaalu1,2,3-SangeethaVidyaBodhini-Breakdown-NotCorrected.pdf)
+      * [20. PillaariGeethaalu1And2-SangeethaVidyaBodhini.pdf](20.%20PillaariGeethaalu1And2-SangeethaVidyaBodhini.pdf)  
   * **Details:** 
     1. Pillaari geethalu  
     2. Breakdown lyrics, meanings, chandassu \- AI  
@@ -340,12 +340,12 @@
 
 
 * **Class 21 (06/06/2025): Practiced pillaari geethalu** 
-  * [21. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/21.%20ClassNotes-06062025-Music.pdf)  
+  * [21. ClassNotes.pdf](21.%20ClassNotes-06062025-Music.pdf)  
   * Video  
   * **Other materials:**
-      * [21.PillariGeetham3-SangeethaVidyaBodhini.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/21.PillariGeetham3-SangeethaVidyaBodhini.pdf)    
+      * [21.PillariGeetham3-SangeethaVidyaBodhini.pdf](21.PillariGeetham3-SangeethaVidyaBodhini.pdf)    
   * **Verified HW Solutions:**
-      * [21. HW-06062025-Music-Breakdown-PillariGeethaluAndOthersForPaper-NotCorrected.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/21.%20HW-06062025-Music-Breakdown-PillariGeethaluAndOthersForPaper-NotCorrected.xlsx)
+      * [21. HW-06062025-Music-Breakdown-PillariGeethaluAndOthersForPaper-NotCorrected.xlsx](21.%20HW-06062025-Music-Breakdown-PillariGeethaluAndOthersForPaper-NotCorrected.xlsx)
 
   * **Details:** 
     1. Practiced pillaari geethalu  
@@ -354,13 +354,13 @@
 
 
 * **Class 22 (13/06/2025): Pillari geethalu using akaaradi saadhana** 
-  * [22. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/22.%20ClassNotes-13062025-Music.pdf)  
+  * [22. ClassNotes.pdf](22.%20ClassNotes-13062025-Music.pdf)  
   * Video 
   * **Other materials:**
-      * [21.PillariGeetham3-SangeethaVidyaBodhini.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/21.PillariGeetham3-SangeethaVidyaBodhini.pdf)  
+      * [21.PillariGeetham3-SangeethaVidyaBodhini.pdf](21.PillariGeetham3-SangeethaVidyaBodhini.pdf)  
   * **Verified HW Solutions:**
-      * [22. HW-13062025-Friday-Music-Graha-Bhedam-Uncorrected.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/22.%20HW-13062025-Friday-Music-Graha-Bhedam-Uncorrected.xlsx)
-      * [22. HW-Telugu-exam-2025-1-song.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/22.%20HW-Telugu-exam-2025-1-song.pdf)  
+      * [22. HW-13062025-Friday-Music-Graha-Bhedam-Uncorrected.xlsx](22.%20HW-13062025-Friday-Music-Graha-Bhedam-Uncorrected.xlsx)
+      * [22. HW-Telugu-exam-2025-1-song.pdf](22.%20HW-Telugu-exam-2025-1-song.pdf)  
   * **Details:** 
     1. HW: Complete previous homeworks  
     2. Pillari geethalu using akaaradi saadhana  
@@ -376,20 +376,20 @@
 <summary><strong>6. Final Quiz and Review</strong></summary>
 
  * **Class 23 (16/05/2025): Final Quiz**  
-     * **Final Quiz:**   [23. MusicFinalQuizGrade1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/23.%20MusicFinalQuizGrade1.pdf)
-      * [23. MusicFinalQuizGrade1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/23.%20MusicFinalQuizGrade1.docx)
+     * **Final Quiz:**   [23. MusicFinalQuizGrade1.pdf](23.%20MusicFinalQuizGrade1.pdf)
+      * [23. MusicFinalQuizGrade1.docx](23.%20MusicFinalQuizGrade1.docx)
      * **Verified quiz solutions:**
-      * [23. HWMusicFinalQuizGrade1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/23.%20HWMusicFinalQuizGrade1.pdf)
-      * [23. HWMusicFinalQuizGrade1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/23.%20HWMusicFinalQuizGrade1.docx)
-      * [23. HWMusicFinalQuizGrade1-AIGrading.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/23.%20HWMusicFinalQuizGrade1-AIGrading.pdf)
-      * [23. HWMusicFinalQuizGrade1-AIGrading.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/23.%20HWMusicFinalQuizGrade1-AIGrading.docx)
+      * [23. HWMusicFinalQuizGrade1.pdf](23.%20HWMusicFinalQuizGrade1.pdf)
+      * [23. HWMusicFinalQuizGrade1.docx](23.%20HWMusicFinalQuizGrade1.docx)
+      * [23. HWMusicFinalQuizGrade1-AIGrading.pdf](23.%20HWMusicFinalQuizGrade1-AIGrading.pdf)
+      * [23. HWMusicFinalQuizGrade1-AIGrading.docx](23.%20HWMusicFinalQuizGrade1-AIGrading.docx)
      * **Details:**   
        1. Student completed AI generated quiz   
        2. Asked AI to grade the student's completed work and asked student to verify for any issues in AI grading.  
 
 
    * **Class 24 (27/10/2025): Review**   
-     * [23\. Classnotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/24.%20Classnotes-30102025-Music.pdf)  
+     * [23\. Classnotes.pdf](24.%20Classnotes-30102025-Music.pdf)  
      * Video   
      * **Details:**   
        1. Checked previous HWs  
