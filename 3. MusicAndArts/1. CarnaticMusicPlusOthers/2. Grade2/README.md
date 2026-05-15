@@ -5,12 +5,12 @@
 <summary><strong> 1. “Maata Nirmala Maheswari” Telugu Sahaja Yoga song </strong></summary>
 
 * **Class 1 (14/11/2025): Practiced “Maata Nirmala Maheswari” telugu Sahaja Yoga song** 
-  * [1. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/1.ClassNotes-14112025-Music.pdf)  
+  * [1. ClassNotes.pdf](1.ClassNotes-14112025-Music.pdf)  
   * Video  
   * **Other materials:**  
-    * [3.1. MataNirmalaMaheswari.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.1.%20MataNirmalaMaheswari.pdf) 
+    * [3.1. MataNirmalaMaheswari.pdf](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.1.%20MataNirmalaMaheswari.pdf) 
   * **Verified HW Solutions:**   
-    * [3.3. HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.3.%20HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx)
+    * [3.3. HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.3.%20HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx)
 
   * **Details:** 
     * Practiced “Maata Nirmala Maheswari” telugu Sahaja Yoga song (see at 3\. MusicAndArts\\1. CarnaticMusicPlusOthers\\0. Books\\SahajayogaBhajansAndNotes\\0. Bhajans\_WithWordToWordTranslations)  
@@ -18,13 +18,13 @@
 
 
 * **Class 2 (13/12/2025): Checked Mata Nirmala Maheswari Song breakdown** 
-  * [2. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/2.%20ClassNotes-13122025-Music.pdf)  
+  * [2. ClassNotes.pdf](2.%20ClassNotes-13122025-Music.pdf)  
   * Video  
  
   * **Other materials:**  
-    * [3.1. MataNirmalaMaheswari.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.1.%20MataNirmalaMaheswari.pdf) 
+    * [3.1. MataNirmalaMaheswari.pdf](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.1.%20MataNirmalaMaheswari.pdf) 
   * **Verified HW Solutions:**   
-    * [3.3. HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.3.%20HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx)
+    * [3.3. HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.3.%20HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx)
   * **Details:** 
     * Checked Mata Nirmala Maheswari Song breakdown  
     * HW: Listen to Mata Nirmala Maheswari Song audio  
@@ -34,12 +34,12 @@
 
 
 * **Class 3 (19/01/2026): Check previous H/W on 'Mata Nirmala Maheswari song'** 
-  * [3. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/3.ClassNotes-19012026-Music.pdf)  
+  * [3. ClassNotes.pdf](3.ClassNotes-19012026-Music.pdf)  
   * Video
   * **Other materials:**  
-    * [3.1. MataNirmalaMaheswari.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.1.%20MataNirmalaMaheswari.pdf) 
+    * [3.1. MataNirmalaMaheswari.pdf](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.1.%20MataNirmalaMaheswari.pdf) 
   * **Verified HW Solutions:**   
-    * [3.3. HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.3.%20HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx)
+    * [3.3. HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.3.%20HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx)
   * **Details:** 
     * Check previous H/W on 'Mata Nirmala Maheswari song'  
     * Hindustani Swaras vs. Carnatic swaras  
@@ -55,14 +55,14 @@
 <summary><strong> 2. Python app for pitch detection and more songs</strong></summary>
 
 * **Class 4 (13/02/2026): - A Python application for pitch detection and showing the frequency spectrum for each note played** 
-  * [4. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/4.%20ClassNotes-13022026-Music.pdf)  
+  * [4. ClassNotes.pdf](4.%20ClassNotes-13022026-Music.pdf)  
   * Video  
   * **Other materials:**
-    * [4.1.MusicAudioAnalyzer_NotGood.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.1.MusicAudioAnalyzer_NotGood.py)
-    * [4.2.MusicAudio2D_Working.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.2.MusicAudio2D_Working.py)
-    * [4.3.MusicAudio3D_NotGood.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.3.MusicAudio3D_NotGood.py)
-    * [4.4.MusicAudio2D_Working_Updated_WithComments.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.4.MusicAudio2D_Working_Updated_WithComments.py)
-    * [4.5.MusicAudioSpectrum_WithTimeline.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.5.MusicAudioSpectrum_WithTimeline.py)   
+    * [4.1.MusicAudioAnalyzer_NotGood.py](../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.1.MusicAudioAnalyzer_NotGood.py)
+    * [4.2.MusicAudio2D_Working.py](../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.2.MusicAudio2D_Working.py)
+    * [4.3.MusicAudio3D_NotGood.py](../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.3.MusicAudio3D_NotGood.py)
+    * [4.4.MusicAudio2D_Working_Updated_WithComments.py](../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.4.MusicAudio2D_Working_Updated_WithComments.py)
+    * [4.5.MusicAudioSpectrum_WithTimeline.py](../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.5.MusicAudioSpectrum_WithTimeline.py)   
   * **Details:** 
     * A Python application for pitch detection and showing the frequency spectrum for each note played  
     * can show the 'timbre'  
@@ -86,7 +86,7 @@
 
 
 * **Class 5 (06/03/2026): Practiced 3 songs (1) Mata nirmala Maheswari (2) Jaag uthe (3) Sharanu gori** 
-  * [5. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/5.%20ClassNotes-06032026-Music.pdf)  
+  * [5. ClassNotes.pdf](5.%20ClassNotes-06032026-Music.pdf)  
   * Video  
   * **Verified HW Solutions:**   
   * **Details:** 
@@ -95,10 +95,10 @@
 
 
 * **Class 6 (26/03/2024): - Gamakas chapter - AI translation** 
-  * [6. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/6.%20ClassNotes-26032024-Music.pdf)  
+  * [6. ClassNotes.pdf](6.%20ClassNotes-26032024-Music.pdf)  
   * Video  
   * **Other materials:**
-    * [7.AI-Music-GamakaFrequencySimulator.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/7.AI-Music-GamakaFrequencySimulator.py)
+    * [7.AI-Music-GamakaFrequencySimulator.py](../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/7.AI-Music-GamakaFrequencySimulator.py)
   * **Verified HW Solutions:**   
   * **Details:** 
     * HW: Write Sharanugo:ri song in the following way: Telugu lyrics, Phonetic lyrics, Swaras  
