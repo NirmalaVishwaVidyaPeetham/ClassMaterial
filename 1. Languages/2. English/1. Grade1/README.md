@@ -6,26 +6,26 @@
 <summary><strong> 1. Learning English Textbook Chapters from India (AP)</strong></summary>
 
 * **Class 1 (15/08/2024): AP text book chapters** 
-  * [1. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/1.%20ClassNotes-15082024-English.pdf)  
+  * [1. ClassNotes.pdf](1.%20ClassNotes-15082024-English.pdf)  
   * Video  
   * **Other materials:**
-      * [0. HW-class1-AP-english-textbook.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20HW-class1-AP-english-textbook.pdf)
+      * [0. HW-class1-AP-english-textbook.pdf](0.%20HW-class1-AP-english-textbook.pdf)
   * **Verified HW Solutions:**
-      * [1. Homework15082024-English.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/1.%20Homework15082024-English.pdf)  
-      * [0. HW-class1-AP-english-workbook.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20HW-class1-AP-english-workbook.pdf)
-      * [0. HW-class1-AP-english-textbook.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20HW-class1-AP-english-textbook.pdf)
+      * [1. Homework15082024-English.pdf](1.%20Homework15082024-English.pdf)  
+      * [0. HW-class1-AP-english-workbook.pdf](0.%20HW-class1-AP-english-workbook.pdf)
+      * [0. HW-class1-AP-english-textbook.pdf](0.%20HW-class1-AP-english-textbook.pdf)
   * **Details:** 
     1. AP text book chapters
 
 
 * **Class 2 (21/08/2024): AP textbook chapters 2,3,4** 
-  * [2. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/2.%20ClassNotes21082024-English.pdf)  
+  * [2. ClassNotes.pdf](2.%20ClassNotes21082024-English.pdf)  
   * Video  
   * **Other materials:**
-      * [0. HW-class1-AP-english-textbook.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20HW-class1-AP-english-textbook.pdf)
+      * [0. HW-class1-AP-english-textbook.pdf](0.%20HW-class1-AP-english-textbook.pdf)
   * **Verified HW Solutions:**
-      * [0. HW-class1-AP-english-workbook.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20HW-class1-AP-english-workbook.pdf)
-      * [0. HW-class1-AP-english-textbook.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20HW-class1-AP-english-textbook.pdf)  
+      * [0. HW-class1-AP-english-workbook.pdf](0.%20HW-class1-AP-english-workbook.pdf)
+      * [0. HW-class1-AP-english-textbook.pdf](0.%20HW-class1-AP-english-textbook.pdf)  
   * **Details:** 
     1. Ap textbook chapters 2,3,4  
     2. HW: AP textbook ch. 2,3,4  
@@ -33,12 +33,12 @@
 
 
 * **Class 3 (04/09/2024): AP textbook Chapters 5,6,7,8** 
-  * [3. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/3.%20ClassNotes04092024-English.pdf)  
+  * [3. ClassNotes.pdf](3.%20ClassNotes04092024-English.pdf)  
   * Video  
   * **Other materials:**
-      * [0. HW-class1-AP-english-textbook.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20HW-class1-AP-english-textbook.pdf)
-  * **Verified HW Solutions:**   [0. HW-class1-AP-english-workbook.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20HW-class1-AP-english-workbook.pdf)
-      * [0. HW-class1-AP-english-textbook.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20HW-class1-AP-english-textbook.pdf)
+      * [0. HW-class1-AP-english-textbook.pdf](0.%20HW-class1-AP-english-textbook.pdf)
+  * **Verified HW Solutions:**   [0. HW-class1-AP-english-workbook.pdf](0.%20HW-class1-AP-english-workbook.pdf)
+      * [0. HW-class1-AP-english-textbook.pdf](0.%20HW-class1-AP-english-textbook.pdf)
   * **Details:** 
     1. AP textbook Chapters.  
   
@@ -48,12 +48,12 @@
 <summary><strong> 2. Sahaja yoga Children’s books: Secret of seven, Journey with Chakras, 10 primordial masters and Jesus Christ</strong></summary>
 
 * **Class 4 (12/09/2024): Reading children’s books from Amrutha.com. Secret of seven (Chapter 1)** 
-  * [4. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/4.%20ClassNotes-English-12092024.pdf)  
+  * [4. ClassNotes.pdf](4.%20ClassNotes-English-12092024.pdf)  
   * Video  
   * **Other materials:**
       * [Children'sBooksSahajayoga](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/tree/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga)
   * **Verified HW Solutions:**
-      * [4. HW-12902024-Summmary-Chp1-SecretOfSeven.txt](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/4.%20HW-12902024-Summmary-Chp1-SecretOfSeven.txt)  
+      * [4. HW-12902024-Summmary-Chp1-SecretOfSeven.txt](4.%20HW-12902024-Summmary-Chp1-SecretOfSeven.txt)  
   * **Details:** 
     1. We will read children’s books from Amrutha.com  
     2. Secret of seven  
@@ -64,15 +64,15 @@
 
 
 * **Class 5 (17/09/2024): Secret of seven \- (Chapter 1) Summary and Chapter 2** 
-  * [5. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/5.%20ClassNotes-17092024-English.pdf)  
+  * [5. ClassNotes.pdf](5.%20ClassNotes-17092024-English.pdf)  
   * Video  
   * **Other materials:**
-      * [1. The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
-      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
-      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT)
+      * [1. The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](0.%20Children'sBooksSahajayoga/1.%20The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
+      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
+      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT](0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT)
   * **Verified HW Solutions:**
-      * [5. HW-18092024-Summary-Chp2.txt](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/5.%20HW-18092024-Summary-Chp2.txt)  
-      * [1. HW_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20HW_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
+      * [5. HW-18092024-Summary-Chp2.txt](5.%20HW-18092024-Summary-Chp2.txt)  
+      * [1. HW_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](0.%20Children'sBooksSahajayoga/1.%20HW_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
   * **Details:** 
     1. Went over Ch.1 Summary and looked at AI Summary also  
     2. Read Ch.2  
@@ -81,15 +81,15 @@
     
 
 * **Class 6 (25/09/2024): Secret of seven \- Chapter 3** 
-  * [6. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/6.%20ClassNotes-25092024-English.pdf)  
+  * [6. ClassNotes.pdf](6.%20ClassNotes-25092024-English.pdf)  
   * Video  
   * **Other materials:**
-      * [1. The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
-      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
-      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT)
+      * [1. The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](0.%20Children'sBooksSahajayoga/1.%20The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
+      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
+      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT](0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT)
   * **Verified HW Solutions:**
-      * [6. HW-alphabet-tracing-2.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/6.%20HW-alphabet-tracing-2.pdf)
-      * [6. HW_25092024_Chp3Summary.txt](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/6.%20HW_25092024_Chp3Summary.txt)  
+      * [6. HW-alphabet-tracing-2.pdf](6.%20HW-alphabet-tracing-2.pdf)
+      * [6. HW_25092024_Chp3Summary.txt](6.%20HW_25092024_Chp3Summary.txt)  
   * **Details:** 
     1. Ch. 3 Secret of Seven  
     2. HW: Summarize Ch.3 in two sentences 
@@ -97,15 +97,15 @@
 
 
 * **Class 7 (01/10/2024): Secret of seven \- Chapters 4, 5, 6 and AI summaries** 
-  * [7. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/7.%20ClassNotes-01102024-English.pdf)  
+  * [7. ClassNotes.pdf](7.%20ClassNotes-01102024-English.pdf)  
   * Video  
   * **Other materials:**
-      * [1. The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
-      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
-      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT)
+      * [1. The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](0.%20Children'sBooksSahajayoga/1.%20The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
+      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
+      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT](0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT)
   * **Verified HW Solutions:**
-      * [7. AI Summaries - Ch4,5,6.txt](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/7.%20AI%20Summaries%20-%20Ch4,5,6.txt) 
-      * [1. HW_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20HW_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
+      * [7. AI Summaries - Ch4,5,6.txt](7.%20AI%20Summaries%20-%20Ch4,5,6.txt) 
+      * [1. HW_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](0.%20Children'sBooksSahajayoga/1.%20HW_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
   * **Details:** 
     1. Secret of seven Chapters 4, 5, 6 and AI summaries  
     2. HW: Write meanings of difficult words in Ch. 4,5,6  
@@ -114,12 +114,12 @@
 
 
 * **Class 8 (09/10/2024): Secret of Seven \- overall summary and chapter names** 
-  * [8. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/8.%20ClassNotes-09102024-English.pdf)  
+  * [8. ClassNotes.pdf](8.%20ClassNotes-09102024-English.pdf)  
   * Video  
   * **Other materials:**
-      * [1. The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
-      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
-      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT)
+      * [1. The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](0.%20Children'sBooksSahajayoga/1.%20The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
+      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf](0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.pdf)
+      * [1. Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT](0.%20Children'sBooksSahajayoga/1.%20Summary_The_Secret_of_the_Seven_Sahaj_Children_Book.ODT)
   * **Details:** 
     1. Secret of seven overall summary and chapter names  
     2. Summary for a five year old  
@@ -127,12 +127,12 @@
 
 
 * **Class 9 (15/10/2024): ‘My Journey with Chakras’ book;** 
-  * [9. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/9.%20ClassNotes-15102024-English.pdf)  
+  * [9. ClassNotes.pdf](9.%20ClassNotes-15102024-English.pdf)  
   * Video  
   * **Other materials:**
-      * [2. My_Journey_With_The_Chakras_EN.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/2.%20My_Journey_With_The_Chakras_EN.pdf)
-      * [2.Chakra-chart-Subtle-System-with-qualities-revised](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/2.Chakra-chart-Subtle-System-with-qualities-revised-colors-grey-contour-Sahaja-Yoga-Meditation-free-classes-1-928x1024.png)
-      * [2.subtle_chart_sm.png](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/2.subtle_chart_sm.png)
+      * [2. My_Journey_With_The_Chakras_EN.pdf](0.%20Children'sBooksSahajayoga/2.%20My_Journey_With_The_Chakras_EN.pdf)
+      * [2.Chakra-chart-Subtle-System-with-qualities-revised](0.%20Children'sBooksSahajayoga/2.Chakra-chart-Subtle-System-with-qualities-revised-colors-grey-contour-Sahaja-Yoga-Meditation-free-classes-1-928x1024.png)
+      * [2.subtle_chart_sm.png](0.%20Children'sBooksSahajayoga/2.subtle_chart_sm.png)
   * **Details:** 
     1. ‘My Journey with Chakras’ book;  
     2. HW:: Read this book  
@@ -141,11 +141,11 @@
 
 
 * **Class 10 (22/10/2024): 10 Primordial masters \- Raja Janaka** 
-  * [10. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/10.%20ClassNotes-22102024-English.pdf)  
+  * [10. ClassNotes.pdf](10.%20ClassNotes-22102024-English.pdf)  
   * Video  
-  * **Other materials:**  [3. TenPrimordialMastersSummary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
-      * [3. TenPrimordialMastersSummary.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
-      * [3. Ten Primordial Masters - Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
+  * **Other materials:**  [3. TenPrimordialMastersSummary.pdf](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
+      * [3. TenPrimordialMastersSummary.ODT](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
+      * [3. Ten Primordial Masters - Book.pdf](0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
   * **Details:** 
     1. 10 Primordial masters \- Raja Janaka  
     2. HW: Write meanings of difficult words  
@@ -153,13 +153,13 @@
 
 
 * **Class 11 (19/11/2024): Primordial masters \- Janaka, Abraham, Moses** 
-  * [11. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/11.%20ClassNotes-19112024-English.pdf)  
+  * [11. ClassNotes.pdf](11.%20ClassNotes-19112024-English.pdf)  
   * Video  
-  * **Other materials:**  [3. TenPrimordialMastersSummary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
-      * [3. TenPrimordialMastersSummary.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
-      * [3. Ten Primordial Masters - Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
+  * **Other materials:**  [3. TenPrimordialMastersSummary.pdf](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
+      * [3. TenPrimordialMastersSummary.ODT](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
+      * [3. Ten Primordial Masters - Book.pdf](0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
   * **Verified HW Solutions:**
-      * [11. HW-19112024-English.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/11.%20HW-19112024-English.pdf)  
+      * [11. HW-19112024-English.pdf](11.%20HW-19112024-English.pdf)  
   * **Details:** 
     1. Primordial masters \- Janaka, Abraham, Moses  
     3. HW:Write meanings of all the difficult words  
@@ -168,14 +168,14 @@
 
 
 * **Class 12 (03/12/2024): Primordial masters \- Shri Moses \+ Ten commandments; Shri Zarathusthra** 
-  * [12. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/12.%20ClassNotes-03122024-English.pdf)  
+  * [12. ClassNotes.pdf](12.%20ClassNotes-03122024-English.pdf)  
   * Video  
-  * **Other materials:**  [3. TenPrimordialMastersSummary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
-      * [3. TenPrimordialMastersSummary.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
-      * [3. Ten Primordial Masters - Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
+  * **Other materials:**  [3. TenPrimordialMastersSummary.pdf](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
+      * [3. TenPrimordialMastersSummary.ODT](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
+      * [3. Ten Primordial Masters - Book.pdf](0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
   * **Verified HW Solutions:**
-      * [12. HW-03122024-English-ShriZaratustra.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/12.%20HW-03122024-English-ShriZaratustra.pdf)
-      * [12. HW-03122024-english.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/12.%20HW-03122024-english.pdf)  
+      * [12. HW-03122024-English-ShriZaratustra.pdf](12.%20HW-03122024-English-ShriZaratustra.pdf)
+      * [12. HW-03122024-english.pdf](12.%20HW-03122024-english.pdf)  
   * **Details:** 
     1. Primordial masters \- Shri Moses \+ Ten commandments; Shri Zarathusthra  
     2. HW: Write meanings of difficult words  
@@ -184,13 +184,13 @@
 
 
 * **Class 13 (10/12/2024): Primordial masters \- Lives of Shri Confucius, Shri Lao Tse** 
-  * [13. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/13.%20ClassNotes-10122024-English.pdf)  
+  * [13. ClassNotes.pdf](13.%20ClassNotes-10122024-English.pdf)  
   * Video  
-  * **Other materials:**  [3. TenPrimordialMastersSummary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
-      * [3. TenPrimordialMastersSummary.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
-      * [3. Ten Primordial Masters - Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
+  * **Other materials:**  [3. TenPrimordialMastersSummary.pdf](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
+      * [3. TenPrimordialMastersSummary.ODT](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
+      * [3. Ten Primordial Masters - Book.pdf](0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
   * **Verified HW Solutions:**
-      * [13. HW-10122024-English.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/13.%20HW-10122024-English.pdf)  
+      * [13. HW-10122024-English.pdf](13.%20HW-10122024-English.pdf)  
   * **Details:** 
     1. Lives of Shri Confucius, Shri Lao Tse  
     2. HW: Write summaries of their lives  
@@ -198,15 +198,15 @@
 
 
 * **Class 14 (17/12/2024): Primordial masters \- Meeting between Shri Lao Tzu and Shri Confucius** 
-  * [14. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/14.%20ClassNotes-17122024-English.pdf)  
+  * [14. ClassNotes.pdf](14.%20ClassNotes-17122024-English.pdf)  
   * Video  
-  * **Other materials:**  [3. Meeting of great primordial masters - Lao Tzu Confucius.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20Meeting%20of%20great%20primordial%20masters%20-%20Lao%20Tzu%20Confucius.pdf)
-      * [3. TenPrimordialMastersSummary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
-      * [3. TenPrimordialMastersSummary.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
-      * [3. Ten Primordial Masters - Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
+  * **Other materials:**  [3. Meeting of great primordial masters - Lao Tzu Confucius.pdf](0.%20Children'sBooksSahajayoga/3.%20Meeting%20of%20great%20primordial%20masters%20-%20Lao%20Tzu%20Confucius.pdf)
+      * [3. TenPrimordialMastersSummary.pdf](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
+      * [3. TenPrimordialMastersSummary.ODT](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
+      * [3. Ten Primordial Masters - Book.pdf](0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
   * **Verified HW Solutions:**
-      * [14. HW-17122024-AdigurusWorldMap.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/14.%20HW-17122024-AdigurusWorldMap.pdf)
-      * [14. HW-17122024-English.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/14.%20HW-17122024-English.pdf)  
+      * [14. HW-17122024-AdigurusWorldMap.pdf](14.%20HW-17122024-AdigurusWorldMap.pdf)
+      * [14. HW-17122024-English.pdf](14.%20HW-17122024-English.pdf)  
   * **Details:** 
     1. Meeting between Shri Lao Tzu and Shri Confucius  
     2. HW: Write meaning of difficult words  
@@ -221,13 +221,13 @@
 
 
 * **Class 15 (07/01/2025): More on Primordial masters** 
-  * [15. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/15.%20ClassNotes-07012025-English.pdf)  
+  * [15. ClassNotes.pdf](15.%20ClassNotes-07012025-English.pdf)  
   * Video  
   * **Other materials:**
-      * [3. TenPrimordialMastersSummary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
-      * [3. TenPrimordialMastersSummary.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
-      * [3. Meeting of great primordial masters - Lao Tzu Confucius.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20Meeting%20of%20great%20primordial%20masters%20-%20Lao%20Tzu%20Confucius.pdf)
-      * [3. Ten Primordial Masters - Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
+      * [3. TenPrimordialMastersSummary.pdf](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
+      * [3. TenPrimordialMastersSummary.ODT](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
+      * [3. Meeting of great primordial masters - Lao Tzu Confucius.pdf](0.%20Children'sBooksSahajayoga/3.%20Meeting%20of%20great%20primordial%20masters%20-%20Lao%20Tzu%20Confucius.pdf)
+      * [3. Ten Primordial Masters - Book.pdf](0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
   * **Details:** 
     1. Primordial masters  
     2. HW: Colour all 10 pictures of Adigurus  
@@ -235,13 +235,13 @@
 
 
 * **Class 16 (28/01/2025): More on primordial masters.** 
-  * [16. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/16.%20ClassNotes-28012025-English.pdf)  
+  * [16. ClassNotes.pdf](16.%20ClassNotes-28012025-English.pdf)  
   * Video  
   * **Other materials:**
-      * [3. TenPrimordialMastersSummary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
-      * [3. TenPrimordialMastersSummary.ODT](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
-      * [3. Meeting of great primordial masters - Lao Tzu Confucius.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20Meeting%20of%20great%20primordial%20masters%20-%20Lao%20Tzu%20Confucius.pdf)
-      * [3. Ten Primordial Masters - Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
+      * [3. TenPrimordialMastersSummary.pdf](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.pdf)
+      * [3. TenPrimordialMastersSummary.ODT](0.%20Children'sBooksSahajayoga/3.%20TenPrimordialMastersSummary.ODT)
+      * [3. Meeting of great primordial masters - Lao Tzu Confucius.pdf](0.%20Children'sBooksSahajayoga/3.%20Meeting%20of%20great%20primordial%20masters%20-%20Lao%20Tzu%20Confucius.pdf)
+      * [3. Ten Primordial Masters - Book.pdf](0.%20Children'sBooksSahajayoga/3.%20Ten%20Primordial%20Masters%20-%20Book%20with%20Colouring%20Pages%20by%20Rafael%20Sol.English.pdf)
   * **Details:** 
     1. More on primordial masters.  
     2. Socrates, science, logical thinking.  
@@ -251,13 +251,13 @@
 
 
 * **Class 17 (20/02/2025): About Shri Jesus Christ (From Light of the world)** 
-  * [17. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/17.%20ClassNotes-20022025-English.pdf)  
+  * [17. ClassNotes.pdf](17.%20ClassNotes-20022025-English.pdf)  
   * Video  
   * **Other materials:**
-      * [4. JesusChrist-FromLIghtOfTheWorld-AISummary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/4.%20JesusChrist-FromLIghtOfTheWorld-AISummary.pdf)
-      * [4. JesusChrist-FromLIghtOfTheWorld-AISummary.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/4.%20JesusChrist-FromLIghtOfTheWorld-AISummary.docx)
-      * [4. JesusChrist-FromLIghtOfTheWorld - Book.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/4.%20JesusChrist-FromLIghtOfTheWorld.pdf)
-      * [4. The_Light_of_the_World_Excerpts_from_various_speeches.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20Children'sBooksSahajayoga/4.%20The_Light_of_the_World_Excerpts_from_various_speeches.pdf)
+      * [4. JesusChrist-FromLIghtOfTheWorld-AISummary.pdf](0.%20Children'sBooksSahajayoga/4.%20JesusChrist-FromLIghtOfTheWorld-AISummary.pdf)
+      * [4. JesusChrist-FromLIghtOfTheWorld-AISummary.docx](0.%20Children'sBooksSahajayoga/4.%20JesusChrist-FromLIghtOfTheWorld-AISummary.docx)
+      * [4. JesusChrist-FromLIghtOfTheWorld - Book.pdf](0.%20Children'sBooksSahajayoga/4.%20JesusChrist-FromLIghtOfTheWorld.pdf)
+      * [4. The_Light_of_the_World_Excerpts_from_various_speeches.pdf](0.%20Children'sBooksSahajayoga/4.%20The_Light_of_the_World_Excerpts_from_various_speeches.pdf)
   * **Details:** 
     1. About Shri Jesus Christ (From Light of the world)  
     2. AI Summaries  
@@ -269,28 +269,28 @@
 <summary><strong> 3. AI exercises on the books so far</strong></summary>
 
 * **Class 18 (03/03/2025): AI generated exercises with multiple choice, fill in the blanks, matching etc on all the books read  so far** 
-  * [18. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/18.%20ClassNotes-03032025-English.pdf)  
+  * [18. ClassNotes.pdf](18.%20ClassNotes-03032025-English.pdf)  
   * Video  
   * **Other materials:**
-      * [18. AIGeneratedExercisesOnChildrensBooks.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/18.%20AIGeneratedExercisesOnChildrensBooks.docx)
-      * [18. AIGeneratedExercisesOnChildrensBooks.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/18.%20AIGeneratedExercisesOnChildrensBooks.pdf)
+      * [18. AIGeneratedExercisesOnChildrensBooks.docx](18.%20AIGeneratedExercisesOnChildrensBooks.docx)
+      * [18. AIGeneratedExercisesOnChildrensBooks.pdf](18.%20AIGeneratedExercisesOnChildrensBooks.pdf)
   * **Verified HW Solutions:**
-      * [18. HW_AIGeneratedExercisesOnChildrensBooks.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/18.%20HW_AIGeneratedExercisesOnChildrensBooks.docx)
-      * [18. HW_AIGeneratedExercisesOnChildrensBooks.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/18.%20HW_AIGeneratedExercisesOnChildrensBooks.pdf)  
+      * [18. HW_AIGeneratedExercisesOnChildrensBooks.docx](18.%20HW_AIGeneratedExercisesOnChildrensBooks.docx)
+      * [18. HW_AIGeneratedExercisesOnChildrensBooks.pdf](18.%20HW_AIGeneratedExercisesOnChildrensBooks.pdf)  
   * **Details:** 
     1. AI generated exercises with multiple choice, fill in the blanks, matching etc on all the books we read  
     2. HW: Finish these exercises  
 
 
 * **Class 19 (20/03/2025): Completed all AI generated exercises.** 
-  * [19. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/19.%20ClassNotes-20032025-English.pdf)  
+  * [19. ClassNotes.pdf](19.%20ClassNotes-20032025-English.pdf)  
   * Video
   * **Other materials:**
-      * [18. AIGeneratedExercisesOnChildrensBooks.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/18.%20AIGeneratedExercisesOnChildrensBooks.docx)
-      * [18. AIGeneratedExercisesOnChildrensBooks.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/18.%20AIGeneratedExercisesOnChildrensBooks.pdf)
+      * [18. AIGeneratedExercisesOnChildrensBooks.docx](18.%20AIGeneratedExercisesOnChildrensBooks.docx)
+      * [18. AIGeneratedExercisesOnChildrensBooks.pdf](18.%20AIGeneratedExercisesOnChildrensBooks.pdf)
   * **Verified HW Solutions:**
-      * [18. HW_AIGeneratedExercisesOnChildrensBooks.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/18.%20HW_AIGeneratedExercisesOnChildrensBooks.docx)
-      * [18. HW_AIGeneratedExercisesOnChildrensBooks.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/18.%20HW_AIGeneratedExercisesOnChildrensBooks.pdf)    * **Details:** 
+      * [18. HW_AIGeneratedExercisesOnChildrensBooks.docx](18.%20HW_AIGeneratedExercisesOnChildrensBooks.docx)
+      * [18. HW_AIGeneratedExercisesOnChildrensBooks.pdf](18.%20HW_AIGeneratedExercisesOnChildrensBooks.pdf)    * **Details:** 
     1. Completed all AI generated exercises on the books we read so far.  
 
 </details>
@@ -300,24 +300,24 @@
 <summary><strong> 4. The story of Shri Hanumana</strong></summary>
 
 * **Class 20 (17/04/2025): The story of Hanumana** 
-  * [20. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/20.%20ClassNotes-17042025-English.pdf)  
+  * [20. ClassNotes.pdf](20.%20ClassNotes-17042025-English.pdf)  
   * Video  
   * **Other materials:**
-      * [1. Hanumanthudu-TirumalaEbooks-Summary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks-Summary.pdf)
-      * [1. Hanumanthudu-TirumalaEbooks-Summary.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks-Summary.docx)
-      * [1. Hanumanthudu-TirumalaEbooks.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks.pdf)   
+      * [1. Hanumanthudu-TirumalaEbooks-Summary.pdf](0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks-Summary.pdf)
+      * [1. Hanumanthudu-TirumalaEbooks-Summary.docx](0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks-Summary.docx)
+      * [1. Hanumanthudu-TirumalaEbooks.pdf](0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks.pdf)   
   * **Details:** 
     1. Checked textbooks on Mahavira. Started reading the story of Hanumana \- introduction, until before his birth.  
     2. HW: Study textbook pages 1 to 3, and write meanings of difficult words.  
 
 
 * **Class 21 (01/05/2025): Hanuman’s story (before meeting Shri Rama); Summary of the story;** 
-  * [21. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/21.%20ClassNotes-01052025-English.pdf)  
+  * [21. ClassNotes.pdf](21.%20ClassNotes-01052025-English.pdf)  
   * Video
   * **Other materials:**
-      * [1. Hanumanthudu-TirumalaEbooks-Summary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks-Summary.pdf)
-      * [1. Hanumanthudu-TirumalaEbooks-Summary.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks-Summary.docx)
-      * [1. Hanumanthudu-TirumalaEbooks.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks.pdf)   
+      * [1. Hanumanthudu-TirumalaEbooks-Summary.pdf](0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks-Summary.pdf)
+      * [1. Hanumanthudu-TirumalaEbooks-Summary.docx](0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks-Summary.docx)
+      * [1. Hanumanthudu-TirumalaEbooks.pdf](0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks.pdf)   
   * **Details:** 
     1. Hanuman’s story (until page 7, before meeting Shri Rama); Summary of the story;  
     2. HW: Read summary and remember it  
@@ -325,11 +325,11 @@
 
 
 * **Class 22 (14/05/2025): Hanuman’s story (before Searching for Sita)** 
-  * [22. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/22.%20ClassNotes-14052025-English.pdf)  
+  * [22. ClassNotes.pdf](22.%20ClassNotes-14052025-English.pdf)  
   * Video  
   * **Other materials:**
-      * [1. Hanumanthudu-TirumalaEbooks-Summary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks-Summary.pdf) [1. Hanumanthudu-TirumalaEbooks-Summary.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks-Summary.docx)
-      * [1. Hanumanthudu-TirumalaEbooks.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks.pdf)     
+      * [1. Hanumanthudu-TirumalaEbooks-Summary.pdf](0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks-Summary.pdf) [1. Hanumanthudu-TirumalaEbooks-Summary.docx](0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks-Summary.docx)
+      * [1. Hanumanthudu-TirumalaEbooks.pdf](0.%20OtherChildren'sBooks/1.%20Hanumanthudu-TirumalaEbooks.pdf)     
   * **Details:** 
     1. Hanuman’s story until page 10 (before Searching for Sita)  
     2. HW: Read the textbook and summary, write meanings  
@@ -342,15 +342,15 @@
 
 
 * **Class 23 (24/05/2025): Word prefixes and suffixes. See AI notes.** 
-  * [23. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/23.%20ClassNotes-24052025-English.pdf)  
+  * [23. ClassNotes.pdf](23.%20ClassNotes-24052025-English.pdf)  
   * Video  
   * **Verified HW Solutions:**
-      * [23. HW-Hanumanthudu-TirumalaEbooks-AI-quiz-with-answers.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/23.%20HW-Hanumanthudu-TirumalaEbooks-AI-quiz-with-answers.docx)
-      * [23. HW-Hanumanthudu-TirumalaEbooks-AI-quiz-with-answers.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/23.%20HW-Hanumanthudu-TirumalaEbooks-AI-quiz-with-answers.pdf)
-      * [23.HW-PartsOfSpeech-HW-exercises-with-answers.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/23.HW-PartsOfSpeech-HW-exercises-with-answers.docx)
-      * [23.HW-PartsOfSpeech-HW-exercises-with-answers.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/23.HW-PartsOfSpeech-HW-exercises-with-answers.pdf)
-      * [23.HW-WordPrefixesSuffixes-HW-exercises-with-answers.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/23.HW-WordPrefixesSuffixes-HW-exercises-with-answers.docx)
-      * [23.HW-WordPrefixesSuffixes-HW-exercises-with-answers.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/23.HW-WordPrefixesSuffixes-HW-exercises-with-answers.pdf)  
+      * [23. HW-Hanumanthudu-TirumalaEbooks-AI-quiz-with-answers.docx](23.%20HW-Hanumanthudu-TirumalaEbooks-AI-quiz-with-answers.docx)
+      * [23. HW-Hanumanthudu-TirumalaEbooks-AI-quiz-with-answers.pdf](23.%20HW-Hanumanthudu-TirumalaEbooks-AI-quiz-with-answers.pdf)
+      * [23.HW-PartsOfSpeech-HW-exercises-with-answers.docx](23.HW-PartsOfSpeech-HW-exercises-with-answers.docx)
+      * [23.HW-PartsOfSpeech-HW-exercises-with-answers.pdf](23.HW-PartsOfSpeech-HW-exercises-with-answers.pdf)
+      * [23.HW-WordPrefixesSuffixes-HW-exercises-with-answers.docx](23.HW-WordPrefixesSuffixes-HW-exercises-with-answers.docx)
+      * [23.HW-WordPrefixesSuffixes-HW-exercises-with-answers.pdf](23.HW-WordPrefixesSuffixes-HW-exercises-with-answers.pdf)  
   * **Details:** 
     1. Word prefixes and suffixes. See AI notes.  
     2. HW: Study this and answer quiz  
@@ -369,22 +369,22 @@
 
  * **Class 24 (16/05/2025): Final Quiz**  
      * **Final Quiz:**
-      * [24.EnglishFinalQuizForGrade1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/24.EnglishFinalQuizForGrade1.pdf)
-      * [24.EnglishFinalQuizForGrade1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/24.EnglishFinalQuizForGrade1.docx)
-     * **Verified quiz solutions:**  [24. HWEnglishFinalQuizForGrade1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/24.%20HWEnglishFinalQuizForGrade1.pdf)
-      * [24. HWEnglishFinalQuizForGrade1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/24.%20HWEnglishFinalQuizForGrade1.docx)
-      * [24. HWEnglishFinalQuizForGrade1-AIGrading.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/24.%20HWEnglishFinalQuizForGrade1-AIGrading.pdf)
-      * [24. HWEnglishFinalQuizForGrade1-AIGrading.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/24.%20HWEnglishFinalQuizForGrade1-AIGrading.docx)
+      * [24.EnglishFinalQuizForGrade1.pdf](24.EnglishFinalQuizForGrade1.pdf)
+      * [24.EnglishFinalQuizForGrade1.docx](24.EnglishFinalQuizForGrade1.docx)
+     * **Verified quiz solutions:**  [24. HWEnglishFinalQuizForGrade1.pdf](24.%20HWEnglishFinalQuizForGrade1.pdf)
+      * [24. HWEnglishFinalQuizForGrade1.docx](24.%20HWEnglishFinalQuizForGrade1.docx)
+      * [24. HWEnglishFinalQuizForGrade1-AIGrading.pdf](24.%20HWEnglishFinalQuizForGrade1-AIGrading.pdf)
+      * [24. HWEnglishFinalQuizForGrade1-AIGrading.docx](24.%20HWEnglishFinalQuizForGrade1-AIGrading.docx)
      * **Details:**   
        1. Student completed AI generated quiz   
        2. Asked AI to grade the student's completed work and asked student to verify for any issues in AI grading.
 
 * **Class 25 (21/10/2025): Checked last class HWs etc.** 
-  * [25. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/25.%20ClassNotes-21102025-English.pdf)  
+  * [25. ClassNotes.pdf](25.%20ClassNotes-21102025-English.pdf)  
   * Video  
   * **Verified HW Solutions:**
-      * [25. HW-Overview-English-Exam-2025-song.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/25.%20HW-Overview-English-Exam-2025-song.pdf)
-      * [25. HW-Overview-English-exam-2-poem.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/2.%20English/1.%20Grade1/25.%20HW-Overview-English-exam-2-poem.pdf)  
+      * [25. HW-Overview-English-Exam-2025-song.pdf](25.%20HW-Overview-English-Exam-2025-song.pdf)
+      * [25. HW-Overview-English-exam-2-poem.pdf](25.%20HW-Overview-English-exam-2-poem.pdf)  
   * **Details:** 
     1. Checked last class HWs etc.  
     2. Checked final quiz \- grading  
