@@ -6,19 +6,19 @@
 <summary><strong>1. Introduction to PyCharm & Programming Language</strong></summary>
 
 * **Class 1 (07/08/2024) : Introduction to Python and Pycharm IDE**
-    * [1. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/1.%20ClassNotes-07082024.pdf)
+    * [1. ClassNotes.pdf](1.%20ClassNotes-07082024.pdf)
     * [Video : link coming soon]()
     * **Other materials**
-       * [1.PrintMultiplicationTable.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/1.PrintMultiplicationTable.py)
+       * [1.PrintMultiplicationTable.py](0.%20PythonBasicsSchoolProject/1.PrintMultiplicationTable.py)
     * **Details:** Intro to Python Programming… Pycharm application, interface, editor etc.
         1. Print all we learnt so far - alphabet in different languages, numbers, multiplication tables etc.
         2. Demo convert one language script to another transcription
         3. Music write notes to play automatically from swaraalu to music…
 * **Class 2 (08/08/2024): Pycharm IDE**
-    * [2. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/2.%20ClassNotes-08082024-Pro.pdf)
+    * [2. ClassNotes.pdf](2.%20ClassNotes-08082024-Pro.pdf)
     * [Video : link coming soon]()
     * **Verified HW Solutions**
-       * [2.LoopExample.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/2.LoopExample.py)
+       * [2.LoopExample.py](0.%20PythonBasicsSchoolProject/2.LoopExample.py)
     * **Details:** Programming basics - some more
 
 </details>
@@ -27,63 +27,63 @@
 <summary><strong>2. Python Programming with Python 3 – Datatypes, Expressions, Variables</strong></summary>
 
 * **Class 3 (16/08/2024): Python Basic Datatypes and Expressions**
-    * [3. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/3.%20ClassNotes-16082024-Programming.pdf)
+    * [3. ClassNotes.pdf](3.%20ClassNotes-16082024-Programming.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [3.Expressions.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/3.Expressions.py)
+       * [3.Expressions.py](0.%20PythonBasicsSchoolProject/3.Expressions.py)
     * **Details:**
         1. Already used PyCharm from here: [https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/) (select Community edition at the bottom, not Professional)
         2. Python resources: [https://www.python.org/about/gettingstarted/](https://www.python.org/about/gettingstarted/)
         3. Textbook from here: [https://www.spronck.net/pythonbook/](https://www.spronck.net/pythonbook/)
             1. Chapter 3 - expressions
 * **Class 4 (21/08/2024): Python Basic Datatypes, Expressions & Operators**
-    * [4. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/4.%20ClassNotes-21082024-Programming.pdf)
+    * [4. ClassNotes.pdf](4.%20ClassNotes-21082024-Programming.pdf)
     * [Video : link coming soon]()
     * **Verified HW Solutions:**
-       * [4.HW21082024_MathHW.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/4.HW21082024_MathHW.py)
-       * [4.HW21082024_Chapter3Programming.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/4.HW21082024_Chapter3Programming.py)
+       * [4.HW21082024_MathHW.py](0.%20PythonBasicsSchoolProject/4.HW21082024_MathHW.py)
+       * [4.HW21082024_Chapter3Programming.py](0.%20PythonBasicsSchoolProject/4.HW21082024_Chapter3Programming.py)
     * **Details:** Chapter 3 from textbook
         1. HW: Type all code from chapter 3 and make a python program
         2. HW: Last maths homework on additions, subtractions, multiplications and divisions - write a program file to do this; For divisions you need to get quotients and remainders
 * **Class 5 (09/09/2024): Arithmetic Operator Precedence & Introduction to Variables**
-    * [5. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/5.%20ClassNotes-09092024-Programming.pdf)
+    * [5. ClassNotes.pdf](5.%20ClassNotes-09092024-Programming.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [5.NumberTypes.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/5.NumberTypes.py)
-       * [5.Variables.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/5.Variables.py)
+       * [5.NumberTypes.py](0.%20PythonBasicsSchoolProject/5.NumberTypes.py)
+       * [5.Variables.py](0.%20PythonBasicsSchoolProject/5.Variables.py)
     * **Verified HW Solutions:**
-       * [5.HW100920224_Chapter4Programming.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/5.HW100920224_Chapter4Programming.py)
+       * [5.HW100920224_Chapter4Programming.py](0.%20PythonBasicsSchoolProject/5.HW100920224_Chapter4Programming.py)
     * **Details:**
         1. More on expressions
         2. Explain all the operators also - exponential etc. just briefly
         3. Number chart - learn more about all different types of numbers from the chart, with programming examples
         4. Variables from Chapter 4 (HW Chapter 4)
 * **Class 6 (19/09/2024) : Variables and arithmetic operations**
-    * [6. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/6.%20ClassNotes-19092024-Programming.pdf)
+    * [6. ClassNotes.pdf](6.%20ClassNotes-19092024-Programming.pdf)
     * [Video : link coming soon]()
     * **Verified HW Solutions:**
-       * [6. HW-1908024-Programming.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/6.%20HW-1908024-Programming.pdf)
-       * [6. HW19092024_ExpressionsAndAssignments.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/6.%20HW19092024_ExpressionsAndAssignments.py)
-       * [6. HW19092024_Swapping.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/6.%20HW19092024_Swapping.py)
-       * [6. HW_Maths_Arithmetic.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/6.%20HW_Maths_Arithmetic.py)
-       * [6. HW_Maths_Decimals.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/6.%20HW_Maths_Decimals.py)
+       * [6. HW-1908024-Programming.pdf](6.%20HW-1908024-Programming.pdf)
+       * [6. HW19092024_ExpressionsAndAssignments.py](0.%20PythonBasicsSchoolProject/6.%20HW19092024_ExpressionsAndAssignments.py)
+       * [6. HW19092024_Swapping.py](0.%20PythonBasicsSchoolProject/6.%20HW19092024_Swapping.py)
+       * [6. HW_Maths_Arithmetic.py](0.%20PythonBasicsSchoolProject/6.%20HW_Maths_Arithmetic.py)
+       * [6. HW_Maths_Decimals.py](0.%20PythonBasicsSchoolProject/6.%20HW_Maths_Decimals.py)
     * **Details:**
         1. More on variables and assignment
         2. HW: after each step, manually and programmatically check the values of all variables
 * **Class 7 (25/09/2024) : Basic arithmetic and equality operators**
-    * [7. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/7.%20ClassNotes-25092024-Programming.pdf)
+    * [7. ClassNotes.pdf](7.%20ClassNotes-25092024-Programming.pdf)
     * [Video : link coming soon]()
     * **Verified HW Solutions:**
-       * [7. HW_24092024_MathsHWDecimals.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/7.%20HW_24092024_MathsHWDecimals.py)
-       * [7. HW_Maths_ArithmeticWithVerifications.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/7.%20HW_Maths_ArithmeticWithVerifications.py)
+       * [7. HW_24092024_MathsHWDecimals.py](0.%20PythonBasicsSchoolProject/7.%20HW_24092024_MathsHWDecimals.py)
+       * [7. HW_Maths_ArithmeticWithVerifications.py](0.%20PythonBasicsSchoolProject/7.%20HW_Maths_ArithmeticWithVerifications.py)
     * **Details:**
         1. Verification of +,-,*,/ using equality == operator
         2. HW: Verify previous class homework using == operator
 * **Class 8 (01/10/2024) : Boolean variables**
-    * [8. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/8.%20ClassNotes-01102024-Programming.pdf)
+    * [8. ClassNotes.pdf](8.%20ClassNotes-01102024-Programming.pdf)
     * [Video : link coming soon]()
     * **Verified HW Solutions:**
-       * [8. HW_Maths_ArithmeticWithVerifications.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/8.%20HW_Maths_ArithmeticWithVerifications.py)
+       * [8. HW_Maths_ArithmeticWithVerifications.py](0.%20PythonBasicsSchoolProject/8.%20HW_Maths_ArithmeticWithVerifications.py)
     * **Details:**
         1. Boolean datatypes
             1. HW: Previous arithmetic HW, rewrite using variables for each value, also use booleans like in class + example. Reuse code for other additions. Do the same for -, *, / as well. Give examples for == and != operators in results.
@@ -95,41 +95,41 @@
 <summary><strong>3. Functions</strong></summary>
 
 * **Class 9 (10/10/2024) : Special Characters and Introduction to Functions**
-    * [9. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/9.%20ClassNotes-10102024-Programming.pdf)
+    * [9. ClassNotes.pdf](9.%20ClassNotes-10102024-Programming.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [9. ArimeticOperationsAndVerificationUsingFunctions-Addition.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/9.%20ArimeticOperationsAndVerificationUsingFunctions-Addition.py)
+       * [9. ArimeticOperationsAndVerificationUsingFunctions-Addition.py](0.%20PythonBasicsSchoolProject/9.%20ArimeticOperationsAndVerificationUsingFunctions-Addition.py)
     * **Verified HW Solutions:**
-       * [9. HW_ArithmeticOperationsAndVerificationUsingFunctions.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/9.%20HW_ArithmeticOperationsAndVerificationUsingFunctions.py)
+       * [9. HW_ArithmeticOperationsAndVerificationUsingFunctions.py](0.%20PythonBasicsSchoolProject/9.%20HW_ArithmeticOperationsAndVerificationUsingFunctions.py)
     * **Details:**
         1. Simple functions - example using addition and verification from previous homeworks
         2. HW: Write similar functions for multiplications, subtractions, divisons
 * **Class 10 (16/10/2024) : More on Functions**
-    * [10. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/10.%20ClassNotes-16102024-Programming.pdf)
+    * [10. ClassNotes.pdf](10.%20ClassNotes-16102024-Programming.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [10. FunctionCallsOnly.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/10.%20FunctionCallsOnly.py)
-       * [10. PlayPianoNotes.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/10.%20PlayPianoNotes.py)
+       * [10. FunctionCallsOnly.py](0.%20PythonBasicsSchoolProject/10.%20FunctionCallsOnly.py)
+       * [10. PlayPianoNotes.py](0.%20PythonBasicsSchoolProject/10.%20PlayPianoNotes.py)
     * **Verified HW Solutions:**
-       * [10. PlayPianoNotes_Varaveena_HW.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/10.%20PlayPianoNotes_Varaveena_HW.py)
+       * [10. PlayPianoNotes_Varaveena_HW.py](0.%20PythonBasicsSchoolProject/10.%20PlayPianoNotes_Varaveena_HW.py)
     * **Details:**
         1. More on functions
         2. Created a function to play music from piano notes
         3. HW: Complete the song from class example program and play the whole song
 * **Class 11 (25/10/2024) : Functions, Custom Library to Play Musical Notes**
-    * [11. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/11.%20ClassNotes-25102024-Pro.pdf)
+    * [11. ClassNotes.pdf](11.%20ClassNotes-25102024-Pro.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
        * [OurLibraryOfFunctions](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/tree/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/OurLibraryOfFunctions)
-       * [11. WaveImages_ScienceFair.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/11.%20%20WaveImages_ScienceFair.py)
-       * [11. PlayPianoNotes_Varaveena_Kundagaura_ScienceFair.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/11.%20%20PlayPianoNotes_Varaveena_Kundagaura_ScienceFair.py)
-       * [11. PianoNotesFromFrequenciesAllScales.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/11.%20PianoNotesFromFrequenciesAllScales.py)
-       * [11. PianoNotesFromFrequenciesC3.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/11.%20PianoNotesFromFrequenciesC3.py)
-       * [11. WaveAnimationsCircular-2D1D-Attenuation-AI.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/11.%20WaveAnimationsCircular-2D1D-Attenuation-AI.py)
-       * [11. WavesAnimation2D1D_AI_NotCircular.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/11.%20WavesAnimation2D1D_AI_NotCircular.py)
+       * [11. WaveImages_ScienceFair.py](0.%20PythonBasicsSchoolProject/11.%20%20WaveImages_ScienceFair.py)
+       * [11. PlayPianoNotes_Varaveena_Kundagaura_ScienceFair.py](0.%20PythonBasicsSchoolProject/11.%20%20PlayPianoNotes_Varaveena_Kundagaura_ScienceFair.py)
+       * [11. PianoNotesFromFrequenciesAllScales.py](0.%20PythonBasicsSchoolProject/11.%20PianoNotesFromFrequenciesAllScales.py)
+       * [11. PianoNotesFromFrequenciesC3.py](0.%20PythonBasicsSchoolProject/11.%20PianoNotesFromFrequenciesC3.py)
+       * [11. WaveAnimationsCircular-2D1D-Attenuation-AI.py](0.%20PythonBasicsSchoolProject/11.%20WaveAnimationsCircular-2D1D-Attenuation-AI.py)
+       * [11. WavesAnimation2D1D_AI_NotCircular.py](0.%20PythonBasicsSchoolProject/11.%20WavesAnimation2D1D_AI_NotCircular.py)
     * **Verified HW Solutions:**
-       * [11. HW_25102024_PlayPianoNotes_Kundagoura.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/11.%20HW_25102024_PlayPianoNotes_Kundagoura.py)
-       * [11. HW_282102024_WaveAnimationsCircular-2D1D-Attenuation-AI.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/11.%20HW_282102024_WaveAnimationsCircular-2D1D-Attenuation-AI.py),
+       * [11. HW_25102024_PlayPianoNotes_Kundagoura.py](0.%20PythonBasicsSchoolProject/11.%20HW_25102024_PlayPianoNotes_Kundagoura.py)
+       * [11. HW_282102024_WaveAnimationsCircular-2D1D-Attenuation-AI.py](0.%20PythonBasicsSchoolProject/11.%20HW_282102024_WaveAnimationsCircular-2D1D-Attenuation-AI.py),
     * **Details:** More on functions
         1. Played with Music generating function; Looked at a wave generating function; To be fixed to produce circular waves.
         2. HW: For another song - kunda gowra - use function call, pass notes and play the music - for three charanas that are same, just do X3 for the list instead of typing again
@@ -140,46 +140,46 @@
 <summary><strong>4. Operator Precedence and Conditional Statements</strong></summary>
 
 * **Class 12 (21/11/2024) : Operator Precedence**
-    * [12. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/12.%20ClassNotes-21112024-Maths-Part1.pdf)
+    * [12. ClassNotes.pdf](12.%20ClassNotes-21112024-Maths-Part1.pdf)
     * [Video : link coming soon]()
     * **Verified HW Solutions:**
-       * [12. HW_21112024_Maths_Part1_OperatorPrecedence.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/12.%20HW_21112024_Maths_Part1_OperatorPrecedence.py)
-       * [12. HW_21112024_Maths_Part2_DecimalArithmetic.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/12.%20HW_21112024_Maths_Part2_DecimalArithmetic.py)
+       * [12. HW_21112024_Maths_Part1_OperatorPrecedence.py](0.%20PythonBasicsSchoolProject/12.%20HW_21112024_Maths_Part1_OperatorPrecedence.py)
+       * [12. HW_21112024_Maths_Part2_DecimalArithmetic.py](0.%20PythonBasicsSchoolProject/12.%20HW_21112024_Maths_Part2_DecimalArithmetic.py)
     * **Details:** Operator precedence BODMAS/PEMDAS
         1. HW: Evaluate several AI generated expressions using BODMAS
             1. Do this in python also
 * **Class 13 (3/12/2024) : Floating point numbers, repeating decimals and scientific notation**
-    * [13. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/13.%20ClassNotes-03122024-Pro.pdf)
+    * [13. ClassNotes.pdf](13.%20ClassNotes-03122024-Pro.pdf)
     * [Video : link coming soon]()
     * **Verified HW Solutions:**
-       * [13. HW-03122024-Pro.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/13.%20HW-03122024-Pro.py)
-       * [13. HW_02122024_Maths_1.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/13.%20HW_02122024_Maths_1.py)
-       * [13.HW_02122024_Maths_2.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/13.%20HW_02122024_Maths_2.py)
-       * [13. HW-03122024-programming-1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/13.%20HW-03122024-programming-1.pdf)
-       * [13. HW-03122024-programming-2.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/13.%20HW-03122024-programming-2.pdf)
+       * [13. HW-03122024-Pro.py](0.%20PythonBasicsSchoolProject/13.%20HW-03122024-Pro.py)
+       * [13. HW_02122024_Maths_1.py](0.%20PythonBasicsSchoolProject/13.%20HW_02122024_Maths_1.py)
+       * [13.HW_02122024_Maths_2.py](0.%20PythonBasicsSchoolProject/13.%20HW_02122024_Maths_2.py)
+       * [13. HW-03122024-programming-1.pdf](13.%20HW-03122024-programming-1.pdf)
+       * [13. HW-03122024-programming-2.pdf](13.%20HW-03122024-programming-2.pdf)
     * **Details:** Floating point arithmetic; Finite precision; Exponential notation
         1. HW: Evaluate expressions using exponential notation manually and in python; And explain the differences that you see due to finite precision.
         2. HW: Write a function that takes 3 floating point numbers as parameters and evaluates complex expressions with those numbers. Use this function 10 times with different parameters.
 * **Class 14 (11/12/2024) : Conditional statements, full operator precedence and introduction to lists**
-    * [14. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/14.%20ClassNotes-11122024-Pro.pdf)
+    * [14. ClassNotes.pdf](14.%20ClassNotes-11122024-Pro.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [14.if_else_statements.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/14.if_else_statements.py)
+       * [14.if_else_statements.py](0.%20PythonBasicsSchoolProject/14.if_else_statements.py)
     * **Verified HW Solutions:**
-       * [14. HW-11122024-Pro-BooleanExpressions.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/14.%20HW-11122024-Pro-BooleanExpressions.pdf)
-       * [14. HW_11122024_ListOperations.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/14.%20HW_11122024_ListOperations.py),
+       * [14. HW-11122024-Pro-BooleanExpressions.pdf](14.%20HW-11122024-Pro-BooleanExpressions.pdf)
+       * [14. HW_11122024_ListOperations.py](0.%20PythonBasicsSchoolProject/14.%20HW_11122024_ListOperations.py),
     * **Details:** Statements, Conditional statements, logical operators and precedence, Lists
         1. HW: Finish last homework
         2. HW: Logical operators and precedence
         3. HW: List operations
 * **Class 15 (8/1/2025) : Conditional statements**
-    * [15. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/15.%20ClassNotes-08012025-Pro.pdf)
+    * [15. ClassNotes.pdf](15.%20ClassNotes-08012025-Pro.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [15. IfElseExample1-LoginSystem.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/15.%20IfElseExample1-LoginSystem.py)
-       * [15. IfElseExamples.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/15.%20IfElseExamples.py)
+       * [15. IfElseExample1-LoginSystem.py](0.%20PythonBasicsSchoolProject/15.%20IfElseExample1-LoginSystem.py)
+       * [15. IfElseExamples.py](0.%20PythonBasicsSchoolProject/15.%20IfElseExamples.py)
     * **Verified HW Solutions:**
-       * [15. HW_08012025_IfElseExamples.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/15.%20HW_08012025_IfElseExamples.py)
+       * [15. HW_08012025_IfElseExamples.py](0.%20PythonBasicsSchoolProject/15.%20HW_08012025_IfElseExamples.py)
     * **Details:** More examples and practice on if-else statements - see PyCharm Code - AI generated
         1. HW: Even-odd numbers using if-else statements
         2. HW: 5 AI-generated HW problems using if-else statements on elementary mathematics
@@ -190,16 +190,16 @@
 <summary><strong>5. Truthtables</strong></summary>
 
 * **Class 16 (28/01/2025) : More examples in if-else and Introduction to Truth Tables**
-    * [16. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/16.%20ClassNotes-28012025-Programming.pdf)
+    * [16. ClassNotes.pdf](16.%20ClassNotes-28012025-Programming.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [16. Loops.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/16.%20Loops.pdf)
-       * [16. ToyPropellerRunningCode_IncompleteFirstVersion.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/16.%20ToyPropellerRunningCode_IncompleteFirstVersion.py)
-       * [16.TruthTablesHomeworkProblems-AIGenerated.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/16.TruthTablesHomeworkProblems-AIGenerated.pdf)
+       * [16. Loops.pdf](16.%20Loops.pdf)
+       * [16. ToyPropellerRunningCode_IncompleteFirstVersion.py](0.%20PythonBasicsSchoolProject/16.%20ToyPropellerRunningCode_IncompleteFirstVersion.py)
+       * [16.TruthTablesHomeworkProblems-AIGenerated.pdf](16.TruthTablesHomeworkProblems-AIGenerated.pdf)
     * **Verified HW Solutions:**
-       * [16. HW-28012025-Pro-2-truthtabeles.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/16.%20HW-28012025-Pro-2-truthtabeles.pdf)
-       * [16. HW-28012025-Pro-3-AI-generated-truthtabeles.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/16.%20HW-28012025-Pro-3-AI-generated-truthtabeles.pdf)
-       * [16. HW-28012025-Pro-1-money-failing-greedy-approach-5-exmples.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/16.%20HW-28012025-Pro-1-money-failing-greedy-approach-5-exmples.pdf)
+       * [16. HW-28012025-Pro-2-truthtabeles.pdf](16.%20HW-28012025-Pro-2-truthtabeles.pdf)
+       * [16. HW-28012025-Pro-3-AI-generated-truthtabeles.pdf](16.%20HW-28012025-Pro-3-AI-generated-truthtabeles.pdf)
+       * [16. HW-28012025-Pro-1-money-failing-greedy-approach-5-exmples.pdf](16.%20HW-28012025-Pro-1-money-failing-greedy-approach-5-exmples.pdf)
     * **Details:**
         1. More on if else statements
             1. Greedy approach to solve currency denomination problem - minimum number of coins, and where this approach fails
@@ -210,16 +210,16 @@
         3. Loops, types, examples - AI notes
             1. HW: See loop examples and multiplication tables from earlier
 * **Class 17 (15/02/2025) : Boolean operators and simplification of boolean expressions**
-    * [17. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/17.%20ClassNotes-15022025-Pro.pdf)
+    * [17. ClassNotes.pdf](17.%20ClassNotes-15022025-Pro.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [17.3DGlobe.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/17.3DGlobe.py)
-       * [17. BooleanOperators-Properties.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/17.%20BooleanOperators-Properties.pdf)
+       * [17.3DGlobe.py](0.%20PythonBasicsSchoolProject/17.3DGlobe.py)
+       * [17. BooleanOperators-Properties.pdf](17.%20BooleanOperators-Properties.pdf)
     * **Verified HW Solutions:**
-       * [17. HW-15022025-Pro-1-money-failing-greedy-approach-5-examples-Amount-Greater-than-50.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/17.%20HW-15022025-Pro-1-money-failing-greedy-approach-5-examples-Amount-Greater-than-50.pdf)
-       * [17. HW-15022025-Pro-4-simplify-boolean-expressions.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/17.%20HW-15022025-Pro-4-simplify-boolean-expressions.pdf)
-       * [17. HW-28012025-Pro-2-truthtabeles-AND-OR-properties.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/17.%20HW-28012025-Pro-2-truthtabeles-AND-OR-properties.pdf)
-       * [17. HW-28012025-Pro-3-truthtables-absorption-property.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/17.%20HW-28012025-Pro-3-truthtables-absorption-property.pdf)
+       * [17. HW-15022025-Pro-1-money-failing-greedy-approach-5-examples-Amount-Greater-than-50.pdf](17.%20HW-15022025-Pro-1-money-failing-greedy-approach-5-examples-Amount-Greater-than-50.pdf)
+       * [17. HW-15022025-Pro-4-simplify-boolean-expressions.pdf](17.%20HW-15022025-Pro-4-simplify-boolean-expressions.pdf)
+       * [17. HW-28012025-Pro-2-truthtabeles-AND-OR-properties.pdf](17.%20HW-28012025-Pro-2-truthtabeles-AND-OR-properties.pdf)
+       * [17. HW-28012025-Pro-3-truthtables-absorption-property.pdf](17.%20HW-28012025-Pro-3-truthtables-absorption-property.pdf)
     * **Details:**
         1. More on greedy approach for change in currency - where it fails
             1. HW: Give more examples for this
@@ -232,17 +232,17 @@
 <summary><strong>6. Loops - For, While</strong></summary>
 
 * **Class 18 (04/03/2025) : Loops and Greedy coins solution using loops**
-    * [18. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/18.%20ClassNotes-04032025-Pro.pdf)
+    * [18. ClassNotes.pdf](18.%20ClassNotes-04032025-Pro.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [18. CoinChangeSolutionWhereGreedyAlgoFails.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/18.%20CoinChangeSolutionWhereGreedyAlgoFails.py)
-       * [18. LoopExamples.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/18.%20LoopExamples.py)
-       * [18. ToyPropllorExamples.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/18.%20ToyPropllorExamples.py),
+       * [18. CoinChangeSolutionWhereGreedyAlgoFails.py](0.%20PythonBasicsSchoolProject/18.%20CoinChangeSolutionWhereGreedyAlgoFails.py)
+       * [18. LoopExamples.py](0.%20PythonBasicsSchoolProject/18.%20LoopExamples.py)
+       * [18. ToyPropllorExamples.py](0.%20PythonBasicsSchoolProject/18.%20ToyPropllorExamples.py),
     * **Verified HW Solutions:**
-       * [18.HW-04032025-Pro-Loops.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/18.HW-04032025-Pro-Loops.py)
-       * [18. AI-HW-BooleanExpressions.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/18.%20AI-HW-BooleanExpressions.pdf)
-       * [18. AI-HW-Loops.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/18.%20AI-HW-Loops.pdf)
-       * [18. HW-04032025-Pro-1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/18.%20HW-04032025-Pro-1.pdf)
+       * [18.HW-04032025-Pro-Loops.py](0.%20PythonBasicsSchoolProject/18.HW-04032025-Pro-Loops.py)
+       * [18. AI-HW-BooleanExpressions.pdf](18.%20AI-HW-BooleanExpressions.pdf)
+       * [18. AI-HW-Loops.pdf](18.%20AI-HW-Loops.pdf)
+       * [18. HW-04032025-Pro-1.pdf](18.%20HW-04032025-Pro-1.pdf)
     * **Details:**
         1. Checked HW on Greedy approach, Boolean expressions, simplification, truth tables
             1. HW: Complete 10 more Al generated exercises on simplification of Boolean expressions.
@@ -253,26 +253,26 @@
                 1. incomplete solution
         4. Used Al for another solution using loops that worked for all our class/HW examples (used something called Dynamic programming approach- We will learn more later)
 * **Class 19 (21/03/2025) : Programming with loops**
-    * [19. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/19.%20ClassNotes-21032025-Pro.pdf)
+    * [19. ClassNotes.pdf](19.%20ClassNotes-21032025-Pro.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [19.CoinsInsideACircle.odt](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/19.CoinsInsideACircle.odt)
-       * [19.1.CoilsInsideACircle_NoOfTurns.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/19.1.CoilsInsideACircle_NoOfTurns.py)
-       * [19.2.CoilsInsideACircle.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/19.2.CoilsInsideACircle.py)
-       * [19.3.CoilsInsideCircle_NoOfTurns_WithDiffusion.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/19.3.CoilsInsideCircle_NoOfTurns_WithDiffusion.py)
-       * [19.4.CoilsInsideCircle_WithDiffusion.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/19.4.CoilsInsideCircle_WithDiffusion.py)
+       * [19.CoinsInsideACircle.odt](0.%20PythonBasicsSchoolProject/19.CoinsInsideACircle.odt)
+       * [19.1.CoilsInsideACircle_NoOfTurns.py](0.%20PythonBasicsSchoolProject/19.1.CoilsInsideACircle_NoOfTurns.py)
+       * [19.2.CoilsInsideACircle.py](0.%20PythonBasicsSchoolProject/19.2.CoilsInsideACircle.py)
+       * [19.3.CoilsInsideCircle_NoOfTurns_WithDiffusion.py](0.%20PythonBasicsSchoolProject/19.3.CoilsInsideCircle_NoOfTurns_WithDiffusion.py)
+       * [19.4.CoilsInsideCircle_WithDiffusion.py](0.%20PythonBasicsSchoolProject/19.4.CoilsInsideCircle_WithDiffusion.py)
     * **Details:** Checked previous HWs
         1. Booken expression simplification
         2. Loops - examples 1 to 5
         3. HW: For the solved examples on loops, change ‘for’ loop to 'while’ loop or vice versa. Practice all these examples again without looking at solutions.
 * **Class 20 (17/04/2025) : Nested loops**
-    * [20. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/20.%20ClassNotes-17042025-Pro.pdf)
+    * [20. ClassNotes.pdf](20.%20ClassNotes-17042025-Pro.pdf)
     * [Video : link coming soon]()
     * **Verified HW Solutions:**
-       * [20. HW-04032025-Pro-Loops-WhileAndFor.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/20.%20HW-04032025-Pro-Loops-WhileAndFor.py)
-       * [20. HW-17042025-Pro.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/20.%20HW-17042025-Pro.py)
-       * [20. LoopExamplesBreakContinueReturn.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/20.%20LoopExamplesBreakContinueReturn.py) 
-       * [20. AI-HW-BooleanExpressions-More.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/20.%20AI-HW-BooleanExpressions-More.pdf)
+       * [20. HW-04032025-Pro-Loops-WhileAndFor.py](0.%20PythonBasicsSchoolProject/20.%20HW-04032025-Pro-Loops-WhileAndFor.py)
+       * [20. HW-17042025-Pro.py](0.%20PythonBasicsSchoolProject/20.%20HW-17042025-Pro.py)
+       * [20. LoopExamplesBreakContinueReturn.py](0.%20PythonBasicsSchoolProject/20.%20LoopExamplesBreakContinueReturn.py) 
+       * [20. AI-HW-BooleanExpressions-More.pdf](20.%20AI-HW-BooleanExpressions-More.pdf)
     * **Details:**
         1. HW: 5 more AI exercises on simplifying boolean expressions using properties. Also, verify answers using truth tables
         2. More practice on conversion between while and for loops
@@ -280,24 +280,24 @@
                 1. HW: Complete 3-5 as HW
             2. HW: Write functions that do multiplication as repeated addition, and power as repeated multiplication using while and for loops.
 * **Class 21 (01/05/2025) : Conversion between while and for loops**
-    * [21. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/21.%20ClassNotes-01052025-Pro.pdf)
+    * [21. ClassNotes.pdf](21.%20ClassNotes-01052025-Pro.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [21. LoopExamples.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/21.%20LoopExamples.py)
-       * [21. ConvertBetweenWhileAndForLoops.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/21.%20ConvertBetweenWhileAndForLoops.pdf)
+       * [21. LoopExamples.py](0.%20PythonBasicsSchoolProject/21.%20LoopExamples.py)
+       * [21. ConvertBetweenWhileAndForLoops.pdf](21.%20ConvertBetweenWhileAndForLoops.pdf)
     * **Details:** Conversion b/w while and for loops. Examples. AI Notes.
         1. HW: Study this notes
         2. HW: Practice all loop examples we learnt so far
 * **Class 22 (15/05/2025) : More examples of loops**
-    * [22. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/22.%20ClassNotes-15052025-Pro.pdf)
+    * [22. ClassNotes.pdf](22.%20ClassNotes-15052025-Pro.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [22. BrainVitaCode-AI-NotWorking.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/22.%20BrainVitaCode-AI-NotWorking.py)
-       * [22. FactorsOfANumber.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/22.%20FactorsOfANumber.py),
+       * [22. BrainVitaCode-AI-NotWorking.py](0.%20PythonBasicsSchoolProject/22.%20BrainVitaCode-AI-NotWorking.py)
+       * [22. FactorsOfANumber.py](0.%20PythonBasicsSchoolProject/22.%20FactorsOfANumber.py),
     * **Verified HW Solutions:**
-       * [22. HW-04032025-Pro-Loops.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/22.%20HW-04032025-Pro-Loops.py)
-       * [22. HW-15052025-Pro-Factors.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/22.%20HW-15052025-Pro-Factors.py)
-       * [22. HW-15052025-Pro-LoopExamples.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/22.%20HW-15052025-Pro-LoopExamples.py)
+       * [22. HW-04032025-Pro-Loops.py](0.%20PythonBasicsSchoolProject/22.%20HW-04032025-Pro-Loops.py)
+       * [22. HW-15052025-Pro-Factors.py](0.%20PythonBasicsSchoolProject/22.%20HW-15052025-Pro-Factors.py)
+       * [22. HW-15052025-Pro-LoopExamples.py](0.%20PythonBasicsSchoolProject/22.%20HW-15052025-Pro-LoopExamples.py)
     * **Details:**
         1. More examples of loops
             1. HW: Problems 7, 10 from AI loops HW
@@ -310,14 +310,14 @@
 <summary><strong>7. Dictionaries, Classes, file operations</strong></summary>
 
 * **Class 23 (02/06/2025) : Debugging Python code in IDE, Introduction to Dictionaires, classes and file operations**
-    * [23. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/23.%20ClassNotes-02062025-Pro.pdf)
+    * [23. ClassNotes.pdf](23.%20ClassNotes-02062025-Pro.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [23.AI-DictionariesClassesFileOperations.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/23.AI-DictionariesClassesFileOperations.py)
-       * [23. AI-DebuggingPythonInPyCharm.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/23.%20AI-DebuggingPythonInPyCharm.pdf)
-       * [23. AI-Dictionaries,Classes,FileOperations.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/23.%20AI-Dictionaries%2CClasses%2CFileOperations.pdf)
+       * [23.AI-DictionariesClassesFileOperations.py](0.%20PythonBasicsSchoolProject/23.AI-DictionariesClassesFileOperations.py)
+       * [23. AI-DebuggingPythonInPyCharm.pdf](23.%20AI-DebuggingPythonInPyCharm.pdf)
+       * [23. AI-Dictionaries,Classes,FileOperations.pdf](23.%20AI-Dictionaries%2CClasses%2CFileOperations.pdf)
     * **Verified HW Solutions:**
-       * [23. HW-26052025-Maths.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/23.%20HW-26052025-Maths.py)
+       * [23. HW-26052025-Maths.py](0.%20PythonBasicsSchoolProject/23.%20HW-26052025-Maths.py)
     * **Details:**
         1. Debugging - AI notes
             1. HW: Use AI example to practice breakpoints, debug, resume, step, inspect variables
@@ -338,16 +338,16 @@
 <summary><strong>8. Binary numbers, and Other Bases</strong></summary>
 
 * **Class 24 (12/06/2025) : Finding min number in a list ; Introduction to binary number, converting decimal to binary.**
-    * [24. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/24.%20ClassNotes-12062025-Pro.pdf)
+    * [24. ClassNotes.pdf](24.%20ClassNotes-12062025-Pro.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
-       * [24. BinaryNumbersAndOtherBaseSystems.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/24.%20BinaryNumbersAndOtherBaseSystems.pdf)
-       * [24. DecimalToBinaryLoops.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/24.%20DecimalToBinaryLoops.py)
-       * [24.1.FindSmallest.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/24.1.FindSmallest.py)
-       * [24.2.SortList.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/24.2.SortList.py)
+       * [24. BinaryNumbersAndOtherBaseSystems.pdf](24.%20BinaryNumbersAndOtherBaseSystems.pdf)
+       * [24. DecimalToBinaryLoops.py](0.%20PythonBasicsSchoolProject/24.%20DecimalToBinaryLoops.py)
+       * [24.1.FindSmallest.py](0.%20PythonBasicsSchoolProject/24.1.FindSmallest.py)
+       * [24.2.SortList.py](0.%20PythonBasicsSchoolProject/24.2.SortList.py)
     * **Verified HW Solutions:**
-       * [24. HW_02062025_Pro_GCD.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/24.%20HW_02062025_Pro_GCD.py)
-       * [24.HW-12062025-Pro-1-Sort-using-list-functions.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20PythonBasicsSchoolProject/24.HW-12062025-Pro-1-Sort-using-list-functions.py)
+       * [24. HW_02062025_Pro_GCD.py](0.%20PythonBasicsSchoolProject/24.%20HW_02062025_Pro_GCD.py)
+       * [24.HW-12062025-Pro-1-Sort-using-list-functions.py](0.%20PythonBasicsSchoolProject/24.HW-12062025-Pro-1-Sort-using-list-functions.py)
     * **Details:**
         1. Loops to find smallest number in a list
             1. HW: Use this to sort a list using the algorithm from the last class using list operations
@@ -364,28 +364,28 @@
 
 * **Class 25 (16/06/2025): Final Quiz**
     * **Final Quiz:**
-       * [25.ProgrammingFinalQuizGrade1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.ProgrammingFinalQuizGrade1.pdf)
-       * [25.ProgrammingFinalQuizGrade1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.ProgrammingFinalQuizGrade1.docx)
+       * [25.ProgrammingFinalQuizGrade1.pdf](25.ProgrammingFinalQuizGrade1.pdf)
+       * [25.ProgrammingFinalQuizGrade1.docx](25.ProgrammingFinalQuizGrade1.docx)
     * **Verified quiz solutions:**
-       * [25. HWProgrammingFinalQuizGrade1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.%20HWProgrammingFinalQuizGrade1.pdf)
-       * [25. HWProgrammingFinalQuizGrade1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.%20HWProgrammingFinalQuizGrade1.docx)
-       * [25. HWProgrammingFinalQuizGrade1-AIGrading.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.%20HWProgrammingFinalQuizGrade1-AIGrading.pdf)
-       * [25. HWProgrammingFinalQuizGrade1-AIGrading.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.%20HWProgrammingFinalQuizGrade1-AIGrading.docx)
+       * [25. HWProgrammingFinalQuizGrade1.pdf](25.%20HWProgrammingFinalQuizGrade1.pdf)
+       * [25. HWProgrammingFinalQuizGrade1.docx](25.%20HWProgrammingFinalQuizGrade1.docx)
+       * [25. HWProgrammingFinalQuizGrade1-AIGrading.pdf](25.%20HWProgrammingFinalQuizGrade1-AIGrading.pdf)
+       * [25. HWProgrammingFinalQuizGrade1-AIGrading.docx](25.%20HWProgrammingFinalQuizGrade1-AIGrading.docx)
     * **Details:**
         1. Finished AI created quiz
         2. Asked AI to grade the student work and asked student to verify for any issues in AI grading. 
 
 
 * **Class 26 (23/10/2025): Review**
-    * [26. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/26.%20Classnotes-23102025-Pro.pdf)
+    * [26. ClassNotes.pdf](26.%20Classnotes-23102025-Pro.pdf)
     * [Video]()
     * **Other materials:**
        * []()
     * **Verified HW Solutions:**
-       * [25. HWProgrammingFinalQuizGrade1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.%20HWProgrammingFinalQuizGrade1.pdf)
-       * [25. HWProgrammingFinalQuizGrade1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.%20HWProgrammingFinalQuizGrade1.docx)
-       * [25. HWProgrammingFinalQuizGrade1-AIGrading.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.%20HWProgrammingFinalQuizGrade1-AIGrading.pdf)
-       * [25. HWProgrammingFinalQuizGrade1-AIGrading.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.%20HWProgrammingFinalQuizGrade1-AIGrading.docx)
+       * [25. HWProgrammingFinalQuizGrade1.pdf](25.%20HWProgrammingFinalQuizGrade1.pdf)
+       * [25. HWProgrammingFinalQuizGrade1.docx](25.%20HWProgrammingFinalQuizGrade1.docx)
+       * [25. HWProgrammingFinalQuizGrade1-AIGrading.pdf](25.%20HWProgrammingFinalQuizGrade1-AIGrading.pdf)
+       * [25. HWProgrammingFinalQuizGrade1-AIGrading.docx](25.%20HWProgrammingFinalQuizGrade1-AIGrading.docx)
     * **Details:**
       1. Checked last class HWs etc. 
       2. Checked final quiz grading 
