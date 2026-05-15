@@ -5,23 +5,23 @@
 <summary><strong> 1. Introduction to Markdown, LaTeX, or HTML  </strong></summary>
 
 * **Class 1 (09/12/2025): Using Markdown, LaTeX, or HTML** 
-  * [1. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.ClassNotes-09122025-Tech.pdf)  
+  * [1. ClassNotes.pdf](1.ClassNotes-09122025-Tech.pdf)  
   * Video  
   * **Other materials:** 
-	* [1.AI-HtmlExample.html](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.AI-HtmlExample.html)
-	* [1.AI-LatexReportExample.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.AI-LatexReportExample.pdf)
-	* [1.AI-LatexReportExample.tex](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.AI-LatexReportExample.tex)
-	* [1.AI-MarkdownExample.md](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.AI-MarkdownExample.md)
-	* [1.AI-MarkupLanguages-LatexMDHtml.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.AI-MarkupLanguages-LatexMDHtml.pdf)
+	* [1.AI-HtmlExample.html](1.AI-HtmlExample.html)
+	* [1.AI-LatexReportExample.pdf](1.AI-LatexReportExample.pdf)
+	* [1.AI-LatexReportExample.tex](1.AI-LatexReportExample.tex)
+	* [1.AI-MarkdownExample.md](1.AI-MarkdownExample.md)
+	* [1.AI-MarkupLanguages-LatexMDHtml.pdf](1.AI-MarkupLanguages-LatexMDHtml.pdf)
 
   * **Verified HW Solutions:** 
-	* [1. HW-HandwritingCopyTracing_Latex-English.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.%20HW-HandwritingCopyTracing_Latex-English.pdf)
-	* [1. HW-HandwritingCopyTracing_Latex-English.tex](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.%20HW-HandwritingCopyTracing_Latex-English.tex)
-	* [1. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf)
-	* [1. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.tex](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.tex)
-	* [1.HW-AI-HtmlExample.html](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.HW-AI-HtmlExample.html)
-	* [1.HW-AI-LatexReportExample.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.HW-AI-LatexReportExample.pdf)
-	* [1.HW-AI-LatexReportExample.tex](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.HW-AI-LatexReportExample.tex)  
+	* [1. HW-HandwritingCopyTracing_Latex-English.pdf](1.%20HW-HandwritingCopyTracing_Latex-English.pdf)
+	* [1. HW-HandwritingCopyTracing_Latex-English.tex](1.%20HW-HandwritingCopyTracing_Latex-English.tex)
+	* [1. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf](1.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf)
+	* [1. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.tex](1.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.tex)
+	* [1.HW-AI-HtmlExample.html](1.HW-AI-HtmlExample.html)
+	* [1.HW-AI-LatexReportExample.pdf](1.HW-AI-LatexReportExample.pdf)
+	* [1.HW-AI-LatexReportExample.tex](1.HW-AI-LatexReportExample.tex)  
   * **Details:** 
     * HW: Update Table of Contents for "Grade 1 Tech" and other subjects.  
     * Using Markdown, LaTeX, or HTML \- see AI notes and examples  
@@ -32,10 +32,10 @@
 
 
 * **Class 2 (12/02/2026): * Checked previous Hws** 
-  * [2. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20ClassNotes-12022026-Tech.pdf)  
+  * [2. ClassNotes.pdf](2.%20ClassNotes-12022026-Tech.pdf)  
   * Video  
   * **Other materials:** 
-    * [1.AI-HtmlExample.html](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.AI-HtmlExample.html)
+    * [1.AI-HtmlExample.html](1.AI-HtmlExample.html)
   * **Verified HW Solutions:**   
   * **Details:** 
     * Checked previous Hws  
