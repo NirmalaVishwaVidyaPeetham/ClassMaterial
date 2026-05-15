@@ -1,4 +1,3 @@
-# Nirmala Vishwa Vidya Peetham 
 
 ---
 
@@ -10,106 +9,112 @@ We have also integrated Sahaja Yoga meditation as a part of our homeschool curri
 
 
   
-## Courses taught
+## Navigate by Subject
 Please click on the subject name to view its course materials.
-<details markdown="1">
-<summary><strong> Maths </strong></summary>
 
-* **[Grade 1](2.%20MathsProgrammingTechnology/1.%20Maths/1.%20Grade1/0.%20Grade-1-Maths-Table-of-Contents.md)**
+<details markdown="1"> <summary><strong> Progress Overview </strong></summary>
 
-* **[Grade 2](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/0.%20Grade-2-Maths-Table-of-Contents.md)**
-</details>
+  * **[Grade 1](0.%20ProgressOverview/1.%20Grade1/)**
 
-<details markdown="1">
-<summary><strong> Programming </strong></summary>
-
-* **[Grade 1](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/0.%20Grade-1-Programming-Table-of-Contents.md)**
-
-* **[Grade 2](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.%20Grade-2-Programming-Table-of-Contents.md)**
-</details>
-
-<details markdown="1">
-<summary><strong> Technology </strong></summary>
-
-* **[Grade 1](2.%20MathsProgrammingTechnology/3.%20Technology/1.%20Grade1/0.%20Grade-1-Technology-Table-of-Contents.md)**
-
-* **[Grade 2](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/0.%20Grade-2-Technology-of-Contents.md)**
-</details>
-
-<details markdown="1">
-<summary><strong> Science </strong></summary>
-
-* **[Grade 1](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/0.%20Grade-1-Science-Table-of-Contents.md)**
-
-* **[Grade 2](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/0.%20Grade-2-Science-Table-of-Contents.md)**
+  * **[Grade 2](0.%20ProgressOverview/2.%20Grade2/)**
 </details>
 
 
-<details markdown="1">
-<summary><strong> Social Studies </strong></summary>
-
-* **[Grade 1](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/0.%20Grade-1-Social-Table-of-Contents.md)**
-
-* **[Grade 2](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/0.%20Grade-2-Social-Table-of-Contents.md)**
-</details>
-
-<details markdown="1"> <summary><strong> Telugu (Language)</strong></summary>
+<details markdown="1"> <summary><strong> Languages - Telugu, English, Devanagari, All combined</strong></summary>
+ 
+ * <details markdown="1"> <summary><strong> Telugu (Language)</strong></summary>
   
-* **[Grade 1](1.%20Languages/1.%20Telugu/1.%20Grade1/0.%20Grade-1-Telugu-Table-of-Contents.md)**
+   * **[Grade 1](1.%20Languages/1.%20Telugu/1.%20Grade1/)**
 
-* **[Grade 2](1.%20Languages/1.%20Telugu/2.%20Grade2/0.%20Grade-2-Telugu-Technology-of-Contents.md)**
- </details>
+   * **[Grade 2](1.%20Languages/1.%20Telugu/2.%20Grade2/0.%20Grade-2-Telugu-Technology-of-Contents.md)**
 
- <details markdown="1"> <summary><strong> English (Language)</strong></summary>
 
-  * **[Grade 1](1.%20Languages/2.%20English/1.%20Grade1/0.%20Grade-1-English-Table-of-Contents.md)**
+ * <details markdown="1"> <summary><strong> English (Language)</strong></summary>
+   
+   * **[Grade 1](1.%20Languages/2.%20English/1.%20Grade1/)**
 
-  * **[Grade 2](1.%20Languages/2.%20English/2.%20Grade2/0.%20Grade-2-English-Table-of-Contents.md)**
- </details>
+   * **[Grade 2](1.%20Languages/2.%20English/2.%20Grade2/)**
+   </details>
 
- <details markdown="1"> <summary><strong> Devanagari (Language)</strong></summary>
 
-  *  <details markdown="1"> <summary><strong> AllDevanagari (Language)</strong></summary>
+ * <details markdown="1"> <summary><strong> Devanagari (Language)</strong></summary>
 
-     * **[Grade 1](1.%20Languages/3.%20Devanagari_HSKM/0.%20AllDevanagariLanguages/1.%20Grade1/0.%20Grade-1-Devanagari-Table-of-Contents.md)**
+    *  <details markdown="1"> <summary><strong> AllDevanagari (Language)</strong></summary>
 
-     * **[Grade 2](1.%20Languages/3.%20Devanagari_HSKM/0.%20AllDevanagariLanguages/2.%20Grade2/0.%20Grade-2-Devanagari-Table-of-Contents.md)**
+       * **[Grade 1](1.%20Languages/3.%20Devanagari_HSKM/0.%20AllDevanagariLanguages/1.%20Grade1/)**
+
+       * **[Grade 2](1.%20Languages/3.%20Devanagari_HSKM/0.%20AllDevanagariLanguages/2.%20Grade2/)**
+       </details>
      
-  *  <details markdown="1"> <summary><strong> Hindi (Language)</strong></summary>
+    *  <details markdown="1"> <summary><strong> Hindi (Language)</strong></summary>
 
-     * **[Grade 2](1.%20Languages/3.%20Devanagari_HSKM/1.%20Hindi/2.%20Grade2/0.%20Grade-2-Hindi-Table-of-Contents.md)**
+       * **[Grade 2](1.%20Languages/3.%20Devanagari_HSKM/1.%20Hindi/2.%20Grade2/)**
+       </details>
+    </details>
 
 
+*  <details markdown="1"> <summary><strong> All Languages Combined </strong></summary>
+
+    * **[Grade 1](1.%20Languages/4.%20AllLangugages/)**
  </details>
  </details>
+</details>
 
- <details markdown="1"> <summary><strong> All Languages Combined </strong></summary>
 
-  * **[Grade 1](1.%20Languages/4.%20AllLangugages/0.%20Grade-1-AllLanguages-Table-of-Contents.md)**
- </details>
+
+<details markdown="1"> <summary><strong> Maths - Programming - Technology</strong></summary>
+
+  *  <details markdown="1"> <summary><strong> Maths </strong></summary>
+     
+        * **[Grade 1](2.%20MathsProgrammingTechnology/1.%20Maths/1.%20Grade1/)**
+
+        * **[Grade 2](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/)**
+
+
+  *  <details markdown="1"> <summary><strong> Programming </strong></summary>
+
+        * **[Grade 1](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/)**
+    
+        * **[Grade 2](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/)**
+     </details>
+
+
+  *  <details markdown="1"><summary><strong> Technology </strong></summary>
+
+     * **[Grade 1](2.%20MathsProgrammingTechnology/3.%20Technology/1.%20Grade1/)**
+
+     * **[Grade 2](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/0.%20Grade-2-Technology-of-Contents.md)**
+</details>
+</details>
+</details>
 
 
 <details markdown="1">
 <summary><strong> Music </strong></summary>
 
-* **[Grade 1](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/0.%20Grade-1-Music-Table-of-Contents.md)**
+* **[Grade 1](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/)**
 
-* **[Grade 2](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/0.%20Grade-2-Music-Table-of-Contents.md)**
+* **[Grade 2](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/)**
 </details>
 
 
- <details markdown="1"> <summary><strong> Overview </strong></summary>
+<details markdown="1">
+<summary><strong> Social Studies and Life Skills</strong></summary>
 
-  * **[Grade 1](0.%20ProgressOverview/1.%20Grade1/0.%20Grade-1-Overview-Table-of-Contents.md)**
+* **[Grade 1](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/)**
 
-  * **[Grade 2](0.%20ProgressOverview/2.%20Grade2/0.%20Grade-2-Overview-Table-of-Contents.md)**
- </details>
+* **[Grade 2](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/)**
+</details>
 
 
- <details markdown="1"> <summary><strong> Sahaja Yoga Meditation </strong></summary>
+<details markdown="1">
+<summary><strong> Science and Research Projects</strong></summary>
 
-  * We have also integrated Sahaja Yoga meditation as a part of our homeschool curriculum. If you are interested in how it works and the benefits it offers, please watch the video introduction [here](https://drive.google.com/file/d/1oWgFfzMNCR1hGIal0RxQMr7v3l57ANf3/view?usp=sharing) or a detailed PowerPoint presentation [here](https://docs.google.com/presentation/d/1ddhFRXDZGicnElHk9FxHlr6JQ70PG7yY/edit?usp=sharing&ouid=104652573605668601787&rtpof=true&sd=true).
- </details>
+* **[Grade 1](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/)**
+
+* **[Grade 2](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/)**
+</details>
+
 
  <details markdown="1"> <summary><strong> Sports </strong></summary>
 
