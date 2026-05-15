@@ -6,10 +6,10 @@
 <summary><strong>1. What are Social studies and life skills and Learning Social Textbook Chapters from India (AP)</strong></summary>
 
    * **Class 1 (13/09/2024): What are included in Social Studies and Life Skills, and Textbook Chapter about Family**  
-     * [1. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/1.%20ClassNotes-13092024-SocialStudiesLifeSkills.pdf)  
+     * [1. ClassNotes.pdf](1.%20ClassNotes-13092024-SocialStudiesLifeSkills.pdf)  
      * Video 
      * **Verified HW Solutions:**
-       * [2. Class3-AP-environmental-1-Chapter1Family.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/2.%20Class3-AP-environmental-1-Chapter1Family.pdf)
+       * [2. Class3-AP-environmental-1-Chapter1Family.pdf](2.%20Class3-AP-environmental-1-Chapter1Family.pdf)
      * **Details:** 
        1. Social studies textbooks  
           1. AP textbooks  
@@ -21,35 +21,35 @@
 
 
    * **Class 2 (20/09/2024): Read Chapter 1 Family and learnt about Family Tree**
-     * [2. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/2.%20ClassNotes-20092024-SocialStudiesLifeSkills.pdf)  
+     * [2. ClassNotes.pdf](2.%20ClassNotes-20092024-SocialStudiesLifeSkills.pdf)  
      * Video  
      * **Verified HW Solutions:**
-       * [2. Class3-AP-environmental-1-Chapter1Family.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/2.%20Class3-AP-environmental-1-Chapter1Family.pdf)
-       * [2. HW-20092024-Social-FamilyTree.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/2.%20HW-20092024-Social-FamilyTree.pdf)  
+       * [2. Class3-AP-environmental-1-Chapter1Family.pdf](2.%20Class3-AP-environmental-1-Chapter1Family.pdf)
+       * [2. HW-20092024-Social-FamilyTree.pdf](2.%20HW-20092024-Social-FamilyTree.pdf)  
      * **Details:** 
        1. AP Grade3 ES Ch.1 Family  
        2. HW: Draw a family tree of Virata/Sadashiva up to great grand parent
 
         
    * **Class 3 (27/09/2024): More on Family tree and started chapter 10 Games and Recreation** 
-     * [3. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/3.%20ClassNotes-27092024-SocialStudiesLifeSkills.pdf)  
+     * [3. ClassNotes.pdf](3.%20ClassNotes-27092024-SocialStudiesLifeSkills.pdf)  
      * Video  
      * **Verified HW Solutions:**
-       * [3. Class3-AP-environmental-1-Chapter10Games.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/3.%20Class3-AP-environmental-1-Chapter10Games.pdf)
-       * [3. HW_26092024_family_HindiSanskritKhatri.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/3.%20HW_26092024_family_HindiSanskritKhatri.xlsx)  
+       * [3. Class3-AP-environmental-1-Chapter10Games.pdf](3.%20Class3-AP-environmental-1-Chapter10Games.pdf)
+       * [3. HW_26092024_family_HindiSanskritKhatri.xlsx](3.%20HW_26092024_family_HindiSanskritKhatri.xlsx)  
      * **Details:** 
        1. HW: Write names of family relationships in all languages (use same excel sheet as above  
        2. Went over chapter 10 Games and Recreation in AP 3 EVS. To be continued in next class.
 
         
    * **Class 4 (03/10/2024): Chapter 10 Games and Recreation; AI summaries of Chapters 1 and 10** 
-     * [4. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/4.%20ClassNotes-03102024-Social.pdf)  
-     * Video  
+     * [4. ClassNotes.pdf](4.%20ClassNotes-03102024-Social.pdf)  
+     * Video   
      * **Other materials:**
-       * [0. Summary-class3-AP-environmental-1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/0.%20Summary-class3-AP-environmental-1.pdf)
-       * [0. Summary-class3-AP-environmental-1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/0.%20Summary-class3-AP-environmental-1.docx)
+       * [0. Summary-class3-AP-environmental-1.pdf](../../../6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/0.%20Summary-class3-AP-environmental-1.pdf)
+       * [0. Summary-class3-AP-environmental-1.docx](../../../6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/0.%20Summary-class3-AP-environmental-1.docx)
      * **Verified HW Solutions:**
-       * [4. HW_03102024_Chp10_ListOfGames.txt](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/4.%20HW_03102024_Chp10_ListOfGames.txt)  
+       * [4. HW_03102024_Chp10_ListOfGames.txt](4.%20HW_03102024_Chp10_ListOfGames.txt)  
      * **Details:** 
        1. Chapter 10 Games and Recreation; AI summaries of Ch1 Family and Ch 10  
        2. HW: Remember summaries of Ch1 and Ch10  
@@ -58,10 +58,10 @@
         
         
   * **Class 5 (11/10/2024): Summaries of Chapters 'Family' and 'Games'** 
-    * [5. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/5.%20ClassNotes-1102024-Social.pdf)  
+    * [5. ClassNotes.pdf](5.%20ClassNotes-1102024-Social.pdf)  
     * Video  
     * **Verified HW Solutions:**
-       * [5. Class3-AP-environmental-1-Chapter8Travel.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/5.%20Class3-AP-environmental-1-Chapter8Travel.pdf)  
+       * [5. Class3-AP-environmental-1-Chapter8Travel.pdf](5.%20Class3-AP-environmental-1-Chapter8Travel.pdf)  
     * **Details:** 
       1. Ch.1 Family and Ch.10 Games Summaries  
       2. Started Ch. 8 Travel Summary, to be continued  
@@ -70,10 +70,10 @@
 
 
   * **Class 6 (17/10/2024): Read Chapter 8 Travel**
-    * [6. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/6.%20ClassNotes-17102024-Social.pdf)  
+    * [6. ClassNotes.pdf](6.%20ClassNotes-17102024-Social.pdf)  
     * Video  
     * **Verified HW Solutions:**
-       * [6. HW_Class3-AP-environmental-1-Chapter8Travel-signed.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/6.%20HW_Class3-AP-environmental-1-Chapter8Travel-signed.pdf)  
+       * [6. HW_Class3-AP-environmental-1-Chapter8Travel-signed.pdf](6.%20HW_Class3-AP-environmental-1-Chapter8Travel-signed.pdf)  
     * **Details:** 
       1. Chapter 8 Travel and Summary 
       2. HW: Read the Chapter 8 summary and write down the meanings of any difficult words. 
@@ -81,10 +81,10 @@
 
 
   * **Class 7 (01/11/2024): Completed chapter 8 Travel** 
-    * [7. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/7.%20ClassNotes-01112024-Social.pdf)  
+    * [7. ClassNotes.pdf](7.%20ClassNotes-01112024-Social.pdf)  
     * Video  
     * **Verified HW Solutions:**
-       * [7.  HW-class3-AP-environmental-1-chp8Travel-2.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/7.%20%20HW-class3-AP-environmental-1-chp8Travel-2.pdf)  
+       * [7.  HW-class3-AP-environmental-1-chp8Travel-2.pdf](7.%20%20HW-class3-AP-environmental-1-chp8Travel-2.pdf)  
     * **Details:** 
       1. Ch.8 Travel \- Summary  
       2. HW: Poor score 39/40 in doing Ch. 8 textbook exercises. Do it again from scratch.  
@@ -94,20 +94,20 @@
 
 
   * **Class 8 (25/11/2024): Started Chapter 7 Shelter** 
-    * [8. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/8.%20ClassNotes-25112024-Social.pdf)  
+    * [8. ClassNotes.pdf](8.%20ClassNotes-25112024-Social.pdf)  
     * Video  
     * **Verified HW Solutions:**
-       * [8. HW-Class3-AP-environmental-1-Chapter7-Shelter.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/8.%20HW-Class3-AP-environmental-1-Chapter7-Shelter.pdf)  
+       * [8. HW-Class3-AP-environmental-1-Chapter7-Shelter.pdf](8.%20HW-Class3-AP-environmental-1-Chapter7-Shelter.pdf)  
     * **Details:** 
       1. Ch 7 Shelter  
       2. HW: Finish exercises, read summary, write meanings of difficult words.
   
   
   * **Class 9 (06/12/2024): Completed Chapter 7 Shelter \- exercises and summary** 
-    * [9. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/9.%20ClassNotes-06122024-Social.pdf)  
+    * [9. ClassNotes.pdf](9.%20ClassNotes-06122024-Social.pdf)  
     * Video  
     * **Verified HW Solutions:**
-       * [9. HW-Shelter-HutsWithCardboardAndPaper.jpg](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/9.%20HW-Shelter-HutsWithCardboardAndPaper.jpg)  
+       * [9. HW-Shelter-HutsWithCardboardAndPaper.jpg](9.%20HW-Shelter-HutsWithCardboardAndPaper.jpg)  
     * **Details:** 
       1. Ch. 7 Shelter \- exercises and summary  
       2. HW: Build a small home with materials you find around you  
@@ -117,10 +117,10 @@
 <summary><strong>2. Life skills: Presenting in Science Fair</strong></summary>
 
 * **Class 7.5 (12/11/2024): Good manners in western and Indian context (using AI)** 
-  * [7.5 ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/7.5%20ClassNotes-12112024-LifeSkills-Presentations.pdf)  
+  * [7.5 ClassNotes.pdf](7.5%20ClassNotes-12112024-LifeSkills-Presentations.pdf)  
   * Video  
   * **Other materials:**
-       * [1. Notes for Presentation.txt](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/1.%20MusicAndWaves-CentralGeorgiaHomeschoolersScienceFair-13112024/1.%20Notes%20for%20Presentation.txt), 
+       * [1. Notes for Presentation.txt](../../2.%20LifeSkills/1.%20Presentations/1.%20MusicAndWaves-CentralGeorgiaHomeschoolersScienceFair-13112024/1.%20Notes%20for%20Presentation.txt), 
   * **Details:** 
     1. Select a project: Waves and Music  
     2. Describe the poster  
@@ -144,14 +144,14 @@
 
 
 * **Class 7.6 (15/11/2024): Review of science fair presentation** 
-  * [7.6 ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/7.5.%20ClassNotes-15112024-LifeSkills-Presentations.pdf)  
+  * [7.6 ClassNotes.pdf](7.5.%20ClassNotes-15112024-LifeSkills-Presentations.pdf)  
   * Video  
   * **Other materials:**
-       * [3. Sciencefair-13112024-PosterNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/1.%20MusicAndWaves-CentralGeorgiaHomeschoolersScienceFair-13112024/3.%20Sciencefair-13112024-PosterNotes.pdf)
-       * [3. Sciencefair-13112024-PosterNotes.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/1.%20MusicAndWaves-CentralGeorgiaHomeschoolersScienceFair-13112024/3.%20Sciencefair-13112024-PosterNotes.docx) 
+       * [3. Sciencefair-13112024-PosterNotes.pdf](../../2.%20LifeSkills/1.%20Presentations/1.%20MusicAndWaves-CentralGeorgiaHomeschoolersScienceFair-13112024/3.%20Sciencefair-13112024-PosterNotes.pdf)
+       * [3. Sciencefair-13112024-PosterNotes.docx](../../2.%20LifeSkills/1.%20Presentations/1.%20MusicAndWaves-CentralGeorgiaHomeschoolersScienceFair-13112024/3.%20Sciencefair-13112024-PosterNotes.docx) 
   * **Verified HW Solutions:**
-       * [3. HW-15112024-life_skills-StepsForAGoodPresentation.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/1.%20MusicAndWaves-CentralGeorgiaHomeschoolersScienceFair-13112024/3.%20HW-15112024-life_skills-StepsForAGoodPresentation.docx)
-       * [3. HW-15112024-life_skills-StepsForAGoodPresentation.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/1.%20MusicAndWaves-CentralGeorgiaHomeschoolersScienceFair-13112024/3.%20HW-15112024-life_skills-StepsForAGoodPresentation.pdf)   
+       * [3. HW-15112024-life_skills-StepsForAGoodPresentation.docx](../../2.%20LifeSkills/1.%20Presentations/1.%20MusicAndWaves-CentralGeorgiaHomeschoolersScienceFair-13112024/3.%20HW-15112024-life_skills-StepsForAGoodPresentation.docx)
+       * [3. HW-15112024-life_skills-StepsForAGoodPresentation.pdf](../../2.%20LifeSkills/1.%20Presentations/1.%20MusicAndWaves-CentralGeorgiaHomeschoolersScienceFair-13112024/3.%20HW-15112024-life_skills-StepsForAGoodPresentation.pdf)   
   * **Details:** Going over the whole science fair presentation again. Presented in class.   
     1. Added more steps to note on ‘how to prepare and present’ 
     2. HW: Create a document with all the steps on how to present for future reference.
@@ -164,11 +164,11 @@
 <summary><strong> 3. Social textbook chapters continuation..</strong></summary>
 
   * **Class 10 (12/12/2024): Read Chapter 9 Togetherness and Chapter 11 'This is the way'** 
-    * [10. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/10.%20ClassNotes-12122024-Social.pdf)  
+    * [10. ClassNotes.pdf](10.%20ClassNotes-12122024-Social.pdf)  
     * Video  
     * **Verified HW Solutions:**
-       * [10. Class3-AP-environmental-1-Ch11ThisIsTheWay.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/10.%20Class3-AP-environmental-1-Ch11ThisIsTheWay.pdf)
-       * [10. Class3-AP-environmental-1-Ch9Togetherness.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/10.%20Class3-AP-environmental-1-Ch9Togetherness.pdf)  
+       * [10. Class3-AP-environmental-1-Ch11ThisIsTheWay.pdf](10.%20Class3-AP-environmental-1-Ch11ThisIsTheWay.pdf)
+       * [10. Class3-AP-environmental-1-Ch9Togetherness.pdf](10.%20Class3-AP-environmental-1-Ch9Togetherness.pdf)  
     * **Details:** 
       1. Ch.9 Togetherness; Ch.11 This is the way \-  Summaries  
       2. HW: Write the meanings and study the summaries  
@@ -177,10 +177,10 @@
 
 
   * **Class 11 (02/01/2025): More about Chapter 9 Togetherness and Chapter 11 This is the way** 
-    * [11. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/11.%20ClassNotes-02012025-Social.pdf)  
+    * [11. ClassNotes.pdf](11.%20ClassNotes-02012025-Social.pdf)  
     * Video  
     * **Verified HW Solutions:**
-       * [11. Class3-AP-environmental-1-Glossary.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/11.%20Class3-AP-environmental-1-Glossary.pdf)  
+       * [11. Class3-AP-environmental-1-Glossary.pdf](11.%20Class3-AP-environmental-1-Glossary.pdf)  
     * **Details:** 
       1. Ch. 9, Ch. 11  
       2. HW: Study all the word meanings from text book Glossary  
@@ -193,11 +193,11 @@
 <summary><strong>4. Good Manners</strong></summary>
 
 * **Class 11.5 (09/01/2025): Good manners in western and Indian context (using AI)** 
-  * [11.5 ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/11.5%20ClassNotes_09012025_SocialSkills_GoodManners.pdf)  
+  * [11.5 ClassNotes.pdf](11.5%20ClassNotes_09012025_SocialSkills_GoodManners.pdf)  
   * Video  
   * **Other materials:**
-       * [1. Good Manners.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/2.%20GoodManners/1.%20Good%20Manners.docx)
-       * [1. Good Manners.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/2.%20GoodManners/1.%20Good%20Manners.pdf)
+       * [1. Good Manners.docx](../../2.%20LifeSkills/2.%20GoodManners/1.%20Good%20Manners.docx)
+       * [1. Good Manners.pdf](../../2.%20LifeSkills/2.%20GoodManners/1.%20Good%20Manners.pdf)
   * **Verified HW Solutions:**   
   * **Details:** 
     1. HW: Watch Indian movie "Dhruva" \- story of a boy named Dhruva who becomes pole star  
@@ -209,11 +209,11 @@
 
 
 * **Class 11.6 (31/01/2025): More on Good manners.** 
-  * [11.6 ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/11.6%20ClassNotes-31012025-SocialSkills-GoodManners.pdf)  
+  * [11.6 ClassNotes.pdf](11.6%20ClassNotes-31012025-SocialSkills-GoodManners.pdf)  
   * Video
   * **Verified HW Solutions:**
-       * [2. HW-09012025-socialstudysandlifeskills_lifeskills_good_manners (2).pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/2.%20GoodManners/2.%20HW-09012025-socialstudysandlifeskills_lifeskills_good_manners%20(2).pdf)
-       * [2. HW-31012025-Social-Life-Skills-Good-Manners-Audio-Recording-Telugu.mp3](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/2.%20GoodManners/2.%20HW-31012025-Social-Life-Skills-Good-Manners-Audio-Recording-Telugu.mp3)
+       * [2. HW-09012025-socialstudysandlifeskills_lifeskills_good_manners (2).pdf](../../2.%20LifeSkills/2.%20GoodManners/2.%20HW-09012025-socialstudysandlifeskills_lifeskills_good_manners%20(2).pdf)
+       * [2. HW-31012025-Social-Life-Skills-Good-Manners-Audio-Recording-Telugu.mp3](../../2.%20LifeSkills/2.%20GoodManners/2.%20HW-31012025-Social-Life-Skills-Good-Manners-Audio-Recording-Telugu.mp3)
   * **Details:**
     1. Good manners  
       1. HW: Finish last HW to practice some of these and get signatures of adults  
@@ -225,19 +225,19 @@
 <summary><strong>5. Learning Maps, Projections, Latitudes, Longitudes and Project work</strong></summary>
 
 * **Class 12 (21/02/2025): Maps \- Different projections, advantages, disadvantages** 
-  * [12. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/12.%20ClassNotes-21022025-SocialStudiesLifeSkills-Maps.pdf)  
+  * [12. ClassNotes.pdf](12.%20ClassNotes-21022025-SocialStudiesLifeSkills-Maps.pdf)  
   * Video  
   * **Verified HW Solutions:**
-       * [1. GeoPuzzele-Mercator_projection_Rectangle.JPG](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/3.%20Projects/1.%20Maps/1.%20GeoPuzzele-Mercator_projection_Rectangle.JPG)
-       * [1. GeoPuzzleMapsBackside.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/3.%20Projects/1.%20Maps/1.%20GeoPuzzleMapsBackside.pdf),[1. GeoPuzzleMapsFrontside.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/3.%20Projects/1.%20Maps/1.%20GeoPuzzleMapsFrontside.pdf)
-       * [1. HW-21022025-Social-GoogleMaps1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/3.%20Projects/1.%20Maps/1.%20HW-21022025-Social-GoogleMaps1.pdf)
-       * [1. HW-21022025-Social-GoogleMaps2.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/3.%20Projects/1.%20Maps/1.%20HW-21022025-Social-GoogleMaps2.pdf)
-       * [1. HW-21022025-Social-GoogleMaps3.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/3.%20Projects/1.%20Maps/1.%20HW-21022025-Social-GoogleMaps3.pdf)
-       * [1. HW-21022025-Social-GoogleMaps4.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/3.%20Projects/1.%20Maps/1.%20HW-21022025-Social-GoogleMaps4.pdf)
-       * [1. HW-21022025-Social-studies-life-skills-Maps-My-World-Map-Geo-toys.jpg](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/3.%20Projects/1.%20Maps/1.%20HW-21022025-Social-studies-life-skills-Maps-My-World-Map-Geo-toys.jpg), 
+       * [1. GeoPuzzele-Mercator_projection_Rectangle.JPG](../../3.%20Projects/1.%20Maps/1.%20GeoPuzzele-Mercator_projection_Rectangle.JPG)
+       * [1. GeoPuzzleMapsBackside.pdf](../../3.%20Projects/1.%20Maps/1.%20GeoPuzzleMapsBackside.pdf),[1. GeoPuzzleMapsFrontside.pdf](../../3.%20Projects/1.%20Maps/1.%20GeoPuzzleMapsFrontside.pdf)
+       * [1. HW-21022025-Social-GoogleMaps1.pdf](../../3.%20Projects/1.%20Maps/1.%20HW-21022025-Social-GoogleMaps1.pdf)
+       * [1. HW-21022025-Social-GoogleMaps2.pdf](../../3.%20Projects/1.%20Maps/1.%20HW-21022025-Social-GoogleMaps2.pdf)
+       * [1. HW-21022025-Social-GoogleMaps3.pdf](../../3.%20Projects/1.%20Maps/1.%20HW-21022025-Social-GoogleMaps3.pdf)
+       * [1. HW-21022025-Social-GoogleMaps4.pdf](../../3.%20Projects/1.%20Maps/1.%20HW-21022025-Social-GoogleMaps4.pdf)
+       * [1. HW-21022025-Social-studies-life-skills-Maps-My-World-Map-Geo-toys.jpg](../../3.%20Projects/1.%20Maps/1.%20HW-21022025-Social-studies-life-skills-Maps-My-World-Map-Geo-toys.jpg), 
   * **Other materials:**
-       * [1. MapsProjections-LatitudesLongitudes-OceansContinents.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/3.%20Projects/1.%20Maps/1.%20MapsProjections-LatitudesLongitudes-OceansContinents.docx)
-       * [1. MapsProjections-LatitudesLongitudes-OceansContinents.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/3.%20Projects/1.%20Maps/1.%20MapsProjections-LatitudesLongitudes-OceansContinents.pdf) 
+       * [1. MapsProjections-LatitudesLongitudes-OceansContinents.docx](../../3.%20Projects/1.%20Maps/1.%20MapsProjections-LatitudesLongitudes-OceansContinents.docx)
+       * [1. MapsProjections-LatitudesLongitudes-OceansContinents.pdf](../../3.%20Projects/1.%20Maps/1.%20MapsProjections-LatitudesLongitudes-OceansContinents.pdf) 
   * **Details:** 
     1. Maps \- Different projections, advantages, disadvantages \- AI generated notes  
     2. Countries vs continents; Oceans vs seas vs lakes \- AI generated notes  
@@ -247,11 +247,11 @@
 
 
 * **Class 13 (10/03/2025): More on maps and Python project on a 3D Globe** 
-  * [13. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/13.%20ClassNotes-10032025-Social-Maps.pdf)  
+  * [13. ClassNotes.pdf](13.%20ClassNotes-10032025-Social-Maps.pdf)  
   * Video  
   * **Verified HW Solutions:**
-       * [2. HW-10032025-MapsProjections-LatitudesLongitudes-OceansContinents.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/3.%20Projects/1.%20Maps/2.%20HW-10032025-MapsProjections-LatitudesLongitudes-OceansContinents.docx)
-       * [2. HW-10032025-MapsProjections-LatitudesLongitudes-OceansContinents.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/3.%20Projects/1.%20Maps/2.%20HW-10032025-MapsProjections-LatitudesLongitudes-OceansContinents.pdf)  
+       * [2. HW-10032025-MapsProjections-LatitudesLongitudes-OceansContinents.docx](../../3.%20Projects/1.%20Maps/2.%20HW-10032025-MapsProjections-LatitudesLongitudes-OceansContinents.docx)
+       * [2. HW-10032025-MapsProjections-LatitudesLongitudes-OceansContinents.pdf](../../3.%20Projects/1.%20Maps/2.%20HW-10032025-MapsProjections-LatitudesLongitudes-OceansContinents.pdf)  
   * **Details:** 
    1. (This notes is generated from ClassNotes pdf file, using this AI prompt \- “Transcribe this document and fix it”)  
    2. Maps: More on maps and checked Homework (HW).  
@@ -266,7 +266,7 @@
 
 
 * **Class 14 (28/03/2025): Checked previous HWs on Maps, Latitudes/Longitudes, AI HWs.** 
-  * [14. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/14.%20ClassNotes-28032025-Social-Maps.pdf)  
+  * [14. ClassNotes.pdf](14.%20ClassNotes-28032025-Social-Maps.pdf)  
   * Video  
   * **Details:** 
     1. Checked previous HWs on Maps, Latitudes/Longitudes, AI HWs.  
@@ -275,7 +275,7 @@
 
 
 * **Class 15 (28/03/2025): Checked previous HWs on Maps, Latitudes/Longitudes, AI HWs.** 
-  * [15. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/15.%20ClassNotes-28032025-Science_Social.pdf)  
+  * [15. ClassNotes.pdf](15.%20ClassNotes-28032025-Science_Social.pdf)  
   * Video  
   * **Details:** 
     1. Checked previous HWs on Maps, Latitudes/Longitudes, AI HWs.  
@@ -288,12 +288,12 @@
 <summary><strong> 6. Making Presentations - Sahaja Yoga Meditation Presentation</strong></summary>
 
 * **Class 16 (28/04/2025): Making a presentation on ‘Introduction to Sahajayoga’; Different sections in the document** 
-  * [16. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/16.%20ClassNotes-28042025-Socialskills-Presentations.pdf)  
+  * [16. ClassNotes.pdf](16.%20ClassNotes-28042025-Socialskills-Presentations.pdf)  
   * Video  
   * **Verified HW Solutions:**
-       * [1\. HW-Virata-introduction-to-Sahaja-Yoga-Poster.pptx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/1.%20HW-Virata-introduction-to-Sahaja-Yoga-Poster.pptx)
-       * [1\. HW-Virata-introduction-to-Sahaja-Yoga-Slides.pptx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/1.%20HW-Virata-introduction-to-Sahaja-Yoga-Slides.pptx)
-       * [1\. HW-Virata-introduction-to-Sahaja-Yoga-poster-notes.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/1.%20HW-Virata-introduction-to-Sahaja-Yoga-poster-notes.docx)
+       * [1\. HW-Virata-introduction-to-Sahaja-Yoga-Poster.pptx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/1.%20HW-Virata-introduction-to-Sahaja-Yoga-Poster.pptx)
+       * [1\. HW-Virata-introduction-to-Sahaja-Yoga-Slides.pptx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/1.%20HW-Virata-introduction-to-Sahaja-Yoga-Slides.pptx)
+       * [1\. HW-Virata-introduction-to-Sahaja-Yoga-poster-notes.docx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/1.%20HW-Virata-introduction-to-Sahaja-Yoga-poster-notes.docx)
   * **Details:** 
     1. Making a presentation on ‘Introduction to Sahajayoga’; Different sections in the document  
     2. HW: Prepapare a poster with all the sections  
@@ -302,7 +302,7 @@
 
 
 * **Class 17 (12/05/2025): Sahajayoga presentation \- first draft** 
-  * [17. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/17.%20ClassNotes-12052025-Social-PresentationSY.pdf)  
+  * [17. ClassNotes.pdf](17.%20ClassNotes-12052025-Social-PresentationSY.pdf)  
   * Video  
   * **Verified HW Solutions:**   
   * **Details:** 
@@ -311,20 +311,20 @@
 
 
 * **Class 18 (20/05/2025): More on Sahajayoga presentation** 
-  * [18. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/18.%20ClassNotes-20052025-SocialSkills-PresentationsSY.pdf)  
+  * [18. ClassNotes.pdf](18.%20ClassNotes-20052025-SocialSkills-PresentationsSY.pdf)  
   * Video  
   * **Verified HW Solutions:**
-       * [3\. Virata-Introduction-to-Sahaja-Yoga-Slides.pptx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/3.%20Virata-Introduction-to-Sahaja-Yoga-Slides.pptx)
-       * [3\. Virata-introduction-to-Sahaja-Yoga-Poster-Notes.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/3.%20Virata-introduction-to-Sahaja-Yoga-Poster-Notes.docx)   
+       * [3\. Virata-Introduction-to-Sahaja-Yoga-Slides.pptx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/3.%20Virata-Introduction-to-Sahaja-Yoga-Slides.pptx)
+       * [3\. Virata-introduction-to-Sahaja-Yoga-Poster-Notes.docx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/3.%20Virata-introduction-to-Sahaja-Yoga-Poster-Notes.docx)   
   * **Details:** 
     1. More on Sahajayoga presentation  
 
 
 * **Class 19 (06/06/2025): SY Presentation slides \- See files 0.Notes, 0.Presentation** 
-  * [19. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/19.%20ClassNotes-06062025-SocialSkillsSYPresentation.pdf)  
+  * [19. ClassNotes.pdf](19.%20ClassNotes-06062025-SocialSkillsSYPresentation.pdf)  
   * Video  
   * **Verified HW Solutions:**
-       * [4. HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/4.%20HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx)  
+       * [4. HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/4.%20HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx)  
   * **Details:** 
     1. SY Presentation slides \- See files 0.Notes, 0.Presentation  
     2. HW: Follow all the changes mentioned in 0.Notes  
@@ -337,20 +337,20 @@
 
  * **Class 20 (16/05/2025): Final Quiz**  
      * **Final Quiz:**
-       * [20\. HWSocialFinalQuizGrade1-AIGrading.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/20.%20HWSocialFinalQuizGrade1-AIGrading.docx)
-       * [20\. HWSocialFinalQuizGrade1-AIGrading.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/20.%20HWSocialFinalQuizGrade1-AIGrading.pdf)  
+       * [20\. HWSocialFinalQuizGrade1-AIGrading.docx](20.%20HWSocialFinalQuizGrade1-AIGrading.docx)
+       * [20\. HWSocialFinalQuizGrade1-AIGrading.pdf](20.%20HWSocialFinalQuizGrade1-AIGrading.pdf)  
      * **Verified quiz solutions:**
-       * [20. HWSocialFinalQuizGrade1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/20.%20HWSocialFinalQuizGrade1.docx)
-       * [20. HWSocialFinalQuizGrade1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/20.%20HWSocialFinalQuizGrade1.pdf)
-       * [20\. HWSocialFinalQuizGrade1-AIGrading.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/20.%20HWSocialFinalQuizGrade1-AIGrading.docx)
-       * [20\. HWSocialFinalQuizGrade1-AIGrading.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/20.%20HWSocialFinalQuizGrade1-AIGrading.pdf)  
+       * [20. HWSocialFinalQuizGrade1.docx](20.%20HWSocialFinalQuizGrade1.docx)
+       * [20. HWSocialFinalQuizGrade1.pdf](20.%20HWSocialFinalQuizGrade1.pdf)
+       * [20\. HWSocialFinalQuizGrade1-AIGrading.docx](20.%20HWSocialFinalQuizGrade1-AIGrading.docx)
+       * [20\. HWSocialFinalQuizGrade1-AIGrading.pdf](20.%20HWSocialFinalQuizGrade1-AIGrading.pdf)  
      * **Details:**   
        1. Student completed AI generated quiz   
        2. Asked AI to grade the student's completed work and asked student to verify for any issues in AI grading.  
 
 
    * **Class 21 (27/10/2025):Review**   
-     * [21\. Classnotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/21.%20Classnotes-28102025-Social.pdf)  
+     * [21\. Classnotes.pdf](21.%20Classnotes-28102025-Social.pdf)  
      * Video   
      * **Details:**   
        1. Checked previous HWs, papers   
