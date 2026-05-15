@@ -5,12 +5,12 @@
 <summary><strong> 1. Scientific papers on AI in classroom, and Chandassu-Music </strong></summary>
 
 * **Class 1 (19/11/2025): Checked papers on AI in classroom, and Chandassu-Music.** 
-  * [1. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/1.%20ClassNotes-19112025-Science-AIPaper-ChandassuPaper.pdf)  
+  * [1. ClassNotes.pdf](1.%20ClassNotes-19112025-Science-AIPaper-ChandassuPaper.pdf)  
   * Video  
   * **Other materials:**   
-    * [3.AIHomeSchoolPaperDraft.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/3.AIHomeSchoolPaperDraft.docx)
+    * [3.AIHomeSchoolPaperDraft.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/3.AIHomeSchoolPaperDraft.docx)
   * **Verified HW Solutions:**   
-    * [1. HW-Al-In-Our-Classroom-Teachings-Grade-1-From-14012024-Science-HW.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-Al-In-Our-Classroom-Teachings-Grade-1-From-14012024-Science-HW.xlsx)
+    * [1. HW-Al-In-Our-Classroom-Teachings-Grade-1-From-14012024-Science-HW.xlsx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-Al-In-Our-Classroom-Teachings-Grade-1-From-14012024-Science-HW.xlsx)
   * **Details:** 
     * Checked papers on AI in classroom, and Chandassu-Music.  
     * HW: Update the excel with all the examples of AI usage from our Grade 1  
@@ -18,7 +18,7 @@
 
 
 * **Class 2 (29/01/2026): AI in Homeschool paper \- wrap up after submission; Created version of paper with AI meanings for a 7-year old** 
-  * [2. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/2.%20ClassNotes-29012026-Science-AIPaper.pdf)  
+  * [2. ClassNotes.pdf](2.%20ClassNotes-29012026-Science-AIPaper.pdf)  
   * Video  
   * **Other materials:**   
   * **Details:** 
@@ -32,12 +32,12 @@
 <summary><strong> 2. Proportions</strong></summary>
 
 * **Class 3 (05/03/2026): - Checked AP Intermediate Physics textbooks (Grade 11&12)** 
-  * [3. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/3.%20ClassNotes-05032026-Science.pdf)  
+  * [3. ClassNotes.pdf](3.%20ClassNotes-05032026-Science.pdf)  
   * Video   
   * **Other materials:**  
-	* [3. Proportions-PhysicsExamples-AINotes-Exercises.md](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/3.%20Proportions-PhysicsExamples-AINotes-Exercises.md)
+	* [3. Proportions-PhysicsExamples-AINotes-Exercises.md](3.%20Proportions-PhysicsExamples-AINotes-Exercises.md)
   * **Verified HW Solutions:** 
-	* [3. HW-05032026-Science_Direct+Indirect-Proportions_AI-Notes+Exercises.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/3.%20HW-05032026-Science_Direct%2BIndirect-Proportions_AI-Notes%2BExercises.pdf)
+	* [3. HW-05032026-Science_Direct+Indirect-Proportions_AI-Notes+Exercises.pdf](3.%20HW-05032026-Science_Direct%2BIndirect-Proportions_AI-Notes%2BExercises.pdf)
   
   * **Details:** 
     * Checked AP Intermediate Physics textbooks (Grade 11&12)  
@@ -53,10 +53,10 @@
 
 
 * **Class 4 (17/03/2026): Proportions** 
-  * [4. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/4.%20ClassNotes-17032026-Maths-Science-Proportions.pdf)  
+  * [4. ClassNotes.pdf](4.%20ClassNotes-17032026-Maths-Science-Proportions.pdf)  
   * Video   
   * **Other materials:**  
-    * [7.InverseProportion-SequentialAndParallelWork-AINotes.md](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/7.InverseProportion-SequentialAndParallelWork-AINotes.md)
+    * [7.InverseProportion-SequentialAndParallelWork-AINotes.md](../../../2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/7.InverseProportion-SequentialAndParallelWork-AINotes.md)
   * **Verified HW Solutions:**   
   * **Details:** 
     * Proportions  
@@ -69,11 +69,11 @@
 
 
 * **Class 5 (31/03/2026): - Checked previous HWs on proportions** 
-  * [5. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/5.%20ClassNotes-31032026-ScienceMathsProportions.pdf)  
+  * [5. ClassNotes.pdf](5.%20ClassNotes-31032026-ScienceMathsProportions.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [5. Proportions-PhysicsExamples-AINotes-Exercises-IntermediateTextbook-NotCorrected.md](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/5.%20Proportions-PhysicsExamples-AINotes-Exercises-IntermediateTextbook-NotCorrected.md)
-	* [5. Proportions-PhysicsExamples-AINotes-Exercises-IntermediateTextbook-NotCorrected.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/5.%20Proportions-PhysicsExamples-AINotes-Exercises-IntermediateTextbook-NotCorrected.pdf)  
+	* [5. Proportions-PhysicsExamples-AINotes-Exercises-IntermediateTextbook-NotCorrected.md](5.%20Proportions-PhysicsExamples-AINotes-Exercises-IntermediateTextbook-NotCorrected.md)
+	* [5. Proportions-PhysicsExamples-AINotes-Exercises-IntermediateTextbook-NotCorrected.pdf](5.%20Proportions-PhysicsExamples-AINotes-Exercises-IntermediateTextbook-NotCorrected.pdf)  
   * **Details:** 
     * Checked previous HWs on proportions  
     * Combined proportions - AI notes - exercises 
