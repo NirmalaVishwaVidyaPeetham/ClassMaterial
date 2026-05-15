@@ -5,9 +5,8 @@
 <summary><strong> 1. Grade 2 progress so far </strong></summary>
 
 * **Class 1 (03/02/2026): Checked pre-school progress for Sadashiva, Neera** 
-  * [1. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/0.%20ProgressOverview/2.%20Grade2/1.%20ClassNotes-03022026-Overview.pdf)  
+  * [1. ClassNotes.pdf](1.%20ClassNotes-03022026-Overview.pdf)  
   * Video  
-  * **Verified HW Solutions:**   
   * **Details:** 
     * Checked pre-school progress for Sadashiva, Neera  
     * Checked Grade 2 progress so far;  
