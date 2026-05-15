@@ -5,12 +5,12 @@
 <summary><strong> 1. Phonetic Alphabets </strong></summary>
 
 * **Class 1 (07/08/2024): Phonetics and Chandassu** 
-  * [1. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/1.ClassNotes-07082024.pdf)  
+  * [1. ClassNotes.pdf](1.ClassNotes-07082024.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [1.HW-PhoneticAlphabet-07082024.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/1.HW-PhoneticAlphabet-07082024.xlsx)
-	* [1.HW1-06082024.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/1.HW1-06082024.pdf)
-	* [1.Old-PhoneticAlphabet-07082024.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/1.Old-PhoneticAlphabet-07082024.xlsx)  
+	* [1.HW-PhoneticAlphabet-07082024.xlsx](1.HW-PhoneticAlphabet-07082024.xlsx)
+	* [1.HW1-06082024.pdf](1.HW1-06082024.pdf)
+	* [1.Old-PhoneticAlphabet-07082024.xlsx](1.Old-PhoneticAlphabet-07082024.xlsx)  
   * **Details:** 
     1. All languages alphabet, Phonetics and Chandassu.. also write a csv file with alphabet in different languages  
     2. [https://en.wikipedia.org/wiki/ISO\_15919](https://en.wikipedia.org/wiki/ISO_15919)  
@@ -22,11 +22,11 @@
 
 
 * **Class 2 (08/08/2024): Phonetics continued** 
-  * [2. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/2.%20ClassNotes08082024-Chandassu.pdf)  
+  * [2. ClassNotes.pdf](2.%20ClassNotes08082024-Chandassu.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [2. HW2-08082024-Lan.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/2.%20HW2-08082024-Lan.pdf)
-	* [2. HW2-08082024-ShriMatajiTalkTranslationTelugu19850302.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/2.%20HW2-08082024-ShriMatajiTalkTranslationTelugu19850302.pdf)  
+	* [2. HW2-08082024-Lan.pdf](2.%20HW2-08082024-Lan.pdf)
+	* [2. HW2-08082024-ShriMatajiTalkTranslationTelugu19850302.pdf](2.%20HW2-08082024-ShriMatajiTalkTranslationTelugu19850302.pdf)  
   * **Details:** 
     1. Phonetics continued  
     2. Learn to use Dictionary  
@@ -41,11 +41,11 @@
 
 
 * **Class 3 (09/08/2024): More on Phonetics** 
-  * [3. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/3.%20ClassNotes-09082024-Lan.pdf)  
+  * [3. ClassNotes.pdf](3.%20ClassNotes-09082024-Lan.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [3. HW_09082024_Phonetics.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/3.%20HW_09082024_Phonetics.pdf)
-	* [3.PhoneticAlphabet-IPA-09082024.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/3.PhoneticAlphabet-IPA-09082024.xlsx)  
+	* [3. HW_09082024_Phonetics.pdf](3.%20HW_09082024_Phonetics.pdf)
+	* [3.PhoneticAlphabet-IPA-09082024.xlsx](3.PhoneticAlphabet-IPA-09082024.xlsx)  
   * **Details:** 
     1. Continued Shri Mataji’s lecture from yesterday  
     2. Phonetics:  
@@ -65,10 +65,10 @@
 
 
 * **Class 7 (16/08/2024): What is a dictionary?** 
-  * [7. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/7.%20ClassNotes-16082024-Lan.pdf)  
+  * [7. ClassNotes.pdf](7.%20ClassNotes-16082024-Lan.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [7. HW-Language-16082024.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/7.%20HW-Language-16082024.pdf)  
+	* [7. HW-Language-16082024.pdf](7.%20HW-Language-16082024.pdf)  
   * **Details:** 
     1. Shri Mataji speech continue  
     2. [https://www.amruta.org/1981/08/14/the-scientific-viewpoint-birmingham-1981/](https://www.amruta.org/1981/08/14/the-scientific-viewpoint-birmingham-1981/)  (10-15min)  
@@ -76,7 +76,7 @@
 
 
 * **Class 8 (20/08/2024): Dictionary continued** 
-  * [8. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/8.%20ClassNotes20082024-Lan.pdf)  
+  * [8. ClassNotes.pdf](8.%20ClassNotes20082024-Lan.pdf)  
   * Video  
   * **Verified HW Solutions:**   
   * **Details:** 
@@ -86,21 +86,21 @@
 
 
 * **Class 9 (21/08/2024): Dictionary HW verification** 
-  * [9. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/9.%20ClassNotes21082024-Overview-Languages.pdf)  
+  * [9. ClassNotes.pdf](9.%20ClassNotes21082024-Overview-Languages.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [9. HW-16082024-Lan.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/9.%20HW-16082024-Lan.pdf)  
+	* [9. HW-16082024-Lan.pdf](9.%20HW-16082024-Lan.pdf)  
   * **Details:** 
     1. Shri Mataji speech continue  
     2. [https://www.amruta.org/1981/08/14/the-scientific-viewpoint-birmingham-1981/](https://www.amruta.org/1981/08/14/the-scientific-viewpoint-birmingham-1981/)  (20-25min)  
 
 
 * **Class 10 (22/08/2024): List of Dictionary Apps** 
-  * [10. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/10.%20ClassNotes-22082024Languages-Dictionaries.pdf)  
+  * [10. ClassNotes.pdf](10.%20ClassNotes-22082024Languages-Dictionaries.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [10.LanguageDictionaries-22082024.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/10.LanguageDictionaries-22082024.docx)
-	* [10.LanguageDictionaries-22082024.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/10.LanguageDictionaries-22082024.pdf)  
+	* [10.LanguageDictionaries-22082024.docx](10.LanguageDictionaries-22082024.docx)
+	* [10.LanguageDictionaries-22082024.pdf](10.LanguageDictionaries-22082024.pdf)  
   * **Details:** 
     1. Shri Mataji speech continue  
     2. [https://www.amruta.org/1981/08/14/the-scientific-viewpoint-birmingham-1981/](https://www.amruta.org/1981/08/14/the-scientific-viewpoint-birmingham-1981/)  (25-30min)  
@@ -115,15 +115,15 @@
 
 
 * **Class 17 (11/09/2024): Speech translation using Google translate, Gemini AI** 
-  * [17. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/17.%20ClassNotes-11092024-Languages.pdf)  
+  * [17. ClassNotes.pdf](17.%20ClassNotes-11092024-Languages.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [17. 1981-08-14-amruta.org-The Scientific Viewpoint-ShriMatajiSpeech.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/17.%201981-08-14-amruta.org-The%20Scientific%20Viewpoint-ShriMatajiSpeech.pdf)
-	* [17. AI Summary-1981-08-14-ShriMatajiSpeech.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/17.%20AI%20Summary-1981-08-14-ShriMatajiSpeech.docx)
-	* [17. AI Summary-1981-08-14-ShriMatajiSpeech.odt](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/17.%20AI%20Summary-1981-08-14-ShriMatajiSpeech.odt)
-	* [17. AI Summary-1981-08-14-ShriMatajiSpeech.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/17.%20AI%20Summary-1981-08-14-ShriMatajiSpeech.pdf)
-	* [17. HW- 1981-08-14-ShriMatajiSpeech-3ParasTeluguTranslation.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/17.%20HW-%201981-08-14-ShriMatajiSpeech-3ParasTeluguTranslation.docx)
-	* [17. HW- 1981-08-14-ShriMatajiSpeech-AISummaryTeluguTranslation.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/17.%20HW-%201981-08-14-ShriMatajiSpeech-AISummaryTeluguTranslation.docx)  
+	* [17. 1981-08-14-amruta.org-The Scientific Viewpoint-ShriMatajiSpeech.pdf](17.%201981-08-14-amruta.org-The%20Scientific%20Viewpoint-ShriMatajiSpeech.pdf)
+	* [17. AI Summary-1981-08-14-ShriMatajiSpeech.docx](17.%20AI%20Summary-1981-08-14-ShriMatajiSpeech.docx)
+	* [17. AI Summary-1981-08-14-ShriMatajiSpeech.odt](17.%20AI%20Summary-1981-08-14-ShriMatajiSpeech.odt)
+	* [17. AI Summary-1981-08-14-ShriMatajiSpeech.pdf](17.%20AI%20Summary-1981-08-14-ShriMatajiSpeech.pdf)
+	* [17. HW- 1981-08-14-ShriMatajiSpeech-3ParasTeluguTranslation.docx](17.%20HW-%201981-08-14-ShriMatajiSpeech-3ParasTeluguTranslation.docx)
+	* [17. HW- 1981-08-14-ShriMatajiSpeech-AISummaryTeluguTranslation.docx](17.%20HW-%201981-08-14-ShriMatajiSpeech-AISummaryTeluguTranslation.docx)  
   * **Details:** 
     1. speech translation using Google translate, Gemini AI  
     2. HW: Instead of whole speech, pick 3 paragraphs and translate using Google; Fix any errors;  
@@ -131,10 +131,10 @@
 
 
 * **Class 20 (16/09/2024): Shri Mataji speech \- AI Summary in English** 
-  * [20. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/20.%20ClassNotes-16092024-Languages.pdf)  
+  * [20. ClassNotes.pdf](20.%20ClassNotes-16092024-Languages.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [20. HW-AI Summary-1981-08-14-ShriMatajiSpeech.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/20.%20HW-AI%20Summary-1981-08-14-ShriMatajiSpeech.pdf)  
+	* [20. HW-AI Summary-1981-08-14-ShriMatajiSpeech.pdf](20.%20HW-AI%20Summary-1981-08-14-ShriMatajiSpeech.pdf)  
   * **Details:** 
     1. Shri Mataji speech AI Summary in English  
     2. [https://www.amruta.org/1981/08/14/the-scientific-viewpoint-birmingham-1981/](https://www.amruta.org/1981/08/14/the-scientific-viewpoint-birmingham-1981/)  
@@ -142,10 +142,10 @@
 
 
 * **Class 22 (26/09/2024): Went over Shri Mataji speech AI summary** 
-  * [22. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/22.%20ClassNotes-26092024-Languages.pdf)  
+  * [22. ClassNotes.pdf](22.%20ClassNotes-26092024-Languages.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [22. HW- 1981-08-14-ShriMatajiSpeech-AISummaryTeluguTranslation-CorrectedPartly.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/22.%20HW-%201981-08-14-ShriMatajiSpeech-AISummaryTeluguTranslation-CorrectedPartly.docx)  
+	* [22. HW- 1981-08-14-ShriMatajiSpeech-AISummaryTeluguTranslation-CorrectedPartly.docx](22.%20HW-%201981-08-14-ShriMatajiSpeech-AISummaryTeluguTranslation-CorrectedPartly.docx)  
   * **Details:** 
     1. Virata didn't read class notes \- asked to read it in class time  
     2. Went over Shri Mataji speech AI summary, meanings of complex words and Telugu translation  
@@ -155,17 +155,17 @@
 
 
 * **Class 24 (10/10/2024): Summary of Scientific Viewpoint speech** 
-  * [24. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/24.%20ClassNotes-10102024-Lan.pdf)  
+  * [24. ClassNotes.pdf](24.%20ClassNotes-10102024-Lan.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [24. HW_26092024_SpeechSummary_WordMeanings.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/24.%20HW_26092024_SpeechSummary_WordMeanings.xlsx)  
+	* [24. HW_26092024_SpeechSummary_WordMeanings.xlsx](24.%20HW_26092024_SpeechSummary_WordMeanings.xlsx)  
   * **Details:** 
     1. Summary of Scientific Viewpoint speech  
     2. HW: Write word meanings Telugu/English into excel file (same file as before)  
 
 
 * **Class 25 (16/10/2024): Excel file with difficult words from Speech** 
-  * [25. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/25.%20ClassNotes-16102024-Lan.pdf)  
+  * [25. ClassNotes.pdf](25.%20ClassNotes-16102024-Lan.pdf)  
   * Video  
   * **Verified HW Solutions:**   
   * **Details:** 
@@ -176,10 +176,10 @@
 
 
 * **Class 27 (05/12/2024): Steps to make paper boats** 
-  * [27. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/27.%20ClassNotes-05122024-Lan.pdf)  
+  * [27. ClassNotes.pdf](27.%20ClassNotes-05122024-Lan.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [27. HW-05112024-Languages-Uncorrected-PaperBoatsRockets.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/27.%20HW-05112024-Languages-Uncorrected-PaperBoatsRockets.pdf)  
+	* [27. HW-05112024-Languages-Uncorrected-PaperBoatsRockets.pdf](27.%20HW-05112024-Languages-Uncorrected-PaperBoatsRockets.pdf)  
   * **Details:** 
     1. Checked previous homeworks  
     2. HW: Remember all the words from the previous Excel file  
@@ -194,11 +194,11 @@
 <summary><strong> 4. Introduction to Sandhis (telugu) </strong></summary>
 
 * **Class 28 (29/01/2025): Learnt about Sandhis \- how sounds merge/change near word boundaries** 
-  * [28. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/28.%20ClassNotes-29012025-Languages-Sandhis.pdf)  
+  * [28. ClassNotes.pdf](28.%20ClassNotes-29012025-Languages-Sandhis.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [28. HW-29012025-Languages-Sandhis.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/28.%20HW-29012025-Languages-Sandhis.xlsx)
-	* [28. Sandhis-Telugu grammar-Wikipedia.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/28.%20Sandhis-Telugu%20grammar-Wikipedia.pdf)  
+	* [28. HW-29012025-Languages-Sandhis.xlsx](28.%20HW-29012025-Languages-Sandhis.xlsx)
+	* [28. Sandhis-Telugu grammar-Wikipedia.pdf](28.%20Sandhis-Telugu%20grammar-Wikipedia.pdf)  
   * **Details:** 
     1. Learnt about Sandhis \- how sounds merge/change near word boundaries  
     2. [https://en.wikipedia.org/wiki/Telugu\_grammar](https://en.wikipedia.org/wiki/Telugu_grammar)  
@@ -207,10 +207,10 @@
 
 
 * **Class 29 (20/02/2025): More on Sandhis** 
-  * [29. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/29.%20ClassNotes-20022025-Lan.pdf)  
+  * [29. ClassNotes.pdf](29.%20ClassNotes-20022025-Lan.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [29. HW-29012025-Languages-Sandhis.xlsx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/29.%20HW-29012025-Languages-Sandhis.xlsx)  
+	* [29. HW-29012025-Languages-Sandhis.xlsx](29.%20HW-29012025-Languages-Sandhis.xlsx)  
   * **Details:** 
     1. More on Sandhis  
     2. HW: Fix last HW with phonetics for all the words, and fix file formatting  
@@ -222,14 +222,14 @@
 
  * **Class 30 (16/05/2025): Final Quiz**  
      * **Final Quiz:**   
-       * [30. LanguagesFinalQuizGrade1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/30.%20LanguagesFinalQuizGrade1.pdf)
-       * [30. LanguagesFinalQuizGrade1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/30.%20LanguagesFinalQuizGrade1.docx)
+       * [30. LanguagesFinalQuizGrade1.pdf](30.%20LanguagesFinalQuizGrade1.pdf)
+       * [30. LanguagesFinalQuizGrade1.docx](30.%20LanguagesFinalQuizGrade1.docx)
        
      * **Verified quiz solutions:** 
-       * [30. HWLanguagesFinalQuizGrade1.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/30.%20HWLanguagesFinalQuizGrade1.pdf)
-       * [30. HWLanguagesFinalQuizGrade1.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/30.%20HWLanguagesFinalQuizGrade1.docx)
-       * [30. HWLanguagesFinalQuizGrade1-AIGrading.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/30.%20HWLanguagesFinalQuizGrade1-AIGrading.pdf)
-       * [30. HWLanguagesFinalQuizGrade1-AIGrading.docx](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/30.%20HWLanguagesFinalQuizGrade1-AIGrading.docx)
+       * [30. HWLanguagesFinalQuizGrade1.pdf](30.%20HWLanguagesFinalQuizGrade1.pdf)
+       * [30. HWLanguagesFinalQuizGrade1.docx](30.%20HWLanguagesFinalQuizGrade1.docx)
+       * [30. HWLanguagesFinalQuizGrade1-AIGrading.pdf](30.%20HWLanguagesFinalQuizGrade1-AIGrading.pdf)
+       * [30. HWLanguagesFinalQuizGrade1-AIGrading.docx](30.%20HWLanguagesFinalQuizGrade1-AIGrading.docx)
 
      * **Details:**   
        1. Student completed AI generated quiz   
@@ -237,7 +237,7 @@
 
 
 * **Class 31 (24/10/2025): Review** 
-  * [31. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/1.%20Languages/4.%20AllLangugages/31.%20Classnotes-24102025-Lan.pdf)
+  * [31. ClassNotes.pdf](31.%20Classnotes-24102025-Lan.pdf)
   * Video
   * **Details:** 
     1. Checked previous HWs  
