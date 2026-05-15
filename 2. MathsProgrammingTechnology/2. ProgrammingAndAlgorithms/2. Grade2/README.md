@@ -5,17 +5,17 @@
 <summary><strong> 1. Jupyter Python notebooks and Markdown files </strong></summary>
 
 * **Class 1 (06/11/2025): Jupyter Python notebooks and Markdown files** 
-  * [1. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/1.%20ClassNotes-06112025-Pro.pdf)  
+  * [1. ClassNotes.pdf](1.%20ClassNotes-06112025-Pro.pdf)  
   * Video  
   * **Other materials:**
-	* [1. AINotes-JupyterNotebookAndMarkdown-Example-Uncorrected.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/1.%20AINotes-JupyterNotebookAndMarkdown-Example-Uncorrected.pdf)
-	* [1. AINotes-JupyterNotebookAndMarkdown-Explained-Uncorrected.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/1.%20AINotes-JupyterNotebookAndMarkdown-Explained-Uncorrected.pdf)
-	* [1. AINotes-SortingAlgorithmsExplainedWithVisualization-NotebookStyle-Uncorrected.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/1.%20AINotes-SortingAlgorithmsExplainedWithVisualization-NotebookStyle-Uncorrected.pdf) 
-    * [1.JupyterNotebookExample_InteractiveMaps.ipynb](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/1.JupyterNotebookExample_InteractiveMaps.ipynb)
-    * [1.TestPythonNotebook.ipynb](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/1.TestPythonNotebook.ipynb)
+	* [1. AINotes-JupyterNotebookAndMarkdown-Example-Uncorrected.pdf](1.%20AINotes-JupyterNotebookAndMarkdown-Example-Uncorrected.pdf)
+	* [1. AINotes-JupyterNotebookAndMarkdown-Explained-Uncorrected.pdf](1.%20AINotes-JupyterNotebookAndMarkdown-Explained-Uncorrected.pdf)
+	* [1. AINotes-SortingAlgorithmsExplainedWithVisualization-NotebookStyle-Uncorrected.pdf](1.%20AINotes-SortingAlgorithmsExplainedWithVisualization-NotebookStyle-Uncorrected.pdf) 
+    * [1.JupyterNotebookExample_InteractiveMaps.ipynb](0.PythonBasicsProject_Grade2/1.JupyterNotebookExample_InteractiveMaps.ipynb)
+    * [1.TestPythonNotebook.ipynb](0.PythonBasicsProject_Grade2/1.TestPythonNotebook.ipynb)
   * **Verified HW Solutions:**
-    * [1. HW-06112025-Programming-AISortingDemo.ipynb](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/1.%20HW-06112025-Programming-AISortingDemo.ipynb)
-    * [1. HW-06112025-Programming-JupyterNotebbookAIExample.ipynb](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/1.%20HW-06112025-Programming-JupyterNotebbookAIExample.ipynb)
+    * [1. HW-06112025-Programming-AISortingDemo.ipynb](0.PythonBasicsProject_Grade2/1.%20HW-06112025-Programming-AISortingDemo.ipynb)
+    * [1. HW-06112025-Programming-JupyterNotebbookAIExample.ipynb](0.PythonBasicsProject_Grade2/1.%20HW-06112025-Programming-JupyterNotebbookAIExample.ipynb)
   * **Details:** 
     * Checked Openstax textbook on Algorithms  
     * Jupyter Python notebooks and Markdown files \- See AI Notes  
@@ -28,14 +28,14 @@
 <summary><strong> 2. Bisection method (finding nth root of a number) and  Binary/brute force search of a list </strong></summary>
 
 * **Class 2 (25/11/2025): Finding nth root of a number using bisection method; Binary/brute force search of a list; See AI notes, python code;** 
-  * [2. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/2.%20ClassNotes-25112025-Pro.pdf)  
+  * [2. ClassNotes.pdf](2.%20ClassNotes-25112025-Pro.pdf)  
   * Video  
   * **Other materials:** 
-	* [2. AINotes-BisectionForNthRootVsBinarySearchVsBruteForceSearch.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/2.%20AINotes-BisectionForNthRootVsBinarySearchVsBruteForceSearch.pdf)  
-    * [2.BisectionForNthRootVsListSearch.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/2.BisectionForNthRootVsListSearch.py)
+	* [2. AINotes-BisectionForNthRootVsBinarySearchVsBruteForceSearch.pdf](2.%20AINotes-BisectionForNthRootVsBinarySearchVsBruteForceSearch.pdf)  
+    * [2.BisectionForNthRootVsListSearch.py](0.PythonBasicsProject_Grade2/2.BisectionForNthRootVsListSearch.py)
   * **Verified HW Solutions:** 
-    * [2. HW-25112025-Pro-Brute-Force.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/2.%20HW-25112025-Pro-Brute-Force.py)
-    * [2. HW-25112025-Pro-BisectionAndBinarySearch.ipynb](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/2.%20HW-25112025-Pro-BisectionAndBinarySearch.ipynb)
+    * [2. HW-25112025-Pro-Brute-Force.py](0.PythonBasicsProject_Grade2/2.%20HW-25112025-Pro-Brute-Force.py)
+    * [2. HW-25112025-Pro-BisectionAndBinarySearch.ipynb](0.PythonBasicsProject_Grade2/2.%20HW-25112025-Pro-BisectionAndBinarySearch.ipynb)
   * **Details:** 
     * Finding nth root of a number using bisection method; Binary/brute force search of a list; See AI notes, python code;  
     * HW: Create a (python) brute force algorithm to check nth root of p, up to precision 0.0001  
@@ -46,23 +46,23 @@
 
 
 * **Class 3 (05/12/2202): HW: Check previous homeworks (and files). Finish missing HWs.** 
-  * [3. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/3.%20ClassNotes-051222025-Pro.pdf)  
+  * [3. ClassNotes.pdf](3.%20ClassNotes-051222025-Pro.pdf)  
   * Video  
   * **Other materials:** 
-	* [3.AIExercises-BisectionForRootsAndListSearch.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/3.AIExercises-BisectionForRootsAndListSearch.pdf)  
-    * [3. AI_Roman_Numeral_Converter-OnlyCode.ipynb](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20AI_Roman_Numeral_Converter-OnlyCode.ipynb)
-    * [3. AI_Roman_Numeral_Converter.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20AI_Roman_Numeral_Converter.py)
-    * [3. HandwritingCopyTracing-NotGood-MovedToLatex.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing-NotGood-MovedToLatex.py)
-    * [3. HandwritingCopyTracing_Latex.tex.txt](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex.tex.txt)
-    * [3. HandwritingCopyTracing_Latex1.tex.txt](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex1.tex.txt)
-    * [3. HandwritingCopyTracing_Latex2.tex.txt](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex2.tex.txt)
-    * [3. HandwritingCopyTracing_Latex2_Output.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex2_Output.pdf)
-    * [3. HandwritingCopyTracing_Output_Hindi.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Output_Hindi.pdf)
-    * [3.3.AISolutionsAIExercises-BisectionForRootsAndListSearch-NotCorrected.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.3.AISolutionsAIExercises-BisectionForRootsAndListSearch-NotCorrected.py)
+	* [3.AIExercises-BisectionForRootsAndListSearch.pdf](3.AIExercises-BisectionForRootsAndListSearch.pdf)  
+    * [3. AI_Roman_Numeral_Converter-OnlyCode.ipynb](0.PythonBasicsProject_Grade2/3.%20AI_Roman_Numeral_Converter-OnlyCode.ipynb)
+    * [3. AI_Roman_Numeral_Converter.py](0.PythonBasicsProject_Grade2/3.%20AI_Roman_Numeral_Converter.py)
+    * [3. HandwritingCopyTracing-NotGood-MovedToLatex.py](0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing-NotGood-MovedToLatex.py)
+    * [3. HandwritingCopyTracing_Latex.tex.txt](0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex.tex.txt)
+    * [3. HandwritingCopyTracing_Latex1.tex.txt](0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex1.tex.txt)
+    * [3. HandwritingCopyTracing_Latex2.tex.txt](0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex2.tex.txt)
+    * [3. HandwritingCopyTracing_Latex2_Output.pdf](0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex2_Output.pdf)
+    * [3. HandwritingCopyTracing_Output_Hindi.pdf](0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Output_Hindi.pdf)
+    * [3.3.AISolutionsAIExercises-BisectionForRootsAndListSearch-NotCorrected.py](0.PythonBasicsProject_Grade2/3.3.AISolutionsAIExercises-BisectionForRootsAndListSearch-NotCorrected.py)
   * **Verified HW Solutions:**
-    * [3. HW-05122025-Pro-RomanNumerals-AI-NotesAndCode-NotCorrected.ipynb](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HW-05122025-Pro-RomanNumerals-AI-NotesAndCode-NotCorrected.ipynb)
-    * [3. HW-05122025-Programming-HW-exercises-Corrected.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HW-05122025-Programming-HW-exersises-Corrected.py)
-    * [3. HW-Maths-Programming-03122025-05122025-Roman-Numaral-Converter.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HW-Maths-Programming-03122025-05122025-Roman-Numaral-Converter.py)
+    * [3. HW-05122025-Pro-RomanNumerals-AI-NotesAndCode-NotCorrected.ipynb](0.PythonBasicsProject_Grade2/3.%20HW-05122025-Pro-RomanNumerals-AI-NotesAndCode-NotCorrected.ipynb)
+    * [3. HW-05122025-Programming-HW-exercises-Corrected.py](0.PythonBasicsProject_Grade2/3.%20HW-05122025-Programming-HW-exersises-Corrected.py)
+    * [3. HW-Maths-Programming-03122025-05122025-Roman-Numaral-Converter.py](0.PythonBasicsProject_Grade2/3.%20HW-Maths-Programming-03122025-05122025-Roman-Numaral-Converter.py)
   * **Details:** 
     * HW: Check previous homeworks (and files). Finish missing HWs.  
     * AI exercises on finding roots and list search  
@@ -77,7 +77,7 @@
 
 
 * **Class 4 (28/01/2026): Checked previous HWS ( 25th Nov)** 
-  * [4. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/4.%20ClassNotes-28012026-Pro.pdf)  
+  * [4. ClassNotes.pdf](4.%20ClassNotes-28012026-Pro.pdf)  
   * Video  
   * **Other materials:**
   * **Verified HW Solutions:**   
@@ -91,12 +91,12 @@
 <summary><strong> 3. Python application for music notes detection </strong></summary>
 
 * **Class 5 (10/02/2026): Checked Python application for live music spectrum and notes detection.** 
-  * [5. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/5.%20ClassNotes-10022026-Pro.pdf)  
+  * [5. ClassNotes.pdf](5.%20ClassNotes-10022026-Pro.pdf)  
   * Video  
   * **Other materials:** 
   * **Verified HW Solutions:**   
-    * [5. HW-10022026-Programming-DecimalExponentToFraction.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/5.%20HW-10022026-Programming-DecimalExponentToFraction.py)
-    * [5. HW-10022026-Programming-Problem11-All-Roots.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/5.%20HW-10022026-Programming-Problem11-All-Roots.py)
+    * [5. HW-10022026-Programming-DecimalExponentToFraction.py](0.PythonBasicsProject_Grade2/5.%20HW-10022026-Programming-DecimalExponentToFraction.py)
+    * [5. HW-10022026-Programming-Problem11-All-Roots.py](0.PythonBasicsProject_Grade2/5.%20HW-10022026-Programming-Problem11-All-Roots.py)
   * **Details:** 
     * Checked Python application for live music spectrum and notes detection.  
     * Checked AI exercises solutions on roots etc. Problems 1 to 11  
@@ -108,12 +108,12 @@
 
 
 * **Class 6 (03/03/2026): - Completed AI exercises from 05 Dec 25** 
-  * [6. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/6.%20ClassNotes-03032026-Pro.pdf)  
+  * [6. ClassNotes.pdf](6.%20ClassNotes-03032026-Pro.pdf)  
   * Video  
   * **Other materials:** 
   * **Verified HW Solutions:**   
-    * [6. HW-03032026-Programming-Exersises-NotCorrected.ipynb](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/6.%20HW-03032026-Programming-Exersises-NotCorrected.ipynb)
-    * [6. HW-03032026-Programming-Problem12-NotCorrected.py](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/6.%20HW-03032026-Programming-Problem12-NotCorrected.py)
+    * [6. HW-03032026-Programming-Exersises-NotCorrected.ipynb](0.PythonBasicsProject_Grade2/6.%20HW-03032026-Programming-Exersises-NotCorrected.ipynb)
+    * [6. HW-03032026-Programming-Problem12-NotCorrected.py](0.PythonBasicsProject_Grade2/6.%20HW-03032026-Programming-Problem12-NotCorrected.py)
   * **Details:** 
     * Completed AI exercises from 05 Dec 25  
     * HW: Practice Ex-12 - write all of it yourself using functions from Ex-1 to 11  
@@ -125,13 +125,13 @@
 <summary><strong> 4. Bitwise operators</strong></summary>
 
 * **Class 7 (24/03/2026): - Checked previous homeworks** 
-  * [7. ClassNotes.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20ClassNotes-24032026-Pro.pdf)  
+  * [7. ClassNotes.pdf](7.%20ClassNotes-24032026-Pro.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [7.AdvanceOperators-AINotes-Exercises-NotCorrected.md](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.AdvanceOperators-AINotes-Exercises-NotCorrected.md)
-	* [7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf)
-	* [7.BitwiseOperators-AINotes-Exercises-NotCorrected.md](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.BitwiseOperators-AINotes-Exercises-NotCorrected.md)
-	* [7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/blob/main/2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf)  
+	* [7.AdvanceOperators-AINotes-Exercises-NotCorrected.md](7.AdvanceOperators-AINotes-Exercises-NotCorrected.md)
+	* [7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf](7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf)
+	* [7.BitwiseOperators-AINotes-Exercises-NotCorrected.md](7.BitwiseOperators-AINotes-Exercises-NotCorrected.md)
+	* [7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf](7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf)  
   * **Details:** 
     * Checked previous homeworks  
     * Bitwise operators - See AI notes  
