@@ -250,7 +250,7 @@
 <details>
 <summary><strong> 4. Intensive Course In Telugu - Unit X, Lesson 59</strong></summary>
 
-* **Class 17 (11/02/2024): Intensive course in Telugu \- textbook** 
+* **Class 17 (11/02/2025): Intensive course in Telugu \- textbook** 
   * [17. ClassNotes.pdf](17.%20ClassNotes-11022024-Telugu.pdf)  
   * Video   
   * **Other materials:** 
