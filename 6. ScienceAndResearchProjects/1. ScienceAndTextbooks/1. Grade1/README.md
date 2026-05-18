@@ -111,7 +111,7 @@
        3. HW: Memorizing the summary.  
 
 
-   * **Class 11 (12/12/2024):**   
+   * **Class 11 (12/12/2024): Started Chapter 6 Water - Summary**   
      * [11\. ClassNotes.pdf](11.%20ClassNotes-12122024-Science.pdf)  
      * Video  
      * **Verified HW Solutions:** 
