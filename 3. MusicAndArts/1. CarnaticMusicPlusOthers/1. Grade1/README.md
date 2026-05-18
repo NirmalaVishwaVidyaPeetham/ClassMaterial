@@ -15,7 +15,7 @@
        1. The swaras: Sa Re Ga Ma Pa Da Ni Sa (Arohana and Avarohana)
 
 
-* **Class 2 (09/11/2024): Sarali swaras from textbook** 
+* **Class 2 (11/09/2024): Sarali swaras from textbook** 
   * [2. ClassNotes.pdf](2.%20ClassNotes-Music-09112024.pdf)  
   * Video  
   * **Other materials:**
