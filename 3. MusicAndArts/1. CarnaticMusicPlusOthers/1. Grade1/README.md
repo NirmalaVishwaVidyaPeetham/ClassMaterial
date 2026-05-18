@@ -388,7 +388,7 @@
        2. Asked AI to grade the student's completed work and asked student to verify for any issues in AI grading.  
 
 
-   * **Class 24 (27/10/2025): Review**   
+   * **Class 24 (30/10/2025): Review**   
      * [23\. Classnotes.pdf](24.%20Classnotes-30102025-Music.pdf)  
      * Video   
      * **Details:**   
