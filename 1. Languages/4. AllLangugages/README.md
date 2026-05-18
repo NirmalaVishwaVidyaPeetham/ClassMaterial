@@ -168,6 +168,16 @@
        5. Remember the speech summary, word meanings (in both English/Telugu)  
 
 
+* **Class 23 (02/10/2024): Fixed AI summaries** 
+  * [23. ClassNotes.pdf](23.%20Classnotes-02102024-Lan.pdf)  
+  * Video  
+  * **Details:** 
+    1. Fixed AI Summary Telugu translation. Looked at the Summary for a 5 year old kid.
+    2. HW: Read Telugu translation and fix any mistakes
+    3. HW: Remember the meaning of English words in the summary
+    4. Read and remember the summary for 5-year olds.   
+
+
 * **Class 24 (10/10/2024): Summary of Scientific Viewpoint speech** 
   * [24. ClassNotes.pdf](24.%20ClassNotes-10102024-Lan.pdf)  
   * Video  
