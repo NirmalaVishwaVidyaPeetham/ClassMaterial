@@ -123,7 +123,7 @@
     4. HW: Learn notes for a sahaj bhajan of your choice and practice vocally and with an instrument
 
 
-* **Class 9 (07/11/2024): Harmonics and Timbre** 
+* **Class 9 (08/11/2024): Harmonics and Timbre** 
   * [9. ClassNotes.pdf](9.%20ClassNotes-07112024-Music.pdf)  
   * Video  
   * **Other materials:** 
