@@ -130,3 +130,16 @@
     5. HW: Manually write \- Hasat Ali song, aigiri nandini song, ganesha adharva seersham  
 
 </details>
+
+
+<details>
+<summary><strong> 3. Review </strong></summary>
+
+* **Class 11 (30/10/2025): Review** 
+  * [9. ClassNotes.pdf](9.%20ClassNotes-23022025-Devanagari.pdf)  
+  * Video  
+  * **Details:** 
+    1. Checked previous HWs 
+    2. HW: Prepare Table of Contents for Grade 1 \- Devanagari  
+
+</details>
