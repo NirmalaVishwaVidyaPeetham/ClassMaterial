@@ -140,6 +140,21 @@
     3. HW: Write meanings of all the difficult words in AI Summary pdf  
 
 
+* **Class 21 (18/09/2024): Shri Mataji speech AI Summary in English** 
+  * [21. ClassNotes.pdf](21.%20Classnotes-17092024-Languages.pdf)  
+  * Video  
+  * **Verified HW Solutions:** 
+	* [20. HW-AI Summary-1981-08-14-ShriMatajiSpeech.pdf](20.%20HW-AI%20Summary-1981-08-14-ShriMatajiSpeech.pdf)  
+  * **Details:**  
+	   1. Shri Mataji speech AI Summary in English
+	   2. [https://www.amruta.org/1981/08/14/the-scientific-viewpoint-birmingham-1981/](https://www.amruta.org/1981/08/14/the-scientific-viewpoint-birmingham-1981/)   
+	   3. Went over the meanings of the words that were writtten  
+	   4. HW: Continue: Write meanings of all the difficult words in AI Summary pdf  
+	   5. HW: Remember these words  
+	   6. HW (later): Write these words into an excel file along with their synonyms and translations into Telugu  
+	   7. Later we will do transliterations using Python Programming and Phonetics excel file we created and translations using Python and the word meanings excel file  
+    
+
 * **Class 22 (26/09/2024): Went over Shri Mataji speech AI summary** 
   * [22. ClassNotes.pdf](22.%20ClassNotes-26092024-Languages.pdf)  
   * Video  
