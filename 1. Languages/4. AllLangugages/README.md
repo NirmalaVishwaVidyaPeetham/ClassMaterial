@@ -37,7 +37,6 @@
     7. Continue doing this translation everyday until the whole speech is done  
     8. Chandassu pronunciation \- long, short sounds  
     9. [https://te.wikipedia.org/wiki/%E0%B0%9B%E0%B0%82%E0%B0%A6%E0%B0%B8%E0%B1%8D%E0%B0%B8%E0%B1%81](https://te.wikipedia.org/wiki/%E0%B0%9B%E0%B0%82%E0%B0%A6%E0%B0%B8%E0%B1%8D%E0%B0%B8%E0%B1%81)  
-    10. Programming basics \- some more  
 
 
 * **Class 3 (09/08/2024): More on Phonetics** 
