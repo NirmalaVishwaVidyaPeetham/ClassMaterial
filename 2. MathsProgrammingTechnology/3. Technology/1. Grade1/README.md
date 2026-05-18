@@ -64,7 +64,7 @@
 <details>
 <summary><strong>3. Office Software – Document, Presentation, Sheets and Drawings</strong></summary>
 
-   * **Class 6 (29/01/2025):**   
+   * **Class 6 (29/01/2025): Introduction to Office software - word, sheets, slides, paints**   
      * [6\. ClassNotes.pdf](6.%20ClassNotes-29012025-Technology.pdf)  
      * Video  
      * **Other materials:**
@@ -79,7 +79,7 @@
        2. HW: Play with these softwares and try to do similar operations as in class, and in AI description 
    
 
-   * **Class 7 (17/03/2025):**   
+   * **Class 7 (17/03/2025): More examples and options in office software**   
      * [7\. ClassNotes.pdf](7.%20ClassNotes-17032025-Technology.pdf)  
      * Video   
      * **Verified HW Solutions:**
