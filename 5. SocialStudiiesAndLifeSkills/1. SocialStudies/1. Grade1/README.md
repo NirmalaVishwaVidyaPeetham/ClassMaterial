@@ -349,7 +349,7 @@
        2. Asked AI to grade the student's completed work and asked student to verify for any issues in AI grading.  
 
 
-   * **Class 21 (27/10/2025):Review**   
+   * **Class 21 (28/10/2025):Review**   
      * [21\. Classnotes.pdf](21.%20Classnotes-28102025-Social.pdf)  
      * Video   
      * **Details:**   
