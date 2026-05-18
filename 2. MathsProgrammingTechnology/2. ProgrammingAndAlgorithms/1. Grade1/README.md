@@ -45,7 +45,7 @@
     * **Details:** Chapter 3 from textbook
         1. HW: Type all code from chapter 3 and make a python program
         2. HW: Last maths homework on additions, subtractions, multiplications and divisions - write a program file to do this; For divisions you need to get quotients and remainders
-* **Class 5 (09/09/2024): Arithmetic Operator Precedence & Introduction to Variables**
+* **Class 5 (10/09/2024): Arithmetic Operator Precedence & Introduction to Variables**
     * [5. ClassNotes.pdf](5.%20ClassNotes-09092024-Programming.pdf)
     * [Video : link coming soon]()
     * **Other materials:**
