@@ -35,7 +35,7 @@
        6. Science  
 
 
-* **Class 3 (21/08/2024): Went over text books from India etc. for each subject** 
+* **Class 3 (13/08/2024): Went over text books from India etc. for each subject** 
   * Video  
   * **Details:** 
     1. Went over text books from India etc. for each subject  
