@@ -32,7 +32,7 @@
     3. AP workbook all letters tracing across chapters  
 
 
-* **Class 3 (04/09/2024): AP textbook Chapters 5,6,7,8** 
+* **Class 3 (05/09/2024): AP textbook Chapters 5,6,7,8** 
   * [3. ClassNotes.pdf](3.%20ClassNotes04092024-English.pdf)  
   * Video  
   * **Other materials:**
