@@ -247,5 +247,15 @@
     2. TODO: Complete all tasks fromm last class  
     3. Plan Sadashiva’s schedule (age 3-5)  
     4. Create new folders and move old material to Grade 1 folders.  
+
+
+* **Class 17 (31/10/2025): Review** 
+  * Video  
+  * **Details:** 
+    1. Virata Grade 1 final overview  
+       1. HW: Finish whatever is left for Grade 1 (see notes below in ClassDiary file).  
+       2. Overall GPA \- Medal for Grade 1  
+    2. Sadashiva’s progress  
+    3. NirmalaAmrutha’s progress 
 </details>
 
