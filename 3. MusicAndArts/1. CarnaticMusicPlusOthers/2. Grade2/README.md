@@ -94,7 +94,7 @@
     * HW: Correct these songs, breakdown etc. and practice singing together  
 
 
-* **Class 6 (26/03/2024): - Gamakas chapter - AI translation** 
+* **Class 6 (26/03/2026): - Gamakas chapter - AI translation** 
   * [6. ClassNotes.pdf](6.%20ClassNotes-26032024-Music.pdf)  
   * Video  
   * **Other materials:**
