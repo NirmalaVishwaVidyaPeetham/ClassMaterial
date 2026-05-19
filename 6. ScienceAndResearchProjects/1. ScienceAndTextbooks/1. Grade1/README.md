@@ -237,7 +237,7 @@
 <details>
 <summary><strong>5. Scientific Papers: How to Read Scientific Articles How to write Papers, Types of Papers, Problems with Reproducibility, Peer Review</strong></summary>
 
-   * **Class 18 (24/04/2025):**   
+   * **Class 18 (24/04/2025): How scientific articles are written, peer review process, reproducibility of scientific research and more.**   
      * [18\. ClassNotes.pdf](18.%20ClassNotes-24042025-Science-ScientificArticles.pdf)  
      * Video  
      * **Other materials:** 
