@@ -31,7 +31,7 @@
     * HW: Create copy tracing practice documents separately for each of the following:  
 
 
-* **Class 2 (12/02/2026): * Checked previous Hws** 
+* **Class 2 (12/02/2026): Learnt about html files and checked previous HWs** 
   * [2. ClassNotes.pdf](2.%20ClassNotes-12022026-Tech.pdf)  
   * Video  
   * **Other materials:** 
