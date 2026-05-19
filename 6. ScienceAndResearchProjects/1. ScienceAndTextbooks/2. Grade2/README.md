@@ -57,6 +57,7 @@
   * Video   
   * **Other materials:**  
     * [7.InverseProportion-SequentialAndParallelWork-AINotes.md](../../../2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/7.InverseProportion-SequentialAndParallelWork-AINotes.md)
+    * [7.SolvingTwoEquations-AINotes-Exercises.md](../../../2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/7.SolvingTwoEquations-AINotes-Exercises.md)  
   * **Verified HW Solutions:**   
   * **Details:** 
     * Proportions  
