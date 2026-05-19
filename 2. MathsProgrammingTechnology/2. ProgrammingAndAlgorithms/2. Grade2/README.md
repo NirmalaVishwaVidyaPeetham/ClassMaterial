@@ -45,7 +45,7 @@
     * **  
 
 
-* **Class 3 (05/12/2025): HW: Check previous homeworks (and files). Finish missing HWs.** 
+* **Class 3 (05/12/2025): Convert Roman numerals to decimal, and vice versa.** 
   * [3. ClassNotes.pdf](3.%20ClassNotes-051222025-Pro.pdf)  
   * Video  
   * **Other materials:** 
@@ -107,7 +107,7 @@
     * 3* HW: Check remaining AI exercises & remaining HWs from 05 Dec 25  
 
 
-* **Class 6 (03/03/2026): - Completed AI exercises from 05 Dec 25** 
+* **Class 6 (03/03/2026): Completed AI exercises from 05 Dec 25** 
   * [6. ClassNotes.pdf](6.%20ClassNotes-03032026-Pro.pdf)  
   * Video  
   * **Other materials:** 
@@ -124,7 +124,7 @@
 <details>
 <summary><strong> 4. Bitwise operators</strong></summary>
 
-* **Class 7 (24/03/2026): - Checked previous homeworks** 
+* **Class 7 (24/03/2026): Checked previous homeworks** 
   * [7. ClassNotes.pdf](7.%20ClassNotes-24032026-Pro.pdf)  
   * Video  
   * **Verified HW Solutions:** 
