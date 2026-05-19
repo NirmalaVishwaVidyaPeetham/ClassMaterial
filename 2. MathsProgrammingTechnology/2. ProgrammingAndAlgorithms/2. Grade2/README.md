@@ -18,9 +18,9 @@
     * [1. HW-06112025-Programming-JupyterNotebbookAIExample.ipynb](0.PythonBasicsProject_Grade2/1.%20HW-06112025-Programming-JupyterNotebbookAIExample.ipynb)
   * **Details:** 
     * Checked Openstax textbook on Algorithms  
-    * Jupyter Python notebooks and Markdown files \- See AI Notes  
+    * Jupyter Python notebooks and Markdown files - See AI Notes  
     * HW: Create a markdown file as shown in ‘[1.AI](http://1.AI)…Example’ pdf file  
-    * Started looking into different sorting algorithms \- See AI notes with code on sorting  
+    * Started looking into different sorting algorithms - See AI notes with code on sorting  
     * HW: Convert into Python notebook file  
 
 </details>
@@ -45,7 +45,7 @@
     * **  
 
 
-* **Class 3 (05/12/2202): HW: Check previous homeworks (and files). Finish missing HWs.** 
+* **Class 3 (05/12/2025): HW: Check previous homeworks (and files). Finish missing HWs.** 
   * [3. ClassNotes.pdf](3.%20ClassNotes-051222025-Pro.pdf)  
   * Video  
   * **Other materials:** 
@@ -71,7 +71,7 @@
     * AI Code: convert Roman numerals to decimal, and vice versa.  
     * HW: Try writing this code by yourself. Use lists in place of dictionaries. Use your own logic.  
     * HW: Create a Jupyter notebook that includes text on Roman numerals, code, and all homework examples.  
-    * AI Code for Handwriting Practice \- Copy tracing \- Telugu, Hindi, and English text  
+    * AI Code for Handwriting Practice - Copy tracing - Telugu, Hindi, and English text  
     * HW: Try to fix the background lines for the text. Try to fix the Telugu font correctly. Ask your parents to help\!  
     * **  
 
@@ -84,7 +84,7 @@
   * **Details:** 
     * Checked previous HWS ( 25th Nov)  
     * HW: Complete the Jupyter notebook (use the updated one)  
-    * HW: Check last class HWs \- see AI solutions and fix them
+    * HW: Check last class HWs - see AI solutions and fix them
 
 </details>
 <details>
