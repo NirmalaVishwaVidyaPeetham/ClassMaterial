@@ -124,6 +124,13 @@ Please click on the subject name to view its course materials.
  </details>
 
 
+## Navigate by Grade (day by day)
+Please click on the grade to access the class diary which provides day to day view of course materials in the order taught to the student. 
+
+  * [Grade 1 Class Diary](./Grade1-ClassDiary-display.md)
+  * [Grade 2 Class Diary](./Grade2-ClassDiary-display.md)
+
+
 ## Github repository
 We openly share all curriculum and projects on our website to act as a blueprint for the future of personalized education. All our materials (except for class recordings) are available in the [NirmalaVishwaVidyaPeetham/ClassMaterial](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/) github repository. 
 
