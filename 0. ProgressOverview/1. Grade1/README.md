@@ -44,7 +44,7 @@
        2. India digital sources: [https://ndl.iitkgp.ac.in/ndl\_se](https://ndl.iitkgp.ac.in/ndl_se)
        3. India Resources:  
           1. CBSE :   
-             1.   Official website \- Download: [https://ncert.nic.in/textbook.php](https://ncert.nic.in/textbook.php)   
+             1.   Official website - Download: [https://ncert.nic.in/textbook.php](https://ncert.nic.in/textbook.php)   
              2.   Syllabus at a glance: https://www.extramarks.com/studymaterials/cbse/cbse-class-1-syllabus/  
              3.   Books & resources: https://www.tiwariacademy.com/ncert-books/class-1/   
           2. Andhra Pradesh Class 1st Books:  
@@ -86,11 +86,11 @@
 <details>
 <summary><strong> 2. Monthly overview </strong></summary>
 
-* **Class 5 (06/09/2024): One Month Overview \+ Exams** 
+* **Class 5 (06/09/2024): One Month Overview + Exams** 
   * [5. ClassNotes.pdf](5.%20ClassNotes06092024-ProgressOverviewOneMonth.pdf)  
   * Video  
   * **Details:** 
-    1. One Month Overview \+ Exams
+    1. One Month Overview + Exams
 
 
 * **Class 6 (04/10/2024): Two months overview** 
@@ -99,10 +99,9 @@
   * **Verified HW Solutions:**   
   * **Details:** 
     1. Two months  
-    2. Class schedule fixed \- Two per day in this order \- Telugu, Maths, English, Programming, Languages, Science, Hindi/Sanskrit/Khatri, Social, Music and last one is flexible (Overview, Science experiments etc.)  
+    2. Class schedule fixed - Two per day in this order - Telugu, Maths, English, Programming, Languages, Science, Hindi/Sanskrit/Khatri, Social, Music and last one is flexible (Overview, Science experiments etc.)  
     3. Education is continuous process.. both of us learning makes it more beautiful.. if one is teaching and other is only learning, it's not as beautiful.. like in our PhD research labs.. everybody is learning new things from each other even Advisors with decades of experience  
     4. Evaluation and areas of improvement for both of us  
-    5. \-----------------------------------------  
 
 
 * **Class 7 (06/11/2024): 3 months overview** 
@@ -114,15 +113,15 @@
     1. (3 months)  
     2. Good news: new baby coming in to the family  
     3. Baby also finished 3 months  
-    4. Sadashiva schedule (3 years old) \- Before age 5 he should learn:  
+    4. Sadashiva schedule (3 years old) - Before age 5 he should learn:  
 
 
-* **Class 8 (09/12/2024): 4 months overview \- Daily schedule \- Overall progress \- How to revise each class’ notes..** 
+* **Class 8 (09/12/2024): 4 months overview - Daily schedule - Overall progress - How to revise each class’ notes..** 
   * [8. ClassNotes.pdf](8.%20ClassNotes-09122024-Overview.pdf)  
   * Video  
   * **Verified HW Solutions:**   
   * **Details:** 
-    1. 4 months \- Daily schedule \- Overall progress \- How to revise each class’ notes..  
+    1. 4 months - Daily schedule - Overall progress - How to revise each class’ notes..  
 
 
 * **Class 9 (17/01/2025): Fall trimester overview** 
@@ -191,7 +190,7 @@
 <details>
 <summary><strong> 4. Grade 1 - Goals and Grading Criteria </strong></summary>
 
-* **Class 14 (16/06/2025): Updated goals for grade 1 \- created quizzes for all subjects** 
+* **Class 14 (16/06/2025): Updated goals for grade 1 - created quizzes for all subjects** 
   * [14. ClassNotes.pdf](14.%20ClassNotes-16062025-Overview.pdf)  
   * Video  
   * **Other materials:**
@@ -204,7 +203,7 @@
 	* [14.HW-13052025-Overview-TeluguVideo9. 2024-10-14 08-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.docx](14.HW-13052025-Overview-TeluguVideo9.%202024-10-14%2008-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.docx)
 	* [14.HW-13052025-Overview-TeluguVideo9. 2024-10-14 08-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.pdf](14.HW-13052025-Overview-TeluguVideo9.%202024-10-14%2008-20-22-DesktopAudioInOutCapture.mkv-en-asr-NotCorrected.pdf)  
   * **Details:** 
-    1. Updated goals for grade 1 \- created quizzes for all subjects  
+    1. Updated goals for grade 1 - created quizzes for all subjects  
     2. HW: complete previous HW to create a video transcript  
 
 
@@ -228,12 +227,6 @@
     13. * Make logos, uniforms, certificates, etc., for the school.  
     14. * Define GPA criteria.  
     15. * Work on "homeschooler application to the state."  
-    16. **\------------------------------------------**  
-    17. **Grade \- 2**  
-    18. **\------------------------------------------**  
-    19. From 21st August \- 21st September  
-    20. Student worked on scientific papers with parents.  
-    21. \------------------------------------------  
 
 
 * **Class 16 (22/09/2025): Checked  AI grading criteria for Grade 1 (To be continued)** 
@@ -254,7 +247,7 @@
   * **Details:** 
     1. Virata Grade 1 final overview  
        1. HW: Finish whatever is left for Grade 1 (see notes below in ClassDiary file).  
-       2. Overall GPA \- Medal for Grade 1  
+       2. Overall GPA - Medal for Grade 1  
     2. Sadashiva’s progress  
     3. NirmalaAmrutha’s progress 
 </details>
