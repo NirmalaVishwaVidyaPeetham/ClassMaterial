@@ -4,15 +4,14 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 
 
-
 #### 22-Sep-2025 (Monday)
 * <details> <summary><strong>Overview: </strong>(Class 16) Checked  AI grading criteria for Grade 1 (To be continued)</summary>
  
-  * [16. ClassNotes.pdf](16.%20ClassNotes-22092025-Overview.pdf)  
+  * [16. ClassNotes.pdf](0.%20ProgressOverview/1.%20Grade1/16.%20ClassNotes-22092025-Overview.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [16. GradingCriteriaAI-Uncorrected.docx](16.%20GradingCriteriaAI-Uncorrected.docx)
-	* [16. GradingCriteriaAI-Uncorrected.pdf](16.%20GradingCriteriaAI-Uncorrected.pdf)  
+	* [16. GradingCriteriaAI-Uncorrected.docx](0.%20ProgressOverview/1.%20Grade1/16.%20GradingCriteriaAI-Uncorrected.docx)
+	* [16. GradingCriteriaAI-Uncorrected.pdf](0.%20ProgressOverview/1.%20Grade1/16.%20GradingCriteriaAI-Uncorrected.pdf)  
   * **Details:** 
     1. Checked  AI grading criteria for Grade 1 (To be continued)  
     2. TODO: Complete all tasks fromm last class  
@@ -27,12 +26,12 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 07-Oct-2025 (Tuesday)
 * <details> <summary><strong>Telugu: </strong>(Class 26) Review of Grade1</summary>
  
-  * [26. ClassNotes.pdf](26.%20ClassNotes-07102025-Telugu.pdf)  
+  * [26. ClassNotes.pdf](1.%20Languages/1.%20Telugu/1.%20Grade1/26.%20ClassNotes-07102025-Telugu.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-    * [26. HW-Overview-Telugu-exam-2-story.pdf](26.%20HW-Overview-Telugu-exam-2-story.pdf)
-    * [26. HW-Overview-Telugu-exam-2025-1-song.pdf](26.%20HW-Overview-Telugu-exam-2025-1-song.pdf)
-    * [26. HW-Overview-Telugu-exam-2025-2-poem.pdf](26.%20HW-Overview-Telugu-exam-2025-2-poem.pdf)  
+    * [26. HW-Overview-Telugu-exam-2-story.pdf](1.%20Languages/1.%20Telugu/1.%20Grade1/26.%20HW-Overview-Telugu-exam-2-story.pdf)
+    * [26. HW-Overview-Telugu-exam-2025-1-song.pdf](1.%20Languages/1.%20Telugu/1.%20Grade1/26.%20HW-Overview-Telugu-exam-2025-1-song.pdf)
+    * [26. HW-Overview-Telugu-exam-2025-2-poem.pdf](1.%20Languages/1.%20Telugu/1.%20Grade1/26.%20HW-Overview-Telugu-exam-2025-2-poem.pdf)  
   * **Details:** 
     1. Checked last HWs from Grade 1;  
     2. HW: Fix last HW on Thenali Ramakrishna chapter summaries - manual copy; Ask your parents to verify.  
@@ -54,11 +53,11 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 08-Oct-2025 (Wednesday) to 10-Oct-2025 (Friday)
 * <details> <summary><strong>Maths: </strong>(Class 26) More on Prime factorization and Review of Grade1</summary>
   
-     * [26\. ClassNotes.pdf](26.%20ClassNotes-10102025-08102025-Maths.pdf)  
+     * [26\. ClassNotes.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/1.%20Grade1/26.%20ClassNotes-10102025-08102025-Maths.pdf)  
      * Video  
      * **Verified HW Solutions:**
-         * [26\. HW-08102025-Maths.pdf](26.%20HW-08102025-Maths.pdf)
-         * [26\. HW-Overview-Maths-exam-2025.pdf](26.%20HW-Overview-Maths-exam-2025.pdf)  
+         * [26\. HW-08102025-Maths.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/1.%20Grade1/26.%20HW-08102025-Maths.pdf)
+         * [26\. HW-Overview-Maths-exam-2025.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/1.%20Grade1/26.%20HW-Overview-Maths-exam-2025.pdf)  
      * **Details:**   
        1. Last class revision - LCM, GCD prime factorization - no class recording - and more homework - to be continued in next class with recording.  
           2. Math league competition - discussion - to solve problems faster
@@ -75,11 +74,11 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 21-Oct-2025 (Tuesday)
 * <details> <summary><strong>English: </strong>(Class 25) Checked last class HWs and Review of Grade1</summary>
  
-  * [25. ClassNotes.pdf](25.%20ClassNotes-21102025-English.pdf)  
+  * [25. ClassNotes.pdf](1.%20Languages/2.%20English/1.%20Grade1/25.%20ClassNotes-21102025-English.pdf)  
   * Video  
   * **Verified HW Solutions:**
-      * [25. HW-Overview-English-Exam-2025-song.pdf](25.%20HW-Overview-English-Exam-2025-song.pdf)
-      * [25. HW-Overview-English-exam-2-poem.pdf](25.%20HW-Overview-English-exam-2-poem.pdf)  
+      * [25. HW-Overview-English-Exam-2025-song.pdf](1.%20Languages/2.%20English/1.%20Grade1/25.%20HW-Overview-English-Exam-2025-song.pdf)
+      * [25. HW-Overview-English-exam-2-poem.pdf](1.%20Languages/2.%20English/1.%20Grade1/25.%20HW-Overview-English-exam-2-poem.pdf)  
   * **Details:** 
     1. Checked last class HWs etc.  
     2. Checked final quiz - grading  
@@ -89,15 +88,15 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 23-Oct-2025 (Thursday)
 * <details> <summary><strong>Programming: </strong>(Class 26) Review of Grade1</summary>
 
-    * [26. ClassNotes.pdf](26.%20Classnotes-23102025-Pro.pdf)
-    * [Video]()
+    * [26. ClassNotes.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/26.%20Classnotes-23102025-Pro.pdf)
+    * [Video](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/)
     * **Other materials:**
-       * []()
+       * [](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/)
     * **Verified HW Solutions:**
-       * [25. HWProgrammingFinalQuizGrade1.pdf](25.%20HWProgrammingFinalQuizGrade1.pdf)
-       * [25. HWProgrammingFinalQuizGrade1.docx](25.%20HWProgrammingFinalQuizGrade1.docx)
-       * [25. HWProgrammingFinalQuizGrade1-AIGrading.pdf](25.%20HWProgrammingFinalQuizGrade1-AIGrading.pdf)
-       * [25. HWProgrammingFinalQuizGrade1-AIGrading.docx](25.%20HWProgrammingFinalQuizGrade1-AIGrading.docx)
+       * [25. HWProgrammingFinalQuizGrade1.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.%20HWProgrammingFinalQuizGrade1.pdf)
+       * [25. HWProgrammingFinalQuizGrade1.docx](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.%20HWProgrammingFinalQuizGrade1.docx)
+       * [25. HWProgrammingFinalQuizGrade1-AIGrading.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.%20HWProgrammingFinalQuizGrade1-AIGrading.pdf)
+       * [25. HWProgrammingFinalQuizGrade1-AIGrading.docx](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/1.%20Grade1/25.%20HWProgrammingFinalQuizGrade1-AIGrading.docx)
     * **Details:**
       1. Checked last class HWs etc. 
       2. Checked final quiz grading 
@@ -108,7 +107,7 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Technology: </strong>(Class 9) Review of Grade1</summary>
   
-     * [9\. Classnotes.pdf](9.%20Classnotes-24102025-Tech.pdf)  
+     * [9\. Classnotes.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/1.%20Grade1/9.%20Classnotes-24102025-Tech.pdf)  
      * Video   
      * **Details:**   
        1. Checked previous HWs   
@@ -120,7 +119,7 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Languages: </strong>(Class 31) Review of Grade1</summary>
  
-  * [31. ClassNotes.pdf](31.%20Classnotes-24102025-Lan.pdf)
+  * [31. ClassNotes.pdf](1.%20Languages/4.%20AllLangugages/31.%20Classnotes-24102025-Lan.pdf)
   * Video
   * **Details:** 
     1. Checked previous HWs  
@@ -131,7 +130,7 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 27-Oct-2025 (Monday)
 * <details> <summary><strong>Science: </strong>(Class 23) Review of Grade1</summary>
    
-     * [23\. Classnotes.pdf](23.%20Classnotes-27102025-Science.pdf)  
+     * [23\. Classnotes.pdf](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/1.%20Grade1/23.%20Classnotes-27102025-Science.pdf)  
      * Video   
      * **Details:**   
        1. Checked previous HWs, papers   
@@ -142,7 +141,7 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 28-Oct-2025 (Tuesday)
 * <details> <summary><strong>Social: </strong>(Class 21) Review of Grade1</summary>
    
-     * [21\. Classnotes.pdf](21.%20Classnotes-28102025-Social.pdf)  
+     * [21\. Classnotes.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/1.%20Grade1/21.%20Classnotes-28102025-Social.pdf)  
      * Video   
      * **Details:**   
        1. Checked previous HWs, papers   
@@ -151,14 +150,14 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 </details>
 
 #### 29-Oct-2025 (Wednesday)
-* <details> <summary><strong>No classes: </strong>: Worked on homeworks, math league questions etc.</summary> 
+* <details> <summary><strong>No classes: </strong>: Worked on homeworks, maths questions etc.</summary> 
 
 </details>
 
 #### 30-Oct-2025 (Thursday)
 * <details> <summary><strong>Devanagari: </strong>(Class 11) Review of Grade1</summary>
  
-  * [9. ClassNotes.pdf](9.%20ClassNotes-23022025-Devanagari.pdf)  
+  * [9. ClassNotes.pdf](1.%20Languages/3.%20Devanagari_HSKM/0.%20AllDevanagariLanguages/1.%20Grade1/9.%20ClassNotes-23022025-Devanagari.pdf)  
   * Video  
   * **Details:** 
     1. Checked previous HWs 
@@ -167,7 +166,7 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Music: </strong>(Class 24) Review of Grade1</summary>
    
-     * [23\. Classnotes.pdf](24.%20Classnotes-30102025-Music.pdf)  
+     * [23\. Classnotes.pdf](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/1.%20Grade1/24.%20Classnotes-30102025-Music.pdf)  
      * Video   
      * **Details:**   
        1. Checked previous HWs  
@@ -190,18 +189,17 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 
 
-
 #### 04-Nov-2025 (Tuesday)
 * <details> <summary><strong>Telugu: </strong>(Class 1) AP Grade 2 Telugu textbook - Chapter 1</summary>
  
-  * [1. ClassNotes.pdf](1.%20ClassNotes-04112025-Telugu.pdf)  
+  * [1. ClassNotes.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/1.%20ClassNotes-04112025-Telugu.pdf)  
   * Video  
   * **Other materials:** 
-	* [1. Chapter1-class2-AP-telugu-textbook.pdf](1.%20Chapter1-class2-AP-telugu-textbook.pdf)
-	* [1. Chapter1-class2-AP-telugu-workbook.pdf](1.%20Chapter1-class2-AP-telugu-workbook.pdf)
+	* [1. Chapter1-class2-AP-telugu-textbook.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/1.%20Chapter1-class2-AP-telugu-textbook.pdf)
+	* [1. Chapter1-class2-AP-telugu-workbook.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/1.%20Chapter1-class2-AP-telugu-workbook.pdf)
   * **Verified HW Solutions:** 
-	* [1. HW-Chapter1-class2-AP-telugu-textbook.pdf](1.%20HW-Chapter1-class2-AP-telugu-textbook.pdf)
-	* [1. HW-Chapter1-class2-AP-telugu-workbook.pdf](1.%20HW-Chapter1-class2-AP-telugu-workbook.pdf)  
+	* [1. HW-Chapter1-class2-AP-telugu-textbook.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/1.%20HW-Chapter1-class2-AP-telugu-textbook.pdf)
+	* [1. HW-Chapter1-class2-AP-telugu-workbook.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/1.%20HW-Chapter1-class2-AP-telugu-workbook.pdf)  
   * **Details:** 
     * AP Grade 2 Telugu textbook - Chapter 1  
     * HW: Complete Ch.1 textbook, workbook  
@@ -209,13 +207,13 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Maths: </strong>(Class 1) Roman numerals</summary>
  
-  * [1. ClassNotes.pdf](1.%20ClassNotes-04112025-Maths.pdf)  
+  * [1. ClassNotes.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/1.%20ClassNotes-04112025-Maths.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [1. HW-RomanNumerals-AI-HomeworkProblems.pdf](1.%20HW-RomanNumerals-AI-HomeworkProblems.pdf)
-	* [1. RomanNumerals-AI-HomeworkProblems-AIAnswers.pdf](1.%20RomanNumerals-AI-HomeworkProblems-AIAnswers.pdf)
-	* [1. RomanNumerals-AI-HomeworkProblems.pdf](1.%20RomanNumerals-AI-HomeworkProblems.pdf)
-	* [1. RomanNumerals-AI-Uncorrected.pdf](1.%20RomanNumerals-AI-Uncorrected.pdf)  
+	* [1. HW-RomanNumerals-AI-HomeworkProblems.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/1.%20HW-RomanNumerals-AI-HomeworkProblems.pdf)
+	* [1. RomanNumerals-AI-HomeworkProblems-AIAnswers.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/1.%20RomanNumerals-AI-HomeworkProblems-AIAnswers.pdf)
+	* [1. RomanNumerals-AI-HomeworkProblems.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/1.%20RomanNumerals-AI-HomeworkProblems.pdf)
+	* [1. RomanNumerals-AI-Uncorrected.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/1.%20RomanNumerals-AI-Uncorrected.pdf)  
   * **Details:** 
     * Listed missing topics to answer math league questions  
     * Roman numerals - AI notes  
@@ -230,11 +228,11 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 06-Nov-2025 (Thursday)
 * <details> <summary><strong>English: </strong>(Class 1) Grade 2 AP textbook</summary>
  
-  * [1. ClassNotes.pdf](1.%20ClassNotes-06112025-English.pdf)  
+  * [1. ClassNotes.pdf](1.%20Languages/2.%20English/2.%20Grade2/1.%20ClassNotes-06112025-English.pdf)  
   * Video  
   * **Other materials:**
-    * [0. class2-AP-english-textbook.pdf](0.%20class2-AP-english-textbook.pdf)
-    * [0. class2-AP-english-workbook.pdf](0.%20class2-AP-english-workbook.pdf)
+    * [0. class2-AP-english-textbook.pdf](1.%20Languages/2.%20English/2.%20Grade2/0.%20class2-AP-english-textbook.pdf)
+    * [0. class2-AP-english-workbook.pdf](1.%20Languages/2.%20English/2.%20Grade2/0.%20class2-AP-english-workbook.pdf)
   * **Details:** 
     * Grade 2 AP textbook  
     * HW: Complete Ch.1, Ch.2 in AP textbook  
@@ -243,17 +241,17 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Programming: </strong>(Class 1) Jupyter Python notebooks and Markdown files</summary>
  
-  * [1. ClassNotes.pdf](1.%20ClassNotes-06112025-Pro.pdf)  
+  * [1. ClassNotes.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/1.%20ClassNotes-06112025-Pro.pdf)  
   * Video  
   * **Other materials:**
-	* [1. AINotes-JupyterNotebookAndMarkdown-Example-Uncorrected.pdf](1.%20AINotes-JupyterNotebookAndMarkdown-Example-Uncorrected.pdf)
-	* [1. AINotes-JupyterNotebookAndMarkdown-Explained-Uncorrected.pdf](1.%20AINotes-JupyterNotebookAndMarkdown-Explained-Uncorrected.pdf)
-	* [1. AINotes-SortingAlgorithmsExplainedWithVisualization-NotebookStyle-Uncorrected.pdf](1.%20AINotes-SortingAlgorithmsExplainedWithVisualization-NotebookStyle-Uncorrected.pdf) 
-    * [1.JupyterNotebookExample_InteractiveMaps.ipynb](0.PythonBasicsProject_Grade2/1.JupyterNotebookExample_InteractiveMaps.ipynb)
-    * [1.TestPythonNotebook.ipynb](0.PythonBasicsProject_Grade2/1.TestPythonNotebook.ipynb)
+	* [1. AINotes-JupyterNotebookAndMarkdown-Example-Uncorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/1.%20AINotes-JupyterNotebookAndMarkdown-Example-Uncorrected.pdf)
+	* [1. AINotes-JupyterNotebookAndMarkdown-Explained-Uncorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/1.%20AINotes-JupyterNotebookAndMarkdown-Explained-Uncorrected.pdf)
+	* [1. AINotes-SortingAlgorithmsExplainedWithVisualization-NotebookStyle-Uncorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/1.%20AINotes-SortingAlgorithmsExplainedWithVisualization-NotebookStyle-Uncorrected.pdf) 
+    * [1.JupyterNotebookExample_InteractiveMaps.ipynb](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/1.JupyterNotebookExample_InteractiveMaps.ipynb)
+    * [1.TestPythonNotebook.ipynb](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/1.TestPythonNotebook.ipynb)
   * **Verified HW Solutions:**
-    * [1. HW-06112025-Programming-AISortingDemo.ipynb](0.PythonBasicsProject_Grade2/1.%20HW-06112025-Programming-AISortingDemo.ipynb)
-    * [1. HW-06112025-Programming-JupyterNotebbookAIExample.ipynb](0.PythonBasicsProject_Grade2/1.%20HW-06112025-Programming-JupyterNotebbookAIExample.ipynb)
+    * [1. HW-06112025-Programming-AISortingDemo.ipynb](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/1.%20HW-06112025-Programming-AISortingDemo.ipynb)
+    * [1. HW-06112025-Programming-JupyterNotebbookAIExample.ipynb](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/1.%20HW-06112025-Programming-JupyterNotebbookAIExample.ipynb)
   * **Details:** 
     * Checked Openstax textbook on Algorithms  
     * Jupyter Python notebooks and Markdown files - See AI Notes  
@@ -275,10 +273,10 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 13-Nov-2025 (Thursday)
 * <details> <summary><strong>Hindi: </strong>(Class 1) Hindi text book - Hindi Praveshike Texas Univ. - went quickly over the whole text book</summary>
  
-  * [1. ClassNotes.pdf](1.ClassNotes-13112025-DevanagariHindi.pdf)  
+  * [1. ClassNotes.pdf](1.%20Languages/3.%20Devanagari_HSKM/1.%20Hindi/2.%20Grade2/1.ClassNotes-13112025-DevanagariHindi.pdf)  
   * Video  
   * **Other materials:** 
-    * [0.1.1.Hindi_Praveshika_TexasUniversity.pdf](../0.1.1.Hindi_Praveshika_TexasUniversity.pdf)
+    * [0.1.1.Hindi_Praveshika_TexasUniversity.pdf](1.%20Languages/3.%20Devanagari_HSKM/1.%20Hindi/2.%20Grade2/../0.1.1.Hindi_Praveshika_TexasUniversity.pdf)
   * **Details:** 
     * Hindi text book - Hindi Praveshike Texas Univ. - went quickly over the whole text book  
     * HW: Ch.1 - Ch.21 write manually and neatly all the words mentioned and their meanings  
@@ -291,12 +289,12 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 14-Nov-2025 (Friday)
 * <details> <summary><strong>Music: </strong>(Class 1) Practiced “Maata Nirmala Maheswari” telugu Sahaja Yoga song</summary>
  
-  * [1. ClassNotes.pdf](1.ClassNotes-14112025-Music.pdf)  
+  * [1. ClassNotes.pdf](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/1.ClassNotes-14112025-Music.pdf)  
   * Video  
   * **Other materials:**  
-    * [3.1. MataNirmalaMaheswari.pdf](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.1.%20MataNirmalaMaheswari.pdf) 
+    * [3.1. MataNirmalaMaheswari.pdf](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.1.%20MataNirmalaMaheswari.pdf) 
   * **Verified HW Solutions:**   
-    * [3.3. HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.3.%20HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx)
+    * [3.3. HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.3.%20HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx)
 
   * **Details:** 
     * Practiced “Maata Nirmala Maheswari” telugu Sahaja Yoga song (see at 3\. MusicAndArts\\1. CarnaticMusicPlusOthers\\0. Books\\SahajayogaBhajansAndNotes\\0. Bhajans\_WithWordToWordTranslations)  
@@ -311,12 +309,12 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 19-Nov-2025 (Wednesday)
 * <details> <summary><strong>Science: </strong>(Class 1) Checked papers on AI in classroom, and Chandassu-Music.</summary>
  
-  * [1. ClassNotes.pdf](1.%20ClassNotes-19112025-Science-AIPaper-ChandassuPaper.pdf)  
+  * [1. ClassNotes.pdf](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/1.%20ClassNotes-19112025-Science-AIPaper-ChandassuPaper.pdf)  
   * Video  
   * **Other materials:**   
-    * [3.AIHomeSchoolPaperDraft.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/3.AIHomeSchoolPaperDraft.docx)
+    * [3.AIHomeSchoolPaperDraft.docx](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/3.AIHomeSchoolPaperDraft.docx)
   * **Verified HW Solutions:**   
-    * [1. HW-Al-In-Our-Classroom-Teachings-Grade-1-From-14012024-Science-HW.xlsx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-Al-In-Our-Classroom-Teachings-Grade-1-From-14012024-Science-HW.xlsx)
+    * [1. HW-Al-In-Our-Classroom-Teachings-Grade-1-From-14012024-Science-HW.xlsx](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-Al-In-Our-Classroom-Teachings-Grade-1-From-14012024-Science-HW.xlsx)
   * **Details:** 
     * Checked papers on AI in classroom, and Chandassu-Music.  
     * HW: Update the excel with all the examples of AI usage from our Grade 1  
@@ -325,10 +323,10 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Social: </strong>(Class 1) Sahajayoga presentation</summary>
  
-  * [1. ClassNotes.pdf](1.%20ClassNotes-19112025-Social-SYPresentation.pdf)  
+  * [1. ClassNotes.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/1.%20ClassNotes-19112025-Social-SYPresentation.pdf)  
   * Video  
   * **Verified HW Solutions:**  
-    * [5. HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/5.%20HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx)
+    * [5. HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/5.%20HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx)
   * **Details:** 
     * Sahajayoga presentation  
     * HW: Fix formatting etc. in presentation as described in class notes; Add images/video for Bandhan; Make foot-soaking image bigger; Make full slide notes and a recording of your whole presentation.
@@ -341,14 +339,14 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 21-Nov-2025 (Friday)
 * <details> <summary><strong>Telugu: </strong>(Class 2) AP Grade 2 textbook - Chapter 2 and Chapter 3</summary>
  
-  * [2. ClassNotes.pdf](2.%20ClassNotes-21112025-Telugu.pdf)  
+  * [2. ClassNotes.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/2.%20ClassNotes-21112025-Telugu.pdf)  
   * Video  
   * **Other materials:** 
-	* [0. class2-AP-telugu-textbook.pdf](0.%20class2-AP-telugu-textbook.pdf)
+	* [0. class2-AP-telugu-textbook.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/0.%20class2-AP-telugu-textbook.pdf)
 	* [0. class2-AP-telugu-workbook.pdf]0.%20class2-AP-telugu-workbook.pdf)
   * **Verified HW Solutions:** 
-	* [1. HW-Chapter1-class2-AP-telugu-textbook.pdf](1.%20HW-Chapter1-class2-AP-telugu-textbook.pdf)
-	* [1. HW-Chapter1-class2-AP-telugu-workbook.pdf](1.%20HW-Chapter1-class2-AP-telugu-workbook.pdf)    
+	* [1. HW-Chapter1-class2-AP-telugu-textbook.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/1.%20HW-Chapter1-class2-AP-telugu-textbook.pdf)
+	* [1. HW-Chapter1-class2-AP-telugu-workbook.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/1.%20HW-Chapter1-class2-AP-telugu-workbook.pdf)    
   * **Details:** 
     * AP Grade 2 textbook - Ch. 2 and Ch. 3  
     * HW: Complete Ch. 1 (again), Ch. 2 and Ch. 3 in textbook and workbook; Write neatly\!
@@ -356,14 +354,14 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Maths: </strong>(Class 2) More practice on Roman numerals</summary>
  
-  * [2. ClassNotes.pdf](2.%20ClassNotes-21112025-Maths.pdf)  
+  * [2. ClassNotes.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/2.%20ClassNotes-21112025-Maths.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [2. ExponentsAndRoots-AI-Uncorrected.pdf](2.%20ExponentsAndRoots-AI-Uncorrected.pdf)
-	* [2. HW-21112025-Maths.pdf](2.%20HW-21112025-Maths.pdf)
-	* [2. HW-RomanNumerals-AI-HomeworkProblemSet2.DOCX](2.%20HW-RomanNumerals-AI-HomeworkProblemSet2.DOCX)
-	* [2. RomanNumerals-AI-HomeworkProblemSet2.DOCX](2.%20RomanNumerals-AI-HomeworkProblemSet2.DOCX)
-	* [2.BisectionForNthRootVsListSearch.py](2.BisectionForNthRootVsListSearch.py)  
+	* [2. ExponentsAndRoots-AI-Uncorrected.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/2.%20ExponentsAndRoots-AI-Uncorrected.pdf)
+	* [2. HW-21112025-Maths.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/2.%20HW-21112025-Maths.pdf)
+	* [2. HW-RomanNumerals-AI-HomeworkProblemSet2.DOCX](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/2.%20HW-RomanNumerals-AI-HomeworkProblemSet2.DOCX)
+	* [2. RomanNumerals-AI-HomeworkProblemSet2.DOCX](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/2.%20RomanNumerals-AI-HomeworkProblemSet2.DOCX)
+	* [2.BisectionForNthRootVsListSearch.py](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/2.BisectionForNthRootVsListSearch.py)  
   * **Details:** 
     * More practice on Roman numerals  
     * HW: Finish new AI problem set; Verify your answers  
@@ -376,11 +374,11 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 24-Nov-2025 (Monday)
 * <details> <summary><strong>English: </strong>(Class 2) AP textbook Chapter 1 - Chapter 4 and workbook</summary>
  
-  * [2. ClassNotes.pdf](2.%20ClassNotes-24112025-English.pdf)  
+  * [2. ClassNotes.pdf](1.%20Languages/2.%20English/2.%20Grade2/2.%20ClassNotes-24112025-English.pdf)  
   * Video  
   * **Other materials:**
-    * [0. class2-AP-english-textbook.pdf](0.%20class2-AP-english-textbook.pdf)
-    * [0. class2-AP-english-workbook.pdf](0.%20class2-AP-english-workbook.pdf)
+    * [0. class2-AP-english-textbook.pdf](1.%20Languages/2.%20English/2.%20Grade2/0.%20class2-AP-english-textbook.pdf)
+    * [0. class2-AP-english-workbook.pdf](1.%20Languages/2.%20English/2.%20Grade2/0.%20class2-AP-english-workbook.pdf)
   * **Details:** 
     * AP textbook Ch.1 - Ch. 4 \+ workbook  
     * HW: Answer all these again\! Handwriting needs to better. Follow the rules/lines. Answer all the questions in whole sentences.
@@ -389,14 +387,14 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 25-Nov-2025 (Tuesday)
 * <details> <summary><strong>Programming: </strong>(Class 2) Finding nth root of a number using bisection method; Binary/brute force search of a list; See AI notes, python code;</summary>
  
-  * [2. ClassNotes.pdf](2.%20ClassNotes-25112025-Pro.pdf)  
+  * [2. ClassNotes.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/2.%20ClassNotes-25112025-Pro.pdf)  
   * Video  
   * **Other materials:** 
-	* [2. AINotes-BisectionForNthRootVsBinarySearchVsBruteForceSearch.pdf](2.%20AINotes-BisectionForNthRootVsBinarySearchVsBruteForceSearch.pdf)  
-    * [2.BisectionForNthRootVsListSearch.py](0.PythonBasicsProject_Grade2/2.BisectionForNthRootVsListSearch.py)
+	* [2. AINotes-BisectionForNthRootVsBinarySearchVsBruteForceSearch.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/2.%20AINotes-BisectionForNthRootVsBinarySearchVsBruteForceSearch.pdf)  
+    * [2.BisectionForNthRootVsListSearch.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/2.BisectionForNthRootVsListSearch.py)
   * **Verified HW Solutions:** 
-    * [2. HW-25112025-Pro-Brute-Force.py](0.PythonBasicsProject_Grade2/2.%20HW-25112025-Pro-Brute-Force.py)
-    * [2. HW-25112025-Pro-BisectionAndBinarySearch.ipynb](0.PythonBasicsProject_Grade2/2.%20HW-25112025-Pro-BisectionAndBinarySearch.ipynb)
+    * [2. HW-25112025-Pro-Brute-Force.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/2.%20HW-25112025-Pro-Brute-Force.py)
+    * [2. HW-25112025-Pro-BisectionAndBinarySearch.ipynb](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/2.%20HW-25112025-Pro-BisectionAndBinarySearch.ipynb)
   * **Details:** 
     * Finding nth root of a number using bisection method; Binary/brute force search of a list; See AI notes, python code;  
     * HW: Create a (python) brute force algorithm to check nth root of p, up to precision 0.0001  
@@ -418,10 +416,10 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 03-Dec-2025 (Wednesday)
 * <details> <summary><strong>Telugu: </strong>(Class 3) Checked how to improve handwriting</summary>
  
-  * [3. ClassNotes.pdf](3.%20ClassNotes-03122025-Telugu.pdf)  
+  * [3. ClassNotes.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/3.%20ClassNotes-03122025-Telugu.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [3. HW-telugu-letters-tracing.pdf](3.%20HW-telugu-letters-tracing.pdf)  
+	* [3. HW-telugu-letters-tracing.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/3.%20HW-telugu-letters-tracing.pdf)  
   * **Details:** 
     * Checked how to improve handwriting  
     * HW: Complete alphabet tracing  
@@ -434,10 +432,10 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Maths: </strong>(Class 3) Exponents.</summary>
  
-  * [3. ClassNotes.pdf](3.%20ClassNotes-03122025-Maths.pdf)  
+  * [3. ClassNotes.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/3.%20ClassNotes-03122025-Maths.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [3. HW-0312025-Maths-Step-By-Step-Exponents.pdf](3.%20HW-0312025-Maths-Step-By-Step-Exponents.pdf)  
+	* [3. HW-0312025-Maths-Step-By-Step-Exponents.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/3.%20HW-0312025-Maths-Step-By-Step-Exponents.pdf)  
   * **Details:** 
     * Discussed exponents.  
     * HW: Try to derive all the formulas step by step.  
@@ -456,23 +454,23 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 05-Dec-2025 (Friday)
 * <details> <summary><strong>Programming: </strong>(Class 3) Convert Roman numerals to decimal, and vice versa.</summary>
  
-  * [3. ClassNotes.pdf](3.%20ClassNotes-051222025-Pro.pdf)  
+  * [3. ClassNotes.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/3.%20ClassNotes-051222025-Pro.pdf)  
   * Video  
   * **Other materials:** 
-	* [3.AIExercises-BisectionForRootsAndListSearch.pdf](3.AIExercises-BisectionForRootsAndListSearch.pdf)  
-    * [3. AI_Roman_Numeral_Converter-OnlyCode.ipynb](0.PythonBasicsProject_Grade2/3.%20AI_Roman_Numeral_Converter-OnlyCode.ipynb)
-    * [3. AI_Roman_Numeral_Converter.py](0.PythonBasicsProject_Grade2/3.%20AI_Roman_Numeral_Converter.py)
-    * [3. HandwritingCopyTracing-NotGood-MovedToLatex.py](0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing-NotGood-MovedToLatex.py)
-    * [3. HandwritingCopyTracing_Latex.tex.txt](0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex.tex.txt)
-    * [3. HandwritingCopyTracing_Latex1.tex.txt](0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex1.tex.txt)
-    * [3. HandwritingCopyTracing_Latex2.tex.txt](0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex2.tex.txt)
-    * [3. HandwritingCopyTracing_Latex2_Output.pdf](0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex2_Output.pdf)
-    * [3. HandwritingCopyTracing_Output_Hindi.pdf](0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Output_Hindi.pdf)
-    * [3.3.AISolutionsAIExercises-BisectionForRootsAndListSearch-NotCorrected.py](0.PythonBasicsProject_Grade2/3.3.AISolutionsAIExercises-BisectionForRootsAndListSearch-NotCorrected.py)
+	* [3.AIExercises-BisectionForRootsAndListSearch.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/3.AIExercises-BisectionForRootsAndListSearch.pdf)  
+    * [3. AI_Roman_Numeral_Converter-OnlyCode.ipynb](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20AI_Roman_Numeral_Converter-OnlyCode.ipynb)
+    * [3. AI_Roman_Numeral_Converter.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20AI_Roman_Numeral_Converter.py)
+    * [3. HandwritingCopyTracing-NotGood-MovedToLatex.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing-NotGood-MovedToLatex.py)
+    * [3. HandwritingCopyTracing_Latex.tex.txt](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex.tex.txt)
+    * [3. HandwritingCopyTracing_Latex1.tex.txt](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex1.tex.txt)
+    * [3. HandwritingCopyTracing_Latex2.tex.txt](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex2.tex.txt)
+    * [3. HandwritingCopyTracing_Latex2_Output.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Latex2_Output.pdf)
+    * [3. HandwritingCopyTracing_Output_Hindi.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HandwritingCopyTracing_Output_Hindi.pdf)
+    * [3.3.AISolutionsAIExercises-BisectionForRootsAndListSearch-NotCorrected.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.3.AISolutionsAIExercises-BisectionForRootsAndListSearch-NotCorrected.py)
   * **Verified HW Solutions:**
-    * [3. HW-05122025-Pro-RomanNumerals-AI-NotesAndCode-NotCorrected.ipynb](0.PythonBasicsProject_Grade2/3.%20HW-05122025-Pro-RomanNumerals-AI-NotesAndCode-NotCorrected.ipynb)
-    * [3. HW-05122025-Programming-HW-exercises-Corrected.py](0.PythonBasicsProject_Grade2/3.%20HW-05122025-Programming-HW-exersises-Corrected.py)
-    * [3. HW-Maths-Programming-03122025-05122025-Roman-Numaral-Converter.py](0.PythonBasicsProject_Grade2/3.%20HW-Maths-Programming-03122025-05122025-Roman-Numaral-Converter.py)
+    * [3. HW-05122025-Pro-RomanNumerals-AI-NotesAndCode-NotCorrected.ipynb](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HW-05122025-Pro-RomanNumerals-AI-NotesAndCode-NotCorrected.ipynb)
+    * [3. HW-05122025-Programming-HW-exercises-Corrected.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HW-05122025-Programming-HW-exersises-Corrected.py)
+    * [3. HW-Maths-Programming-03122025-05122025-Roman-Numaral-Converter.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/3.%20HW-Maths-Programming-03122025-05122025-Roman-Numaral-Converter.py)
   * **Details:** 
     * HW: Check previous homeworks (and files). Finish missing HWs.  
     * AI exercises on finding roots and list search  
@@ -496,23 +494,23 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 09-Dec-2025 (Tuesday)
 * <details> <summary><strong>Technology: </strong>(Class 1) Using Markdown, LaTeX, or HTML</summary>
  
-  * [1. ClassNotes.pdf](1.ClassNotes-09122025-Tech.pdf)  
+  * [1. ClassNotes.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.ClassNotes-09122025-Tech.pdf)  
   * Video  
   * **Other materials:** 
-	* [1.AI-HtmlExample.html](1.AI-HtmlExample.html)
-	* [1.AI-LatexReportExample.pdf](1.AI-LatexReportExample.pdf)
-	* [1.AI-LatexReportExample.tex](1.AI-LatexReportExample.tex)
-	* [1.AI-MarkdownExample.md](1.AI-MarkdownExample.md)
-	* [1.AI-MarkupLanguages-LatexMDHtml.pdf](1.AI-MarkupLanguages-LatexMDHtml.pdf)
+	* [1.AI-HtmlExample.html](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.AI-HtmlExample.html)
+	* [1.AI-LatexReportExample.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.AI-LatexReportExample.pdf)
+	* [1.AI-LatexReportExample.tex](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.AI-LatexReportExample.tex)
+	* [1.AI-MarkdownExample.md](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.AI-MarkdownExample.md)
+	* [1.AI-MarkupLanguages-LatexMDHtml.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.AI-MarkupLanguages-LatexMDHtml.pdf)
 
   * **Verified HW Solutions:** 
-	* [1. HW-HandwritingCopyTracing_Latex-English.pdf](1.%20HW-HandwritingCopyTracing_Latex-English.pdf)
-	* [1. HW-HandwritingCopyTracing_Latex-English.tex](1.%20HW-HandwritingCopyTracing_Latex-English.tex)
-	* [1. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf](1.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf)
-	* [1. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.tex](1.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.tex)
-	* [1.HW-AI-HtmlExample.html](1.HW-AI-HtmlExample.html)
-	* [1.HW-AI-LatexReportExample.pdf](1.HW-AI-LatexReportExample.pdf)
-	* [1.HW-AI-LatexReportExample.tex](1.HW-AI-LatexReportExample.tex)  
+	* [1. HW-HandwritingCopyTracing_Latex-English.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.%20HW-HandwritingCopyTracing_Latex-English.pdf)
+	* [1. HW-HandwritingCopyTracing_Latex-English.tex](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.%20HW-HandwritingCopyTracing_Latex-English.tex)
+	* [1. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf)
+	* [1. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.tex](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.tex)
+	* [1.HW-AI-HtmlExample.html](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.HW-AI-HtmlExample.html)
+	* [1.HW-AI-LatexReportExample.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.HW-AI-LatexReportExample.pdf)
+	* [1.HW-AI-LatexReportExample.tex](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.HW-AI-LatexReportExample.tex)  
   * **Details:** 
     * HW: Update Table of Contents for "Grade 1 Tech" and other subjects.  
     * Using Markdown, LaTeX, or HTML - see AI notes and examples  
@@ -530,13 +528,13 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 11-Dec-2025 (Thursday)
 * <details> <summary><strong>English: </strong>(Class 3) Created our own 'handwriting practice template’</summary>
  
-  * [3. ClassNotes.pdf](3.%20ClassNotes-11122025-English.pdf)  
+  * [3. ClassNotes.pdf](1.%20Languages/2.%20English/2.%20Grade2/3.%20ClassNotes-11122025-English.pdf)  
   * Video
   * **Other materials:**
-	* [3. HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf](3.%20HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf)
-	* [3. HandwritingCopyTracing_Latex-EnglishHandwritingFont.tex](3.%20HandwritingCopyTracing_Latex-EnglishHandwritingFont.tex)  
+	* [3. HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf](1.%20Languages/2.%20English/2.%20Grade2/3.%20HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf)
+	* [3. HandwritingCopyTracing_Latex-EnglishHandwritingFont.tex](1.%20Languages/2.%20English/2.%20Grade2/3.%20HandwritingCopyTracing_Latex-EnglishHandwritingFont.tex)  
   * **Verified HW Solutions:** 
-	* [3. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf](3.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf)
+	* [3. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf](1.%20Languages/2.%20English/2.%20Grade2/3.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf)
   * **Details:** 
     * Checked previous HWs  
     * HW:Complete next chapters of textbook & workbook  
@@ -552,13 +550,13 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 13-Dec-2025 (Saturday)
 * <details> <summary><strong>Music: </strong>(Class 2) Checked Mata Nirmala Maheswari Song breakdown</summary>
  
-  * [2. ClassNotes.pdf](2.%20ClassNotes-13122025-Music.pdf)  
+  * [2. ClassNotes.pdf](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/2.%20ClassNotes-13122025-Music.pdf)  
   * Video  
  
   * **Other materials:**  
-    * [3.1. MataNirmalaMaheswari.pdf](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.1.%20MataNirmalaMaheswari.pdf) 
+    * [3.1. MataNirmalaMaheswari.pdf](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.1.%20MataNirmalaMaheswari.pdf) 
   * **Verified HW Solutions:**   
-    * [3.3. HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.3.%20HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx)
+    * [3.3. HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.3.%20HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx)
   * **Details:** 
     * Checked Mata Nirmala Maheswari Song breakdown  
     * HW: Listen to Mata Nirmala Maheswari Song audio  
@@ -574,11 +572,11 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 16-Dec-2025 (Tuesday)
 * <details> <summary><strong>Social: </strong>(Class 2) Checked Sahajayoga presentation</summary>
  
-  * [2. ClassNotes.pdf](2.%20ClassNotes-16122025-Social-SYPresentation.pdf)  
+  * [2. ClassNotes.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/2.%20ClassNotes-16122025-Social-SYPresentation.pdf)  
   * Video  
   * **Verified HW Solutions:**  
-    * [6. HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/6.%20HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx)
-    * [0. Virata-introduction-to-Sahaja-Yoga-Poster-Notes - Final.docx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/0.%20Virata-introduction-to-Sahaja-Yoga-Poster-Notes%20-%20Final.docx)
+    * [6. HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/6.%20HW-Virata-Introduction-to-Sahaja-Yoga-Slides.pptx)
+    * [0. Virata-introduction-to-Sahaja-Yoga-Poster-Notes - Final.docx](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/0.%20Virata-introduction-to-Sahaja-Yoga-Poster-Notes%20-%20Final.docx)
   * **Details:** 
     * Checked Sahajayoga presentation  
     * Homework (HW):  
@@ -601,12 +599,12 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 19-Jan-2026 (Monday)
 * <details> <summary><strong>Music: </strong>(Class 3) Check previous H/W on 'Mata Nirmala Maheswari song'</summary>
  
-  * [3. ClassNotes.pdf](3.ClassNotes-19012026-Music.pdf)  
+  * [3. ClassNotes.pdf](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/3.ClassNotes-19012026-Music.pdf)  
   * Video
   * **Other materials:**  
-    * [3.1. MataNirmalaMaheswari.pdf](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.1.%20MataNirmalaMaheswari.pdf) 
+    * [3.1. MataNirmalaMaheswari.pdf](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.1.%20MataNirmalaMaheswari.pdf) 
   * **Verified HW Solutions:**   
-    * [3.3. HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx](../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.3.%20HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx)
+    * [3.3. HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/../0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/3.3.%20HW-14112025-Music-Song-Breakdown-Mata-Nirmala-Maheshvari.xlsx)
   * **Details:** 
     * Check previous H/W on 'Mata Nirmala Maheswari song'  
     * Hindustani Swaras vs. Carnatic swaras  
@@ -626,13 +624,13 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 21-Jan-2026 (Wednesday)
 * <details> <summary><strong>Telugu: </strong>(Class 4) Vishwamitrudi Katha with AI translation and summary</summary>
  
-  * [4. ClassNotes.pdf](4.%20ClassNotes-21012026-Telugu.pdf)  
+  * [4. ClassNotes.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/4.%20ClassNotes-21012026-Telugu.pdf)  
   * Video  
   * **Other materials:** 
-	* [4. VishwamitrudiKatha-BharathaNeethiKathalu-AITranlationSummary.docx](4.%20VishwamitrudiKatha-BharathaNeethiKathalu-AITranlationSummary.docx)
-	* [4. VishwamitrudiKatha-BharathaNeethiKathalu.pdf](4.%20VishwamitrudiKatha-BharathaNeethiKathalu.pdf)  
+	* [4. VishwamitrudiKatha-BharathaNeethiKathalu-AITranlationSummary.docx](1.%20Languages/1.%20Telugu/2.%20Grade2/4.%20VishwamitrudiKatha-BharathaNeethiKathalu-AITranlationSummary.docx)
+	* [4. VishwamitrudiKatha-BharathaNeethiKathalu.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/4.%20VishwamitrudiKatha-BharathaNeethiKathalu.pdf)  
   * **Verified HW Solutions:** 
-	* [4. HW-VishwamitrudiKatha-BharathaNeethiKathalu.pdf](4.%20HW-VishwamitrudiKatha-BharathaNeethiKathalu.pdf)
+	* [4. HW-VishwamitrudiKatha-BharathaNeethiKathalu.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/4.%20HW-VishwamitrudiKatha-BharathaNeethiKathalu.pdf)
   * **Details:** 
     * విశ్వామితృని కథ \+ AI translation \+ summary  
     * HW: Complete previous  
@@ -647,11 +645,11 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 27-Jan-2026 (Tuesday)
 * <details> <summary><strong>English: </strong>(Class 4) Mahavira's life - Chapter 1 and AI Summary</summary>
  
-  * [4. ClassNotes.pdf](4.%20ClassNotes-27012026-English.pdf)  
+  * [4. ClassNotes.pdf](1.%20Languages/2.%20English/2.%20Grade2/4.%20ClassNotes-27012026-English.pdf)  
   * Video  
   * **Other materials:** 
-    * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)
-	* [4. LIfeOfMahaviraChapter1-Introduction.pdf](4.%20LIfeOfMahaviraChapter1-Introduction.pdf)  
+    * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](1.%20Languages/2.%20English/2.%20Grade2/0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)
+	* [4. LIfeOfMahaviraChapter1-Introduction.pdf](1.%20Languages/2.%20English/2.%20Grade2/4.%20LIfeOfMahaviraChapter1-Introduction.pdf)  
   * **Details:** 
     * Mahavira's life - Chapter 1 and AI Summary  
     * HW: Study the summary  
@@ -662,14 +660,14 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Maths: </strong>(Class 4) Checked previous HWs and created AI word problems</summary>
  
-  * [4. ClassNotes.pdf](4.%20ClassNotes-27012026-Maths.pdf)  
+  * [4. ClassNotes.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/4.%20ClassNotes-27012026-Maths.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [4. AIWordProblems-NotCorrected.docx](4.%20AIWordProblems-NotCorrected.docx)
-	* [4. AIWordProblems-NotCorrected.md](4.%20AIWordProblems-NotCorrected.md)
-	* [4. AIWordProblems-Solutions-Corrected.md](4.%20AIWordProblems-Solutions-Corrected.md)
-	* [4. HW-AIWordProblems-NotCorrected.docx](4.%20HW-AIWordProblems-NotCorrected.docx)
-	* [4. LargerRomanNumerals.pdf](4.%20LargerRomanNumerals.pdf)  
+	* [4. AIWordProblems-NotCorrected.docx](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/4.%20AIWordProblems-NotCorrected.docx)
+	* [4. AIWordProblems-NotCorrected.md](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/4.%20AIWordProblems-NotCorrected.md)
+	* [4. AIWordProblems-Solutions-Corrected.md](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/4.%20AIWordProblems-Solutions-Corrected.md)
+	* [4. HW-AIWordProblems-NotCorrected.docx](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/4.%20HW-AIWordProblems-NotCorrected.docx)
+	* [4. LargerRomanNumerals.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/4.%20LargerRomanNumerals.pdf)  
   * **Details:** 
     * Checked previous HWs and created AI word problems  
     * HW: Fix and solve AI word problems  
@@ -681,7 +679,7 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 28-Jan-2026 (Wednesday)
 * <details> <summary><strong>Programming: </strong>(Class 4) Checked previous HWS ( 25th Nov)</summary>
  
-  * [4. ClassNotes.pdf](4.%20ClassNotes-28012026-Pro.pdf)  
+  * [4. ClassNotes.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/4.%20ClassNotes-28012026-Pro.pdf)  
   * Video  
   * **Other materials:**
   * **Verified HW Solutions:**   
@@ -694,7 +692,7 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 29-Jan-2026 (Thursday)
 * <details> <summary><strong>Science: </strong>(Class 2) AI in Homeschool paper - wrap up after submission; Created version of paper with AI meanings for a 7-year old</summary>
  
-  * [2. ClassNotes.pdf](2.%20ClassNotes-29012026-Science-AIPaper.pdf)  
+  * [2. ClassNotes.pdf](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/2.%20ClassNotes-29012026-Science-AIPaper.pdf)  
   * Video  
   * **Other materials:**   
   * **Details:** 
@@ -705,12 +703,12 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Social: </strong>(Class 3) Sahajayoga presentation - checked final version (0. IntroductionToSY…)</summary>
  
-  * [3. ClassNotes.pdf](3.%20ClassNotes-29012026-SocialSYPresentation.pdf)  
+  * [3. ClassNotes.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/3.%20ClassNotes-29012026-SocialSYPresentation.pdf)  
   * Video  
   * **Other materials:**
-    * [0.Introduction-to-Sahaja-Yoga-Slides-Final-NirmalaVishwaVidyaPeetham.pptx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/0.Introduction-to-Sahaja-Yoga-Slides-Final-NirmalaVishwaVidyaPeetham.pptx)
+    * [0.Introduction-to-Sahaja-Yoga-Slides-Final-NirmalaVishwaVidyaPeetham.pptx](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/0.Introduction-to-Sahaja-Yoga-Slides-Final-NirmalaVishwaVidyaPeetham.pptx)
   * **Verified HW Solutions:**
-    * [7. HW-Virata-introduction-to-Sahaja-Yoga-Poster-Final.pptx](../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/7.%20HW-Virata-introduction-to-Sahaja-Yoga-Poster-Final.pptx)
+    * [7. HW-Virata-introduction-to-Sahaja-Yoga-Poster-Final.pptx](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/1.%20Presentations/2.%20IntroductionToSahajayoga/7.%20HW-Virata-introduction-to-Sahaja-Yoga-Poster-Final.pptx)
   * **Details:** 
     * Sahajayoga presentation - checked final version (0. IntroductionToSY…)  
     * HW: Upload to website  
@@ -726,7 +724,7 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 03-Feb-2026 (Tuesday)
 * <details> <summary><strong>Overview: </strong>(Class 1) Checked pre-school progress for Sadashiva, Neera</summary>
  
-  * [1. ClassNotes.pdf](1.%20ClassNotes-03022026-Overview.pdf)  
+  * [1. ClassNotes.pdf](0.%20ProgressOverview/2.%20Grade2/1.%20ClassNotes-03022026-Overview.pdf)  
   * Video  
   * **Details:** 
     * Checked pre-school progress for Sadashiva, Neera  
@@ -751,13 +749,13 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 06-Feb-2026 (Friday)
 * <details> <summary><strong>Telugu: </strong>(Class 5) Nakka-puli kadha</summary>
  
-  * [5. ClassNotes.pdf](5.%20ClassNotes-06022026-Telugu.pdf)  
+  * [5. ClassNotes.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/5.%20ClassNotes-06022026-Telugu.pdf)  
   * Video  
   * **Other materials:** 
-	* [5. PuliNakkaKatha-BharathaNeethiKathalu-AITranlationSummary.docx](5.%20PuliNakkaKatha-BharathaNeethiKathalu-AITranlationSummary.docx)
-	* [5. PuliNakkaKatha-BharathaNeethiKathalu.pdf](5.%20PuliNakkaKatha-BharathaNeethiKathalu.pdf)  
+	* [5. PuliNakkaKatha-BharathaNeethiKathalu-AITranlationSummary.docx](1.%20Languages/1.%20Telugu/2.%20Grade2/5.%20PuliNakkaKatha-BharathaNeethiKathalu-AITranlationSummary.docx)
+	* [5. PuliNakkaKatha-BharathaNeethiKathalu.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/5.%20PuliNakkaKatha-BharathaNeethiKathalu.pdf)  
   * **Verified HW Solutions:** 
-	* [5. HW-PuliNakkaKatha-BharathaNeethiKathalu.pdf](5.%20HW-PuliNakkaKatha-BharathaNeethiKathalu.pdf)
+	* [5. HW-PuliNakkaKatha-BharathaNeethiKathalu.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/5.%20HW-PuliNakkaKatha-BharathaNeethiKathalu.pdf)
   * **Details:** 
     * HW: Complete Grade 2 AP textbook/workbook (last HW)  
     * Nakka-puli kadha; AI translation, summary;  
@@ -772,12 +770,12 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Maths: </strong>(Class 5) Checked previous HWs</summary>
  
-  * [5. ClassNotes.pdf](5.%20ClassNotes-09022026-Maths.pdf)  
+  * [5. ClassNotes.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/5.%20ClassNotes-09022026-Maths.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [5. HW-26022026_Problems1-20_Maths-Word-Problems_Verified.pdf](5.%20HW-26022026_Problems1-20_Maths-Word-Problems_Verified.pdf)
-	* [5. NIOS_Math_Level_A_english_medium_AIVersion_Uncorrected.md](5.%20NIOS_Math_Level_A_english_medium_AIVersion_Uncorrected.md)
-	* [5. NIOS_Math_Level_A_english_medium_ManyTyposMistakes.pdf](5.%20NIOS_Math_Level_A_english_medium_ManyTyposMistakes.pdf)  
+	* [5. HW-26022026_Problems1-20_Maths-Word-Problems_Verified.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/5.%20HW-26022026_Problems1-20_Maths-Word-Problems_Verified.pdf)
+	* [5. NIOS_Math_Level_A_english_medium_AIVersion_Uncorrected.md](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/5.%20NIOS_Math_Level_A_english_medium_AIVersion_Uncorrected.md)
+	* [5. NIOS_Math_Level_A_english_medium_ManyTyposMistakes.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/5.%20NIOS_Math_Level_A_english_medium_ManyTyposMistakes.pdf)  
   * **Details:** 
     * Checked previous HWs  
     * HW: Solve previous AI word problems and check AI solutions (mark down files)  
@@ -787,11 +785,11 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>English: </strong>(Class 5) Mahavira - Chapter 2 and AI Summary</summary>
  
-  * [5. ClassNotes.pdf](5.%20ClassNotes-09022026-English.pdf)  
+  * [5. ClassNotes.pdf](1.%20Languages/2.%20English/2.%20Grade2/5.%20ClassNotes-09022026-English.pdf)  
   * Video  
   * **Other materials:** 
-    * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)
-	* [5. LIfeOfMahaviraChapter2-MythicalStories.pdf](5.%20LIfeOfMahaviraChapter2-MythicalStories.pdf)  
+    * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](1.%20Languages/2.%20English/2.%20Grade2/0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)
+	* [5. LIfeOfMahaviraChapter2-MythicalStories.pdf](1.%20Languages/2.%20English/2.%20Grade2/5.%20LIfeOfMahaviraChapter2-MythicalStories.pdf)  
   * **Details:** 
     * Mahavira Chapter 2; AI Summary  
     * HW: Study this summary; write meanings  
@@ -802,12 +800,12 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 10-Feb-2026 (Tuesday)
 * <details> <summary><strong>Programming: </strong>(Class 5) Checked Python application for live music spectrum and notes detection.</summary>
  
-  * [5. ClassNotes.pdf](5.%20ClassNotes-10022026-Pro.pdf)  
+  * [5. ClassNotes.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/5.%20ClassNotes-10022026-Pro.pdf)  
   * Video  
   * **Other materials:** 
   * **Verified HW Solutions:**   
-    * [5. HW-10022026-Programming-DecimalExponentToFraction.py](0.PythonBasicsProject_Grade2/5.%20HW-10022026-Programming-DecimalExponentToFraction.py)
-    * [5. HW-10022026-Programming-Problem11-All-Roots.py](0.PythonBasicsProject_Grade2/5.%20HW-10022026-Programming-Problem11-All-Roots.py)
+    * [5. HW-10022026-Programming-DecimalExponentToFraction.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/5.%20HW-10022026-Programming-DecimalExponentToFraction.py)
+    * [5. HW-10022026-Programming-Problem11-All-Roots.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/5.%20HW-10022026-Programming-Problem11-All-Roots.py)
   * **Details:** 
     * Checked Python application for live music spectrum and notes detection.  
     * Checked AI exercises solutions on roots etc. Problems 1 to 11  
@@ -826,10 +824,10 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 12-Feb-2026 (Thursday)
 * <details> <summary><strong>Technology: </strong>(Class 2) Learnt about html files and checked previous HWs</summary>
  
-  * [2. ClassNotes.pdf](2.%20ClassNotes-12022026-Tech.pdf)  
+  * [2. ClassNotes.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20ClassNotes-12022026-Tech.pdf)  
   * Video  
   * **Other materials:** 
-    * [1.AI-HtmlExample.html](1.AI-HtmlExample.html)
+    * [1.AI-HtmlExample.html](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/1.AI-HtmlExample.html)
   * **Verified HW Solutions:**   
   * **Details:** 
     * Checked previous Hws  
@@ -862,14 +860,14 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 13-Feb-2026 (Friday)
 * <details> <summary><strong>Music: </strong>(Class 4) - A Python application for pitch detection and showing the frequency spectrum for each note played</summary>
  
-  * [4. ClassNotes.pdf](4.%20ClassNotes-13022026-Music.pdf)  
+  * [4. ClassNotes.pdf](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/4.%20ClassNotes-13022026-Music.pdf)  
   * Video  
   * **Other materials:**
-    * [4.1.MusicAudioAnalyzer_NotGood.py](../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.1.MusicAudioAnalyzer_NotGood.py)
-    * [4.2.MusicAudio2D_Working.py](../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.2.MusicAudio2D_Working.py)
-    * [4.3.MusicAudio3D_NotGood.py](../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.3.MusicAudio3D_NotGood.py)
-    * [4.4.MusicAudio2D_Working_Updated_WithComments.py](../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.4.MusicAudio2D_Working_Updated_WithComments.py)
-    * [4.5.MusicAudioSpectrum_WithTimeline.py](../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.5.MusicAudioSpectrum_WithTimeline.py)   
+    * [4.1.MusicAudioAnalyzer_NotGood.py](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.1.MusicAudioAnalyzer_NotGood.py)
+    * [4.2.MusicAudio2D_Working.py](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.2.MusicAudio2D_Working.py)
+    * [4.3.MusicAudio3D_NotGood.py](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.3.MusicAudio3D_NotGood.py)
+    * [4.4.MusicAudio2D_Working_Updated_WithComments.py](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.4.MusicAudio2D_Working_Updated_WithComments.py)
+    * [4.5.MusicAudioSpectrum_WithTimeline.py](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/4.5.MusicAudioSpectrum_WithTimeline.py)   
   * **Details:** 
     * A Python application for pitch detection and showing the frequency spectrum for each note played  
     * can show the 'timbre'  
@@ -894,12 +892,12 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Hindi: </strong>(Class 2) - Hindi songs - JaagUthe, AyiAyiDiwali</summary>
  
-  * [2. ClassNotes.pdf](2.%20ClassNotes-13022026-Hindi.pdf)  
+  * [2. ClassNotes.pdf](1.%20Languages/3.%20Devanagari_HSKM/1.%20Hindi/2.%20Grade2/2.%20ClassNotes-13022026-Hindi.pdf)  
   * Video  
   * **Other materials:** 
-	* [2.JaagUthe-Lyrics-Hindi-AI-NotCorrected.md](2.JaagUthe-Lyrics-Hindi-AI-NotCorrected.md)  
-    * [6. AyiAyiDiwali-BreakdownAI.DOCX](../../../../3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/6.%20AyiAyiDiwali-BreakdownAI.DOCX)
-    * [6.AyiAyiDiwali.pdf](../../../../3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/6.AyiAyiDiwali.pdf)
+	* [2.JaagUthe-Lyrics-Hindi-AI-NotCorrected.md](1.%20Languages/3.%20Devanagari_HSKM/1.%20Hindi/2.%20Grade2/2.JaagUthe-Lyrics-Hindi-AI-NotCorrected.md)  
+    * [6. AyiAyiDiwali-BreakdownAI.DOCX](1.%20Languages/3.%20Devanagari_HSKM/1.%20Hindi/2.%20Grade2/../../../../3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/6.%20AyiAyiDiwali-BreakdownAI.DOCX)
+    * [6.AyiAyiDiwali.pdf](1.%20Languages/3.%20Devanagari_HSKM/1.%20Hindi/2.%20Grade2/../../../../3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/6.AyiAyiDiwali.pdf)
   * **Details:** 
     * HW: Complete all previous HWs  
     * HW: For Jaag Uthe Song:  
@@ -919,11 +917,11 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 24-Feb-2026 (Tuesday)
 * <details> <summary><strong>Telugu: </strong>(Class 6) - LaTeX copy tracing book - Telugu</summary>
  
-  * [6. ClassNotes.pdf](6.%20ClassNotes-24022026-Telugu.pdf)  
+  * [6. ClassNotes.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/6.%20ClassNotes-24022026-Telugu.pdf)  
   * Video  
   * **Other materials:** 
-	* [6. HandwritingCopyTracing_Latex-Telugu-FixARa.pdf](6.%20HandwritingCopyTracing_Latex-Telugu-FixARa.pdf)
-	* [6. HandwritingCopyTracing_Latex-Telugu-FixARa.tex](6.%20HandwritingCopyTracing_Latex-Telugu-FixARa.tex) 
+	* [6. HandwritingCopyTracing_Latex-Telugu-FixARa.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/6.%20HandwritingCopyTracing_Latex-Telugu-FixARa.pdf)
+	* [6. HandwritingCopyTracing_Latex-Telugu-FixARa.tex](1.%20Languages/1.%20Telugu/2.%20Grade2/6.%20HandwritingCopyTracing_Latex-Telugu-FixARa.tex) 
   * **Verified HW Solutions:**  
   * **Details:** 
     * HW: Memorize last two stories by heart; Recite to your parents 10 times  
@@ -940,11 +938,11 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 02-Mar-2026 (Monday)
 * <details> <summary><strong>Maths: </strong>(Class 6) - Checked AI word problems HW</summary>
  
-  * [6. ClassNotes.pdf](6.%20ClassNotes-02032026-Maths.pdf)  
+  * [6. ClassNotes.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/6.%20ClassNotes-02032026-Maths.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [6.PercentagesRatiosProportions-AINotes-Exercises.md](6.PercentagesRatiosProportions-AINotes-Exercises.md)
-	* [6.PrimeFactorization-TotalNumberOfFactors-AINotes-Exercises.md](6.PrimeFactorization-TotalNumberOfFactors-AINotes-Exercises.md)  
+	* [6.PercentagesRatiosProportions-AINotes-Exercises.md](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/6.PercentagesRatiosProportions-AINotes-Exercises.md)
+	* [6.PrimeFactorization-TotalNumberOfFactors-AINotes-Exercises.md](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/6.PrimeFactorization-TotalNumberOfFactors-AINotes-Exercises.md)  
   * **Details:** 
     * Checked AI word problems HW  
     * Prime factorization to find no. of common factors - See AI notes  
@@ -956,11 +954,11 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 03-Mar-2026 (Tuesday)
 * <details> <summary><strong>English: </strong>(Class 6) Mahavira - Chapter 3 and AI Summary</summary>
  
-  * [6. ClassNotes.pdf](6.Classnotes-03032026-English.pdf)  
+  * [6. ClassNotes.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.Classnotes-03032026-English.pdf)  
   * Video  
   * **Other materials:**
-    * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)
-	* [6.LIfeOfMahaviraChapter3-FamilyRelationsBirth.pdf](6.LIfeOfMahaviraChapter3-FamilyRelationsBirth.pdf)  
+    * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](1.%20Languages/2.%20English/2.%20Grade2/0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)
+	* [6.LIfeOfMahaviraChapter3-FamilyRelationsBirth.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.LIfeOfMahaviraChapter3-FamilyRelationsBirth.pdf)  
   * **Details:** 
     * HW: Complete (1) AP textbook (2) Ap workbook (3) Copy tracing book (4) Copy tracing cursive  
     * Mahavira -Chapter 3 - AI Summary  
@@ -970,12 +968,12 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Programming: </strong>(Class 6) - Completed AI exercises from 05 Dec 25</summary>
  
-  * [6. ClassNotes.pdf](6.%20ClassNotes-03032026-Pro.pdf)  
+  * [6. ClassNotes.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/6.%20ClassNotes-03032026-Pro.pdf)  
   * Video  
   * **Other materials:** 
   * **Verified HW Solutions:**   
-    * [6. HW-03032026-Programming-Exersises-NotCorrected.ipynb](0.PythonBasicsProject_Grade2/6.%20HW-03032026-Programming-Exersises-NotCorrected.ipynb)
-    * [6. HW-03032026-Programming-Problem12-NotCorrected.py](0.PythonBasicsProject_Grade2/6.%20HW-03032026-Programming-Problem12-NotCorrected.py)
+    * [6. HW-03032026-Programming-Exersises-NotCorrected.ipynb](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/6.%20HW-03032026-Programming-Exersises-NotCorrected.ipynb)
+    * [6. HW-03032026-Programming-Problem12-NotCorrected.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/6.%20HW-03032026-Programming-Problem12-NotCorrected.py)
   * **Details:** 
     * Completed AI exercises from 05 Dec 25  
     * HW: Practice Ex-12 - write all of it yourself using functions from Ex-1 to 11  
@@ -989,12 +987,12 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 05-Mar-2026 (Thursday)
 * <details> <summary><strong>Science: </strong>(Class 3) - Checked AP Intermediate Physics textbooks (Grade 11&12)</summary>
  
-  * [3. ClassNotes.pdf](3.%20ClassNotes-05032026-Science.pdf)  
+  * [3. ClassNotes.pdf](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/3.%20ClassNotes-05032026-Science.pdf)  
   * Video   
   * **Other materials:**  
-	* [3. Proportions-PhysicsExamples-AINotes-Exercises.md](3.%20Proportions-PhysicsExamples-AINotes-Exercises.md)
+	* [3. Proportions-PhysicsExamples-AINotes-Exercises.md](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/3.%20Proportions-PhysicsExamples-AINotes-Exercises.md)
   * **Verified HW Solutions:** 
-	* [3. HW-05032026-Science_Direct+Indirect-Proportions_AI-Notes+Exercises.pdf](3.%20HW-05032026-Science_Direct%2BIndirect-Proportions_AI-Notes%2BExercises.pdf)
+	* [3. HW-05032026-Science_Direct+Indirect-Proportions_AI-Notes+Exercises.pdf](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/3.%20HW-05032026-Science_Direct%2BIndirect-Proportions_AI-Notes%2BExercises.pdf)
   
   * **Details:** 
     * Checked AP Intermediate Physics textbooks (Grade 11&12)  
@@ -1011,16 +1009,16 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Social: </strong>(Class 4) Curriculum Vitae vs. Resume</summary>
  
-  * [4. ClassNotes.pdf](4.%20ClassNotes-05032026-SocialLifeSkillsCV.pdf)  
+  * [4. ClassNotes.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/4.%20ClassNotes-05032026-SocialLifeSkillsCV.pdf)  
   * Video  
   * **Other materials:**
-    * [0.AINotes-CVsResumes-HowTo.md](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.AINotes-CVsResumes-HowTo.md)
-    * [0.CornellUniv-ResumesAndCVs.pdf](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.CornellUniv-ResumesAndCVs.pdf)
-    * [0.HowToWriteYourCV.pdf](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.HowToWriteYourCV.pdf)
-    * [0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf)
-    * [1.VP_CV_AIGenerated-NotCorrected.md](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/1.VP_CV_AIGenerated-NotCorrected.md)
+    * [0.AINotes-CVsResumes-HowTo.md](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.AINotes-CVsResumes-HowTo.md)
+    * [0.CornellUniv-ResumesAndCVs.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.CornellUniv-ResumesAndCVs.pdf)
+    * [0.HowToWriteYourCV.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.HowToWriteYourCV.pdf)
+    * [0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf)
+    * [1.VP_CV_AIGenerated-NotCorrected.md](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/1.VP_CV_AIGenerated-NotCorrected.md)
   * **Verified HW Solutions:**   
-    * [1. HW-05032026-Social_Life-Skills_VP-CV_Without-Weaknesses.md](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/1.%20HW-05032026-Social_Life-Skills_VP-CV_Without-Weaknesses.md)
+    * [1. HW-05032026-Social_Life-Skills_VP-CV_Without-Weaknesses.md](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/1.%20HW-05032026-Social_Life-Skills_VP-CV_Without-Weaknesses.md)
   * **Details:** 
     * Curriculum vitae vs. Resume  
     * See university examples  
@@ -1032,7 +1030,7 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 06-Mar-2026 (Friday)
 * <details> <summary><strong>Music: </strong>(Class 5) Practiced 3 songs (1) Mata nirmala Maheswari (2) Jaag uthe (3) Sharanu gori</summary>
  
-  * [5. ClassNotes.pdf](5.%20ClassNotes-06032026-Music.pdf)  
+  * [5. ClassNotes.pdf](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/5.%20ClassNotes-06032026-Music.pdf)  
   * Video  
   * **Verified HW Solutions:**   
   * **Details:** 
@@ -1042,11 +1040,11 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Devanagari: </strong>(Class 1) Created copy tracing book using LaTeX</summary>
  
-  * [1. ClassNotes.pdf](1.%20ClassNotes-06032026-Devanagari.pdf)  
+  * [1. ClassNotes.pdf](1.%20Languages/3.%20Devanagari_HSKM/0.%20AllDevanagariLanguages/2.%20Grade2/1.%20ClassNotes-06032026-Devanagari.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [1.HW-HandwritingCopyTracing_Latex2-Hindi.pdf](1.HW-HandwritingCopyTracing_Latex2-Hindi.pdf)
-	* [1.HW-HandwritingCopyTracing_Latex2-Hindi.tex](1.HW-HandwritingCopyTracing_Latex2-Hindi.tex)  
+	* [1.HW-HandwritingCopyTracing_Latex2-Hindi.pdf](1.%20Languages/3.%20Devanagari_HSKM/0.%20AllDevanagariLanguages/2.%20Grade2/1.HW-HandwritingCopyTracing_Latex2-Hindi.pdf)
+	* [1.HW-HandwritingCopyTracing_Latex2-Hindi.tex](1.%20Languages/3.%20Devanagari_HSKM/0.%20AllDevanagariLanguages/2.%20Grade2/1.HW-HandwritingCopyTracing_Latex2-Hindi.tex)  
   * **Details:** 
     * Copy tracing book (LaTeX)  
     * HW: fix it - show it to your parents; Add missing letters; Complete copy tracing
@@ -1061,15 +1059,15 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 10-Mar-2026 (Tuesday)
 * <details> <summary><strong>Telugu: </strong>(Class 7) Prepared questions based on Telugu Sahaja Yoga Bhajans</summary>
  
-  * [7. ClassNotes.pdf](7.ClassNotes-10032026-Telugu.pdf)  
+  * [7. ClassNotes.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/7.ClassNotes-10032026-Telugu.pdf)  
   * Video  
   * **Other materials:** 
-	* [7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AIMeaningsWordByWord-Uncorrected.DOCX](7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AIMeaningsWordByWord-Uncorrected.DOCX)
-	* [7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AITranslationSummary-Uncorrected.DOCX](7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AITranslationSummary-Uncorrected.DOCX)
-	* [7.MushikaMarjalalaKatha-BharathaNeethiKathalu.pdf](7.MushikaMarjalalaKatha-BharathaNeethiKathalu.pdf)
-	* [7.TeluguSahajaYogaBhajans-AIExercises.DOCX](7.TeluguSahajaYogaBhajans-AIExercises.DOCX)
+	* [7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AIMeaningsWordByWord-Uncorrected.DOCX](1.%20Languages/1.%20Telugu/2.%20Grade2/7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AIMeaningsWordByWord-Uncorrected.DOCX)
+	* [7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AITranslationSummary-Uncorrected.DOCX](1.%20Languages/1.%20Telugu/2.%20Grade2/7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AITranslationSummary-Uncorrected.DOCX)
+	* [7.MushikaMarjalalaKatha-BharathaNeethiKathalu.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/7.MushikaMarjalalaKatha-BharathaNeethiKathalu.pdf)
+	* [7.TeluguSahajaYogaBhajans-AIExercises.DOCX](1.%20Languages/1.%20Telugu/2.%20Grade2/7.TeluguSahajaYogaBhajans-AIExercises.DOCX)
   * **Verified HW Solutions:** 
-	* [7.HW-TeluguSahajaYogaBhajans-AIExercises-Corrected.DOCX](7.HW-TeluguSahajaYogaBhajans-AIExercises-Corrected.DOCX)  
+	* [7.HW-TeluguSahajaYogaBhajans-AIExercises-Corrected.DOCX](1.%20Languages/1.%20Telugu/2.%20Grade2/7.HW-TeluguSahajaYogaBhajans-AIExercises-Corrected.DOCX)  
   * **Details:** 
     * HW: పాత HWs పూర్తి చేయాలి  
     * తెలుగు సహజయోగ భజనలు/ పాటలు: (1) శరణుగోరి నీ చరణము (2) మాతా నిర్మల మహేశ్వరి - AI తో ఈ పాటల మీద అభ్యాసాలు/ప్రశ్నలు తయారు చేసాం  
@@ -1110,18 +1108,18 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 20-Mar-2026 (Friday)
 * <details> <summary><strong>English: </strong>(Class 7) Mahavira story- AI Summaries of all the remaining chapters</summary>
  
-  * [7. ClassNotes.pdf](7.%20ClassNotes-20032026-English.pdf)  
+  * [7. ClassNotes.pdf](1.%20Languages/2.%20English/2.%20Grade2/7.%20ClassNotes-20032026-English.pdf)  
   * Video  
   * **Other materials:** 
-    * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)
-	* [7.LIfeOfMahaviraChapter10.pdf](7.LIfeOfMahaviraChapter10.pdf)
-	* [7.LIfeOfMahaviraChapter11.pdf](7.LIfeOfMahaviraChapter11.pdf)
-	* [7.LIfeOfMahaviraChapter4.pdf](7.LIfeOfMahaviraChapter4.pdf)
-	* [7.LIfeOfMahaviraChapter5.pdf](7.LIfeOfMahaviraChapter5.pdf)
-	* [7.LIfeOfMahaviraChapter6.pdf](7.LIfeOfMahaviraChapter6.pdf)
-	* [7.LIfeOfMahaviraChapter7.pdf](7.LIfeOfMahaviraChapter7.pdf)
-	* [7.LIfeOfMahaviraChapter8.pdf](7.LIfeOfMahaviraChapter8.pdf)
-	* [7.LIfeOfMahaviraChapter9.pdf](7.LIfeOfMahaviraChapter9.pdf)  
+    * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](1.%20Languages/2.%20English/2.%20Grade2/0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)
+	* [7.LIfeOfMahaviraChapter10.pdf](1.%20Languages/2.%20English/2.%20Grade2/7.LIfeOfMahaviraChapter10.pdf)
+	* [7.LIfeOfMahaviraChapter11.pdf](1.%20Languages/2.%20English/2.%20Grade2/7.LIfeOfMahaviraChapter11.pdf)
+	* [7.LIfeOfMahaviraChapter4.pdf](1.%20Languages/2.%20English/2.%20Grade2/7.LIfeOfMahaviraChapter4.pdf)
+	* [7.LIfeOfMahaviraChapter5.pdf](1.%20Languages/2.%20English/2.%20Grade2/7.LIfeOfMahaviraChapter5.pdf)
+	* [7.LIfeOfMahaviraChapter6.pdf](1.%20Languages/2.%20English/2.%20Grade2/7.LIfeOfMahaviraChapter6.pdf)
+	* [7.LIfeOfMahaviraChapter7.pdf](1.%20Languages/2.%20English/2.%20Grade2/7.LIfeOfMahaviraChapter7.pdf)
+	* [7.LIfeOfMahaviraChapter8.pdf](1.%20Languages/2.%20English/2.%20Grade2/7.LIfeOfMahaviraChapter8.pdf)
+	* [7.LIfeOfMahaviraChapter9.pdf](1.%20Languages/2.%20English/2.%20Grade2/7.LIfeOfMahaviraChapter9.pdf)  
   * **Details:** 
     * HW: Complete previous  
     * Mahavira story: the text is not written in an interesting way to read as a story; And also doesn't seem to believe in the miracles of the incarnation. So we used AI summaries for all the chapters.  
@@ -1138,13 +1136,13 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 24-Mar-2026 (Tuesday)
 * <details> <summary><strong>Programming: </strong>(Class 7) - Checked previous homeworks</summary>
  
-  * [7. ClassNotes.pdf](7.%20ClassNotes-24032026-Pro.pdf)  
+  * [7. ClassNotes.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20ClassNotes-24032026-Pro.pdf)  
   * Video  
   * **Verified HW Solutions:** 
-	* [7.AdvanceOperators-AINotes-Exercises-NotCorrected.md](7.AdvanceOperators-AINotes-Exercises-NotCorrected.md)
-	* [7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf](7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf)
-	* [7.BitwiseOperators-AINotes-Exercises-NotCorrected.md](7.BitwiseOperators-AINotes-Exercises-NotCorrected.md)
-	* [7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf](7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf)  
+	* [7.AdvanceOperators-AINotes-Exercises-NotCorrected.md](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.AdvanceOperators-AINotes-Exercises-NotCorrected.md)
+	* [7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf)
+	* [7.BitwiseOperators-AINotes-Exercises-NotCorrected.md](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.BitwiseOperators-AINotes-Exercises-NotCorrected.md)
+	* [7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf)  
   * **Details:** 
     * Checked previous homeworks  
     * Bitwise operators - See AI notes  
@@ -1162,10 +1160,10 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 26-Mar-2026 (Thursday)
 * <details> <summary><strong>Music: </strong>(Class 6) - Gamakas chapter - AI translation</summary>
  
-  * [6. ClassNotes.pdf](6.%20ClassNotes-26032024-Music.pdf)  
+  * [6. ClassNotes.pdf](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/6.%20ClassNotes-26032024-Music.pdf)  
   * Video  
   * **Other materials:**
-    * [7.AI-Music-GamakaFrequencySimulator.py](../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/7.AI-Music-GamakaFrequencySimulator.py)
+    * [7.AI-Music-GamakaFrequencySimulator.py](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/../../../2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/7.AI-Music-GamakaFrequencySimulator.py)
   * **Verified HW Solutions:**   
   * **Details:** 
     * HW: Write Sharanugo:ri song in the following way: Telugu lyrics, Phonetic lyrics, Swaras  
@@ -1185,10 +1183,10 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 31-Mar-2026 (Tuesday)
 * <details> <summary><strong>Telugu: </strong>(Class 8) -  AI exercises on stories read so far</summary>
  
-  * [8. ClassNotes.pdf](8.%20ClassNotes-31032026-Telugu.pdf)  
+  * [8. ClassNotes.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/8.%20ClassNotes-31032026-Telugu.pdf)  
   * Video  
   * **Other materials:** 
-	* [8.BharathaNeethiKathalu-AIExercises.DOCX](8.BharathaNeethiKathalu-AIExercises.DOCX) 
+	* [8.BharathaNeethiKathalu-AIExercises.DOCX](1.%20Languages/1.%20Telugu/2.%20Grade2/8.BharathaNeethiKathalu-AIExercises.DOCX) 
   * **Verified HW Solutions:**  
   * **Details:** 
     * Checked previous HWs on Sahajayoga bhajans  
@@ -1217,10 +1215,10 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 #### 02-Apr-2026 (Thursday)
 * <details> <summary><strong>English: </strong>(Class 8) - HW: Complete all previous HWs</summary>
  
-  * [8. ClassNotes.pdf](8.%20ClassNotes-02042026-English.pdf)  
+  * [8. ClassNotes.pdf](1.%20Languages/2.%20English/2.%20Grade2/8.%20ClassNotes-02042026-English.pdf)  
   * Video  
   * **Other materials:** 
-    * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)
+    * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](1.%20Languages/2.%20English/2.%20Grade2/0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)
   * **Details:** 
     * HW: Complete all previous HWs  
     * Summaries: Mahavira story summaries  
@@ -1230,13 +1228,13 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 
 * <details> <summary><strong>Social: </strong>(Class 5) Lifeskills - Preparing CV</summary>
  
-  * [5. ClassNotes.pdf](5.%20ClassNotes-02042026-SocialLifeskillsCV.pdf)  
+  * [5. ClassNotes.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/5.%20ClassNotes-02042026-SocialLifeskillsCV.pdf)  
   * Video  
   * **Other materials:**
-    * [0.AINotes-CVsResumes-HowTo.md](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.AINotes-CVsResumes-HowTo.md)
-    * [0.CornellUniv-ResumesAndCVs.pdf](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.CornellUniv-ResumesAndCVs.pdf)
-    * [0.HowToWriteYourCV.pdf](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.HowToWriteYourCV.pdf)
-    * [0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf](../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf)
+    * [0.AINotes-CVsResumes-HowTo.md](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.AINotes-CVsResumes-HowTo.md)
+    * [0.CornellUniv-ResumesAndCVs.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.CornellUniv-ResumesAndCVs.pdf)
+    * [0.HowToWriteYourCV.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.HowToWriteYourCV.pdf)
+    * [0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/../../2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf)
   * **Verified HW Solutions:**   
   * **Details:** 
     * Lifeskills - Preparing CV  
