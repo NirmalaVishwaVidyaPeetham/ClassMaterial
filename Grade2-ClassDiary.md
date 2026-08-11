@@ -800,6 +800,22 @@ No classes; Completed homeworks and revision;
    
    - HW: Complete your resume
    
-   - HW: Fix your CV based on classroom suggestions - see notes 
+   - HW: Fix your CV based on classroom suggestions - see notes
+
+**<u>29042026 Wednesday - 29052026 Friday:</u>**
+No classes; Completed all HWs; Revision
+
+
+**<u>01062026 Monday - 30062026 Tuesday:</u>**
+Summer break; No classes
+
+**<u>01072026 Monday - 10082026 Monday:</u>**
+1. No classes; Revision and music practice
+2. Completed reading the following books/novels:
+   1. Sahajayoga books: _The Tenth Incarnation_ and _The Awakening of the Navi Septa (Books 1, 2, 3)_
+   2. Other books: _The Tales of Beetle the Bard_ and _Harry Potter (Books- 1,2,3,4)_
+
+
+
 
 
