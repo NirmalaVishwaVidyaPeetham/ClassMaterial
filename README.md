@@ -1,12 +1,11 @@
 
 ---
 
-Welcome to **Nirmala Vishwa Vidya Peetham Homeschool**, a completely digital and advanced learning environment for children to learn in the modern world. Our approach focuses on interdisciplinary learning, meaning we break down traditional walls between school subjects so students immediately use concepts from various subjects together in hands-on projects, such as using concepts of math, science, social and coding to build music programs or 3D globe. Our holistic program also includes [Sahaja Yoga Meditation](#introduction-to-sahaja-yoga-meditation) as a crucial activity for supporting overall well-being. We use Artificial Intelligence (AI) integrated, fully digital environment and utilize eye-friendly e-ink technology, ensuring a permanent, searchable record of every lesson. 
+Welcome to **Nirmala Vishwa Vidya Peetham **, a completely digital, Artificial Intelligence (AI) integrated advanced homeschool learning environment for children in the modern world. Our approach focuses on interdisciplinary learning, breaking down traditional walls between school subjects as students use concepts from various topics simultaneously towards practical hands-on projects. Our holistic program includes [Sahaja Yoga Meditation](#introduction-to-sahaja-yoga-meditation) activities as core part of the curriculum to support overall student growth and well-being. The fully digital environment ensures a permanent, searchable record of every lesson, homework and project, open to the world. 
 
 
 ## Introduction to Sahaja Yoga Meditation
-We have also integrated Sahaja Yoga meditation as a part of our homeschool curriculum. If you are interested in how it works and the benefits it offers, please watch the video introduction [here](https://drive.google.com/file/d/1oWgFfzMNCR1hGIal0RxQMr7v3l57ANf3/view?usp=sharing) or a detailed PowerPoint presentation [here](https://docs.google.com/presentation/d/1ddhFRXDZGicnElHk9FxHlr6JQ70PG7yY/edit?usp=sharing&ouid=104652573605668601787&rtpof=true&sd=true).
-
+For a detailed introduction to Sahajayoga and its benefits, please watch the video introduction [here](https://drive.google.com/file/d/1oWgFfzMNCR1hGIal0RxQMr7v3l57ANf3/view?usp=sharing) and see the detailed PowerPoint presentation [here](https://docs.google.com/presentation/d/1ddhFRXDZGicnElHk9FxHlr6JQ70PG7yY/edit?usp=sharing&ouid=104652573605668601787&rtpof=true&sd=true).
 
   
 ## Navigate by Subject
