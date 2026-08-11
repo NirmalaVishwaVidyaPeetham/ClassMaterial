@@ -7,7 +7,8 @@
 
 **Music:**
 
-1. Hindustani ragas/songs practiced  - ayi ayi song
+0. Practice setup - code - first stage 0/1/-1 random step moves play swaras and we have to guess/play and it matches .. second stage 0/+-1/+-2 step jumps it plays n we guess n it detects putch n matches.. and so on .. like 10 stages.. u complete n u r good at detecting any song's swaras
+1. Hindustani ragas/songs practiced  - ayi ayi song ; Brahmamokkate
 2. Carnatic music \- gamakas  
 3. * Hindustani vs carnatic .. gamakas.. embellishments of notes
      * https://m.youtube.com/watch?v=StBjFqBCBHQ
@@ -35,12 +36,17 @@
 
 **Social:**
 
+0. CJ sahaj education vision: https://link.getqr.com/CuZMBwn 
 1. Presentation on AI homeschool paper  
 2. SY Poster  
 3. Learn geography \- countries \- capitals, states in US/India
+4. Education enlightened 
+5. US/India gov branches, how policies are made etc  Other forms of governance examples - china, russia, arabia etc. 
+6. Media biases
 
 **Tech:**
 
+0. Md file edit - cross platform - obsidian
 1. Tech \- md vs html vs latex \- github pages \- fix our website;  markdown online - https://md2word.com/en 
    1. English \- create a copy writing practice book and then complete it; another with cursive font; Add cover pages, page background images etc. to make it a complete book  
       1. [https://www.overleaf.com/latex/templates/fontspec-all-the-fonts/hjrpnxhrrtxc](https://www.overleaf.com/latex/templates/fontspec-all-the-fonts/hjrpnxhrrtxc)   
@@ -51,6 +57,7 @@
 2. How AI is reshaping college for students and professors \- PBS news hour video  
 3. Problems with technology \- on attention, eyes, children etc.; Read scientific papers; Social media \- problems;   
 4. Agentic AI  
+5. AI problems: https://www.pnas.org/doi/10.1073/pnas.2422633122 ; cognitive debt paper
 
 **Maths:** 
 
