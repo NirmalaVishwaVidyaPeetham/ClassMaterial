@@ -827,3 +827,22 @@ No classes; Completed homeworks and revision;
    The Tenth Incarnation (Sahaja Yoga) 
    Harry Potter Books 1,2,3,4; The Tales of Beetle the Bard
    
+   
+   
+   
+   
+   
+
+TODOs:
+
+Drones - project
+
+AI homeschool paper - coauthor invitation
+
+Chandassu paper - this month
+
+Overview - Grade 2
+
+Rest of the week - wrap up all the subjects for Grade 2
+
+Music - new songs
