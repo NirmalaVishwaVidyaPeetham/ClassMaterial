@@ -3,3 +3,19 @@ title: Nirmala Vishwa Vidya Peetham
 
 # Build settings
 markdown: GFM
+
+# Stop Jekyll from scanning heavy non-HTML/non-Markdown assets
+# to reduce build time for github pages
+exclude:
+  - "**/*.pdf"
+  - "**/*.xlsx"
+  - "**/*.docx"
+  - "**/*.pptx"
+  - "**/*.mp3"
+  - "**/*.png"
+  - "**/*.jpg"
+  - "**/*.jpeg"
+  - "**/*.py"
+  - "**/*.ipynb"
+  - Class_TODOs.md
+  - .github/
