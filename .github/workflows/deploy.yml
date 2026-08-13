@@ -39,7 +39,7 @@ jobs:
     steps:
       # Step 1.1: Download only the latest snapshot (skips past Git commit history)
       - name: Checkout Repository (Shallow Clone)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 1
 
@@ -57,7 +57,7 @@ jobs:
     steps:
       # Step 2.1: Shallow clone the repository to avoid fetching heavy past versions of PDFs/Excel files
       - name: Checkout Repository (Shallow Clone)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 1
 
