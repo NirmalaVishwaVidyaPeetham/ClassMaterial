@@ -287,7 +287,9 @@
      * Video   
      * **Verified HW Solutions:** 
        * [1\. HW-15052025-Science-AI-in-our-classroom-teachings.docx](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-15052025-Science-AI-in-our-classroom-teachings.docx) 
-       * [1\. HW-15052025-Science-AI-in-our-classroom-teachings.pdf](../..//2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-15052025-Science-AI-in-our-classroom-teachings.pdf)  
+       * [1\. HW-15052025-Science-AI-in-our-classroom-teachings.pdf](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-15052025-Science-AI-in-our-classroom-teachings.pdf)  
+       * [1\. HW-15052025-Science-AI-in-our-classroom-teachings.pdf](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/1.%20HW-15052025-Science-AI-in-our-classroom-teachings.pdf)
+       * [1\. HW-15052025-Science-ChandassuCarnaticMusic.pdf](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/3.%20ChandassuPronunciationInCarnaticMusic/1.%20HW-15052025-Science-ChandassuCarnaticMusic.pdf)
      * **Details:**   
        1. Checked AI quiz on scientific papers, review process etc.   
        2. Carnatic music raaga identification paper \- AI steps to understand it and summary   
