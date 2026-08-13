@@ -4,16 +4,15 @@
 # Site settings
 title: Nirmala Vishwa Vidya Peetham
 
-# Use kramdown as the primary markdown processor for Jekyll 4
-markdown: kramdown
+# Use GFM for Jekyll 3
+markdown: GFM
 
 # Enable GitHub Flavored Markdown (GFM) features inside kramdown
+# Use kramdown as the primary markdown processor for Jekyll 4
 #kramdown:
-#  input: GFM
-kramdown:
-  input: GFM                    # Forces the Kramdown engine to use GFM syntax rules
-  syntax_highlighter: rouge    # Matches GitHub's code block styling engine
-  gfm_quirks: [paragraph_end] # Eliminates rendering differences for lists/paragraphs
+#  input: GFM                    # Forces the Kramdown engine to use GFM syntax rules
+#  syntax_highlighter: rouge    # Matches GitHub's code block styling engine
+#  gfm_quirks: [paragraph_end] # Eliminates rendering differences for lists/paragraphs
 
 # ------------------------------------------------------------------------------
 # File & Directory Exclusions
@@ -30,3 +29,12 @@ exclude:
 # Disable LSI (Latent Semantic Indexing): If your local builds or action logs run slowly,
 # disable LSI in _config.yml since GitHub Pages does not support it anyway:
 lsi: false
+
+# Defaults to force page compilation across all Markdown files
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      published: true
