@@ -1,14 +1,19 @@
 # ==============================================================================
 # Jekyll Configuration File (_config.yml)
 # ==============================================================================
-
 # Site settings
 title: Nirmala Vishwa Vidya Peetham
 
-# Build settings
-markdown: GFM
+# Use kramdown as the primary markdown processor for Jekyll 4
+markdown: kramdown
+
+# Enable GitHub Flavored Markdown (GFM) features inside kramdown
+#kramdown:
+#  input: GFM
 kramdown:
-  input: GFM
+  input: GFM                    # Forces the Kramdown engine to use GFM syntax rules
+  syntax_highlighter: rouge    # Matches GitHub's code block styling engine
+  gfm_quirks: [paragraph_end] # Eliminates rendering differences for lists/paragraphs
 
 # ------------------------------------------------------------------------------
 # File & Directory Exclusions
@@ -19,6 +24,7 @@ exclude:
   - Class_TODOs.md          # Internal tasks file
   - .github/                # GitHub Actions workflow directory
   - Gemfile
+  - Gemfile.lock
 
 
 # Disable LSI (Latent Semantic Indexing): If your local builds or action logs run slowly,
