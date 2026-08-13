@@ -1,21 +1,26 @@
+# ==============================================================================
+# Jekyll Configuration File (_config.yml)
+# ==============================================================================
+
 # Site settings
 title: Nirmala Vishwa Vidya Peetham
 
 # Build settings
 markdown: GFM
+kramdown:
+  input: GFM
 
-# Stop Jekyll from scanning heavy non-HTML/non-Markdown assets
-# to reduce build time for github pages
+# ------------------------------------------------------------------------------
+# File & Directory Exclusions
+# ------------------------------------------------------------------------------
+# Only exclude internal development files, automation configs, or non-public docs.
+# DO NOT exclude *.pdf or *.xlsx if they are linked/downloaded on the live site!
 exclude:
-  - "**/*.pdf"
-  - "**/*.xlsx"
-  - "**/*.docx"
-  - "**/*.pptx"
-  - "**/*.mp3"
-  - "**/*.png"
-  - "**/*.jpg"
-  - "**/*.jpeg"
-  - "**/*.py"
-  - "**/*.ipynb"
-  - Class_TODOs.md
-  - .github/
+  - Class_TODOs.md          # Internal tasks file
+  - .github/                # GitHub Actions workflow directory
+  - Gemfile
+
+
+# Disable LSI (Latent Semantic Indexing): If your local builds or action logs run slowly,
+# disable LSI in _config.yml since GitHub Pages does not support it anyway:
+lsi: false

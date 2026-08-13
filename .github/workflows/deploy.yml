@@ -1,15 +1,25 @@
 # ==============================================================================
-# Workflow Name: Fast GitHub Pages Deployment
+# Workflow Name: Fast GitHub Pages Deployment (Dual Clean / Incremental Engine)
 # Displayed under the "Actions" tab in your GitHub repository.
 # ==============================================================================
 name: Fast GitHub Pages Deployment
 
 # ------------------------------------------------------------------------------
-# Trigger Rules: Runs automatically whenever commits are pushed to the main branch
+# Trigger Rules:
+# 1. Automatic trigger on git push (Runs as a FULL CLEAN build by default)
+# 2. Manual trigger from GitHub Actions UI (Optionally toggle Incremental Mode)
 # ------------------------------------------------------------------------------
 on:
   push:
     branches: ["main"]
+
+  workflow_dispatch:
+    inputs:
+      incremental_build:
+        description: "Run as an Incremental Build? (Default is Full Clean)"
+        type: boolean
+        required: false
+        default: false
 
 # ------------------------------------------------------------------------------
 # Permissions: Grant the workflow access to read code and deploy to GitHub Pages
@@ -24,7 +34,7 @@ permissions:
 # ------------------------------------------------------------------------------
 concurrency:
   group: "pages"
-  cancel-in-progress: true  # Aborts old running builds if a newer commit arrives
+  cancel-in-progress: true  # Aborts old running builds if a new commit arrives
 
 # ==============================================================================
 # Jobs Configuration
@@ -47,10 +57,10 @@ jobs:
       - name: Perform Repository Checks
         run: |
           echo "Running parallel checks while the site builds..."
-          # Optional: Add markdown linting or link-checker commands here in the future
+        # Optional: Add markdown linting or link-checker commands here in the future
 
   # ----------------------------------------------------------------------------
-  # JOB 2: Build Site using Jekyll 3 (Runs IN PARALLEL with Job 1)
+  # JOB 2: Build Site using Jekyll 4 (Evaluates Clean vs. Incremental Mode)
   # ----------------------------------------------------------------------------
   build:
     runs-on: ubuntu-latest
@@ -61,28 +71,48 @@ jobs:
         with:
           fetch-depth: 1
 
-      # Step 2.2: Configure GitHub Pages runner environment
+      # Step 2.2: Set up Ruby 3.2 and automatically cache installed Gemfile dependencies
+      - name: Setup Ruby and Cache Gems
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true  # Caches gems installed via Gemfile across runs
+
+      # Step 2.3: Configure GitHub Pages runner environment
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # Step 2.3: Cache Jekyll build artifacts between runs
-      # Unchanged Markdown/PDF pages are reused from cache instead of re-processed from scratch
-      - name: Cache Jekyll build artifacts
+      # Step 2.4: Always cache internal Jekyll compilation metadata
+      - name: Cache Jekyll Build Metadata
         uses: actions/cache@v4
         with:
           path: .jekyll-cache
-          key: ${{ runner.os }}-jekyll-${{ hashFiles('**/*.md', '_config.yml') }}
+          key: ${{ runner.os }}-jekyll-cache-${{ github.sha }}
           restore-keys: |
-            ${{ runner.os }}-jekyll-
+            ${{ runner.os }}-jekyll-cache-
 
-      # Step 2.4: Compile site with Jekyll 3 (Respects _config.yml and markdown: GFM)
-      - name: Build with Jekyll 3
-        uses: actions/jekyll-build-pages@v1
+      # Step 2.5: Conditionally restore/save compiled _site output ONLY when incremental mode is active
+      - name: Cache Compiled Site Output (Incremental Mode Only)
+        if: ${{ inputs.incremental_build == true }}
+        uses: actions/cache@v4
         with:
-          source: ./
-          destination: ./_site
+          path: _site
+          key: ${{ runner.os }}-jekyll-site-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-jekyll-site-
 
-      # Step 2.5: Package and upload built site as an artifact for deployment
+      # Step 2.6: Execute Jekyll 4 Build based on execution context
+      - name: Build with Jekyll 4
+        run: |
+          if [ "${{ inputs.incremental_build }}" = "true" ]; then
+            echo ">>> Executing INCREMENTAL Pass (Fast Differential) <<<"
+            JEKYLL_ENV=production bundle exec jekyll build --incremental --source ./ --destination ./_site
+          else
+            echo ">>> Executing FULL CLEAN Pass (Production Best Practice) <<<"
+            JEKYLL_ENV=production bundle exec jekyll build --source ./ --destination ./_site
+          fi
+
+      # Step 2.7:  Package and upload built site as an artifact for deployment
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -94,7 +124,7 @@ jobs:
   deploy:
     # Requires the 'build' job to complete successfully before executing
     needs: build
-    
+
     # Target environment for deployment URL tracking
     environment:
       name: github-pages
@@ -105,4 +135,4 @@ jobs:
       # Step 3.1: Publish compiled site artifact straight to GitHub Pages web servers
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
