@@ -1,0 +1,108 @@
+# ==============================================================================
+# Workflow Name: Fast GitHub Pages Deployment
+# Displayed under the "Actions" tab in your GitHub repository.
+# ==============================================================================
+name: Fast GitHub Pages Deployment
+
+# ------------------------------------------------------------------------------
+# Trigger Rules: Runs automatically whenever commits are pushed to the main branch
+# ------------------------------------------------------------------------------
+on:
+  push:
+    branches: ["main"]
+
+# ------------------------------------------------------------------------------
+# Permissions: Grant the workflow access to read code and deploy to GitHub Pages
+# ------------------------------------------------------------------------------
+permissions:
+  contents: read      # Read repository files and assets
+  pages: write         # Deploy built static files to GitHub Pages
+  id-token: write      # Secure authentication via OpenID Connect (OIDC)
+
+# ------------------------------------------------------------------------------
+# Concurrency: Cancel outdated builds automatically when pushing rapidly
+# ------------------------------------------------------------------------------
+concurrency:
+  group: "pages"
+  cancel-in-progress: true  # Aborts old running builds if a newer commit arrives
+
+# ==============================================================================
+# Jobs Configuration
+# ==============================================================================
+jobs:
+
+  # ----------------------------------------------------------------------------
+  # JOB 1: Parallel Checks & Validation (Runs IN PARALLEL with Job 2)
+  # ----------------------------------------------------------------------------
+  lint-and-validate:
+    runs-on: ubuntu-latest  # Runs on a fresh Linux virtual machine
+    steps:
+      # Step 1.1: Download only the latest snapshot (skips past Git commit history)
+      - name: Checkout Repository (Shallow Clone)
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      # Step 1.2: Place non-blocking tasks here (runs concurrently with the build step)
+      - name: Perform Repository Checks
+        run: |
+          echo "Running parallel checks while the site builds..."
+          # Optional: Add markdown linting or link-checker commands here in the future
+
+  # ----------------------------------------------------------------------------
+  # JOB 2: Build Site using Jekyll 3 (Runs IN PARALLEL with Job 1)
+  # ----------------------------------------------------------------------------
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 2.1: Shallow clone the repository to avoid fetching heavy past versions of PDFs/Excel files
+      - name: Checkout Repository (Shallow Clone)
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      # Step 2.2: Configure GitHub Pages runner environment
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      # Step 2.3: Cache Jekyll build artifacts between runs
+      # Unchanged Markdown/PDF pages are reused from cache instead of re-processed from scratch
+      - name: Cache Jekyll build artifacts
+        uses: actions/cache@v4
+        with:
+          path: .jekyll-cache
+          key: ${{ runner.os }}-jekyll-${{ hashFiles('**/*.md', '_config.yml') }}
+          restore-keys: |
+            ${{ runner.os }}-jekyll-
+
+      # Step 2.4: Compile site with Jekyll 3 (Respects _config.yml and markdown: GFM)
+      - name: Build with Jekyll 3
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      # Step 2.5: Package and upload built site as an artifact for deployment
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  # ----------------------------------------------------------------------------
+  # JOB 3: Deploy to GitHub Pages (Runs ONLY AFTER 'build' succeeds)
+  # ----------------------------------------------------------------------------
+  deploy:
+    # Requires the 'build' job to complete successfully before executing
+    needs: build
+
+    # Target environment for deployment URL tracking
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      # Step 3.1: Publish compiled site artifact straight to GitHub Pages web servers
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

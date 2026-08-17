@@ -695,6 +695,7 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
   * [2. ClassNotes.pdf](6.%20ScienceAndResearchProjects/1.%20ScienceAndTextbooks/2.%20Grade2/2.%20ClassNotes-29012026-Science-AIPaper.pdf)  
   * Video  
   * **Other materials:**   
+    * [3.AIHomeSchoolPaperDraft.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/3.AIHomeSchoolPaperDraft.docx) 
   * **Details:** 
     * AI in Homeschool paper - wrap up after submission; Created version of paper with AI meanings for a 7-year old  
     * HW: study this draft with meanings (Version 4.4) and fix any mistakes (compare wit Version 4.1)  
@@ -1240,4 +1241,36 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
     * Lifeskills - Preparing CV  
     * HW: Complete your resume  
     * HW: Fix your CV based on classroom suggestions - see notes
+</details>
+
+#### 03-Apr-2026 (Friday)
+* <details> <summary><strong>No classes: </strong>Revision, HW</summary>  
+</details>
+
+
+#### 06-Apr-2026 (Monday) - 17-Apr-2026 (Friday)
+* <details> <summary><strong>Spring break: </strong>Spring break; No classes</summary>  
+</details>
+
+
+#### 20-Apr-2026 (Monday) to 29-May-2026 (Friday)
+* <details> <summary><strong>No Classes: </strong>No classes;  Completed all HWs; Revision</summary>  
+</details>
+
+
+#### 01-Jun-2026 (Monday) to 30-Jun-2026 (Tuesday)
+* <details> <summary><strong>Summer break: </strong>No classes</summary>  
+</details>
+
+
+#### 01-Jul-2026 (Monday) to 10-Aug-2026 (Monday)
+* <details> <summary><strong>No Classes:</strong> Reading books and class notes revision </summary>
+
+  * No classes; Revision; Music, maths, programming practice
+  * Completed reading the following books/novels:
+    * Roald Dahl Magical Gift Set (Charlie and the Chocolate Factory, James and the Giant Peach, Fantastic Mr. Fox, Charlie and the Great Glass Elevator)
+    * Pokemon Classic Chapter Book Collection 
+    * The Awakening of the Navi Septa (Sahaja Yoga) - Books 1, 2, 3 
+    * The Tenth Incarnation (Sahaja Yoga)
+    * Harry Potter Books 1,2,3,4; The Tales of Beetle the Bard
 </details>

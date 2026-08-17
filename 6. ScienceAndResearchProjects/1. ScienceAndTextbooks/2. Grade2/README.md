@@ -21,6 +21,7 @@
   * [2. ClassNotes.pdf](2.%20ClassNotes-29012026-Science-AIPaper.pdf)  
   * Video  
   * **Other materials:**   
+    * [3.AIHomeSchoolPaperDraft.docx](../../2.%20ResearchProjects/2.%20ScientificPublicationsAndGrants/2.%20OurWorks/2.%20AIInClassroomTeaching/3.AIHomeSchoolPaperDraft.docx) 
   * **Details:** 
     * AI in Homeschool paper \- wrap up after submission; Created version of paper with AI meanings for a 7-year old  
     * HW: study this draft with meanings (Version 4.4) and fix any mistakes (compare wit Version 4.1)  
