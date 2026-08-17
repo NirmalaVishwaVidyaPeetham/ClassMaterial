@@ -816,7 +816,7 @@ No classes; Completed homeworks and revision;
 
 **<u>01062026 Monday - 30062026 Tuesday:</u>** Summer break; No classes
 
-**<u>01072026 Monday - 10082026 Monday:</u>**
+**<u>01072026 Monday - 17082026 Monday:</u>**
 
 1. No classes; Revision; Music, maths, programming practice
 
@@ -827,11 +827,23 @@ No classes; Completed homeworks and revision;
    The Tenth Incarnation (Sahaja Yoga) 
    Harry Potter Books 1,2,3,4; The Tales of Beetle the Bard
    
+   The Hobbit
    
    
    
    
+
+**<u>17082026 Monday:</u>**
+
+1. Progress Overview: 
    
+   1. Checked preschool progress of Neera, Sadashiva
+   
+   2. Grade 2 final overview and final grades for Virata
+      
+      
+
+
 
 TODOs:
 
@@ -846,3 +858,6 @@ Overview - Grade 2
 Rest of the week - wrap up all the subjects for Grade 2
 
 Music - new songs
+
+Legend of Dagad trikon
+Man who knew infinity 
