@@ -114,7 +114,7 @@ jobs:
 
       # Step 2.7:  Package and upload built site as an artifact for deployment
       - name: Upload Artifact
-        uses: actions/upload-pages-artifact@v7
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
 
