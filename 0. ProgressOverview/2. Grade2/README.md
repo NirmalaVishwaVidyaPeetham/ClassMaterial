@@ -23,3 +23,21 @@
 
 
 </details>
+
+<details>
+<summary><strong> 2. Grade 2 conclusion </strong></summary>
+
+* **Class 2 (17/08/2026): Concluding Grade 2 for Virata; Checked preschool progress of Neera, Sadashiva**
+
+  * [2. ClassNotes.pdf](0.%20ProgressOverview/2.%20Grade2/2.%20ClassNotes-17082026-ProgressOverview.pdf)  
+  * Video  
+  * **Other materials:**
+    * [2. SadashivaPreschoolMilestones.docx](0.%20ProgressOverview/0.%20%20PreschoolWork/2.%20SadashivaPreschoolMilestones.docx)  
+    * [2. SadashivaPreschoolMilestones.pdf](0.%20ProgressOverview/0.%20%20PreschoolWork/2.%20SadashivaPreschoolMilestones.pdf)  
+    * [3. NirmalaAmruthaPreschoolMilestones.docx](0.%20ProgressOverview/0.%20%20PreschoolWork/3.%20NirmalaAmruthaPreschoolMilestones.docx)  
+    * [3. NirmalaAmruthaPreschoolMilestones.pdf](0.%20ProgressOverview/0.%20%20PreschoolWork/3.%20NirmalaAmruthaPreschoolMilestones.pdf)  
+  * **Details:** 
+    * Checked preschool progress of Neera, Sadashiva  
+    * Grade 2 final overview and final grades for Virata  
+
+</details>
