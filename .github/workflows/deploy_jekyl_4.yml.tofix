@@ -84,7 +84,7 @@ jobs:
 
       # Step 2.4: Always cache internal Jekyll compilation metadata
       - name: Cache Jekyll Build Metadata
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: .jekyll-cache
           key: ${{ runner.os }}-jekyll-cache-${{ github.sha }}
@@ -94,7 +94,7 @@ jobs:
       # Step 2.5: Conditionally restore/save compiled _site output ONLY when incremental mode is active
       - name: Cache Compiled Site Output (Incremental Mode Only)
         if: ${{ inputs.incremental_build == true }}
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: _site
           key: ${{ runner.os }}-jekyll-site-${{ github.sha }}
@@ -114,7 +114,7 @@ jobs:
 
       # Step 2.7:  Package and upload built site as an artifact for deployment
       - name: Upload Artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v7
         with:
           path: ./_site
 

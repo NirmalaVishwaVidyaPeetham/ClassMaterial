@@ -1263,7 +1263,7 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 </details>
 
 
-#### 01-Jul-2026 (Monday) to 10-Aug-2026 (Monday)
+#### 01-Jul-2026 (Monday) to 14-Aug-2026 (Monday)
 * <details> <summary><strong>No Classes:</strong> Reading books and class notes revision </summary>
 
   * No classes; Revision; Music, maths, programming practice
@@ -1273,4 +1273,22 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
     * The Awakening of the Navi Septa (Sahaja Yoga) - Books 1, 2, 3 
     * The Tenth Incarnation (Sahaja Yoga)
     * Harry Potter Books 1,2,3,4; The Tales of Beetle the Bard
+    * The Hobbit
+</details>
+
+
+#### 17-Aug-2026 (Monday)
+
+* <details> <summary><strong>Overview: </strong>(Class 2) Checked preschool progress of Neera, Sadashiva</summary>
+
+  * [2. ClassNotes.pdf](0.%20ProgressOverview/2.%20Grade2/2.%20ClassNotes-17082026-ProgressOverview.pdf)  
+  * Video  
+  * **Other materials:**
+    * [2. SadashivaPreschoolMilestones.docx](0.%20ProgressOverview/0.%20%20PreschoolWork/2.%20SadashivaPreschoolMilestones.docx)  
+    * [2. SadashivaPreschoolMilestones.pdf](0.%20ProgressOverview/0.%20%20PreschoolWork/2.%20SadashivaPreschoolMilestones.pdf)  
+    * [3. NirmalaAmruthaPreschoolMilestones.docx](0.%20ProgressOverview/0.%20%20PreschoolWork/3.%20NirmalaAmruthaPreschoolMilestones.docx)  
+    * [3. NirmalaAmruthaPreschoolMilestones.pdf](0.%20ProgressOverview/0.%20%20PreschoolWork/3.%20NirmalaAmruthaPreschoolMilestones.pdf)  
+  * **Details:** 
+    * Checked preschool progress of Neera, Sadashiva  
+    * Grade 2 final overview and final grades for Virata   
 </details>
