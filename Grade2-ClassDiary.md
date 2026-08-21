@@ -826,7 +826,6 @@ No classes; Completed homeworks and revision;
    The Awakening of the Navi Septa (Sahaja Yoga) - Books 1, 2, 3
    The Tenth Incarnation (Sahaja Yoga) 
    Harry Potter Books 1,2,3,4; The Tales of Beetle the Bard
-   
    The Hobbit
    
    
@@ -843,7 +842,25 @@ No classes; Completed homeworks and revision;
       
       
 
+**<u>18082026 Tuesday, 19082026 Wednesday:</u>** More practice and revision on Maths/Science - proportions
 
+
+
+**<u>20082026 Thursday:</u>**
+
+1. Telugu: 
+   
+   1. Checked previous HWs - Grade 2 completed
+   
+   2. Checked some textbooks/novels to read
+      
+      1. Chandamama Kathalu 1947-7 - used AI to write down meanings for difficult words 
+         
+         1. HW: Must read this entire book and specify what else is needed from AI to simplify reading 
+   
+   3. 
+
+2. 
 
 TODOs:
 
@@ -861,3 +878,7 @@ Music - new songs
 
 Legend of Dagad trikon
 Man who knew infinity 
+
+తెలుగు: Chandamama kathalu - word by word meanings/translation
+
+Ramayanam - 9th/10th class telugu text
