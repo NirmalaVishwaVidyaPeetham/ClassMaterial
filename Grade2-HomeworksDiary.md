@@ -1439,3 +1439,8 @@ Went to a train trip from 3 April 2026 to 20 April 2026
 **_<u>20 August 2026 \- Thursday</u>_**
 1. Class Notes Revision: 1 hour \- 10:30 to 11:30 AM
 2. **_<u>Total: 1 hour</u>_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>21 August 2026 \- Friday</u>_**
+1. Telugu HW: 2 hours \- 10:00 AM to 12:00 PM
+2. Maths Practice: 1 hour \- 12:00 to 1:00 PM

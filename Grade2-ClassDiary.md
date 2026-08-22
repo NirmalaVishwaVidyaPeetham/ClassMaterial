@@ -857,10 +857,22 @@ No classes; Completed homeworks and revision;
       1. Chandamama Kathalu 1947-7 - used AI to write down meanings for difficult words 
          
          1. HW: Must read this entire book and specify what else is needed from AI to simplify reading 
-   
-   3. 
+            
+            
 
-2. 
+**<u>21082026 Friday:</u>** No classes; HWs and revision
+
+**<u>22082026 Saturday:</u>**
+
+1. Maths: Checked previous HWs; Wrapped up Grade 2
+
+2. English: Checked previous HWs; Wrapped up Grade 2
+   
+   
+   
+   
+   
+   
 
 TODOs:
 
@@ -882,3 +894,7 @@ Man who knew infinity
 తెలుగు: Chandamama kathalu - word by word meanings/translation
 
 Ramayanam - 9th/10th class telugu text
+
+Check all HW files added to class folders
+
+Sep HW: Complete Latex copy tracing telugu, hindi, english plain and cursive... ; Clean up drive folders HWs, boox notes, downloads etc.
