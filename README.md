@@ -9,7 +9,7 @@ For a detailed introduction to Sahajayoga and its benefits, please watch the vid
 
   
 ## Navigate by Subject
-Please click on the subject name to view its course materials.
+Please click on the subject name to view its course materials. [Class lecture videos coming soon...]
 
 <details markdown="1"> <summary><strong> Progress Overview </strong></summary>
 
@@ -168,6 +168,8 @@ Please click on the grade to access the class diary which provides day to day vi
 We openly share all curriculum and projects on our website to act as a blueprint for the future of personalized education. All our materials (except for class recordings) are available in the [NirmalaVishwaVidyaPeetham/ClassMaterial](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/) github repository. 
 
  <details markdown="1"> <summary><strong> Understanding our github repo</strong></summary>
+
+ Github pages: [nirmalavishwavidyapeetham.org][https://nirmalavishwavidyapeetham.github.io/ClassMaterial/]
 
   * **[ClassMaterial repo structure](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/)**
     * Currently, all material is for Grades 1 & 2 in our homeschool. Follow ClassDiary (md file) to see the class details for each school day in sequence. Each class also has a corresponding "ClassNotes__.pdf" file in its subject subfolder. The files/contents of each subject subfolder are ordered sequentially with prefixes 1., 2., 3. etc. along with date and one can follow them in that sequence to follow the course/teaching materials for that subject.
