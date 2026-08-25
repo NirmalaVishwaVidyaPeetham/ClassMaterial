@@ -165,7 +165,7 @@ Please click on the grade to access the class diary which provides day to day vi
 
 
 ## Github repository
-We openly share all curriculum and projects on our website to act as a blueprint for the future of personalized education. All our materials (except for class recordings) are available in the [NirmalaVishwaVidyaPeetham/ClassMaterial](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/) github repository. 
+We openly share all curriculum and projects on our website to act as a blueprint for the future of personalized education. All our class materials (video lecture recordings coming soon) are available in the [NirmalaVishwaVidyaPeetham/ClassMaterial](https://github.com/NirmalaVishwaVidyaPeetham/ClassMaterial/) github repository. 
 
 Github pages: [nirmalavishwavidyapeetham.org](https://nirmalavishwavidyapeetham.github.io/ClassMaterial/)
 
