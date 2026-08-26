@@ -1292,3 +1292,64 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
     * Checked preschool progress of Neera, Sadashiva  
     * Grade 2 final overview and final grades for Virata   
 </details>
+
+#### 18-Aug-2026 (Tuesday) & 19-Aug-2026 (Wednesday)
+
+* <details> <summary><strong>No classes: </strong>  More practice and revision on Maths/Science - proportions</summary></details>
+
+#### 20-Aug-2026 (Thursday)
+
+* <details> <summary><strong>Telugu: </strong>(Class 9) Checked previous HWs - Grade 2 completed</summary>
+
+  * [9. ClassNotes.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/9.%20Classnotes-20082026-Telugu.pdf)  
+  * Video  
+  * **Other materials:**
+    * [7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AITranslationSummary.DOCX](1.%20Languages/1.%20Telugu/2.%20Grade2/7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AITranslationSummary.DOCX)  
+    * [8.BharathaNeethiKathalu-AIExercises.DOCX](1.%20Languages/1.%20Telugu/2.%20Grade2/8.BharathaNeethiKathalu-AIExercises.DOCX)  
+  * **Verified HW Solutions:**
+    * [0. HW-class2-AP-telugu-textbook-Completed.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/0.%20HW-class2-AP-telugu-textbook-Completed.pdf)  
+    * [0. HW-class2-AP-telugu-workbook-Completed.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/0.%20HW-class2-AP-telugu-workbook-Completed.pdf)  
+    * [6. HW_HandwritingCopyTracing_Latex-Telugu-FixARa.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/6.%20HW_HandwritingCopyTracing_Latex-Telugu-FixARa.pdf)  
+  * **Details:** 
+    * Checked previous HWs - Grade 2 completed  
+    * Checked some textbooks/novels to read  
+      * Chandamama Kathalu 1947-7 - used AI to write down meanings for difficult words
+        * HW: Must read this entire book and specify what else is needed from AI to simplify reading   
+</details>
+
+
+#### 21-Aug-2026 (Friday)
+
+* <details> <summary><strong>No classes: </strong>  No classes; HWs and revision</summary></details>
+
+#### 22-Aug-2026 (Saturday)
+
+* <details> <summary><strong>Maths: </strong>(Class 9) Checked previous HWs; Wrapped up Grade 2</summary>
+
+  * [9. ClassNotes.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/9.%20ClassNotes-22082026-Maths.pdf)  
+  * Video  
+  * **Verified HW Solutions:**
+    * [6. HW-02032026-Maths_Find-All-The-Factors-For-2-Numbers.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/6.%20HW-02032026-Maths_Find-All-The-Factors-For-2-Numbers.pdf)  
+    * [6. HW-02032026-Maths_Ratios-Proportions-And-Percentages.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/6.%20HW-02032026-Maths_Ratios-Proportions-And-Percentages.pdf)  
+    * [7. HW-17032025-Maths_Solve-2-Simple-Equations.pdf](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/7.%20HW-17032025-Maths_Solve-2-Simple-Equations.pdf)  
+    * [7. HW-InverseProportions-Maths-170320226.docx](2.%20MathsProgrammingTechnology/1.%20Maths/2.%20Grade2/7.%20HW-InverseProportions-Maths-170320226.docx)  
+  * **Details:** 
+    * Checked previous HWs; Wrapped up Grade 2  
+</details>
+
+* <details> <summary><strong>English: </strong>(Class 9) Checked previous HWs; Wrapped up Grade 2</summary>
+
+  * [9. ClassNotes.pdf](1.%20Languages/2.%20English/2.%20Grade2/9.%20ClassNotes-22082026-English.pdf)  
+  * Video  
+  * **Other materials:**
+    * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](1.%20Languages/2.%20English/2.%20Grade2/0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)  
+  * **Verified HW Solutions:**
+    * [6. HW-HandwritingCopyTracing_Latex-EnglishCursive.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.%20HW-HandwritingCopyTracing_Latex-EnglishCursive.pdf)  
+    * [6. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf)  
+    * [6. HW-class2-AP-english-textbook.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.%20HW-class2-AP-english-textbook.pdf)  
+    * [6. HW-class2-AP-english-workbook.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.%20HW-class2-AP-english-workbook.pdf)  
+  * **Details:** 
+    * Checked previous HWs; Wrapped up Grade 2  
+</details>
+
+

@@ -80,7 +80,12 @@
   * Video  
   * **Other materials:**
     * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)
-	* [6.LIfeOfMahaviraChapter3-FamilyRelationsBirth.pdf](6.LIfeOfMahaviraChapter3-FamilyRelationsBirth.pdf)  
+	* [6.LIfeOfMahaviraChapter3-FamilyRelationsBirth.pdf](6.LIfeOfMahaviraChapter3-FamilyRelationsBirth.pdf) 
+  * **Verified HW Solutions:**
+     * [6. HW-HandwritingCopyTracing_Latex-EnglishCursive.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.%20HW-HandwritingCopyTracing_Latex-EnglishCursive.pdf)  
+     * [6. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf)  
+     * [6. HW-class2-AP-english-textbook.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.%20HW-class2-AP-english-textbook.pdf)  
+     * [6. HW-class2-AP-english-workbook.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.%20HW-class2-AP-english-workbook.pdf)   
   * **Details:** 
     * HW: Complete (1) AP textbook (2) Ap workbook (3) Copy tracing book (4) Copy tracing cursive  
     * Mahavira -Chapter 3 - AI Summary  
@@ -121,4 +126,20 @@
     * HW: Read this summary  
 
 
+</details>
+
+<details> <summary><strong>4. Grade2 completion</strong></summary>
+
+  * **Class 9 (22/08/2026): Checked previous HWs; Wrapped up Grade 2** 
+    * [9. ClassNotes.pdf](1.%20Languages/2.%20English/2.%20Grade2/9.%20ClassNotes-22082026-English.pdf)  
+     * Video  
+     * **Other materials:**
+        * [1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx](1.%20Languages/2.%20English/2.%20Grade2/0.Books/1.3.LifeOfMahavira-1908-Summary-NotCorrected.docx)  
+     * **Verified HW Solutions:**
+        * [6. HW-HandwritingCopyTracing_Latex-EnglishCursive.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.%20HW-HandwritingCopyTracing_Latex-EnglishCursive.pdf)  
+        * [6. HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.%20HW-HandwritingCopyTracing_Latex-EnglishHandwritingFont.pdf)  
+        * [6. HW-class2-AP-english-textbook.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.%20HW-class2-AP-english-textbook.pdf)  
+        * [6. HW-class2-AP-english-workbook.pdf](1.%20Languages/2.%20English/2.%20Grade2/6.%20HW-class2-AP-english-workbook.pdf)  
+     * **Details:** 
+        * Checked previous HWs; Wrapped up Grade 2  
 </details>

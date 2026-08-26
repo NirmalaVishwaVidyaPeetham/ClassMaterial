@@ -69,7 +69,7 @@
     * HW: (1) Read Telugu story, english story paragraph by paragraph and write meanings of difficult words (2) Do this for Telugu/English summaries as well  (3) Memorize the summaries and describe in your own words  
 
 
-* **Class 5 (06/02/2026): Nakka-puli kadha** 
+* **Class 5 (06/02/2026): Bharatha Neethi Kathalu : Nakka-puli kadha** 
   * [5. ClassNotes.pdf](5.%20ClassNotes-06022026-Telugu.pdf)  
   * Video  
   * **Other materials:** 
@@ -107,6 +107,7 @@
 	* [7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AITranslationSummary-Uncorrected.DOCX](7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AITranslationSummary-Uncorrected.DOCX)
 	* [7.MushikaMarjalalaKatha-BharathaNeethiKathalu.pdf](7.MushikaMarjalalaKatha-BharathaNeethiKathalu.pdf)
 	* [7.TeluguSahajaYogaBhajans-AIExercises.DOCX](7.TeluguSahajaYogaBhajans-AIExercises.DOCX)
+    * [7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AITranslationSummary.DOCX](1.%20Languages/1.%20Telugu/2.%20Grade2/7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AITranslationSummary.DOCX) 
   * **Verified HW Solutions:** 
 	* [7.HW-TeluguSahajaYogaBhajans-AIExercises-Corrected.DOCX](7.HW-TeluguSahajaYogaBhajans-AIExercises-Corrected.DOCX)  
   * **Details:** 
@@ -132,4 +133,24 @@
     * HW: Complete these exercises  
 
 
+</details>
+
+
+<details> <summary><strong>4. Grade 2 completion</strong></summary>
+
+  * **Class 9 (20/08/2026): Checked previous HWs - Grade 2 completed** 
+    * [9. ClassNotes.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/9.%20Classnotes-20082026-Telugu.pdf)  
+     * Video  
+     * **Other materials:** 
+        * [7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AITranslationSummary.DOCX](1.%20Languages/1.%20Telugu/2.%20Grade2/7.MushikaMarjaalalaKatha-BharathaNeethiKathalu-AITranslationSummary.DOCX)  
+        * [8.BharathaNeethiKathalu-AIExercises.DOCX](1.%20Languages/1.%20Telugu/2.%20Grade2/8.BharathaNeethiKathalu-AIExercises.DOCX)  
+     * **Verified HW Solutions:**
+        * [0. HW-class2-AP-telugu-textbook-Completed.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/0.%20HW-class2-AP-telugu-textbook-Completed.pdf)  
+        * [0. HW-class2-AP-telugu-workbook-Completed.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/0.%20HW-class2-AP-telugu-workbook-Completed.pdf)  
+        * [6. HW_HandwritingCopyTracing_Latex-Telugu-FixARa.pdf](1.%20Languages/1.%20Telugu/2.%20Grade2/6.%20HW_HandwritingCopyTracing_Latex-Telugu-FixARa.pdf)  
+     * **Details:** 
+        * Checked previous HWs - Grade 2 completed  
+        * Checked some textbooks/novels to read  
+          * Chandamama Kathalu 1947-7 - used AI to write down meanings for difficult words  
+            * HW: Must read this entire book and specify what else is needed from AI to simplify reading
 </details>
