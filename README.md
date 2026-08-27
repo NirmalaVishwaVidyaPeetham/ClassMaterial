@@ -7,7 +7,9 @@ Welcome to **Nirmala Vishwa Vidya Peetham**, a completely digital, Artificial In
 ## Introduction to Sahaja Yoga Meditation
 For a detailed introduction to Sahajayoga and its benefits, please watch the video introduction [here](https://drive.google.com/file/d/1oWgFfzMNCR1hGIal0RxQMr7v3l57ANf3/view?usp=sharing) and see the detailed PowerPoint presentation [here](https://docs.google.com/presentation/d/1ddhFRXDZGicnElHk9FxHlr6JQ70PG7yY/edit?usp=sharing&ouid=104652573605668601787&rtpof=true&sd=true).
 
-  
+ ## AI integration
+Please see this article to understand how we integrate AI in our curriculum: https://doi.org/10.13140/RG.2.2.36346.15044 (https://doi.org/10.13140/RG.2.2.36346.15044) 
+ 
 ## Navigate by Subject
 Please click on the subject name to view its course materials. [Class lecture videos coming soon...]
 
