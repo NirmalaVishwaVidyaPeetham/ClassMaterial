@@ -1,4 +1,4 @@
-**Daily student duties:**
+to**Daily student duties:**
 
 1. Daily total homework/study time: Minimum 3 hours 40 minutes \- Maximum 5 hours 40 minutes \- plus 20 minutes eye exercises  
    1. Today's First subject HW \- minimum 1 hour, maximum 2 hours (see today's class notes also)  
@@ -1159,7 +1159,6 @@ _<u>1 April 2026 \- Wednesday</u>_
 
 _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-
 **_<u>2 April 2026 \- Tuesday</u>_**
 
 1. Programming HW: 1 hour \- 9:00 to 10:00 AM
@@ -1173,8 +1172,8 @@ _\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 5. Music Practice: 20 minutes \- 1:20 to 1:40 PM
 
 6. **_<u>Total: 3 hours 30 minutes</u>_**
-
-
+   
+   
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
@@ -1426,21 +1425,86 @@ Went to a train trip from 3 April 2026 to 20 April 2026
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>18 August 2026 \- Tuesday</u>_**
+
 1. Music Practice: 30 minutes \- 8:10 to 8:30 AM
 2. Programming Practice: 1 hour \- 10:10 to 11:10 AM
 3. Total: 1 hour 30 minutes
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>19 August 2026 \- Wednesday</u>_**
+
 1. Science/Maths HW: 5 hours \- 9:00 AM to 2:00 PM
 2. Total: 5 hours
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>20 August 2026 \- Thursday</u>_**
+
 1. Class Notes Revision: 1 hour \- 10:30 to 11:30 AM
 2. **_<u>Total: 1 hour</u>_**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>21 August 2026 \- Friday</u>_**
+
 1. Telugu HW: 2 hours \- 10:00 AM to 12:00 PM
 2. Maths Practice: 1 hour \- 12:00 to 1:00 PM
+3. Music Practice: 30 minutes \- 1:30 to 2:00 PM to 
+4. Total: 3 hours 30 min
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>24 August 2026 \- Monday</u>_**
+
+1. English textbook: 10:00 to 11:00 AM
+2. Maths: 11:00 AM to 12:00 PM
+3. Telugu: 12:00 to 1:00 PM
+4. Music Practice: 2:10 to 2:40PM
+5. Total: 3 hours 30 min
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>25 August 2026 \- Tuesday</u>_**
+
+1. Programming: 4 hours 30 minutes \-  10:00 AM to 3:30 PM (1 hour break)
+2. Music Practice: 30 minutes \- 4:30 to 5:00 PM
+3. Class Notes Revision: 30 minutes \- 5:00 to 5:30PM
+4. Total: 5 hours 30 min
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>26 August 2026 \- Wednesday</u>_**
+
+1. Programming HW: 7 hours 30 minutes \- 9:30 AM to 7:00 PM (2 hours break)
+2. **_<u>Total: 7 hours 30 minutes</u>_**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>27 August 2026 \- Thursday</u>_**
+
+1. Programming HW: 2 hours \- 10:00 AM to 12:00 PM
+2. Music Practice: 30 minutes \- 12:30 to to 1:00 PM
+3. English HW: 1 hour \- 3:00 to 4:00 PM
+4. Total: 3 hours 30 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>28 August 2026 \- Friday</u>_**
+
+1. English HW: 2 hours \- 9:00 to 10:00 AM; 11:00 AM to 12:00 PM
+2. Telugu HW: 1 hour \- 10:00 to 11:00 AM
+3. Music Practice: 30 minutes \- 12:00 to 12:00 PM
+4. Total: 3 hours 30 minutes 
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>31 August 2026 \- Monday</u>_**
+
+1. Class Notes Revision: 1 hour \- 9:40 to 10:40 AM
+2. English HW: 2 hours \- 10:40 to 11:40 AM; 7:50 to 8:50 PM
+3. Telugu HW: 1 hour \- 11:45 AM to 12:45 PM
+4. Music Practice: 30 minutes \- 12:45 to 1:15 PM
+5. Total: 4 hours 30 minutes 
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>1 September 2026 \- Tuesday</u>_**
+
+1. English HW: 1 hour \- 9:00 to 10:00 AM
+2. Telugu HW: 1 hour \- 10:00 to 11:00 AM
+3. Maths HW: 1 hour \- 11:30 AM to 12:30 PM
+4. Music Practice: 30 minutes \- 12:35 PM to 1:05 PM
+5. Total: 3 hours 30 minutes
+
+

@@ -869,10 +869,34 @@ No classes; Completed homeworks and revision;
 2. English: Checked previous HWs; Wrapped up Grade 2
    
    
+
+**<u>24082026 Monday:</u>**
+
+1. Programming: (Part 1) Checked previous HWs (Problems 1 to 10); AI notes about binary representation of negative numbers
    
-   
-   
-   
+   1. HW: Practice 20 different negative numbers binary representation and vice versa (8 bits); 
+      
+      
+
+**<u>25082026 Tueday - 31082026 Monday:</u>**
+
+No classes; Completed programming HWs (new and old); Revision; Submitted AI Homeschool paper to a journal; Worked on Grade 3 English, Telugu, Maths textbooks.  
+
+
+
+**<u>01092026 Tuesday:</u>**
+
+1. Programming: (Part 2) : Checked previous HWs. 
+   1. HW: Practice circular shift functions and explain to your parents.
+   2. HW: Practice alll these HW problems again and verify manually and in Python
+      
+      
+      
+      
+      
+      
+      
+      
 
 TODOs:
 
@@ -898,3 +922,7 @@ Ramayanam - 9th/10th class telugu text
 Check all HW files added to class folders
 
 Sep HW: Complete Latex copy tracing telugu, hindi, english plain and cursive... ; Clean up drive folders HWs, boox notes, downloads etc.
+
+Programming - negative numbers binary 
+
+
