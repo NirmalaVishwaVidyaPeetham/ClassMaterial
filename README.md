@@ -8,7 +8,7 @@ Welcome to **Nirmala Vishwa Vidya Peetham**, a completely digital, Artificial In
 For a detailed introduction to Sahajayoga and its benefits, please watch the video introduction [here](https://drive.google.com/file/d/1oWgFfzMNCR1hGIal0RxQMr7v3l57ANf3/view?usp=sharing) and see the detailed PowerPoint presentation [here](https://docs.google.com/presentation/d/1ddhFRXDZGicnElHk9FxHlr6JQ70PG7yY/edit?usp=sharing&ouid=104652573605668601787&rtpof=true&sd=true).
 
  ## AI integration
-Please see this article to understand how we integrate AI in our curriculum: [Breaking silos in early childhood education: a case study on leveraging LLMs for an AI-integrated, fully digital curriculum](https://www.researchsquare.com/article/rs-8695603/latest) 
+Please see this article to understand how we integrate AI in our curriculum: [Breaking disciplinary silos in elementary education: a case study leveraging large language models](https://www.researchsquare.com/article/rs-8695603/latest) 
  
 ## Navigate by Subject
 Please click on the subject name to view its course materials. [Class lecture videos coming soon...]
