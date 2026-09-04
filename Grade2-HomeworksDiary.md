@@ -1,6 +1,6 @@
-to**Daily student duties:**
+**Daily student duties:**
 
-1. Daily total homework/study time: Minimum 3 hours 40 minutes \- Maximum 5 hours 40 minutes \- plus 20 minutes eye exercises  
+1. Daily total homework/study time: Minimum 3 hours 40 minutes \- Maximum 5 hours 40 in minutes \- plus 20 minutes eye exercises  
    1. Today's First subject HW \- minimum 1 hour, maximum 2 hours (see today's class notes also)  
    2. Today's Second subject HW \- minimum 1 hour, maximum 2 hours (see today's class notes also)  
    3. Tomorrow's subjects class notes \- first subject 20 minutes; second subject \- 20 minutes  
@@ -1507,4 +1507,17 @@ Went to a train trip from 3 April 2026 to 20 April 2026
 4. Music Practice: 30 minutes \- 12:35 PM to 1:05 PM
 5. Total: 3 hours 30 minutes
 
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>2 September 2026 \- Wednesday</u>_**
+1. Programming HW: 1 hour \- 10:00 to 11:00 AM
+2. English HW: 2 hours \- 11:00 AM to 1:15 PM (15 minutes break)
+3. Music Practice: 30 minutes \- 1:15 to 1:45 PM
+4. Total: 3 hours 30 minutes 
 
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>3 September 2026 \- Thursday</u>_**
+1. Programming HW: 1 hour \- 9:00 to 10:00 AM
+2. English HW: 2 hours \- 10:30 AM to 12:30 PM
+3. Music Practice: 30 minutes \- 12:30 to 1:00 PM
+4. Total: 3 hours 30 minutes 
+5. Other Books: 1 hour 45 minutes \- 1:30 to 3:15 PM

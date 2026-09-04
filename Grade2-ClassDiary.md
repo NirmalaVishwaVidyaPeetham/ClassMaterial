@@ -891,12 +891,38 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    2. HW: Practice alll these HW problems again and verify manually and in Python
       
       
-      
-      
-      
-      
-      
-      
+
+**<u>02092026 Wednesday, 03092026 Thursday:</u>** No classes; Revision, homeworks; 
+
+
+
+**<u>04092026 Friday:</u>** 
+
+1. Technology: 
+   
+   1. Checked previous HWs
+   
+   2. AI notes on how to convert binary to base16 or base64
+   
+   3. HW: Convert 5 binary strings (length > 24 bits) to base 16 and base 64; (For two of them, convert to decimal also); Convert 5 base64 strings to base16;
+
+2. Social: Checked previous HWs - resume, CV; AI review on CV, resume shortcomings; AI version of CV; 
+   
+       HW: Prepare resume based on AI CV version;
+
+
+
+
+
+1. Devanagari:
+
+2. Science:
+
+3. Music:
+   
+   
+   
+   
 
 TODOs:
 
@@ -924,5 +950,3 @@ Check all HW files added to class folders
 Sep HW: Complete Latex copy tracing telugu, hindi, english plain and cursive... ; Clean up drive folders HWs, boox notes, downloads etc.
 
 Programming - negative numbers binary 
-
-
