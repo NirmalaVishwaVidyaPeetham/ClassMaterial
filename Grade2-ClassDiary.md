@@ -907,24 +907,33 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    3. HW: Convert 5 binary strings (length > 24 bits) to base 16 and base 64; (For two of them, convert to decimal also); Convert 5 base64 strings to base16;
 
 2. Social: Checked previous HWs - resume, CV; AI review on CV, resume shortcomings; AI version of CV; 
-   
        HW: Prepare resume based on AI CV version;
-
-
-
-
-
-1. Devanagari:
-
-2. Science:
-
-3. Music:
    
    
-   
-   
+
+**<u>07092026 Monday - 14092026 Monday:</u>** No classes; Completed HWs, Revision; Attended Shri Krishna puja and Shri Ganesh puja at Canajoharie!
+
+
+
+**<u>15092026 Tuesday:</u>**
+
+1. Music: Checked previous HWs; Wrapped up Grade 2; Todos for Grade 3; 
+
+
+
+
+
+* Devanagari:
+
+* Science:
+  
+  
 
 TODOs:
+
+Music: Grade 3 mainly gamakas and singing practice; Practice recognizing notes faster; Gamakas - continuous transitions - say, 10  - then 72 * 10^7 possibilities - which ones are picked for the raagas? ; Move music code/apps to Music folder;  10 new songs - compile together with original script, phonetic script, english meaning, laghu/guru breakdown, whole meaning
+
+
 
 Drones - project
 
@@ -950,3 +959,5 @@ Check all HW files added to class folders
 Sep HW: Complete Latex copy tracing telugu, hindi, english plain and cursive... ; Clean up drive folders HWs, boox notes, downloads etc.
 
 Programming - negative numbers binary 
+
+
