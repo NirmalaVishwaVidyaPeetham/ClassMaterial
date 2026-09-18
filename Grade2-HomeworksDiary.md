@@ -1509,6 +1509,7 @@ Went to a train trip from 3 April 2026 to 20 April 2026
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>2 September 2026 \- Wednesday</u>_**
+
 1. Programming HW: 1 hour \- 10:00 to 11:00 AM
 2. English HW: 2 hours \- 11:00 AM to 1:15 PM (15 minutes break)
 3. Music Practice: 30 minutes \- 1:15 to 1:45 PM
@@ -1516,6 +1517,7 @@ Went to a train trip from 3 April 2026 to 20 April 2026
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>3 September 2026 \- Thursday</u>_**
+
 1. Programming HW: 1 hour \- 9:00 to 10:00 AM
 2. English HW: 2 hours \- 10:30 AM to 12:30 PM
 3. Music Practice: 30 minutes \- 12:30 to 1:00 PM
@@ -1524,52 +1526,85 @@ Went to a train trip from 3 April 2026 to 20 April 2026
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>7 September 2026 \- Monday</u>_**
+
 1. Telugu: 1 hour \- 6:45 to 7:45 PM
-2.Total: 1 hour
+   2.Total: 1 hour
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>8 September 2026 \- Tuesday</u>_**
+
 1. English: 2 hours \- 10:00 to 12:00 PM
 2. Music Practice: 20 minutes \- 12:05 to 12:20 PM
 3. Maths: 1 hour 15 minutes \- 2:30 - 3:45PM
-3. Total: 3 hours 35 minutes
-
+4. Total: 3 hours 35 minutes
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>9 September 2026 \- Wednesday</u>_**
+
 1. Telugu: 2 hours \- 10:30 to 12:30 PM
 2. Music Practice: 50 minutes \- 12:35 to 1:25 PM
 3. Maths: 1 hour \- 2:30 - 3:45PM
 4. Total: 3 hours 50 minutes
-
-
+   
+   
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>10 September 2026 \- Thursday</u>_**
+
 1. Telugu: 2 hours \- 10:45 to 12:45 PM
 2. Music Practice: 20 minutes \- 12:45 to 1:05 PM
 3. Maths: 2 hour 25 minutes \- 3:30 - 5:55PM
-3. Total: 4 hours 35 minutes
-
-
+4. Total: 4 hours 35 minutes
+   
+   
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>11 September 2026 \- Friday day</u>_**
 
 1. Music Practice: 35 minutes \- 10:05 to 10:35AM
-3. Maths: 3 hour 10 minutes \- 10:45 - 1:55PM
+2. Maths: 3 hour 10 minutes \- 10:45 - 1:55PM
 3. Total: 3 hours 45 minutes
-
-
+   
+   
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>14 September 2026 \- Sunday</u>_**
+
 1. Telugu: 3 hours \- 10:00 to 1:00 PM
 2. Total: 3 hours 
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>15 September 2026 \- Monday</u>_**
+
 1. Telugu: 3 hours \- 7:00 to 10:00 AM
 2. Music Practice: 30 minutes \- 10:30 to 11:00 AM
 3. Total: 3 hours 30 minutes
- 
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>16 September 2026 \- Wednesday</u>_**
+
+1. Telugu: 30 minutes \- 10:30 to 11:00 AM
+2. Social: 30 minutes \- 11:00 to 11:30 AM
+3. Maths: 1 hour \- 11:30 AM to 12:30 PM
+4. Class Notes Revision: 1 hour \- 12:30 to 1:30 PM
+5. English HW: 2 hours \- 1:30 to 2:30 PM; 3:00 to 4:00 PM
+6. Music Practice: 30 minutes \- 2:30 to 3:00 PM
+7. Total: 5 hours 30 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>17 September 2026 \- Thursday</u>_**
+
+1. English: 1 hour \- 9:00 to 10:00 AM
+2. Technology: 4 hours 10 minutes \- 10:00 AM to 12:30 PM; 8:30 to 10:10 PM
+3. Music Practice: 50 minutes \- 2:30 to 3:00 PM; 10:10 to 10:30 PM
+4. Class Notes Revision: 30 minutes \- 3:30 to 4:00 PM
+5. Total: 6 hours 30 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>18 September 2026 \- Thursday</u>_**
+
+1. Maths: 2 hours \- 10:20 AM to 12:20 PM
+2. Music: 30 minutes \- 12:30 to 1:00 PM
+3. Class Notes Revision: 1 hour \- 1:00 to 2:00 PM
+4. Eye exercise: 2:00 to 2:10 PM (Not included in total)
+5. Total: 3 hours 30 minutes
