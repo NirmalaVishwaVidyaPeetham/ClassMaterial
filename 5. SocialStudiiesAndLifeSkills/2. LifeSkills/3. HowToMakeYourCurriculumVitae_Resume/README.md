@@ -33,10 +33,25 @@
     * [0.HowToWriteYourCV.pdf](0.HowToWriteYourCV.pdf)
     * [0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf](0.UniversityOfIllinois-AcademicCV-tips-and-samples.pdf)
   * **Verified HW Solutions:**   
+    * [2. HW-02042026-Social_Life-Skills_VP-CV.md](2.%20HW-02042026-Social_Life-Skills_VP-CV.md)  
+    * [2. HW-02042026-Social_Life-Skills_VP-Resume.md](2.%20HW-02042026-Social_Life-Skills_VP-Resume.md)
+
   * **Details:** 
     * Lifeskills - Preparing CV  
     * HW: Complete your resume  
     * HW: Fix your CV based on classroom suggestions - see notes  
+  
+
+  * **Class 3 (04/09/2026):More on resume, CV; AI review on CV, resume shortcomings** 
+    * [3. ClassNotes.pdf](3.%20ClassNotes-04092026-SocialSkills-CV.pdf)  
+    * Video  
+    * **Other materials:**
+        * [3. AI-CV-Virata Pusuluri.md](3.%20AI-CV-Virata%20Pusuluri.md)  
+    * **Verified HW Solutions:**  
+        * [3. AI-Review-HW-CV-Resume.md](3.%20AI-Review-HW-CV-Resume.md)  
+    * **Details:** 
+        * Checked previous HWs - resume, CV; AI review on CV, resume shortcomings; AI version of CV;  
+        * HW: Prepare resume based on AI CV version;  
 
 
 </details>

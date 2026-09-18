@@ -1353,3 +1353,126 @@ This file shows the class diary followed for Grade 2 for all the subjects sorted
 </details>
 
 
+#### 24-Aug-2026 (Monday)
+
+* <details> <summary><strong>Programming: </strong>(Class 8) (Part 1) Checked previous HWs (Problems 1 to 10); AI notes about binary representation of negative numbers</summary>
+
+  * [8. ClassNotes.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/8.%20ClassNotes-01092026-Pro.pdf)  
+  * Video  
+  * **Other materials:** 
+    * [7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf)  
+    * [7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf)  
+    * [8.AI-Notes-AdvancedeOperators-Exercise4-NotOperatorInPython.md](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/8.AI-Notes-AdvancedeOperators-Exercise4-NotOperatorInPython.md)   
+  * **Verified HW Solutions:**
+    * [7. HW-24032026-Programming_Problems.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/7.%20HW-24032026-Programming_Problems.py)  
+    * [7. HW-24032026-Programming-Corrected-Solutions.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20HW-24032026-Programming-Corrected-Solutions.pdf)  
+    * [7. HW-24032026-Programming_AI-Binary-Bitwise-Boolean-Problems-Incomplete.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20HW-24032026-Programming_AI-Binary-Bitwise-Boolean-Problems-Incomplete.pdf)  
+    * [7. HW-AdvanceOperators-AINotes-Exercises-Corrected.md](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20HW-AdvanceOperators-AINotes-Exercises-Corrected.md)  
+    * [7. HW-BitwiseOperators-AINotes-Exercises-Corrected.md](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20HW-BitwiseOperators-AINotes-Exercises-Corrected.md)  
+    * [8. HW-24032026-Programming_NegativeDecimalBinary.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/8.%20HW-24032026-Programming_NegativeDecimalBinary.pdf)  
+  * **Details:** 
+    * (Part 1) Checked previous HWs (Problems 1 to 10); AI notes about binary representation of negative numbers  
+    * HW: Practice 20 different negative numbers binary representation and vice versa (8 bits);  
+</details>
+
+
+#### 25-Aug-2026 (Tuesday) to 31-Aug-2026 (Monday)
+
+* <details> <summary><strong>No classes: </strong> No classes; Completed programming HWs (new and old); Revision; Submitted AI Homeschool paper to a journal; Worked on Grade 3 English, Telugu, Maths textbooks.</summary>
+</details>
+
+#### 01-Sep-2026 (Tuesday)
+
+* <details> <summary><strong>Programming: </strong>(Class 8) (Part 2) : Checked previous HWs.</summary>
+
+  * [8. ClassNotes.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/8.%20ClassNotes-01092026-Pro.pdf)  
+  * Video  
+  * **Other materials:**  
+    * [7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf)  
+    * [7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf)  
+    * [8.AI-Notes-AdvancedeOperators-Exercise4-NotOperatorInPython.md](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/8.AI-Notes-AdvancedeOperators-Exercise4-NotOperatorInPython.md)    
+  * **Verified HW Solutions:**
+    * [7. HW-24032026-Programming_Problems.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/7.%20HW-24032026-Programming_Problems.py)  
+    * [7. HW-24032026-Programming-Corrected-Solutions.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20HW-24032026-Programming-Corrected-Solutions.pdf)  
+    * [7. HW-24032026-Programming_AI-Binary-Bitwise-Boolean-Problems-Incomplete.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20HW-24032026-Programming_AI-Binary-Bitwise-Boolean-Problems-Incomplete.pdf)  
+    * [7. HW-AdvanceOperators-AINotes-Exercises-Corrected.md](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20HW-AdvanceOperators-AINotes-Exercises-Corrected.md)  
+    * [7. HW-BitwiseOperators-AINotes-Exercises-Corrected.md](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20HW-BitwiseOperators-AINotes-Exercises-Corrected.md)  
+    * [8. HW-24032026-Programming_NegativeDecimalBinary.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/8.%20HW-24032026-Programming_NegativeDecimalBinary.pdf)  
+  * **Details:** 
+    * (Part 2) : Checked previous HWs.  
+    * HW: Practice circular shift functions and explain to your parents.  
+    * HW: Practice alll these HW problems again and verify manually and in Python  
+    * Programming - negative numbers binary  
+</details>
+
+
+#### 02-Sep-2026 (Wednesday) & 03-Sep-2026 (Thursday)
+
+* <details> <summary><strong>No classes: </strong> Revision, homeworks;</summary></details>
+
+#### 04-Sep-2026 (Friday)
+
+* <details> <summary><strong>Technology: </strong>(Class 3) Checked previous HWs</summary>
+
+  * [3. ClassNotes.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/3.%20ClassNotes-04092026-Tech.pdf)  
+  * Video  
+  * **Other materials:**
+    * [2. HandwritingCopyTracing_Latex-HindiExample.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HandwritingCopyTracing_Latex-HindiExample.pdf)  
+    * [2. HandwritingCopyTracing_Latex-HindiExample.tex](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HandwritingCopyTracing_Latex-HindiExample.tex)  
+    * [2. HandwritingCopyTracing_Latex-TeluguExample.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HandwritingCopyTracing_Latex-TeluguExample.pdf)  
+    * [2. HandwritingCopyTracing_Latex-TeluguExample.tex](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HandwritingCopyTracing_Latex-TeluguExample.tex)  
+    * [3. AINotes-BinaryToBase16Base64.md](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/3.%20AINotes-BinaryToBase16Base64.md)  
+  * **Verified HW Solutions:**
+    * [2. HW-12022026-Technology_Binary-to-Hexadecimal-to-Base64.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HW-12022026-Technology_Binary-to-Hexadecimal-to-Base64.pdf)  
+    * [2. HW_12022026_AI-HtmlExample.html](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HW_12022026_AI-HtmlExample.html)  
+    * [2. HW_12022026_StartingImage.png](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HW_12022026_StartingImage.png)  
+    * [2. HW_12022026_StartingImage_base64.txt](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HW_12022026_StartingImage_base64.txt)  
+    * [3. HW_12022026_StartingImage_Hexadecimal.txt](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/3.%20HW_12022026_StartingImage_Hexadecimal.txt)  
+  * **Details:** 
+    * Checked previous HWs  
+    * AI notes on how to convert binary to base16 or base64  
+    * HW: Convert 5 binary strings (length > 24 bits) to base 16 and base 64; (For two of them, convert to decimal also); Convert 5 base64 strings to base16;  
+</details>
+
+* <details> <summary><strong>Social: </strong>(Class 6) Checked previous HWs - resume, CV; AI review on CV, resume shortcomings; AI version of CV;</summary>
+
+  * [6. ClassNotes.pdf](5.%20SocialStudiiesAndLifeSkills/1.%20SocialStudies/2.%20Grade2/6.%20ClassNotes-04092026-SocialSkills-CV.pdf)  
+  * Video  
+  * **Other materials:**
+    * [3. AI-CV-Virata Pusuluri.md](5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/3.%20AI-CV-Virata%20Pusuluri.md)  
+  * **Verified HW Solutions:**
+    * [2. HW-02042026-Social_Life-Skills_VP-CV.md](5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/2.%20HW-02042026-Social_Life-Skills_VP-CV.md)  
+    * [2. HW-02042026-Social_Life-Skills_VP-Resume.md](5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/2.%20HW-02042026-Social_Life-Skills_VP-Resume.md)  
+    * [3. AI-Review-HW-CV-Resume.md](5.%20SocialStudiiesAndLifeSkills/2.%20LifeSkills/3.%20HowToMakeYourCurriculumVitae_Resume/3.%20AI-Review-HW-CV-Resume.md)  
+  * **Details:** 
+    * Checked previous HWs - resume, CV; AI review on CV, resume shortcomings; AI version of CV;  
+    * HW: Prepare resume based on AI CV version;  
+</details>
+
+
+#### 07-Sep-2026 (Monday) to 14-Sep-2026 (Monday)
+
+* <details> <summary><strong>No classes: </strong>  No classes; Completed HWs, Revision; Attended Shri Krishna puja and Shri Ganesh puja at Canajoharie!</summary></details>
+
+#### 15-Sep-2026 (Tuesday)
+
+* <details> <summary><strong>Music: </strong>(Class 7) Checked previous HWs; Wrapped up Grade 2; Todos for Grade 3</summary>
+
+  * [7. ClassNotes.pdf](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/7.%20ClassNotes-15092026-Music.pdf)  
+  * Video  
+  * **Other materials:**
+    * [10.ShriAllahShriRama.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/10.ShriAllahShriRama.docx)  
+    * [11. AkhonMeBasee.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/11.%20AkhonMeBasee.docx)  
+    * [12.SanskritMantra.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/12.SanskritMantra.docx)  
+    * [5.2.RaagJayjaywanti-Notes.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/5.2.RaagJayjaywanti-Notes.docx)  
+    * [5.3. SharanuGoriSongWithTranslation-AI-NotCorrrected.DOCX](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/5.3.%20SharanuGoriSongWithTranslation-AI-NotCorrrected.DOCX)  
+    * [7. NirmalaAmruthamTeluguSong.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/7.%20NirmalaAmruthamTeluguSong.docx)  
+    * [8.YoganirupiniSong.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/8.YoganirupiniSong.docx)  
+    * [9.IAmADropSong.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/9.IAmADropSong.docx)  
+  * **Verified HW Solutions:**
+    * [6. HW-26032026-Music_Sharanugori-Song_Breakdown-NotCorrected.xlsx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/6.%20HW-26032026-Music_Sharanugori-Song_Breakdown-NotCorrected.xlsx)  
+  * **Details:** 
+    * Checked previous HWs; Wrapped up Grade 2; Todos for Grade 3. 
+</details>
+
+

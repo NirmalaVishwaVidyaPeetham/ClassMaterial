@@ -126,12 +126,21 @@
 
 * **Class 7 (24/03/2026): Checked previous homeworks** 
   * [7. ClassNotes.pdf](7.%20ClassNotes-24032026-Pro.pdf)  
-  * Video  
-  * **Verified HW Solutions:** 
+  * Video   
+  * **Other materials:** 
 	* [7.AdvanceOperators-AINotes-Exercises-NotCorrected.md](7.AdvanceOperators-AINotes-Exercises-NotCorrected.md)
 	* [7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf](7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf)
 	* [7.BitwiseOperators-AINotes-Exercises-NotCorrected.md](7.BitwiseOperators-AINotes-Exercises-NotCorrected.md)
 	* [7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf](7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf)  
+    * [7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf)  
+    * [7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf)  
+
+  * **Verified HW Solutions:**
+    * [7. HW-24032026-Programming_Problems.py](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/0.PythonBasicsProject_Grade2/7.%20HW-24032026-Programming_Problems.py)
+    * [7. HW-24032026-Programming-Corrected-Solutions.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20HW-24032026-Programming-Corrected-Solutions.pdf)
+    * [7. HW-24032026-Programming_AI-Binary-Bitwise-Boolean-Problems-Incomplete.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20HW-24032026-Programming_AI-Binary-Bitwise-Boolean-Problems-Incomplete.pdf)
+    * [7. HW-AdvanceOperators-AINotes-Exercises-Corrected.md](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20HW-AdvanceOperators-AINotes-Exercises-Corrected.md)
+    * [7. HW-BitwiseOperators-AINotes-Exercises-Corrected.md](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.%20HW-BitwiseOperators-AINotes-Exercises-Corrected.md)  
   * **Details:** 
     * Checked previous homeworks  
     * Bitwise operators - See AI notes  
@@ -139,7 +148,37 @@
       * (1) Fix AI notes MD files based on pdfs etc.
       * (2) Circular shift operations - python code - run and understand 
       * (3) Complete AI exercises - manually and verify in python 
-      * (4) Complete advanced operator exercises - manually and in python  
+      * (4) Complete advanced operator exercises - manually and in python
+
+
+  * **Class 8 (Part 1) (24/08/2026):  Checked previous HWs (Problems 1 to 10); AI notes about binary representation of negative numbers** 
+    * [8. ClassNotes.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/8.%20ClassNotes-01092026-Pro.pdf)  
+     * Video  
+     * **Other materials:**  
+        * [7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf)  
+        * [7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf)  
+        * [8.AI-Notes-AdvancedeOperators-Exercise4-NotOperatorInPython.md](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/8.AI-Notes-AdvancedeOperators-Exercise4-NotOperatorInPython.md)   
+     * **Verified HW Solutions:**
+       * [8. HW-24032026-Programming_NegativeDecimalBinary.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/8.%20HW-24032026-Programming_NegativeDecimalBinary.pdf)  
+    * **Details:**
+      * (Part 1) Checked previous HWs (Problems 1 to 10); AI notes about binary representation of negative numbers
+      * HW: Practice 20 different negative numbers binary representation and vice versa (8 bits); 
+
+
+  * **Class 8 (Part 2) (01/09/2026) : Checked previous HWs.** 
+    * [8. ClassNotes.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/8.%20ClassNotes-01092026-Pro.pdf)  
+     * Video  
+     * **Other materials:**  
+        * [7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.AdvancedOperators-AINotes-Exercises-NotCorrected.pdf)  
+        * [7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/7.BitwiseOperators-AINotes-Exercises-NotCorrected.pdf)  
+        * [8.AI-Notes-AdvancedeOperators-Exercise4-NotOperatorInPython.md](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/8.AI-Notes-AdvancedeOperators-Exercise4-NotOperatorInPython.md)  
+     * **Verified HW Solutions:**
+        * [8. HW-24032026-Programming_NegativeDecimalBinary.pdf](2.%20MathsProgrammingTechnology/2.%20ProgrammingAndAlgorithms/2.%20Grade2/8.%20HW-24032026-Programming_NegativeDecimalBinary.pdf)  
+     * **Details:** 
+        * (Part 2) : Checked previous HWs.  
+        * HW: Practice circular shift functions and explain to your parents.  
+        * HW: Practice alll these HW problems again and verify manually and in Python  
+        * Programming - negative numbers binary  
 
 
 </details>

@@ -35,8 +35,15 @@
   * [2. ClassNotes.pdf](2.%20ClassNotes-12022026-Tech.pdf)  
   * Video  
   * **Other materials:** 
-    * [1.AI-HtmlExample.html](1.AI-HtmlExample.html)
-  * **Verified HW Solutions:**   
+    * [2. HandwritingCopyTracing_Latex-HindiExample.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HandwritingCopyTracing_Latex-HindiExample.pdf)  
+    * [2. HandwritingCopyTracing_Latex-HindiExample.tex](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HandwritingCopyTracing_Latex-HindiExample.tex)  
+    * [2. HandwritingCopyTracing_Latex-TeluguExample.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HandwritingCopyTracing_Latex-TeluguExample.pdf)  
+    * [2. HandwritingCopyTracing_Latex-TeluguExample.tex](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HandwritingCopyTracing_Latex-TeluguExample.tex)  
+  * **Verified HW Solutions:**  
+    * [2. HW-12022026-Technology_Binary-to-Hexadecimal-to-Base64.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HW-12022026-Technology_Binary-to-Hexadecimal-to-Base64.pdf)  
+    * [2. HW_12022026_AI-HtmlExample.html](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HW_12022026_AI-HtmlExample.html)  
+    * [2. HW_12022026_StartingImage.png](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HW_12022026_StartingImage.png)  
+    * [2. HW_12022026_StartingImage_base64.txt](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/2.%20HW_12022026_StartingImage_base64.txt)   
   * **Details:** 
     * Checked previous Hws  
     * HW: Embed images into html:  
@@ -66,3 +73,20 @@
 
 
 </details>
+
+
+<details> <summary><strong>2. Converting binary to base16 or base64</strong></summary>
+
+  * **Class 3 (04/09/2026): Converting binary to base16 or base64** 
+    * [3. ClassNotes.pdf](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/3.%20ClassNotes-04092026-Tech.pdf)  
+     * Video  
+     * **Other materials:**
+        * [3. AINotes-BinaryToBase16Base64.md](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/3.%20AINotes-BinaryToBase16Base64.md)  
+     * **Verified HW Solutions:**
+        * [3. HW_12022026_StartingImage_Hexadecimal.txt](2.%20MathsProgrammingTechnology/3.%20Technology/2.%20Grade2/3.%20HW_12022026_StartingImage_Hexadecimal.txt)  
+     * **Details:** 
+        * Checked previous HWs  
+        * AI notes on how to convert binary to base16 or base64  
+        * HW: Convert 5 binary strings (length > 24 bits) to base 16 and base 64; (For two of them, convert to decimal also); Convert 5 base64 strings to base16;  
+</details>
+

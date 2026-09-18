@@ -91,8 +91,11 @@
   * **Verified HW Solutions:**   
   * **Details:** 
     * Practiced 3 songs (1) Mata nirmala Maheswari (2) Jaag uthe (3) Sharanu gori  
-    * HW: Correct these songs, breakdown etc. and practice singing together  
+    * HW: Correct these songs, breakdown etc. and practice singing together
 
+</details>
+<details>
+<summary><strong> 3. Gamakas & wrapping up grade 2</strong></summary>
 
 * **Class 6 (26/03/2026): - Gamakas chapter - AI translation** 
   * [6. ClassNotes.pdf](6.%20ClassNotes-26032024-Music.pdf)  
@@ -110,5 +113,23 @@
     * HW: See chapters on Shruthis and Grehabhecham  
     * HW: Watch a video on Carnatic vs Hindusthani Indian classical music. : [Hindustani vs Carnatic | Indian Classical Music - YouTube](https://www.youtube.com/watch?app=desktop&v=StBjFqBCBHQ)  
 
+
+
+  * **Class 7 (15/09/2026): Checked previous HWs; Wrapped up Grade 2; Todos for Grade 3** 
+    * [7. ClassNotes.pdf](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/7.%20ClassNotes-15092026-Music.pdf)  
+     * Video  
+     * **Other materials:**
+        * [10.ShriAllahShriRama.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/10.ShriAllahShriRama.docx) 
+        * [11. AkhonMeBasee.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/11.%20AkhonMeBasee.docx)  
+        * [12.SanskritMantra.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/12.SanskritMantra.docx)  
+        * [5.2.RaagJayjaywanti-Notes.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/5.2.RaagJayjaywanti-Notes.docx)  
+        * [5.3. SharanuGoriSongWithTranslation-AI-NotCorrrected.DOCX](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/5.3.%20SharanuGoriSongWithTranslation-AI-NotCorrrected.DOCX)  
+        * [7. NirmalaAmruthamTeluguSong.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/7.%20NirmalaAmruthamTeluguSong.docx)  
+        * [8.YoganirupiniSong.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/8.YoganirupiniSong.docx)  
+        * [9.IAmADropSong.docx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/0.%20Books/SahajayogaBhajansAndNotes/0.%20Bhajans_WithWordToWordTranslations/9.IAmADropSong.docx)  
+     * **Verified HW Solutions:**
+        * [6. HW-26032026-Music_Sharanugori-Song_Breakdown-NotCorrected.xlsx](3.%20MusicAndArts/1.%20CarnaticMusicPlusOthers/2.%20Grade2/6.%20HW-26032026-Music_Sharanugori-Song_Breakdown-NotCorrected.xlsx)  
+     * **Details:** 
+        * Checked previous HWs; Wrapped up Grade 2; Todos for Grade 3;
 
 </details>
