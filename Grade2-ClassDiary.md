@@ -921,19 +921,31 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
 
 
 
+**<u>16092026 Wednesday, 17092026 Thursday:</u>** No classes; Revision; HWs
 
 
-* Devanagari:
 
-* Science:
-  
-  
+**<u>18092026 Friday:</u>**
+
+1. Science: Checked previous HWs; Wrapped up Grade 2; 
+
+2. Devanagari: Checked previous HWs; Wrapped up Grade 2;
+
+
+
+
+
+
+
+
 
 TODOs:
 
 Music: Grade 3 mainly gamakas and singing practice; Practice recognizing notes faster; Gamakas - continuous transitions - say, 10  - then 72 * 10^7 possibilities - which ones are picked for the raagas? ; Move music code/apps to Music folder;  10 new songs - compile together with original script, phonetic script, english meaning, laghu/guru breakdown, whole meaning
 
 
+
+Science: Discuss topics from proportions in detail - physics; Biology - let's find a text with detailed anatomy etc. / botony?; Chemistry ? 
 
 Drones - project
 
@@ -959,5 +971,3 @@ Check all HW files added to class folders
 Sep HW: Complete Latex copy tracing telugu, hindi, english plain and cursive... ; Clean up drive folders HWs, boox notes, downloads etc.
 
 Programming - negative numbers binary 
-
-
