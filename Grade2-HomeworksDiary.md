@@ -1620,5 +1620,5 @@ Went to a train trip from 3 April 2026 to 20 April 2026
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>22 September 2026 \- Tuesday<u>
-1. Programming: 30 minutes \- 9:45 to 10:15 AM
-2. Science: 30 minutes \- 10:15 to 10:45 AM
+1. Programming: 1 hour 30 minutes \- 9:45 to 10:15 AM; 12:00 to 1:00 PM
+2. Science: 2 hours \- 10:15 to 10:45 AM; 11:00 AM to 12:00 PM; 1:00 to 1:30 PM
