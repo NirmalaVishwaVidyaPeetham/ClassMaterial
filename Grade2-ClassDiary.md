@@ -941,7 +941,9 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
 
 TODOs:
 
-Music: Grade 3 mainly gamakas and singing practice; Practice recognizing notes faster; Gamakas - continuous transitions - say, 10  - then 72 * 10^7 possibilities - which ones are picked for the raagas? ; Move music code/apps to Music folder;  10 new songs - compile together with original script, phonetic script, english meaning, laghu/guru breakdown, whole meaning
+Music: Grade 3 mainly gamakas and singing practice; Practice recognizing notes faster; Gamakas - continuous transitions - say, 10  - then 72 * 10^7 * 10^7 possibilities - which ones are picked for the raagas? ; From continuous space to discrete system.. then back to continuous by adding gamakas.. skeletal structures underlying dynamics.. kind of like in chaotic systems.. yet you are freely to move between those structures.. 
+
+Move music code/apps to Music folder;  10 new songs - compile together with original script, phonetic script, english meaning, laghu/guru breakdown, whole meaning
 
 
 
@@ -957,7 +959,7 @@ Overview - Grade 2
 
 Rest of the week - wrap up all the subjects for Grade 2
 
-Music - new songs
+Music - new songs; smoothness vs harshness of voice - breath - consistency - python detect
 
 Legend of Dagad trikon
 Man who knew infinity 

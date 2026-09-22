@@ -1601,10 +1601,24 @@ Went to a train trip from 3 April 2026 to 20 April 2026
 5. Total: 6 hours 30 minutes
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
-**_<u>18 September 2026 \- Thursday</u>_**
+**_<u>18 September 2026 \- Friday</u>_**
 
 1. Maths: 2 hours \- 10:20 AM to 12:20 PM
 2. Music: 30 minutes \- 12:30 to 1:00 PM
 3. Class Notes Revision: 1 hour \- 1:00 to 2:00 PM
 4. Eye exercise: 2:00 to 2:10 PM (Not included in total)
 5. Total: 3 hours 30 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>21 September 2026 \- Monday<u>
+1. Science: 2 hours 30 minutes \- 9:15 to 11:45 PM
+2. Technology: 1 hour \- 11:45 AM to 12:45 PM
+3. Maths: 1 hour 30 minutes \- 2:00 to 3:30 PM
+4. Eye exercise: 10 minutes \- 3:30 to 3:40 PM
+5. Music Practice: 40 minutes \- 4:00 to 4:40 PM
+6. Total: 5 hours 40 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>22 September 2026 \- Tuesday<u>
+1. Programming: 30 minutes \- 9:45 to 10:15 AM
+2. Science: 30 minutes \- 10:15 to 10:45 AM
