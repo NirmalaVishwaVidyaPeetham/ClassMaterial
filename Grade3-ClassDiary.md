@@ -103,6 +103,34 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    2. Read 10th grade AP Telugu Textbook - Ramayanam - until the birth of Shri Rama
       1. HW: Read all of it again
       2. HW: Write all the meanings using AI
+         
+         
+
+**<u>23092026, 24092026 Wednesday, Thursday:</u>** No classes; Revision, HWs; 
+
+
+
+**<u>25092026 Friday:</u>**
+
+1. English: 
+   
+   1. HW: Complete Grade 3 AP Telugu textbook and workbook; Ask your parents to verify
+   
+   2. Student completed reading many novels/stories. Reading 'Man who knew infinity' now about an Indian Mathematician.
+      
+      1. HW: Complete this book; Watch the movie
+   
+   3. Brehe's Grammar Anatomy open textbook
+      
+      1. HW: Read this and complete the exercises
+   
+   4. HW: Read 'The Hound of the Baskervilles' and watch movie
+   
+   5. TODO in class: William Blake's works
+   
+    
+   
+   
 
 
 

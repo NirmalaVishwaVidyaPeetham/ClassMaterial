@@ -1622,3 +1622,15 @@ Went to a train trip from 3 April 2026 to 20 April 2026
 **_<u>22 September 2026 \- Tuesday<u>
 1. Programming: 1 hour 30 minutes \- 9:45 to 10:15 AM; 12:00 to 1:00 PM
 2. Science: 2 hours \- 10:15 to 10:45 AM; 11:00 AM to 12:00 PM; 1:00 to 1:30 PM
+3. Total:  3 hours 30 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>23 September 2026 \- Wedesday<u>
+1. Eye exercise: 10 minutes \- 10:50 to 11:00 AM (Not included in Total)
+2. Programming: 1 hour 30 minutes \- 11:30 AM to 12:30 PM; 9:00 to 9:30 PM
+3. Science: 1 hour \- 12:30 to 1:30 PM
+4. Class notes revision: 1 hour \- 1:30 to 2:30 PM
+5. Telugu: 30 minutes \- 2:50 to 3:20 PM
+6. Music Practice 30 minutes \- 3:20 to 3:50 PM
+7. Technology: 1 hour \- 8:00 to 9:00 PM
+7. Total: 5 hours 30 minutes
