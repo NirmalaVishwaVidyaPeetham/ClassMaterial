@@ -129,8 +129,18 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    5. TODO in class: William Blake's works
    
     
+
+**<u>28092026 Monday:</u>**
+
+1. Maths: 
+   
+   1. Introduction to Geometry - shapes, angles; Proofs for the sums of angles in triangles and parallelograms; Axioms about paralllel lines and transecting lines, angles; Perimeters, Areas, Circle properties etc. See AI notes; HW: Read and understand all of these and solve word problems; 
+   
+   2. Set operations - see AI notes; 
    
    
+
+
 
 
 
@@ -140,19 +150,29 @@ TODOs:
 
 Music: Grade 3 mainly gamakas and singing practice; Practice recognizing notes faster; Gamakas - continuous transitions - say, 10  - then 72 * 10^7 * 10^7 possibilities - which ones are picked for the raagas? ; From continuous space to discrete system.. then back to continuous by adding gamakas.. skeletal structures underlying dynamics.. kind of like in chaotic systems.. yet you are freely to move between those structures.. 
 
-Move music code/apps to Music folder;  10 new songs - compile together with original script, phonetic script, english meaning, laghu/guru breakdown, whole meaning
+    Move music code/apps to Music folder;  10 new songs - compile together with original script, phonetic script, english meaning, laghu/guru breakdown, whole meaning
 
-Music - new songs; smoothness vs harshness of voice - breath - consistency - python detect
+    Music - new songs; smoothness vs harshness of voice - breath - consistency - python detect
 
 
+
+Maths: 
+
+1. Geometry
+
+2. Set operations
+   
+   
 
 Science: Discuss topics from proportions in detail - physics; Biology - let's find a text with detailed anatomy etc. / botony?; Chemistry ? 
 
-Drones - project
+    Drones - project
 
-AI homeschool paper - coauthor invitation
+    BCI - project
 
-Chandassu paper - this month
+    AI homeschool paper - coauthor invitation
+
+    Chandassu paper - this month
 
 
 
