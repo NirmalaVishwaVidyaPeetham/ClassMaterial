@@ -20,3 +20,11 @@
 3. Music Practice: 30 minutes \- 12:30 to 1:00 PM  
 4. Eye exercise: 10 minutes \- 3:10 to 3:20 PM (Not Included in Total)  
 5. Total: 3 hours 30 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** \*\*\_<u>29 September 2026 \- Tuesday<u>
+
+1. Maths: 2 hours 30 minutes \- 9:00 to 11:30 AM  
+2. Technology: 1 hour \- 12:00 to 1:00 PM  
+3. Music Practice: 30 minutes \- 1:30 to 2:00 PM  
+4. Eye exercise: 10 minutes \- 5:30 to 5:40 PM (Not Included in Total)  
+5. Total: 4 hours

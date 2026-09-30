@@ -56,7 +56,7 @@
    2. Website \- github pages \- create first grade full website with links etc.   
 2. How AI is reshaping college for students and professors \- PBS news hour video  
 3. Problems with technology \- on attention, eyes, children etc.; Read scientific papers; Social media \- problems;   
-4. Agentic AI  
+4. Command line interface for AI; Agentic AI  
 5. AI problems: https://www.pnas.org/doi/10.1073/pnas.2422633122 ; cognitive debt paper
 
 **Maths:** 

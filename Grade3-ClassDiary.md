@@ -137,8 +137,28 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    1. Introduction to Geometry - shapes, angles; Proofs for the sums of angles in triangles and parallelograms; Axioms about paralllel lines and transecting lines, angles; Perimeters, Areas, Circle properties etc. See AI notes; HW: Read and understand all of these and solve word problems; 
    
    2. Set operations - see AI notes; 
+      
+      
+
+**<u>29092026 Tuesday:</u>**
+
+1. Programming: 
    
+   1. Python representation of -ve integers using sign-magnitude not 2's complement method); see Code - - 8. BinaryNegativeNumbers.py in Grade2/
    
+   2. HW: Read python book - Coder's apprentice and solve the exercises
+
+2. Technology:
+   
+   1. Checked previous HWs
+   
+   2. Linux command line operations - AI notes 
+      
+      1. HW: Learn all of these operations and practice the exercises
+   
+   3. HW: Make sure the website is updated with all the files for Grade 2 - All subjects
+
+
 
 
 
@@ -159,10 +179,36 @@ Music: Grade 3 mainly gamakas and singing practice; Practice recognizing notes f
 Maths: 
 
 1. Geometry
+   
+   1. Experiment to determine pi - follow scientific method
 
 2. Set operations
    
    
+
+Programming: 
+
+1. Sorting
+
+2. Move all music projects from Grade 1, Grade 2 to a separate folder
+
+3. Python book; Then Algorithms textbook
+
+
+
+
+
+Techology: 
+
+1. Verify all previous class 2 material/website updated
+
+2. Terminal - command line; Bash etc. commands; 
+
+3. AI CLI integration; Agentic AI;
+
+4. History of computers, hardware, software etc. 
+
+
 
 Science: Discuss topics from proportions in detail - physics; Biology - let's find a text with detailed anatomy etc. / botony?; Chemistry ? 
 
