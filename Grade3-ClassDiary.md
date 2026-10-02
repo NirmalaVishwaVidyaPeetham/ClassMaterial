@@ -187,18 +187,44 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
       3. Drones - project - combine physical and model drones with biological neural network models
       
       4. BCI - project - collect our data and also use open datasets and analyze
+
+
+
+**<u>02102026 Friday:</u>**
+
+1. Music: 
    
+   1. Checked gamakas in python
    
+   2. Practiced detecting swaras for songs - Keshava madhava; Animuthyaalandi sahajayoga songs
+      
+      1. HW: Practice these songs; Write down the raagam, thaalam, and swaras. 
+
+2. Hindi: 
+   
+   1. Discussed Class 1 CBSE textbook
+      
+      1. HW: Read, write meanings, and answer exercises; Memorize all the sentences from the textbook. 
+
+
 
 **TODOs:**
 
 
 
-Music: Grade 3 mainly gamakas and singing practice; Practice recognizing notes faster; Gamakas - continuous transitions - say, 10  - then 72 * 10^7 * 10^7 possibilities - which ones are picked for the raagas? ; From continuous space to discrete system.. then back to continuous by adding gamakas.. skeletal structures underlying dynamics.. kind of like in chaotic systems.. yet you are freely to move between those structures.. 
+Music: 
 
-    Move music code/apps to Music folder;  10 new songs - compile together with original script, phonetic script, english meaning, laghu/guru breakdown, whole meaning
+1. Grade 3 mainly gamakas and singing practice; Practice recognizing notes faster; Gamakas - continuous transitions - say, 10  - then 72 * 10^7 * 10^7 possibilities - which ones are picked for the raagas? ; From continuous space to discrete system.. then back to continuous by adding gamakas.. skeletal structures underlying dynamics.. kind of like in chaotic systems.. yet you are freely to move between those structures.. 
 
-    Music - new songs; smoothness vs harshness of voice - breath - consistency - python detect
+2. Move music code/apps to Music folder;  10 new songs - compile together with original script, phonetic script, english meaning, laghu/guru breakdown, whole meaning
+   
+   1. Fix smoothing issues in code 
+
+3. Music - new songs - compile together; 
+
+4. smoothness vs harshness of voice - breath - consistency - python detect
+
+5. Note recognition practice 
 
 
 
