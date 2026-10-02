@@ -157,14 +157,40 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
       1. HW: Learn all of these operations and practice the exercises
    
    3. HW: Make sure the website is updated with all the files for Grade 2 - All subjects
+      
+      
+
+**<u>30092026 Wednesday:</u>** No classes; Revision and HWs; 
 
 
 
+**<u>01102026 Thursday:</u>**
 
+1. Social: Enlightened Education book - introduction
+   
+   1. HW: Read the introduction again
+   2. HW: Complete class 4 + class 5 AP Environment textbook + workbook
+   3. HW: For 1 or 2 days, live without electricity; 
+   4. HW: Play 'pillars' game 
+      1. Sthambhaala aata/Pillars game: Four players stand at and hold onto four different pillars, while a fifth player (the "thief" or IT) stands in the center. The four players try to quickly swap positions from one pillar to another without getting caught, while the central player tries to occupy an open pillar. Traditionally, it is a popular **folk game played by children** in rural Andhra Pradesh and Telangana, often during weddings under a marriage pandal (_pelli pandiri_). 
 
+2. Science: 
+   
+   1. HW: Complete class 4 + class 5 AP Environment textbook + workbook
+   
+   2. TODO:
+      
+      1.  AI homeschool paper - get published
+      
+      2. Chandassu (music) paper complete
+      
+      3. Drones - project - combine physical and model drones with biological neural network models
+      
+      4. BCI - project - collect our data and also use open datasets and analyze
+   
+   
 
-
-TODOs:
+**TODOs:**
 
 
 
@@ -193,10 +219,10 @@ Programming:
 2. Move all music projects from Grade 1, Grade 2 to a separate folder
 
 3. Python book; Then Algorithms textbook
-
-
-
-
+   
+   
+   
+   
 
 Techology: 
 
@@ -207,8 +233,8 @@ Techology:
 3. AI CLI integration; Agentic AI;
 
 4. History of computers, hardware, software etc. 
-
-
+   
+   
 
 Science: Discuss topics from proportions in detail - physics; Biology - let's find a text with detailed anatomy etc. / botony?; Chemistry ? 
 
@@ -222,9 +248,13 @@ Science: Discuss topics from proportions in detail - physics; Biology - let's fi
 
 
 
-తెలుగు: Chandamama kathalu - word by word meanings/translation - 700 books - use AI apis in python
+తెలుగు: 
 
-Ramayanam - 9th/10th class telugu text; TODO - use AI to write meanings of all the words and full translation sentence by sentence. 
+    Chandamama kathalu - word by word meanings/translation - 700 books - use AI apis in python
+
+    Ramayanam - 9th/10th class telugu text; TODO - use AI to write meanings of all the words and full translation sentence by sentence. 
+
+    After Ramayana, telugu grammar texts
 
 
 

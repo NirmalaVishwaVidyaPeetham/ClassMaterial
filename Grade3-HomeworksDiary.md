@@ -28,3 +28,17 @@
 3. Music Practice: 30 minutes \- 1:30 to 2:00 PM  
 4. Eye exercise: 10 minutes \- 5:30 to 5:40 PM (Not Included in Total)  
 5. Total: 4 hours
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** \*\*\_<u>30 September 2026 \- Wednesday<u>
+1. Technology: 1 hour \- 10:00 to 11:00 AM
+2. Programming: 1 hour \- 11:30 AM to 12:30 PM
+3. Music Practice: 30 minutes \- 1:00 to 1:30 PM
+4. Social: 2 hour \- 2:00 to 4:00 PM
+5. Total: 4 hours 30 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** \*\*\_<u>1 122:0October \- Thursday<u>
+1. English: 1 hour \- 10:00 to 11:00 AM
+2. Programming: 1 hour \- 11:00 AM to 12:00 PM
+3. Music Practice: 30 minutes \- 12:30 to 1:00 PM
+4. Telugu: 1 hour \- 1:00 to 2:00 PM
+5. Total: 3 hours 30 minutes
