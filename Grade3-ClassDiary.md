@@ -187,8 +187,8 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
       3. Drones - project - combine physical and model drones with biological neural network models
       
       4. BCI - project - collect our data and also use open datasets and analyze
-
-
+         
+         
 
 **<u>02102026 Friday:</u>**
 
@@ -205,6 +205,36 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    1. Discussed Class 1 CBSE textbook
       
       1. HW: Read, write meanings, and answer exercises; Memorize all the sentences from the textbook. 
+
+
+
+**<u>05102026 Monday:</u>** No classes; Homeworks; Revision;
+
+
+
+**<u>06102026 Tuesday:</u>**
+
+1. Telugu: 
+   
+   1. HW: Finish previous HWs
+   
+   2. Read Ramayana until the death of Thataka. 
+      
+      1. HW: Read the story again
+      
+      2. Listen to Venkateswara Suprabhatam song
+
+2. Maths: 
+   
+   1. HW: Listen to previous class videos again (on Geometry); Check previous homeworks
+   
+   2. Learnt about circles and the perimeter of a circle
+      
+      1. HW: For 20 different radii, draw circles, measure perimeters and make a table of radii, perimeters and their ratios. 
+
+
+
+
 
 
 
@@ -225,8 +255,8 @@ Music:
 4. smoothness vs harshness of voice - breath - consistency - python detect
 
 5. Note recognition practice 
-
-
+   
+   
 
 Maths: 
 
@@ -283,6 +313,18 @@ Science: Discuss topics from proportions in detail - physics; Biology - let's fi
     After Ramayana, telugu grammar texts
 
 
+
+English: 
+
+    William blake's works, Grammar text
+
+
+
+Devanagari: 
+
+    CBSE first class textbook; Conversational hindi textbook;
+
+    
 
 Sep HW: Complete Latex copy tracing telugu, hindi, english plain and cursive..., textbooks, workbooks ; Clean up drive folders HWs, boox notes, downloads etc.
 
