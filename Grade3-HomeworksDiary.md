@@ -66,3 +66,20 @@
 4. Maths: 2 hours \- 1:00 to 2:00 PM; 6:00 to 7:00 PM
 5. Class Notes Revision: 30 minutes \- 7:30 to 8:00 PM
 6. Total: 6 hours 30 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>6 October \- Tuesday<u>_**
+1. English: 1 hour \- 9:30 to 10:30 AM
+2. Maths: 1 hour \- 10:30 to 11:30 AM
+3. Telugu: 30 minutes \- 12:00 to 12:30 PM
+4. Technology: 30 minutes \- 12:30 to 1:00 PM
+5. Music Practice: 30 minutes \- 1:45 to 2:15 PM
+6. Total: 3 hours 30 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>7 October \- Wednesday<u>_**
+1. Telugu: 1 hour \- 9:30 to 10:30 AM
+2. English: 1 hour \- 10:30 to 11:30 AM
+3. Music Practice: 11:35 AM to 12:05 PM
+4. Maths: 1 hour \- 1:00 to 2:00 PM
+5. Total: 3 hours 30 minutes

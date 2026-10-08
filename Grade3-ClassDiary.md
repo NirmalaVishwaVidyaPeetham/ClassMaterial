@@ -205,8 +205,8 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    1. Discussed Class 1 CBSE textbook
       
       1. HW: Read, write meanings, and answer exercises; Memorize all the sentences from the textbook. 
-
-
+         
+         
 
 **<u>05102026 Monday:</u>** No classes; Homeworks; Revision;
 
@@ -231,8 +231,18 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    2. Learnt about circles and the perimeter of a circle
       
       1. HW: For 20 different radii, draw circles, measure perimeters and make a table of radii, perimeters and their ratios. 
+         
+         
 
+**<u>07102026 Wednesday:</u>**
 
+1. Music: 
+   
+   1. HW: Complete/check previous HWs
+   
+   2. Practices 3 new song compositions - I am a drop; Shri Allah Shri Rama; Ankhon me basee 
+      
+      1. HW: Practice 20 times each
 
 
 
@@ -254,7 +264,9 @@ Music:
 
 4. smoothness vs harshness of voice - breath - consistency - python detect
 
-5. Note recognition practice 
+5. Note recognition practice for new songs every week; 
+
+6. See diff. in spectrum between the two harmonium settings on the keyboard
    
    
 
