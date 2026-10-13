@@ -83,3 +83,34 @@
 3. Music Practice: 11:35 AM to 12:05 PM
 4. Maths: 1 hour \- 1:00 to 2:00 PM
 5. Total: 3 hours 30 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>8 October \- Thursday<u>_**
+1. Programming: 1 hour \- 10:00 to 11:00 AM
+2. English: 4 hours \- 11:15 AM to 12:15 PM; 6:00 to 9:00 PM; 9:30 to 10:30 AM (1 hour time waste)
+3. Science: 1 hour \- 12:30 to 1:30 PM
+4. Music Practice: 1 hour \- 1:45 to 2:15 PM; 9:00 to 9:30 PM
+5. Total: 7 hours
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>9 October \- Friday<u>_**
+1. English: 3 hours \- 10:00 AM to 1:00 PM
+2. Music Practice: 30 minutes \- 3:30 to 4:00 PM
+3. Total: 3 hours 30 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>12 October \- Monday<u>_**
+1. Programming: 1 hour \- 10:00 to 11:00 AM
+2. English: 1 hour \- 12:00 to 1:00 PM
+3. Science: 1 hour \- 2:00 to 3:00 PM
+4. Music Practice: 30 minutes \- 3:30 to 4:00 PM
+5. Total: 3 hours 30 minutes
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>13 October \- Tuesday<u>_**
+1. English: 1 hour \- 9:00 to 10:00 AM
+2. Science: 1 hour \- 10:00 to 11:00 AM
+3. Eye exercise (not included in Total): 10 minutes \- 11:20 to 11:30 AM
+4. Music Practice: 30 minutes \- 11:30 AM to 12:00 PM
+5. Programming: 1 hour \- 12:30 to 1:30 PM
+6. **Total: 3 hours 30 minutes**
