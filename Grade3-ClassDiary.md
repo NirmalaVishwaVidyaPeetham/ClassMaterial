@@ -243,6 +243,32 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    2. Practices 3 new song compositions - I am a drop; Shri Allah Shri Rama; Ankhon me basee 
       
       1. HW: Practice 20 times each
+         
+         
+         
+         
+
+**<u>08102026, 09102026, 12102026 Thursday, Friday, Monday:</u>** No classes; Homeworks and Revision; 
+
+
+
+**<u>13102026 Tuesday:</u>**
+
+1. English: 
+   
+   1. HW: Complete previous HWs
+   
+   2. William Blake's 'Marriage of Heaven and Hell'
+      
+      1. HW: Read this!
+
+2. Programming: 
+   
+   1. Checked some HW exercises from textbook
+   
+   2. HW: Complete previous HWs of textbook exercises
+
+
 
 
 
