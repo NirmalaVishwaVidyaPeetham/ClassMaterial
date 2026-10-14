@@ -272,11 +272,13 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
 
 **<u>14102026 Wednesday:</u>**
 
-1. Technology: 
+1. Technology: Checked AI - command line integration; Pycharm integration; Python AI integration; Agentic AI; 
+   
+   1. HW: Complete AI Exercises - Linux command line
+   
+   2. HW: Read Chandamama 1948-1 telugu book - AI companion Notes and see how much we need to enhance or change the prompts to make it useful
 
-2. 
-
-
+                  
 
 
 
@@ -332,7 +334,7 @@ Techology:
 
 2. Terminal - command line; Bash etc. commands; 
 
-3. AI CLI integration; Agentic AI;
+3. AI CLI integration; Agentic AI; - Do it inside virual environment ; 
 
 4. History of computers, hardware, software etc. 
    
