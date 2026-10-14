@@ -267,6 +267,14 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    1. Checked some HW exercises from textbook
    
    2. HW: Complete previous HWs of textbook exercises
+      
+      
+
+**<u>14102026 Wednesday:</u>**
+
+1. Technology: 
+
+2. 
 
 
 

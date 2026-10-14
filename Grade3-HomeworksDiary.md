@@ -114,3 +114,10 @@
 4. Music Practice: 30 minutes \- 11:30 AM to 12:00 PM
 5. Programming: 1 hour \- 12:30 to 1:30 PM
 6. **Total: 3 hours 30 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>14 October \- Wednesday<u>_**
+1. Science: 2 hours \- 9:30 to 10:30 AM; 1:00 to 2:00 PM
+2. English: 1 hour \- 10:30 to 11:30 AM
+3. Music Practice: 30 minutes \- 12:00 to 12:30 PM
+4. **Total: 3 hours 30 minutes**
