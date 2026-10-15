@@ -280,13 +280,23 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
 
                   
 
+**<u>15102026 Thursday:</u>**
 
+1. Social: Enlightened Education - Introduction, Salutation, Vision
+   1. HW: Read all of this; Prepare a list of good principles mentioned in the book; For each idea, mention if we are following this well in home school or if we need to improve 
+   2. HW: Complete previous HWs
 
 
 
 **TODOs:**
 
 
+
+Social:
+
+1. Experiment with vibrations; See if it's working; Coolcheck; 
+   
+   
 
 Music: 
 
