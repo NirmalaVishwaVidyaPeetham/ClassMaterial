@@ -288,6 +288,24 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
 
 
 
+**<u>16102026 Friday:</u>**
+
+1. Science: Discussed the plan to work on drone integration with biological neural network models.
+   
+   1. HW: Read and understand AI notes on scientific article (CPGs).
+   
+   2. HW: Complete the exercises and run the code from the paper to generate all the rhythms. 
+   
+   3. HW: Complete previous HWs.
+
+
+
+
+
+
+
+
+
 **TODOs:**
 
 
@@ -359,6 +377,8 @@ Science: Discuss topics from proportions in detail - physics; Biology - let's fi
     AI homeschool paper - coauthor invitation
 
     Chandassu paper - this month
+
+    Simulate the descriptions from Shri Mataji's creation book - universe - kundalini - three and half coils - intersections with 3 nadis at 7 points.. 
 
 
 
