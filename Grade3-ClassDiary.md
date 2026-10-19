@@ -285,8 +285,8 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
 1. Social: Enlightened Education - Introduction, Salutation, Vision
    1. HW: Read all of this; Prepare a list of good principles mentioned in the book; For each idea, mention if we are following this well in home school or if we need to improve 
    2. HW: Complete previous HWs
-
-
+      
+      
 
 **<u>16102026 Friday:</u>**
 
@@ -297,8 +297,22 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    2. HW: Complete the exercises and run the code from the paper to generate all the rhythms. 
    
    3. HW: Complete previous HWs.
+      
+      
 
+**<u>19102026 Monday:</u>**
 
+1. Telugu: 
+   
+   1. HW: Complete previous HWs
+   
+   2. Read Ramayanam until 'Bhageeratha prayatnam'
+      
+      1. HW: Read this again
+   
+   3. Learnt about telugu 'jaatheeyalu' and english 'idioms'; AI Notes
+      
+      1. HW: Read these and memorize the meanings
 
 
 
@@ -339,6 +353,7 @@ Maths:
 1. Geometry
    
    1. Experiment to determine pi - follow scientific method
+   2. Rays
 
 2. Set operations
    
@@ -389,6 +404,8 @@ Science: Discuss topics from proportions in detail - physics; Biology - let's fi
     Ramayanam - 9th/10th class telugu text; TODO - use AI to write meanings of all the words and full translation sentence by sentence. 
 
     After Ramayana, telugu grammar texts
+
+    Telugu jaatheyaalu, English idioms examples .. 
 
 
 
