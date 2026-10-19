@@ -129,3 +129,19 @@
 3. Music Practice: 30 minutes \- 12:30 to 1:00 PM
 4. Other books 
 5. **Total: 3 hours 30 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>16 October 2026 \- Friday<u>_**
+1. Social: 1 hour \- 10:00 to 11:00 AM
+2. Music: 1 hour \- 11:15 to 12:15 PM
+3. Technology: 1 hour \- 12:30 to 1:30 PM
+4. Music Practice: 30 minutes \- 2:00 to 2:30 PM
+5. **Total: 3 hours 30 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>19 October 2026 \- Monday<u>_**
+1. Science: 1 hour \- 8:45 to 9:45 AM
+2. Technology: 1 hour 30 minutes \- 10:00 to 11:30 AM
+3. Music Practice 30 minutes \- 11:30 to 12:30 PM
+4. Maths: 1 hour \- 2:30 to 3:30 PM
+5. **Total: 4 hours**
