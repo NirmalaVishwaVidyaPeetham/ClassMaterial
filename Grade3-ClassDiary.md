@@ -313,10 +313,20 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    3. Learnt about telugu 'jaatheeyalu' and english 'idioms'; AI Notes
       
       1. HW: Read these and memorize the meanings
+         
+         
+
+****<u>20102026 Tuesday - 28102026 Wednesday:</u>** No classes; Revision, practice, HWs;
 
 
 
+ **<u>29102026 Thursday:</u>**
 
+1. Maths: More discussion on circle radius, diameter, circumeference, pi and how to measure accurately. See AI notes on pi, and animations.
+   
+   1. HW: Complete previous experiments to measure perimeter/radius with more trials each time
+   
+   2. HW: More experiments to measure pi
 
 
 
@@ -353,9 +363,12 @@ Maths:
 1. Geometry
    
    1. Experiment to determine pi - follow scientific method
-   2. Rays
+      1. See AI notes \- follow up experiments
+   2. Angles, line segments, why corresponding angles are equal, line rotations;Rays; If else loop shapes, quadrilateral, sum of angles, convex, concave, polygon
 
 2. Set operations
+
+3. Statistics: average, standard deviation/variance, t-tests - use our data from the circle/pi calculations..
    
    
 
@@ -430,3 +443,5 @@ Check all HW files added to class folders
 Legend of Dagad trikon
 
 Man who knew infinity
+
+

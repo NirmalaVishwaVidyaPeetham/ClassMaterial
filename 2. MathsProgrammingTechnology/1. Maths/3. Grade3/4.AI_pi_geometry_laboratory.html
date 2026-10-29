@@ -1,0 +1,1099 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pi Geometry Laboratory</title>
+  <!-- Load Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Google Fonts: Inter & JetBrains Mono -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+    .font-mono-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-variant-numeric: tabular-nums;
+    }
+    /* Custom styling for range sliders */
+    input[type="range"] {
+      accent-color: #2563eb;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900 min-h-screen p-3 sm:p-6">
+
+  <!-- Main Container -->
+  <div class="max-w-4xl mx-auto bg-white rounded-3xl shadow-lg border border-slate-200 p-4 sm:p-8 flex flex-col gap-6">
+
+    <!-- Header & Mode Tabs -->
+    <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 pb-5">
+      <div>
+        <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700 mb-2">
+          Interactive Geometry Lab
+        </span>
+        <h1 class="text-2xl sm:text-3xl font-bold tracking-tight text-slate-900">
+          Understanding &pi; Visually
+        </h1>
+        <p class="text-sm text-slate-600 mt-1" id="header-subtitle">
+          Watch a wheel unroll its blue rim onto a ruler, or trap &pi; using polygons!
+        </p>
+      </div>
+
+      <!-- Mode Switcher -->
+      <div class="inline-flex bg-slate-100 p-1.5 rounded-2xl self-start md:self-auto shrink-0" role="tablist">
+        <button id="tab-roll" role="tab" aria-selected="true"
+          class="px-4 py-2.5 rounded-xl text-sm font-semibold transition-all bg-white text-blue-600 shadow-sm">
+          1. Unroll the Wheel
+        </button>
+        <button id="tab-arch" role="tab" aria-selected="false"
+          class="px-4 py-2.5 rounded-xl text-sm font-semibold transition-all text-slate-600 hover:text-slate-900">
+          2. Archimedes' Polygon Trap
+        </button>
+      </div>
+    </div>
+
+    <!-- Kid-Friendly Story / Step-by-Step Guide Box -->
+    <div id="story-box" class="bg-blue-50/70 border border-blue-200 rounded-2xl p-4 sm:p-5 flex flex-col gap-2">
+      <div class="flex items-center gap-2">
+        <span id="story-badge" class="px-2.5 py-0.5 rounded-md text-xs font-bold uppercase tracking-wider bg-blue-600 text-white">
+          How to Read This Animation
+        </span>
+        <h2 id="story-title" class="text-base font-bold text-slate-900">
+          Peeling the Blue Rim Off a Circle
+        </h2>
+      </div>
+      <div id="story-body" class="text-sm text-slate-700 leading-relaxed space-y-1.5">
+        <!-- Dynamically populated by JS -->
+      </div>
+    </div>
+
+    <!-- Canvas Card -->
+    <div class="bg-slate-50 border border-slate-200 rounded-2xl p-3 sm:p-4 flex flex-col gap-3">
+      <!-- Legend Bar -->
+      <div class="flex flex-wrap items-center justify-between gap-2 px-2">
+        <!-- Roll Mode Legend -->
+        <div id="legend-roll" class="flex flex-wrap items-center gap-4 text-xs sm:text-sm font-medium text-slate-700">
+          <span class="inline-flex items-center gap-1.5">
+            <span class="w-3.5 h-3.5 rounded-full bg-emerald-600 inline-block ring-2 ring-emerald-200"></span>
+            <strong class="text-emerald-800">Start Point (0)</strong> &amp; Wheel Paint Dot
+          </span>
+          <span class="inline-flex items-center gap-1.5">
+            <span class="w-5 h-2 rounded-full bg-blue-600 inline-block"></span>
+            <strong class="text-blue-700">Blue Length</strong> (Circumference <i>C</i>)
+          </span>
+          <span class="inline-flex items-center gap-1.5">
+            <span class="w-3.5 h-3.5 rounded-full bg-rose-600 inline-block ring-2 ring-rose-200"></span>
+            <strong class="text-rose-700">End / Finish Line</strong> (1 Full Turn = 3.1416<i>d</i>)
+          </span>
+        </div>
+
+        <!-- Archimedes Mode Legend -->
+        <div id="legend-arch" class="hidden flex-wrap items-center gap-4 text-xs sm:text-sm font-medium text-slate-700">
+          <span class="inline-flex items-center gap-1.5">
+            <span class="w-3.5 h-3.5 rounded-sm bg-emerald-600 inline-block"></span>
+            <strong class="text-emerald-800">Inside Polygon</strong> (Shorter than Circle)
+          </span>
+          <span class="inline-flex items-center gap-1.5">
+            <span class="w-3.5 h-3.5 rounded-full bg-blue-600 inline-block"></span>
+            <strong class="text-blue-700">True Circle</strong> (Exact &pi;)
+          </span>
+          <span class="inline-flex items-center gap-1.5">
+            <span class="w-3.5 h-3.5 rounded-sm border-2 border-dashed border-rose-600 bg-rose-50 inline-block"></span>
+            <strong class="text-rose-700">Outside Polygon</strong> (Longer than Circle)
+          </span>
+        </div>
+
+        <span id="live-status-pill" class="text-xs font-mono-num font-semibold px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700">
+          Turn Progress: 100%
+        </span>
+      </div>
+
+      <!-- Responsive Canvas Wrapper -->
+      <div class="relative w-full h-72 sm:h-80 bg-white rounded-xl border border-slate-200 overflow-hidden shadow-inner">
+        <canvas id="vizCanvas" class="w-full h-full block"></canvas>
+      </div>
+
+      <!-- Interactive Controls & Action Buttons RIGHT BELOW the Animation -->
+      <div class="bg-white border border-slate-200 rounded-xl p-3.5 sm:p-4 flex flex-col gap-3.5 shadow-sm">
+        <!-- Action Buttons Strip for Roll Mode -->
+        <div id="roll-actions" class="flex flex-wrap items-center justify-between gap-2.5 border-b border-slate-100 pb-3">
+          <div class="flex flex-wrap items-center gap-2">
+            <button id="btn-animate" type="button"
+              class="inline-flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-semibold bg-blue-600 hover:bg-blue-700 text-white shadow-sm transition active:scale-95">
+              <span id="btn-animate-icon">&#9654;</span>
+              <span id="btn-animate-text">Roll Wheel (Start &rarr; Finish)</span>
+            </button>
+            <button id="btn-reset-zero" type="button"
+              class="inline-flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700 transition">
+              Reset to Start (0%)
+            </button>
+            <button id="btn-error-sim" type="button" aria-pressed="false"
+              class="inline-flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700 transition">
+              <span>🧵</span> Stretchy String Error (+0.2 cm)
+            </button>
+          </div>
+        </div>
+
+        <!-- Action Buttons Strip for Archimedes Mode -->
+        <div id="arch-actions" class="hidden flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-3">
+          <div class="flex flex-wrap items-center gap-1.5">
+            <span class="text-xs font-semibold text-slate-500 uppercase tracking-wider mr-1">Quick Jump:</span>
+            <button type="button" data-sides="4" class="arch-chip px-3 py-1.5 rounded-xl text-xs font-semibold bg-white border border-slate-300 text-slate-700 hover:bg-slate-50">
+              4 Sides (Square)
+            </button>
+            <button type="button" data-sides="6" class="arch-chip px-3 py-1.5 rounded-xl text-xs font-semibold bg-blue-600 text-white border border-blue-600">
+              6 Sides (Hexagon)
+            </button>
+            <button type="button" data-sides="12" class="arch-chip px-3 py-1.5 rounded-xl text-xs font-semibold bg-white border border-slate-300 text-slate-700 hover:bg-slate-50">
+              12 Sides
+            </button>
+            <button type="button" data-sides="24" class="arch-chip px-3 py-1.5 rounded-xl text-xs font-semibold bg-white border border-slate-300 text-slate-700 hover:bg-slate-50">
+              24 Sides
+            </button>
+            <button type="button" data-sides="48" class="arch-chip px-3 py-1.5 rounded-xl text-xs font-semibold bg-white border border-slate-300 text-slate-700 hover:bg-slate-50">
+              48 Sides
+            </button>
+            <button type="button" data-sides="96" class="arch-chip px-3 py-1.5 rounded-xl text-xs font-semibold bg-white border border-slate-300 text-slate-700 hover:bg-slate-50">
+              96 Sides (Archimedes!)
+            </button>
+          </div>
+        </div>
+
+        <!-- Sliders Row -->
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <!-- Shared Control: Circle Radius -->
+          <div class="flex flex-col gap-1.5">
+            <div class="flex justify-between items-center">
+              <label for="radius-slider" class="text-xs sm:text-sm font-semibold text-slate-800">
+                1. Circle Radius (<i>r</i>)
+              </label>
+              <span id="radius-slider-val" class="text-xs font-mono-num font-bold text-blue-600 bg-blue-50 px-2 py-0.5 rounded-md">
+                5.0 cm (d = 10.0 cm)
+              </span>
+            </div>
+            <input type="range" id="radius-slider" min="2.0" max="10.0" step="0.5" value="5.0" class="w-full h-2 bg-slate-200 rounded-lg">
+            <div class="flex justify-between text-[11px] text-slate-400 font-mono-num">
+              <span>Small (2 cm)</span>
+              <span>Medium (6 cm)</span>
+              <span>Large (10 cm)</span>
+            </div>
+          </div>
+
+          <!-- Mode 1 Control: Roll Progress -->
+          <div id="roll-control-box" class="flex flex-col gap-1.5">
+            <div class="flex justify-between items-center">
+              <label for="progress-slider" class="text-xs sm:text-sm font-semibold text-slate-800">
+                2. Unroll Progress (<span class="text-emerald-700">Green</span> &rarr; <span class="text-rose-600">Red</span>)
+              </label>
+              <span id="progress-slider-val" class="text-xs font-mono-num font-bold text-blue-600 bg-blue-50 px-2 py-0.5 rounded-md">
+                100%
+              </span>
+            </div>
+            <input type="range" id="progress-slider" min="0" max="100" step="1" value="100" class="w-full h-2 bg-slate-200 rounded-lg">
+            <div class="flex justify-between text-[11px] font-medium">
+              <span class="text-emerald-700">&#9679; 0% (Green Drops)</span>
+              <span class="text-slate-400">50% (Half Turn)</span>
+              <span class="text-rose-600">&#9632; 100% (Red Drops)</span>
+            </div>
+          </div>
+
+          <!-- Mode 2 Control: Polygon Sides -->
+          <div id="sides-control-box" class="hidden flex-col gap-1.5">
+            <div class="flex justify-between items-center">
+              <label for="sides-slider" class="text-xs sm:text-sm font-semibold text-slate-800">
+                2. Polygon Flat Sides (<i>n</i>)
+              </label>
+              <span id="sides-slider-val" class="text-xs font-mono-num font-bold text-blue-600 bg-blue-50 px-2 py-0.5 rounded-md">
+                6 sides
+              </span>
+            </div>
+            <input type="range" id="sides-slider" min="3" max="96" step="1" value="6" class="w-full h-2 bg-slate-200 rounded-lg">
+            <div class="flex justify-between text-[11px] text-slate-400 font-mono-num">
+              <span>3 (Triangle)</span>
+              <span>6 (Hexagon)</span>
+              <span>96 (Archimedes!)</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Live Dynamic Caption Beneath Controls -->
+      <div id="dynamic-caption" class="bg-white border border-slate-200 rounded-xl p-3.5 text-sm text-slate-700 flex items-start gap-3">
+        <span class="text-lg leading-none select-none">💡</span>
+        <p id="dynamic-caption-text" class="leading-relaxed">
+          <!-- Populated dynamically as the wheel rolls or sides change -->
+        </p>
+      </div>
+    </div>
+
+    <!-- 4-Card Live Math Readout Deck (Below Buttons & Controls) -->
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-3">
+      <div class="bg-slate-50 border border-slate-200 rounded-2xl p-3.5 flex flex-col justify-between">
+        <span id="m1-label" class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Wheel Size</span>
+        <span id="m1-val" class="text-lg sm:text-xl font-bold font-mono-num text-slate-900 mt-1">r = 5.0 cm</span>
+        <span id="m1-sub" class="text-xs font-mono-num text-slate-600 mt-0.5">Diameter d = 10.0 cm</span>
+      </div>
+      <div class="bg-blue-50/60 border border-blue-200 rounded-2xl p-3.5 flex flex-col justify-between">
+        <span id="m2-label" class="text-xs font-semibold text-blue-700 uppercase tracking-wider">Blue Length Unrolled</span>
+        <span id="m2-val" class="text-lg sm:text-xl font-bold font-mono-num text-blue-700 mt-1">31.42 cm</span>
+        <span id="m2-sub" class="text-xs font-mono-num text-blue-600 mt-0.5">Full C = 31.42 cm</span>
+      </div>
+      <div class="bg-slate-50 border border-slate-200 rounded-2xl p-3.5 flex flex-col justify-between">
+        <span id="m3-label" class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Ratio C / d (&pi;)</span>
+        <span id="m3-val" class="text-lg sm:text-xl font-bold font-mono-num text-slate-900 mt-1">3.1416</span>
+        <span id="m3-sub" class="text-xs font-mono-num text-slate-600 mt-0.5">3.1416 diameters long</span>
+      </div>
+      <div class="bg-slate-50 border border-slate-200 rounded-2xl p-3.5 flex flex-col justify-between">
+        <span id="m4-label" class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Ratio C / r (2&pi;)</span>
+        <span id="m4-val" class="text-lg sm:text-xl font-bold font-mono-num text-slate-900 mt-1">6.2832</span>
+        <span id="m4-sub" class="text-xs font-mono-num text-slate-600 mt-0.5">6.2832 radii long</span>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    // Application State
+    const state = {
+      mode: 'roll',          // 'roll' | 'archimedes'
+      radius: 5.0,           // cm (2.0 to 10.0)
+      rollProgress: 100,     // % (0 to 100)
+      showErrorSim: false,   // simulates stretchy string error
+      errorOffsetCm: 0.20,   // +0.20 cm error
+      numSides: 6,           // polygon sides (3 to 96)
+      isAnimating: false,
+      animFrameId: null,
+      lastTime: 0
+    };
+
+    // Distinct, high-contrast color palette requested by user:
+    // - GREEN for Start Point & Moving Rim Marker
+    // - BLUE for all Lengths (wrapped rim, unrolled line, and ruler measurement bar)
+    // - RED/ROSE for Finish Line (End Point)
+    const PALETTE = {
+      startGreen: '#059669',     // Emerald 600
+      startGreenLight: '#d1fae5',// Emerald 100
+      lengthBlue: '#2563eb',     // Blue 600
+      lengthBlueLight: '#dbeafe',// Blue 100
+      lengthBlueDark: '#1d4ed8', // Blue 700
+      endRed: '#e11d48',         // Rose 600
+      endRedLight: '#ffe4e6',    // Rose 100
+      spokePurple: '#7c3aed',    // Violet 600
+      slateDark: '#0f172a',      // Slate 900
+      slateMuted: '#64748b',     // Slate 500
+      slateLight: '#e2e8f0'      // Slate 200
+    };
+
+    // Update top Story Box and bottom Dynamic Caption so a child can read & understand clearly
+    function updateTextAndMetrics(s) {
+      const r = s.radius;
+      const d = 2 * r;
+      const trueC = 2 * Math.PI * r;
+
+      const storyBadge = document.getElementById('story-badge');
+      const storyTitle = document.getElementById('story-title');
+      const storyBody = document.getElementById('story-body');
+      const dynamicCaption = document.getElementById('dynamic-caption-text');
+      const livePill = document.getElementById('live-status-pill');
+
+      const m1Label = document.getElementById('m1-label');
+      const m1Val = document.getElementById('m1-val');
+      const m1Sub = document.getElementById('m1-sub');
+      const m2Label = document.getElementById('m2-label');
+      const m2Val = document.getElementById('m2-val');
+      const m2Sub = document.getElementById('m2-sub');
+      const m3Label = document.getElementById('m3-label');
+      const m3Val = document.getElementById('m3-val');
+      const m3Sub = document.getElementById('m3-sub');
+      const m4Label = document.getElementById('m4-label');
+      const m4Val = document.getElementById('m4-val');
+      const m4Sub = document.getElementById('m4-sub');
+
+      if (s.mode === 'roll') {
+        const frac = s.rollProgress / 100;
+        const measuredFullC = trueC + (s.showErrorSim ? s.errorOffsetCm : 0);
+        const currentBlueLen = measuredFullC * frac;
+        const ratioCd = measuredFullC / d;
+        const ratioCr = measuredFullC / r;
+        const diametersRolled = (currentBlueLen / d).toFixed(2);
+
+        storyBadge.textContent = 'Part 1: Unrolling the Circle';
+        storyBadge.className = 'px-2.5 py-0.5 rounded-md text-xs font-bold uppercase tracking-wider bg-blue-600 text-white';
+        storyTitle.textContent = 'Watch the Green Start Bead & Red End Bead Unroll the Blue Ribbon!';
+        storyBody.innerHTML = `
+          <p>1. <strong class="text-emerald-700">&#9679; Green Start Marker on the Ring:</strong> Wrapped around the wheel is a <strong class="text-blue-700">blue ribbon</strong> with a <strong class="text-emerald-700">Green Start Bead</strong> at one end and a <strong class="text-rose-600">Red Finish Bead</strong> at the other end. As the wheel starts rolling, the <strong class="text-emerald-700">Green Bead drops off first</strong> at <strong class="text-emerald-700">0 cm (START)</strong>.</p>
+          <p>2. <strong class="text-blue-700">&#9644; Blue Length (Circumference <i>C</i>):</strong> As the wheel rolls to the right, the <strong class="text-blue-700">blue ribbon</strong> peels off the ring onto the ruler while the <strong class="text-rose-600">Red End Bead</strong> rides around the turning wheel.</p>
+          <p>3. <strong class="text-rose-600">&#9632; Red End Marker Drops Off at the Finish:</strong> After <strong>1 full turn</strong>, the <strong class="text-rose-600">Red Bead</strong> reaches the bottom of the wheel and drops off at the end of the line—always landing at <strong>3.1416 diameters (&pi; &times; d)</strong>!</p>
+        `;
+
+        livePill.textContent = `Wheel Turn: ${Math.round(s.rollProgress)}% (${diametersRolled} diameters)`;
+
+        // Dynamic step-by-step caption based on how far the wheel has rolled
+        if (s.showErrorSim) {
+          dynamicCaption.innerHTML = `<strong class="text-rose-600">Stretchy String Warning!</strong> A real thread stretches or wiggles by just <strong>+0.20 cm</strong>. Look at the red overshoot past the finish line: our calculated &pi; jumped from <strong>3.1416</strong> to <strong>${ratioCd.toFixed(4)}</strong>! That is why a paper strip or rolling wheel beats a stretchy thread.`;
+        } else if (s.rollProgress === 0) {
+          dynamicCaption.innerHTML = `<strong class="text-emerald-700">At the Start (0%):</strong> Both the <strong class="text-emerald-700">Green Start Bead</strong> and <strong class="text-rose-600">Red End Bead</strong> are on the bottom of the ring holding the <strong class="text-blue-700">${trueC.toFixed(2)} cm blue ribbon</strong>. Click <strong>"Roll Wheel"</strong> right above to watch the green bead drop at 0 cm!`;
+        } else if (s.rollProgress < 100) {
+          dynamicCaption.innerHTML = `<strong class="text-blue-700">Rolling (${Math.round(s.rollProgress)}%):</strong> The <strong class="text-emerald-700">Green Bead</strong> dropped off at the start line! Watch the <strong class="text-rose-600">Red End Bead</strong> riding the end of the <strong class="text-blue-700">blue ribbon</strong> on the ring—<strong class="text-blue-700">${currentBlueLen.toFixed(2)} cm</strong> is now flat on the ground (${diametersRolled} diameters).`;
+        } else {
+          dynamicCaption.innerHTML = `<strong class="text-rose-600">Red Bead Touchdown at the Finish (100%):</strong> The <strong class="text-rose-600">Red End Bead</strong> rotated all the way around the ring and dropped off at the end of the <strong class="text-blue-700">blue line (${trueC.toFixed(2)} cm)</strong>! The length between the <strong class="text-emerald-700">Green Start</strong> and <strong class="text-rose-600">Red End</strong> is <strong>3.1416 diameters (&pi;)</strong> or <strong>6.2832 radii (2&pi;)</strong>!`;
+        }
+
+        m1Label.textContent = 'Wheel Size (r & d)';
+        m1Val.textContent = `r = ${r.toFixed(1)} cm`;
+        m1Sub.textContent = `Diameter d = ${d.toFixed(1)} cm`;
+
+        m2Label.textContent = 'Blue Length Unrolled';
+        m2Val.textContent = `${currentBlueLen.toFixed(2)} cm`;
+        m2Sub.textContent = `${Math.round(s.rollProgress)}% of ${measuredFullC.toFixed(2)} cm`;
+
+        m3Label.textContent = 'Ratio C ÷ d (Gives π)';
+        m3Val.textContent = ratioCd.toFixed(4);
+        m3Sub.textContent = s.showErrorSim ? `Error: +${(ratioCd - Math.PI).toFixed(4)}` : `Always 3.1416!`;
+
+        m4Label.textContent = 'Ratio C ÷ r (Gives 2π)';
+        m4Val.textContent = ratioCr.toFixed(4);
+        m4Sub.textContent = `Always 2 × π (6.2832)`;
+
+      } else {
+        // Archimedes Polygon Mode
+        const n = s.numSides;
+        const lowerPi = n * Math.sin(Math.PI / n);
+        const upperPi = n * Math.tan(Math.PI / n);
+        const inPerim = 2 * r * lowerPi;
+        const outPerim = 2 * r * upperPi;
+        const spread = upperPi - lowerPi;
+
+        storyBadge.textContent = 'Part 2: No String Needed!';
+        storyBadge.className = 'px-2.5 py-0.5 rounded-md text-xs font-bold uppercase tracking-wider bg-emerald-600 text-white';
+        storyTitle.textContent = 'How Archimedes Calculated π Without a Thread (2,250 Years Ago)';
+        storyBody.innerHTML = `
+          <p><strong>Why did Archimedes do this?</strong> Curved lines are hard to measure with a ruler, but <strong>straight flat sides</strong> are easy to calculate using triangles!</p>
+          <p>1. <strong class="text-emerald-700">Green Inside Polygon (${n} straight sides):</strong> Fits <em>inside</em> the circle. Because straight lines take a shortcut between corners, its perimeter is always a little <strong>shorter</strong> than the blue circle.</p>
+          <p>2. <strong class="text-rose-600">Red Outside Polygon (${n} straight sides):</strong> Wraps <em>outside</em> the circle. Because its corners stick out, its perimeter is always a little <strong>longer</strong> than the blue circle.</p>
+          <p>3. <strong class="text-blue-700">The Squeeze Trap:</strong> The <strong class="text-blue-700">Blue Circle (&pi;)</strong> is trapped in the middle! Slide the number of sides up to <strong>96</strong> to watch the green and red walls squeeze together onto <strong>3.1416</strong>.</p>
+        `;
+
+        livePill.textContent = `${n}-Sided Polygons`;
+
+        if (n <= 6) {
+          dynamicCaption.innerHTML = `<strong class="text-slate-900">With ${n} flat sides:</strong> Look at the big gaps between the <strong class="text-emerald-700">green inside corners</strong>, the <strong class="text-blue-700">blue circle</strong>, and the <strong class="text-rose-600">red outside corners</strong>. Right now, we only know &pi; is trapped somewhere between <strong class="text-emerald-700">${lowerPi.toFixed(4)}</strong> and <strong class="text-rose-600">${upperPi.toFixed(4)}</strong>.`;
+        } else if (n < 48) {
+          dynamicCaption.innerHTML = `<strong class="text-slate-900">Getting Closer (${n} sides):</strong> The flat sides are shrinking and hugging the <strong class="text-blue-700">blue circle</strong> tightly! The trap has narrowed: &pi; must be between <strong class="text-emerald-700">${lowerPi.toFixed(4)}</strong> and <strong class="text-rose-600">${upperPi.toFixed(4)}</strong>.`;
+        } else {
+          dynamicCaption.innerHTML = `<strong class="text-blue-700">Archimedes' Masterpiece (${n} sides):</strong> With ${n} tiny straight sides, the <strong class="text-emerald-700">green</strong> and <strong class="text-rose-600">red</strong> polygons look almost identical to the <strong class="text-blue-700">blue circle</strong>! &pi; is trapped between <strong class="text-emerald-700">${lowerPi.toFixed(5)}</strong> and <strong class="text-rose-600">${upperPi.toFixed(5)}</strong>—proving <strong>&pi; &approx; 3.1416</strong> without ever touching a piece of string!`;
+        }
+
+        m1Label.textContent = 'Green Inside Perimeter';
+        m1Val.textContent = `${inPerim.toFixed(2)} cm`;
+        m1Sub.textContent = `P_in ÷ d = ${lowerPi.toFixed(5)} (Low)`;
+
+        m2Label.textContent = 'Blue Circle Length (C)';
+        m2Val.textContent = `${trueC.toFixed(2)} cm`;
+        m2Sub.textContent = `Exact π = 3.14159`;
+
+        m3Label.textContent = 'Red Outside Perimeter';
+        m3Val.textContent = `${outPerim.toFixed(2)} cm`;
+        m3Sub.textContent = `P_out ÷ d = ${upperPi.toFixed(5)} (High)`;
+
+        m4Label.textContent = 'Trap Gap (High - Low)';
+        m4Val.textContent = spread.toFixed(5);
+        m4Sub.textContent = `Using ${n}-sided polygons`;
+      }
+    }
+
+    // Draw rounded pill badge helper on Canvas
+    function drawBadge(ctx, text, x, y, bgColor, textColor, borderColor = null) {
+      ctx.save();
+      ctx.font = "600 11px 'Inter', sans-serif";
+      const padX = 8;
+      const boxH = 22;
+      const textW = ctx.measureText(text).width;
+      const boxW = textW + padX * 2;
+      const left = x - boxW / 2;
+      const top = y - boxH / 2;
+
+      ctx.beginPath();
+      ctx.roundRect(left, top, boxW, boxH, 6);
+      ctx.fillStyle = bgColor;
+      ctx.fill();
+      if (borderColor) {
+        ctx.strokeStyle = borderColor;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+      }
+      ctx.fillStyle = textColor;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText(text, x, y + 0.5);
+      ctx.restore();
+    }
+
+    // Render 2D Canvas
+    function renderCanvas(s) {
+      const canvas = document.getElementById('vizCanvas');
+      if (!canvas) return;
+      const ctx = canvas.getContext('2d');
+      const dpr = window.devicePixelRatio || 1;
+      const w = canvas.clientWidth || 760;
+      const h = canvas.clientHeight || 300;
+
+      if (canvas.width !== Math.floor(w * dpr) || canvas.height !== Math.floor(h * dpr)) {
+        canvas.width = Math.floor(w * dpr);
+        canvas.height = Math.floor(h * dpr);
+      }
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      ctx.clearRect(0, 0, w, h);
+
+      if (s.mode === 'roll') {
+        drawRollScene(ctx, w, h, s);
+      } else {
+        drawArchimedesScene(ctx, w, h, s);
+      }
+    }
+
+    function drawRollScene(ctx, w, h, s) {
+      const r = s.radius;
+      const d = 2 * r;
+      const trueC = 2 * Math.PI * r;
+
+      // Scale visual radius so changing r (2..10 cm) clearly resizes the wheel while fitting inside canvas
+      const normR = (r - 2.0) / 8.0;
+      const maxPixR = Math.min(52, (w - 110) / (2 * Math.PI + 1.6), (h - 125) / 2.1);
+      const minPixR = Math.max(22, maxPixR * 0.48);
+      const pixR = minPixR + normR * (maxPixR - minPixR);
+
+      const fullRollPx = 2 * Math.PI * pixR;
+      const startX = Math.max(58, (w - fullRollPx) / 2 - 10);
+      const endX = startX + fullRollPx;
+      const rulerY = h - 92;
+      const centerY = rulerY - pixR;
+
+      const frac = s.rollProgress / 100;
+      const errRatio = s.showErrorSim ? (s.errorOffsetCm / trueC) : 0;
+      const currentX = startX + fullRollPx * (1 + errRatio) * frac;
+      const angle = frac * 2 * Math.PI;
+
+      // 1. Faint Ghost Wheel at Start Position
+      ctx.save();
+      ctx.beginPath();
+      ctx.setLineDash([4, 4]);
+      ctx.strokeStyle = '#cbd5e1';
+      ctx.lineWidth = 1.5;
+      ctx.arc(startX, centerY, pixR, 0, Math.PI * 2);
+      ctx.stroke();
+      ctx.restore();
+
+      // 2. Horizontal Ruler Base Track
+      const rulerRightEdge = Math.min(w - 24, startX + 3.45 * (2 * pixR));
+      ctx.beginPath();
+      ctx.strokeStyle = '#94a3b8';
+      ctx.lineWidth = 2;
+      ctx.moveTo(startX - 20, rulerY);
+      ctx.lineTo(rulerRightEdge, rulerY);
+      ctx.stroke();
+
+      // 3. Diameter Step Zones & Ticks (1d, 2d, 3d) along Ruler
+      const dPx = 2 * pixR;
+      for (let i = 1; i <= 3; i++) {
+        const tickX = startX + i * dPx;
+        if (tickX <= rulerRightEdge + 5) {
+          ctx.beginPath();
+          ctx.strokeStyle = '#475569';
+          ctx.lineWidth = 2;
+          ctx.moveTo(tickX, rulerY - 6);
+          ctx.lineTo(tickX, rulerY + 10);
+          ctx.stroke();
+
+          ctx.font = "700 12px 'JetBrains Mono', monospace";
+          ctx.fillStyle = '#334155';
+          ctx.textAlign = 'center';
+          ctx.fillText(`${i}d`, tickX, rulerY + 24);
+
+          ctx.font = "500 11px 'Inter', sans-serif";
+          ctx.fillStyle = '#64748b';
+          ctx.fillText(`(${(i * d).toFixed(0)} cm)`, tickX, rulerY + 38);
+        }
+      }
+
+      // Radius half-ticks (1r, 3r, 5r)
+      for (let rStep = 1; rStep <= 6; rStep += 2) {
+        const rx = startX + rStep * pixR;
+        if (rx <= rulerRightEdge) {
+          ctx.beginPath();
+          ctx.strokeStyle = '#cbd5e1';
+          ctx.lineWidth = 1.5;
+          ctx.moveTo(rx, rulerY);
+          ctx.lineTo(rx, rulerY + 6);
+          ctx.stroke();
+
+          ctx.font = "500 10px 'JetBrains Mono', monospace";
+          ctx.fillStyle = '#94a3b8';
+          ctx.textAlign = 'center';
+          ctx.fillText(`${rStep}r`, rx, rulerY + 18);
+        }
+      }
+
+      // 4. GREEN START LINE & FLAG (x = startX)
+      ctx.save();
+      ctx.beginPath();
+      ctx.setLineDash([4, 3]);
+      ctx.strokeStyle = PALETTE.startGreen;
+      ctx.lineWidth = 2;
+      ctx.moveTo(startX, 34);
+      ctx.lineTo(startX, rulerY + 12);
+      ctx.stroke();
+      ctx.restore();
+
+      drawBadge(ctx, 'START (0 cm)', startX, 20, PALETTE.startGreenLight, PALETTE.startGreen, PALETTE.startGreen);
+
+      // 5. RED FINISH LINE & FLAG (x = endX = 3.1416d)
+      ctx.save();
+      ctx.beginPath();
+      ctx.setLineDash([4, 3]);
+      ctx.strokeStyle = PALETTE.endRed;
+      ctx.lineWidth = 2;
+      ctx.moveTo(endX, 34);
+      ctx.lineTo(endX, rulerY + 12);
+      ctx.stroke();
+      ctx.restore();
+
+      drawBadge(ctx, 'END (1 Turn = 3.1416d)', endX, 20, PALETTE.endRedLight, PALETTE.endRed, PALETTE.endRed);
+
+      // 6. BLUE UNROLLED CIRCUMFERENCE LINE ON THE GROUND
+      if (s.rollProgress > 0) {
+        const blueEndX = Math.min(currentX, endX);
+        ctx.save();
+        ctx.beginPath();
+        ctx.strokeStyle = PALETTE.lengthBlue;
+        ctx.lineWidth = 7;
+        ctx.lineCap = 'round';
+        ctx.moveTo(startX, rulerY);
+        ctx.lineTo(blueEndX, rulerY);
+        ctx.stroke();
+
+        // If stretchy string error is enabled, show wavy red overshoot past the finish line
+        if (s.showErrorSim && currentX > endX) {
+          ctx.beginPath();
+          ctx.strokeStyle = PALETTE.endRed;
+          ctx.lineWidth = 6;
+          ctx.moveTo(endX, rulerY);
+          ctx.lineTo(currentX, rulerY);
+          ctx.stroke();
+        }
+        ctx.restore();
+
+        // Blue Dimension Arrow Bar underneath the ruler ticks showing exact Blue Length
+        const barY = rulerY + 62;
+        const measuredFullC = trueC + (s.showErrorSim ? s.errorOffsetCm : 0);
+        const currentLenCm = measuredFullC * frac;
+
+        ctx.save();
+        ctx.beginPath();
+        ctx.strokeStyle = PALETTE.lengthBlue;
+        ctx.lineWidth = 2.5;
+        ctx.moveTo(startX, barY);
+        ctx.lineTo(currentX, barY);
+        // End caps
+        ctx.moveTo(startX, barY - 5);
+        ctx.lineTo(startX, barY + 5);
+        ctx.moveTo(currentX, barY - 5);
+        ctx.lineTo(currentX, barY + 5);
+        ctx.stroke();
+
+        // Pill readout on the Blue Dimension Bar
+        const midBarX = (startX + currentX) / 2;
+        const labelStr = `Blue Length C = ${currentLenCm.toFixed(2)} cm (${(currentLenCm / d).toFixed(2)}d)`;
+        drawBadge(
+          ctx,
+          labelStr,
+          Math.max(startX + 95, Math.min(w - 105, midBarX)),
+          barY,
+          PALETTE.lengthBlueLight,
+          PALETTE.lengthBlueDark,
+          PALETTE.lengthBlue
+        );
+        ctx.restore();
+      }
+
+      // 7. ROLLING WHEEL
+      ctx.save();
+      // Wheel disc fill
+      ctx.beginPath();
+      ctx.fillStyle = 'rgba(255, 255, 255, 0.92)';
+      ctx.arc(currentX, centerY, pixR, 0, Math.PI * 2);
+      ctx.fill();
+
+      // Faint full rim outline (already unrolled portion)
+      ctx.lineWidth = 2;
+      ctx.strokeStyle = '#cbd5e1';
+      ctx.stroke();
+
+      // BLUE WRAPPED RIBBON ON THE RING:
+      // As the wheel rolls clockwise by `angle`, the unpeeled blue ribbon on the ring
+      // spans from the bottom contact point (PI/2, currently peeling off onto the ruler)
+      // counter-clockwise to the Red End Bead at (PI/2 + angle), which is the same as
+      // drawing clockwise from (PI/2 + angle) to (PI/2 + 2*PI).
+      const redBeadAngle = Math.PI / 2 + angle;
+      const redBeadX = currentX + Math.cos(redBeadAngle) * pixR;
+      const redBeadY = centerY + Math.sin(redBeadAngle) * pixR;
+
+      if (frac < 1) {
+        ctx.beginPath();
+        ctx.strokeStyle = PALETTE.lengthBlue;
+        ctx.lineWidth = 6.5;
+        ctx.arc(currentX, centerY, pixR, redBeadAngle, Math.PI / 2 + Math.PI * 2);
+        ctx.stroke();
+      }
+
+      // Dashed diameter line through wheel center
+      const oppAngle = redBeadAngle + Math.PI;
+      ctx.beginPath();
+      ctx.setLineDash([3, 3]);
+      ctx.strokeStyle = '#94a3b8';
+      ctx.lineWidth = 1.5;
+      ctx.moveTo(currentX + Math.cos(oppAngle) * pixR, centerY + Math.sin(oppAngle) * pixR);
+      ctx.lineTo(currentX, centerY);
+      ctx.stroke();
+      ctx.setLineDash([]);
+
+      // Radius spoke (r) from center to the Red End Bead on the rim
+      ctx.beginPath();
+      ctx.strokeStyle = PALETTE.spokePurple;
+      ctx.lineWidth = 2.5;
+      ctx.moveTo(currentX, centerY);
+      ctx.lineTo(redBeadX, redBeadY);
+      ctx.stroke();
+
+      // Label 'r' on spoke
+      const midSpokeX = currentX + Math.cos(redBeadAngle) * (pixR * 0.52);
+      const midSpokeY = centerY + Math.sin(redBeadAngle) * (pixR * 0.52);
+      ctx.font = "700 11px 'JetBrains Mono', monospace";
+      ctx.fillStyle = PALETTE.spokePurple;
+      ctx.textAlign = 'center';
+      ctx.fillText('r', midSpokeX - Math.sin(redBeadAngle) * 10, midSpokeY + Math.cos(redBeadAngle) * 10);
+
+      // Wheel Center Dot
+      ctx.beginPath();
+      ctx.fillStyle = PALETTE.slateDark;
+      ctx.arc(currentX, centerY, 4, 0, Math.PI * 2);
+      ctx.fill();
+
+      // RED END BEAD on the Ring (rides the tail end of the blue ribbon and drops off at 100%!)
+      if (frac < 1) {
+        ctx.beginPath();
+        ctx.fillStyle = PALETTE.endRed;
+        ctx.strokeStyle = '#ffffff';
+        ctx.lineWidth = 2;
+        ctx.rect(redBeadX - 6.5, redBeadY - 6.5, 13, 13);
+        ctx.fill();
+        ctx.stroke();
+      }
+
+      // Faint Green Ghost Ring on the wheel rim showing where the Green Bead originally sat before dropping off
+      if (frac > 0 && frac < 1) {
+        ctx.beginPath();
+        ctx.strokeStyle = PALETTE.startGreen;
+        ctx.lineWidth = 1.5;
+        ctx.setLineDash([2, 2]);
+        ctx.arc(redBeadX, redBeadY, 9, 0, Math.PI * 2);
+        ctx.stroke();
+        ctx.setLineDash([]);
+      }
+      ctx.restore();
+
+      // 8. GREEN START BEAD: On the bottom of the ring at 0%, and dropped off at the start of the line!
+      ctx.save();
+      ctx.beginPath();
+      ctx.fillStyle = PALETTE.startGreen;
+      ctx.arc(startX, rulerY, 7, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.lineWidth = 2;
+      ctx.strokeStyle = '#ffffff';
+      ctx.stroke();
+      ctx.restore();
+
+      // 9. RED END BEAD AT THE FINISH LINE:
+      // While frac < 1, show an empty dashed red target box at endX waiting for the Red Bead to drop off.
+      // Once frac === 1 (100%), the Red Bead from the ring has dropped off into its spot at the end of the line!
+      ctx.save();
+      if (frac >= 1) {
+        ctx.fillStyle = PALETTE.endRed;
+        ctx.strokeStyle = '#ffffff';
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        ctx.rect(endX - 7, rulerY - 7, 14, 14);
+        ctx.fill();
+        ctx.stroke();
+      } else {
+        ctx.strokeStyle = PALETTE.endRed;
+        ctx.lineWidth = 2;
+        ctx.setLineDash([3, 2]);
+        ctx.beginPath();
+        ctx.rect(endX - 6, rulerY - 6, 12, 12);
+        ctx.stroke();
+      }
+      ctx.restore();
+    }
+
+    function drawArchimedesScene(ctx, w, h, s) {
+      const n = s.numSides;
+      const isCompact = w < 560;
+      const geoCenterX = isCompact ? w * 0.32 : w * 0.27;
+      const geoCenterY = h * 0.53;
+
+      const normR = (s.radius - 2.0) / 8.0;
+      const baseMaxR = Math.min(geoCenterX - 28, h * 0.39);
+      const outerFactor = 1 / Math.cos(Math.PI / Math.max(3, Math.min(n, 6)));
+      const safeMaxCircleR = Math.min(86, baseMaxR / Math.min(outerFactor, 1.7));
+      const pixR = safeMaxCircleR * (0.75 + 0.25 * normR);
+
+      // Left Side Title
+      ctx.font = "700 12px 'Inter', sans-serif";
+      ctx.fillStyle = PALETTE.slateDark;
+      ctx.textAlign = 'center';
+      ctx.fillText(`Circle Sandwiched Between ${n}-Sided Polygons`, geoCenterX, 22);
+
+      // 1. Outside Polygon (Red Dashed - Upper Bound)
+      const outerVertexR = pixR / Math.cos(Math.PI / n);
+      ctx.save();
+      ctx.beginPath();
+      for (let i = 0; i < n; i++) {
+        const theta = (i * 2 * Math.PI) / n - Math.PI / 2;
+        const vx = geoCenterX + outerVertexR * Math.cos(theta);
+        const vy = geoCenterY + outerVertexR * Math.sin(theta);
+        if (i === 0) ctx.moveTo(vx, vy);
+        else ctx.lineTo(vx, vy);
+      }
+      ctx.closePath();
+      ctx.fillStyle = 'rgba(225, 29, 72, 0.05)';
+      ctx.fill();
+      ctx.strokeStyle = PALETTE.endRed;
+      ctx.lineWidth = 2.2;
+      ctx.setLineDash([5, 3]);
+      ctx.stroke();
+      ctx.restore();
+
+      // 2. True Circle (Blue Solid - Exact Pi)
+      ctx.save();
+      ctx.beginPath();
+      ctx.arc(geoCenterX, geoCenterY, pixR, 0, Math.PI * 2);
+      ctx.fillStyle = '#ffffff';
+      ctx.fill();
+      ctx.strokeStyle = PALETTE.lengthBlue;
+      ctx.lineWidth = 3.5;
+      ctx.stroke();
+      ctx.restore();
+
+      // 3. Inside Polygon (Green Solid - Lower Bound)
+      ctx.save();
+      ctx.beginPath();
+      for (let i = 0; i < n; i++) {
+        const theta = (i * 2 * Math.PI) / n - Math.PI / 2 + Math.PI / n;
+        const vx = geoCenterX + pixR * Math.cos(theta);
+        const vy = geoCenterY + pixR * Math.sin(theta);
+        if (i === 0) ctx.moveTo(vx, vy);
+        else ctx.lineTo(vx, vy);
+      }
+      ctx.closePath();
+      ctx.fillStyle = 'rgba(5, 150, 105, 0.08)';
+      ctx.fill();
+      ctx.strokeStyle = PALETTE.startGreen;
+      ctx.lineWidth = 2.2;
+      ctx.stroke();
+      ctx.restore();
+
+      // Radius spoke
+      ctx.beginPath();
+      ctx.strokeStyle = PALETTE.spokePurple;
+      ctx.lineWidth = 2;
+      ctx.moveTo(geoCenterX, geoCenterY);
+      ctx.lineTo(geoCenterX + pixR, geoCenterY);
+      ctx.stroke();
+
+      ctx.beginPath();
+      ctx.fillStyle = PALETTE.slateDark;
+      ctx.arc(geoCenterX, geoCenterY, 3.5, 0, Math.PI * 2);
+      ctx.fill();
+
+      ctx.font = "600 11px 'JetBrains Mono', monospace";
+      ctx.fillStyle = PALETTE.spokePurple;
+      ctx.textAlign = 'center';
+      ctx.fillText(`r=${s.radius.toFixed(1)}`, geoCenterX + pixR * 0.5, geoCenterY - 6);
+
+      // Right Side: Visual Comparison Bars + Zoomed Squeeze Number Line
+      const rightX0 = isCompact ? w * 0.58 : w * 0.52;
+      const rightX1 = w - 24;
+      const barW = Math.max(120, rightX1 - rightX0);
+
+      const lowerPi = n * Math.sin(Math.PI / n);
+      const upperPi = n * Math.tan(Math.PI / n);
+
+      // Section A: 3 Straightened Perimeter Bars (Green Inside vs Blue Circle vs Red Outside)
+      ctx.font = "700 12px 'Inter', sans-serif";
+      ctx.fillStyle = PALETTE.slateDark;
+      ctx.textAlign = 'left';
+      ctx.fillText('1. Compare Unrolled Perimeters (÷ Diameter):', rightX0, 26);
+
+      const maxScalePi = 3.85;
+      const bars = [
+        { label: `Green Inside (${n} sides)`, val: lowerPi, color: PALETTE.startGreen, y: 48 },
+        { label: `Blue Circle (Exact π)`, val: Math.PI, color: PALETTE.lengthBlue, y: 82 },
+        { label: `Red Outside (${n} sides)`, val: upperPi, color: PALETTE.endRed, y: 116 }
+      ];
+
+      bars.forEach(b => {
+        ctx.font = "600 11px 'Inter', sans-serif";
+        ctx.fillStyle = b.color;
+        ctx.textAlign = 'left';
+        ctx.fillText(`${b.label}: ${b.val.toFixed(4)}d`, rightX0, b.y);
+
+        // Background track
+        ctx.fillStyle = '#f1f5f9';
+        ctx.beginPath();
+        ctx.roundRect(rightX0, b.y + 6, barW, 10, 5);
+        ctx.fill();
+
+        // Colored fill bar
+        const fillW = Math.min(barW, (b.val / maxScalePi) * barW);
+        ctx.fillStyle = b.color;
+        ctx.beginPath();
+        ctx.roundRect(rightX0, b.y + 6, fillW, 10, 5);
+        ctx.fill();
+      });
+
+      // Section B: Zoomed-in "Squeeze Trap" Number Line
+      const trapY = h - 66;
+      ctx.font = "700 12px 'Inter', sans-serif";
+      ctx.fillStyle = PALETTE.slateDark;
+      ctx.textAlign = 'left';
+      ctx.fillText('2. Zoomed-In Squeeze Trap Around π:', rightX0, trapY - 36);
+
+      const spanMin = 2.55;
+      const spanMax = 3.75;
+      const mapPiToX = (val) => {
+        const clamped = Math.max(spanMin, Math.min(spanMax, val));
+        return rightX0 + ((clamped - spanMin) / (spanMax - spanMin)) * barW;
+      };
+
+      const xLower = mapPiToX(lowerPi);
+      const xPi = mapPiToX(Math.PI);
+      const xUpper = mapPiToX(upperPi);
+
+      // Base line
+      ctx.beginPath();
+      ctx.strokeStyle = '#cbd5e1';
+      ctx.lineWidth = 5;
+      ctx.lineCap = 'round';
+      ctx.moveTo(rightX0, trapY);
+      ctx.lineTo(rightX1, trapY);
+      ctx.stroke();
+
+      // Highlighted Trap Zone
+      ctx.fillStyle = PALETTE.lengthBlueLight;
+      ctx.fillRect(xLower, trapY - 14, Math.max(3, xUpper - xLower), 28);
+
+      // Green Lower Wall
+      ctx.beginPath();
+      ctx.strokeStyle = PALETTE.startGreen;
+      ctx.lineWidth = 3;
+      ctx.moveTo(xLower, trapY - 18);
+      ctx.lineTo(xLower, trapY + 18);
+      ctx.stroke();
+
+      ctx.font = "700 11px 'JetBrains Mono', monospace";
+      ctx.fillStyle = PALETTE.startGreen;
+      ctx.textAlign = 'right';
+      ctx.fillText(`${lowerPi.toFixed(4)} →`, Math.max(rightX0 + 48, xLower - 4), trapY - 21);
+
+      // Red Upper Wall
+      ctx.beginPath();
+      ctx.strokeStyle = PALETTE.endRed;
+      ctx.lineWidth = 3;
+      ctx.moveTo(xUpper, trapY - 18);
+      ctx.lineTo(xUpper, trapY + 18);
+      ctx.stroke();
+
+      ctx.fillStyle = PALETTE.endRed;
+      ctx.textAlign = 'left';
+      const upText = upperPi > 3.75 ? `← ${upperPi.toFixed(2)}` : `← ${upperPi.toFixed(4)}`;
+      ctx.fillText(upText, Math.min(rightX1 - 52, xUpper + 4), trapY - 21);
+
+      // True Pi Center Target
+      ctx.beginPath();
+      ctx.strokeStyle = PALETTE.lengthBlue;
+      ctx.lineWidth = 2.5;
+      ctx.moveTo(xPi, trapY - 22);
+      ctx.lineTo(xPi, trapY + 22);
+      ctx.stroke();
+
+      ctx.beginPath();
+      ctx.fillStyle = PALETTE.lengthBlue;
+      ctx.arc(xPi, trapY, 5, 0, Math.PI * 2);
+      ctx.fill();
+
+      drawBadge(ctx, 'Exact π = 3.14159', xPi, trapY + 36, PALETTE.lengthBlueLight, PALETTE.lengthBlueDark, PALETTE.lengthBlue);
+    }
+
+    function syncControlsUI(s) {
+      const isRoll = s.mode === 'roll';
+      const tabRoll = document.getElementById('tab-roll');
+      const tabArch = document.getElementById('tab-arch');
+
+      tabRoll.setAttribute('aria-selected', isRoll ? 'true' : 'false');
+      tabArch.setAttribute('aria-selected', !isRoll ? 'true' : 'false');
+
+      tabRoll.className = isRoll
+        ? 'px-4 py-2.5 rounded-xl text-sm font-semibold transition-all bg-white text-blue-600 shadow-sm'
+        : 'px-4 py-2.5 rounded-xl text-sm font-semibold transition-all text-slate-600 hover:text-slate-900';
+      tabArch.className = !isRoll
+        ? 'px-4 py-2.5 rounded-xl text-sm font-semibold transition-all bg-white text-blue-600 shadow-sm'
+        : 'px-4 py-2.5 rounded-xl text-sm font-semibold transition-all text-slate-600 hover:text-slate-900';
+
+      document.getElementById('roll-control-box').classList.toggle('hidden', !isRoll);
+      document.getElementById('sides-control-box').classList.toggle('hidden', isRoll);
+
+      const rollActions = document.getElementById('roll-actions');
+      const archActions = document.getElementById('arch-actions');
+      rollActions.classList.toggle('hidden', !isRoll);
+      rollActions.classList.toggle('flex', isRoll);
+      archActions.classList.toggle('hidden', isRoll);
+      archActions.classList.toggle('flex', !isRoll);
+
+      const legendRoll = document.getElementById('legend-roll');
+      const legendArch = document.getElementById('legend-arch');
+      legendRoll.classList.toggle('hidden', !isRoll);
+      legendRoll.classList.toggle('flex', isRoll);
+      legendArch.classList.toggle('hidden', isRoll);
+      legendArch.classList.toggle('flex', !isRoll);
+
+      // Update slider labels
+      document.getElementById('radius-slider').value = s.radius;
+      document.getElementById('radius-slider-val').textContent = `${s.radius.toFixed(1)} cm (d = ${(2 * s.radius).toFixed(1)} cm)`;
+
+      document.getElementById('progress-slider').value = Math.round(s.rollProgress);
+      document.getElementById('progress-slider-val').textContent = `${Math.round(s.rollProgress)}%`;
+
+      document.getElementById('sides-slider').value = s.numSides;
+      document.getElementById('sides-slider-val').textContent = `${s.numSides} sides`;
+
+      // Highlight active quick-jump polygon button
+      document.querySelectorAll('.arch-chip').forEach(btn => {
+        const sides = parseInt(btn.getAttribute('data-sides'), 10);
+        if (sides === s.numSides) {
+          btn.className = 'arch-chip px-3 py-1.5 rounded-xl text-xs font-semibold bg-blue-600 text-white border border-blue-600 shadow-sm';
+        } else {
+          btn.className = 'arch-chip px-3 py-1.5 rounded-xl text-xs font-semibold bg-white border border-slate-300 text-slate-700 hover:bg-slate-50';
+        }
+      });
+    }
+
+    function updateAll() {
+      syncControlsUI(state);
+      updateTextAndMetrics(state);
+      renderCanvas(state);
+    }
+
+    function stopAnimation() {
+      if (state.animFrameId) {
+        cancelAnimationFrame(state.animFrameId);
+        state.animFrameId = null;
+      }
+      state.isAnimating = false;
+      document.getElementById('btn-animate-icon').innerHTML = '&#9654;';
+      document.getElementById('btn-animate-text').textContent = 'Roll Wheel (Start \u2192 Finish)';
+    }
+
+    function toggleAnimation() {
+      if (state.isAnimating) {
+        stopAnimation();
+        return;
+      }
+      state.isAnimating = true;
+      if (state.rollProgress >= 99) {
+        state.rollProgress = 0;
+      }
+      state.lastTime = performance.now();
+      document.getElementById('btn-animate-icon').innerHTML = '&#10074;&#10074;';
+      document.getElementById('btn-animate-text').textContent = 'Pause Rolling';
+
+      function step(now) {
+        if (!state.isAnimating) return;
+        const dt = Math.min(0.05, (now - state.lastTime) / 1000);
+        state.lastTime = now;
+        // Smooth 3-second roll so the child can watch the green dot and blue line clearly
+        state.rollProgress = Math.min(100, state.rollProgress + dt * 33);
+        updateAll();
+        if (state.rollProgress < 100) {
+          state.animFrameId = requestAnimationFrame(step);
+        } else {
+          stopAnimation();
+        }
+      }
+      state.animFrameId = requestAnimationFrame(step);
+    }
+
+    // Event Listeners
+    document.getElementById('tab-roll').addEventListener('click', () => {
+      stopAnimation();
+      state.mode = 'roll';
+      updateAll();
+    });
+
+    document.getElementById('tab-arch').addEventListener('click', () => {
+      stopAnimation();
+      state.mode = 'archimedes';
+      updateAll();
+    });
+
+    document.getElementById('radius-slider').addEventListener('input', (e) => {
+      state.radius = parseFloat(e.target.value);
+      updateAll();
+    });
+
+    document.getElementById('progress-slider').addEventListener('input', (e) => {
+      stopAnimation();
+      state.rollProgress = parseFloat(e.target.value);
+      updateAll();
+    });
+
+    document.getElementById('sides-slider').addEventListener('input', (e) => {
+      state.numSides = parseInt(e.target.value, 10);
+      updateAll();
+    });
+
+    document.getElementById('btn-animate').addEventListener('click', toggleAnimation);
+
+    document.getElementById('btn-reset-zero').addEventListener('click', () => {
+      stopAnimation();
+      state.rollProgress = 0;
+      updateAll();
+    });
+
+    document.getElementById('btn-error-sim').addEventListener('click', (e) => {
+      state.showErrorSim = !state.showErrorSim;
+      const btn = e.currentTarget;
+      btn.setAttribute('aria-pressed', state.showErrorSim ? 'true' : 'false');
+      if (state.showErrorSim) {
+        btn.className = 'inline-flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold bg-rose-100 text-rose-700 border border-rose-300 transition';
+      } else {
+        btn.className = 'inline-flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700 transition';
+      }
+      updateAll();
+    });
+
+    document.querySelectorAll('.arch-chip').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        state.numSides = parseInt(e.currentTarget.getAttribute('data-sides'), 10);
+        updateAll();
+      });
+    });
+
+    window.addEventListener('resize', updateAll);
+    window.onload = updateAll;
+  </script>
+</body>
+</html>
