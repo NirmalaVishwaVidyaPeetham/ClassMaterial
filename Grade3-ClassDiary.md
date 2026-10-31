@@ -316,7 +316,7 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
          
          
 
-****<u>20102026 Tuesday - 28102026 Wednesday:</u>** No classes; Revision, practice, HWs;
+**<u>20102026 Tuesday - 28102026 Wednesday:</u>** No classes; Revision, practice, HWs;
 
 
 
@@ -327,6 +327,18 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    1. HW: Complete previous experiments to measure perimeter/radius with more trials each time
    
    2. HW: More experiments to measure pi
+
+
+
+**<u>30102026 Friday:</u>**
+
+1. Programming: Checked exercises from Ch.1,2,3 in Python book
+   
+   1. HW: Complete Ch.1 exercises - describe steps in words
+   
+   2. HW: Commplete next chapters in textbook
+
+
 
 
 
@@ -368,7 +380,8 @@ Maths:
 
 2. Set operations
 
-3. Statistics: average, standard deviation/variance, t-tests - use our data from the circle/pi calculations..
+3. Statistics: average, standard deviation/variance, t-tests - use our data from the circle/pi calculations.. https://r-statistics.co/tools/t-test-calculator.html  
+   make a visual ttest calculator, and a poster
    
    
 
@@ -387,6 +400,8 @@ Programming:
 Techology: 
 
 1. Verify all previous class 2 material/website updated
+   
+   1. AI translation/notes for telugu/english books - do chapter by chapter so context remains smaller - find page numbers first from index and on that page find that chapter heading is there and at the end you see next chapter title; Next step in a loop, for each chapter do the required steps; 
 
 2. Terminal - command line; Bash etc. commands; 
 
@@ -443,5 +458,3 @@ Check all HW files added to class folders
 Legend of Dagad trikon
 
 Man who knew infinity
-
-
