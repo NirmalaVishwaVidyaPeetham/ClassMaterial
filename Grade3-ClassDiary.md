@@ -327,8 +327,8 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    1. HW: Complete previous experiments to measure perimeter/radius with more trials each time
    
    2. HW: More experiments to measure pi
-
-
+      
+      
 
 **<u>30102026 Friday:</u>**
 
@@ -337,10 +337,24 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    1. HW: Complete Ch.1 exercises - describe steps in words
    
    2. HW: Commplete next chapters in textbook
+      
+      
 
+**<u>02112026 Monday:</u>**
 
-
-
+1. Technology: 
+   
+   1. AI Linux exercises
+      
+      1. HW: Practice AI Linux exercises again (Set 1)! Write/copy your answers in a new Word document (in Windows).
+      
+      2. HW: Do the same for the Set 2 AI exercises; For Set 3 (advanced commands), you may look at the AI solutions if you like and try to solve/run! (Check your solutions step by step! What is your input? Where is it coming from? What is your output? Where is it going to?)
+   
+   2. Agentic AI – Google Gemini Antigravity: Tried to create reading companion texts for 'Chandamama' Telugu story books. 
+   
+   3. HW: Check if '1948-2' book's first two stories have enough meanings in the companion text.
+      
+      
 
 **TODOs:**
 
