@@ -213,4 +213,23 @@
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
 **_<u>30 October 2026 \- Friday</u>_**
 1. Maths: 1 hour \- 11:15 AM to 12:15 PM
-2. Devanagari (HSKM): 12:30 to 1:30 PM
+2. Devanagari (HSKM): 1 hour \- 12:30 to 1:30 PM
+3. Science: 1 hour \- 2:00 to 3:00 PM
+4. Music Practice: 30 minutes \- 3:30 to 4:00 PM
+5. **Total: 3 hours 30 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>2 November 2026 \- Monday</u>_**
+1. English: 1 hour \- 8:00 to 9:00 AM
+2. Maths: 1 hour \- 9:15 to 10:45 AM (30 minutes time waste)
+3. Programming: 1 hour \- 11:30 AM to 12:30 PM
+4. Music Practice: 30 minutes \- 1:15 to 1:45 PM
+5. **Total: 3 hours 30 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>3 November 2026 \- Tuesday</u>_**
+1. Devanagari: 1 hour \- 9:30 to 10:30 AM
+2. Technology: 1 hour \- 10:45 to 11:45 AM
+3. Science: 1 hour \- 11:50 AM to 12:50 PM
+4. Music Practice: 30 minutes \- 12:50 to 1:20 PM
+5. **Total: 3 hours 30 minutes**

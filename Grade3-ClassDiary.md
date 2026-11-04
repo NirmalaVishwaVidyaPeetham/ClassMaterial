@@ -356,6 +356,15 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
       
       
 
+**<u>02112026 Monday:</u>**
+
+1. English: Detailed AI notes on William Blake's Marriage of Heaven and Hell; Read the first chapter;
+   1. HW: Read AI notes and original text for chapters 0 to 5; Focus mainly on original text; Finish your previous HWs; 
+      
+      
+      
+      
+
 **TODOs:**
 
 
@@ -453,9 +462,11 @@ Science: Discuss topics from proportions in detail - physics; Biology - let's fi
 
 English: 
 
-    William blake's works, Grammar text
+1. William blake's works - See what Shri Mataji said about William Blake ; Compare and contrast AI notes with Shri Mataji's teachings similar to how we did for Mahavira's works. Also compare with Gnyaneshwara's Amrithanubhava which also talks about opposites like light and darkness, similar to heaven and hell here. 
 
-
+2. Grammar text
+   
+   
 
 Devanagari: 
 
