@@ -356,14 +356,26 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
       
       
 
-**<u>02112026 Monday:</u>**
+**<u>03112026 Tuesday:</u>**
 
 1. English: Detailed AI notes on William Blake's Marriage of Heaven and Hell; Read the first chapter;
    1. HW: Read AI notes and original text for chapters 0 to 5; Focus mainly on original text; Finish your previous HWs; 
       
       
+
+**<u>04112026 Wednesday:</u>** No classes; HWs and Revision;
+
+
+
+**<u>05112026 Thursday:</u>**
+
+1. Social: Read Englightened Education Ch.1 until page 11
+   
+   1. HW: Read this and prepare a summary of Ch.1 in your own words in about 10 sentences.
       
       
+
+2. 
 
 **TODOs:**
 

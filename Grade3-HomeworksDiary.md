@@ -233,3 +233,19 @@
 3. Science: 1 hour \- 11:50 AM to 12:50 PM
 4. Music Practice: 30 minutes \- 12:50 to 1:20 PM
 5. **Total: 3 hours 30 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>4 November 2026 \- Wednesday</u>_**
+1. English: 1 hour 30 minutes \- 8:30 to 10:00 AM
+2. Technology: 1 hour \- 10:30 to 11:30 AM
+3. Class Notes Revision: 30 minutes \- 11:30 AM to 12:00 PM
+4. Music Practice: 30 minutes \- 12:30 to 1:00 PM
+5. **Total: 3 hours 30 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
+**_<u>5 November 2026 \- Thursday</u>_**
+1. English: 1 hour \- 10:15 to 10:45 AM; 11:15 to 11:45 PM
+2. Programming: 1 hour \- 11:4 AM to 12:45 PM
+3. Technology: 1 hour \- 1:15 to 2:15 PM
+4. Music Practice: 30 minutes \- 2:30 to 3:00 PM
+5. **Total: 3 hours 30 minutes**
