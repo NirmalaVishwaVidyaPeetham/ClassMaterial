@@ -375,7 +375,27 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
       
       
 
-2. 
+**<u>06112026 Friday, 09112026 Monday, 10112026 Tuesday:</u>** No classes; HWs and Revision; 
+
+
+
+**<u>11112026 Wednesday:</u>**
+
+1. Music: 
+   
+   1. Tanpura Droid App to practice singing in Shruthi 
+      
+      1. HW: Practice singing with this app 
+   
+   2. Practiced singing written swaras 
+      
+      1. HW: From Swaranjali book, practice singing the swaras of the songs: He Prema Murthi, He Nirmala Maa
+   
+   3. Checked the breakdown of songs: Animuthyalu & Keshava Madhava 
+      
+      1. HW: Listen to the whole song and fix the swaras; follow thaalam correctly in the breakdown; practice.
+         
+         
 
 **TODOs:**
 
