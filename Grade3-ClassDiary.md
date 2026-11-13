@@ -397,6 +397,20 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
          
          
 
+**<u>12112026 Thursday:</u>**
+
+1. Science: 
+   
+   1. HW: Complete English copy tracing book again
+   
+   2. HW: Complete Science - Envinormental Science textbook + workbook - Grade 4 - again! Write neatly! Pay attention to what you are doing! After each page, go back and verify everything is correct and written/presented neatly. Will have to continue working on the same thing again and again until it's done properly!
+   
+   3. AI Summaries for Grade 4/5 AP Env. textbooks
+      
+      1. HW: Study and memorize Grade 4 summaries
+         
+         
+
 **TODOs:**
 
 
@@ -469,6 +483,8 @@ Techology:
 Science: Discuss topics from proportions in detail - physics; Biology - let's find a text with detailed anatomy etc. / botony?; Chemistry ? 
 
     Drones - project
+
+    Grade 4/5 Env. text summaries - check and correct 
 
     BCI - project
 

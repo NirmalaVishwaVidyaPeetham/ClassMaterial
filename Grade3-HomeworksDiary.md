@@ -297,7 +297,6 @@
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>10 November 2026 \- Tuesday</u>_**
-
 1. Devanagari (HSKM \- Hindi Sanskrit Khatri Marathi): 1 hour 30 minutes \- 9:30 to 11:00 AM
 2. Programming: 1 hour \- 11:15 AM to 12:15 PM
 3. Music Practice: 30 minutes \- 12:30 to 1:00 PM
@@ -306,9 +305,16 @@
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>11 November 2026 \- Wednesday</u>_**
-
 1. Science/Social: 1 hour \- 8:30 to 9:30 AM
 2. Maths: 1 hour \- 9:45 to 10:45 AM
 3. Devanagari (HSKM \- Hindi Sanskrit Khatri Marathi): 1 hour \- 11:30 AM to 12:30 PM
 4. Music Practice: 30 minutes \- 12:45 to 1:15 PM
 5. **_<u>Total:</u>_ 3 hours 30 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>12 November 2026 \- Thursday</u>_**
+1. Science/Social HW: 1 hour 45 minutes \- 10:30 to 11:45 AM; 5:30 to 6:30 PM
+2. Music HW: 1 hour \- 12:00 to 1:00 PM
+3. Programming HW: 1 hour \- 1:00 to 2:00 PM
+4. Music Practice:  30 minutes \- 2:00 to 2:30 PM
+5. **_<u>Total:</u>_ 4 hours 15 minutes**
