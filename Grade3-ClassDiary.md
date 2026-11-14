@@ -411,6 +411,23 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
          
          
 
+**<u>13112026 Friday:</u>**
+
+1. Hindi: 
+   1. HW: Complete previous HWs
+   
+   2. AI notes on 'relationships' - Hindi, Telugu, English words
+      
+      1. HW: Learn all of these!
+   
+   3. AI notes: translating all the songs from Swaranjali book
+      
+      1. HW: Learn all these Songs - meanings, swaras, singing, playing piano/flute
+   
+   
+   
+   
+
 **TODOs:**
 
 
@@ -424,6 +441,8 @@ Social:
 Music: 
 
 1. Grade 3 mainly gamakas and singing practice; Practice recognizing notes faster; Gamakas - continuous transitions - say, 10  - then 72 * 10^7 * 10^7 possibilities - which ones are picked for the raagas? ; From continuous space to discrete system.. then back to continuous by adding gamakas.. skeletal structures underlying dynamics.. kind of like in chaotic systems.. yet you are freely to move between those structures.. 
+   
+   1. Swaranjali book - AI translation - breakdown
 
 2. Move music code/apps to Music folder;  10 new songs - compile together with original script, phonetic script, english meaning, laghu/guru breakdown, whole meaning
    
@@ -518,7 +537,7 @@ English:
 
 Devanagari: 
 
-    CBSE first class textbook; Conversational hindi textbook;
+    CBSE first class textbook; Conversational hindi textbook - First year hindi texas univ. - may be along with English grammar book; 
 
     
 
