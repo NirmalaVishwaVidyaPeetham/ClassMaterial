@@ -447,12 +447,23 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
       1. HW: Study and interact with the animations 
    6. Properties of various shapes - AI notes and animations 
       1. HW: Study and interact with the animations
+         
+         
 
+**<u>17112026 Tuesday:</u>**
 
-
-
-
-
+1. English: William Blake's Marriage of Heaven and Hell - Read AI introduction  
+   1. HW: Complete previous HWs 
+   
+   2. HW: Read the original illustrated book by William Blake (without AI version)
+   
+   3. HW: Read "Divine Cool Breeze" excerpt on William Blake 
+   
+   4. HW: Complete English Copy Tracing book again!  
+   
+   
+   
+   
 
 **TODOs:**
 
@@ -560,6 +571,10 @@ Science: Discuss topics from proportions in detail - physics; Biology - let's fi
 English: 
 
 1. William blake's works - See what Shri Mataji said about William Blake ; Compare and contrast AI notes with Shri Mataji's teachings similar to how we did for Mahavira's works. Also compare with Gnyaneshwara's Amrithanubhava which also talks about opposites like light and darkness, similar to heaven and hell here. 
+   
+   1. Heaven and hell interaction; Left and right channnels; Rules and freedom; Maths - chaotic dynamics fractals ; 
+   
+   2. What are heaven and hell representing in terms of Sahajayoga? Are they left vs. right channels? Or imbalanced left/right vs. balanced central channel - imbalance vs. balance ? 
 
 2. Grammar text
    
@@ -580,3 +595,5 @@ Check all HW files added to class folders
 Legend of Dagad trikon
 
 Man who knew infinity
+
+

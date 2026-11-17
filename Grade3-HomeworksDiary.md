@@ -1,5 +1,6 @@
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_** 
 **_<u>24 September 2026 \- Thursday</u>_**
+
 1. Programming: 1 hour \- 11:15 AM to 12:15 PM  
 2. Telugu: 1 hour \- 2:30 to 3:30 PM  
 3. English: 1 hour \- 3:35 to 4:35 PM  
@@ -296,6 +297,7 @@
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>10 November 2026 \- Tuesday</u>_**
+
 1. Devanagari (HSKM \- Hindi Sanskrit Khatri Marathi): 1 hour 30 minutes \- 9:30 to 11:00 AM
 2. Programming: 1 hour \- 11:15 AM to 12:15 PM
 3. Music Practice: 30 minutes \- 12:30 to 1:00 PM
@@ -304,6 +306,7 @@
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>11 November 2026 \- Wednesday</u>_**
+
 1. Science/Social: 1 hour \- 8:30 to 9:30 AM
 2. Maths: 1 hour \- 9:45 to 10:45 AM
 3. Devanagari (HSKM \- Hindi Sanskrit Khatri Marathi): 1 hour \- 11:30 AM to 12:30 PM
@@ -312,6 +315,7 @@
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 **_<u>12 November 2026 \- Thursday</u>_**
+
 1. Science/Social HW: 1 hour 45 minutes \- 10:30 to 11:45 AM; 5:30 to 6:30 PM
 2. Music HW: 1 hour \- 12:00 to 1:00 PM
 3. Programming HW: 1 hour \- 1:00 to 2:00 PM
@@ -330,7 +334,14 @@
 **_<u>16 November 2026 \- Monday</u>_**
 1. Devanagari (HSKM \- Hindi Sanskrit Khatri Marathi): 1 hour \- 10:00 to 11:00 AM
 2. Programming: 1 hour \- 11:00 AM to 12:00 PM
-3. Telugu: 1 hour \- 12:30 to 1:00 PM\; 1:45 to 2:15 PM
+3. Telugu: 1 hour \- 12:30 to 1:00 PM; 1:45 to 2:15 PM
 4. Music Practice: 30 minutes \- 3:00 to 3:30 PM
 5. **_<u>Total:</u>_ 3 hours 30 minutes**
 
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>17 November 2026 \- Tuesday<u>_**
+1. Maths: 1 hour \- 8:45 to 9:45 AM
+2. Telugu: 1 hour \- 9:45 to 10:45 AM
+3. Programming: 1 hour \- 11:15 AM to 12:15 PM
+4. Music Practice: 30 minutes \- 1:45 to 2:15 PM
+5. **_<u>Total:</u>_ 3 hours 30 minutes**
