@@ -1,0 +1,1693 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Set Theory & Venn Diagram Laboratory</title>
+  <!-- Load Tailwind CSS for layout and responsive styling -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Google Fonts: Inter & JetBrains Mono -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+    .font-mono-code {
+      font-family: 'JetBrains Mono', monospace;
+      font-variant-numeric: tabular-nums;
+    }
+    canvas {
+      display: block;
+      width: 100%;
+      height: 100%;
+      touch-action: manipulation;
+    }
+    input[type="range"] {
+      accent-color: #2563eb;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body class="bg-slate-100 text-slate-900 min-h-screen p-2 sm:p-5">
+
+  <!-- Main Application Container -->
+  <div class="max-w-6xl mx-auto flex flex-col gap-4">
+
+    <!-- REQUIRED GENERATION & REPLICATION METADATA HEADER -->
+    <details class="bg-slate-900 text-slate-200 rounded-2xl px-4 py-2.5 shadow-sm border border-slate-700 text-xs">
+      <summary class="cursor-pointer font-semibold flex flex-wrap items-center justify-between gap-2 select-none">
+        <div class="flex items-center gap-2">
+          <span class="inline-block w-2 h-2 rounded-full bg-emerald-400"></span>
+          <span class="font-mono-code uppercase tracking-wider text-emerald-400">Generation &amp; Replication Metadata</span>
+          <span class="text-slate-400 hidden sm:inline">| 2026-11-16 &bull; Gemini 4 Argon Medium &bull; Zero External Runtime Dependencies</span>
+        </div>
+        <span class="text-slate-400 text-[11px] underline">Click to expand full spec</span>
+      </summary>
+      <div class="mt-2.5 pt-2.5 border-t border-slate-700 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 font-mono-code text-[11px] text-slate-300">
+        <div><strong class="text-white">Date:</strong> 2026-11-16</div>
+        <div><strong class="text-white">Model Version:</strong> Gemini 4 Argon Medium</div>
+        <div><strong class="text-white">Dependencies:</strong> None (Zero external JS libraries)</div>
+        <div class="sm:col-span-2"><strong class="text-white">Environment/Stack:</strong> Single-file HTML5, CSS3, Vanilla JavaScript (ES6+), HTML5 2D Canvas API (High-DPI scaled)</div>
+        <div class="sm:col-span-3"><strong class="text-white">Core Prompt Parameters:</strong> Interactive Set Theory &amp; Venn Diagram Explorer (Sets Basics, Operations, Set Difference Proof, De Morgan's Laws &amp; Identities)</div>
+      </div>
+    </details>
+
+    <!-- Main Interactive Lab Card -->
+    <div class="bg-white rounded-3xl shadow-lg border border-slate-200 p-4 sm:p-6 flex flex-col gap-4">
+
+      <!-- App Title & Five Interactive Module Tabs -->
+      <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-3 border-b border-slate-100 pb-4">
+        <div>
+          <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-xs font-bold uppercase tracking-wider bg-indigo-50 text-indigo-700 mb-1">
+            Interactive Set Theory &amp; Venn Diagram Laboratory
+          </span>
+          <h1 class="text-xl sm:text-2xl font-extrabold tracking-tight text-slate-900">
+            Everything You Need to Know About Sets (Visualized!)
+          </h1>
+        </div>
+
+        <!-- 5 Module Navigation Tabs -->
+        <div class="flex flex-wrap gap-1.5 bg-slate-100 p-1.5 rounded-2xl" role="tablist">
+          <button type="button" data-tab="1" class="mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all bg-indigo-600 text-white shadow-sm">
+            1. What is a Set?
+          </button>
+          <button type="button" data-tab="2" class="mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-700 hover:bg-white">
+            2. Core Operations (&cap;, &cup;, &prime;)
+          </button>
+          <button type="button" data-tab="3" class="mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-700 hover:bg-white">
+            3. Set Difference (A &minus; B)
+          </button>
+          <button type="button" data-tab="4" class="mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-700 hover:bg-white">
+            4. Proof: A&minus;B = A&minus;(A&cap;B)
+          </button>
+          <button type="button" data-tab="5" class="mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-700 hover:bg-white">
+            5. De Morgan's &amp; Rules
+          </button>
+        </div>
+      </div>
+
+      <!-- Concept Header Banner -->
+      <div class="bg-indigo-50/70 border border-indigo-200 rounded-2xl px-4 py-3 flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+        <div class="space-y-0.5">
+          <div class="flex items-center gap-2">
+            <span id="mod-badge" class="px-2 py-0.5 rounded text-[11px] font-bold uppercase tracking-wider bg-indigo-600 text-white">
+              Module 1 of 5
+            </span>
+            <h2 id="mod-title" class="text-sm sm:text-base font-bold text-slate-900">
+              Curly Brackets &amp; The Two Golden Rules of Sets
+            </h2>
+          </div>
+          <p id="mod-subtitle" class="text-xs sm:text-sm text-slate-700">
+            Think of a set like a Spotify playlist or group chat: <strong>Order doesn't matter</strong>, and <strong>No repeats are allowed</strong>!
+          </p>
+        </div>
+        <div id="mod-formula-pill" class="font-mono-code text-xs sm:text-sm font-bold px-3 py-1.5 rounded-xl bg-white border border-indigo-200 text-indigo-700 shrink-0 self-start sm:self-center">
+          {Netflix, Disney+, YouTube}
+        </div>
+      </div>
+
+      <!-- Canvas & Direct-Below Controls Wrapper -->
+      <div class="bg-slate-50 border border-slate-200 rounded-2xl p-3 sm:p-4 flex flex-col gap-3">
+
+        <!-- Canvas Top Bar: Legend & Dataset Mode Switcher -->
+        <div class="flex flex-wrap items-center justify-between gap-2 px-1">
+          <!-- Color Legend -->
+          <div class="flex flex-wrap items-center gap-3 text-xs font-semibold text-slate-700">
+            <span class="inline-flex items-center gap-1.5">
+              <span class="w-3 h-3 rounded-full bg-blue-600 inline-block"></span>
+              <span id="legend-a-label">Set A (Gaming)</span>
+            </span>
+            <span class="inline-flex items-center gap-1.5">
+              <span class="w-3 h-3 rounded-full bg-emerald-600 inline-block"></span>
+              <span id="legend-ab-label">Overlap A &cap; B (Both)</span>
+            </span>
+            <span class="inline-flex items-center gap-1.5">
+              <span class="w-3 h-3 rounded-full bg-amber-500 inline-block"></span>
+              <span id="legend-b-label">Set B (Basketball)</span>
+            </span>
+            <span class="inline-flex items-center gap-1.5">
+              <span class="w-3 h-3 rounded-sm bg-slate-400 inline-block"></span>
+              <span>Outside in Universal Set (U)</span>
+            </span>
+          </div>
+
+          <!-- Interactive Tip Pill -->
+          <span id="canvas-hint-pill" class="text-[11px] font-medium px-2.5 py-0.5 rounded-lg bg-white border border-slate-200 text-slate-600">
+            💡 Click any item badge on the canvas to move it between regions!
+          </span>
+        </div>
+
+        <!-- High-DPI HTML5 Canvas -->
+        <div class="relative w-full h-80 sm:h-96 bg-white rounded-xl border border-slate-200 overflow-hidden shadow-inner">
+          <canvas id="vennCanvas"></canvas>
+        </div>
+
+        <!-- CRITICAL REQUIREMENT: ALL INTERACTIVE BUTTONS & CONTROLS RIGHT BELOW THE CANVAS -->
+        <div class="bg-white border border-slate-200 rounded-xl p-3.5 flex flex-col gap-3 shadow-sm">
+
+          <!-- Row 1: Dataset Switcher + Custom Element Adder/Mover -->
+          <div class="flex flex-wrap items-center justify-between gap-2 pb-2.5 border-b border-slate-100">
+            <div class="flex flex-wrap items-center gap-1.5">
+              <span class="text-xs font-bold uppercase tracking-wider text-slate-500 mr-1">Dataset:</span>
+              <button type="button" id="btn-ds-friends" class="px-3 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 text-white shadow-sm transition">
+                🎮🏀 Friends (Gaming vs. Basketball)
+              </button>
+              <button type="button" id="btn-ds-numbers" class="px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700 transition">
+                🔢 Numbers (1 to 9)
+              </button>
+              <button type="button" id="btn-ds-streaming" class="px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700 transition">
+                📺 Streaming Apps
+              </button>
+              <button type="button" id="btn-reset-dataset" class="px-2.5 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-600 transition" title="Restore default elements">
+                &#8635; Reset Elements
+              </button>
+            </div>
+
+            <!-- Interactive Region Cycle Helper -->
+            <div class="flex items-center gap-1.5 text-xs">
+              <span class="text-slate-500 font-medium hidden sm:inline">Move element region:</span>
+              <select id="select-element-move" class="px-2 py-1 rounded-lg border border-slate-300 bg-slate-50 font-semibold text-slate-800 text-xs">
+                <!-- Populated dynamically -->
+              </select>
+              <button type="button" id="btn-cycle-region" class="px-2.5 py-1 rounded-lg bg-indigo-50 hover:bg-indigo-100 text-indigo-700 font-semibold border border-indigo-200 transition">
+                Move Region &rarr;
+              </button>
+            </div>
+          </div>
+
+          <!-- Row 2: Module-Specific Controls (Swaps cleanly based on active tab) -->
+
+          <!-- Controls for Tab 1: What is a Set? -->
+          <div id="ctrl-tab-1" class="flex flex-wrap items-center justify-between gap-2">
+            <div class="flex flex-wrap items-center gap-2">
+              <button type="button" id="btn-shuffle-order" class="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl text-xs sm:text-sm font-bold bg-blue-600 hover:bg-blue-700 text-white shadow-sm transition active:scale-95">
+                🔀 Rule 1: Shuffle Order of Set A
+              </button>
+              <button type="button" id="btn-try-duplicate" class="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl text-xs sm:text-sm font-bold bg-rose-600 hover:bg-rose-700 text-white shadow-sm transition active:scale-95">
+                🚫 Rule 2: Try Adding a Duplicate to Set A!
+              </button>
+            </div>
+            <span class="text-xs font-mono-code text-slate-600 bg-slate-100 px-2.5 py-1 rounded-lg" id="tab1-rule-status">
+              Set A has 4 unique elements (Order never changes the set!)
+            </span>
+          </div>
+
+          <!-- Controls for Tab 2: Core Set Operations -->
+          <div id="ctrl-tab-2" class="hidden flex-wrap items-center gap-1.5">
+            <span class="text-xs font-bold uppercase tracking-wider text-slate-500 mr-1">Operation:</span>
+            <button type="button" data-op="ALL" class="op-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 text-white shadow-sm">
+              Show All (Overview)
+            </button>
+            <button type="button" data-op="A" class="op-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+              Set A
+            </button>
+            <button type="button" data-op="B" class="op-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+              Set B
+            </button>
+            <button type="button" data-op="INTERSECT" class="op-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-emerald-800 border border-emerald-200">
+              Intersection (A &cap; B) &ldquo;Both&rdquo;
+            </button>
+            <button type="button" data-op="UNION" class="op-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-blue-800 border border-blue-200">
+              Union (A &cup; B) &ldquo;All Together&rdquo;
+            </button>
+            <button type="button" data-op="COMP_A" class="op-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-rose-800 border border-rose-200">
+              Complement A&prime; (&ldquo;Anti-A&rdquo;)
+            </button>
+            <button type="button" data-op="COMP_B" class="op-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-purple-800 border border-purple-200">
+              Complement B&prime; (&ldquo;Anti-B&rdquo;)
+            </button>
+          </div>
+
+          <!-- Controls for Tab 3: Set Difference (A - B) vs (B - A) -->
+          <div id="ctrl-tab-3" class="hidden flex-wrap items-center justify-between gap-3">
+            <div class="flex flex-wrap items-center gap-1.5">
+              <button type="button" id="btn-diff-ab" class="px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm">
+                Show A &minus; B (Strictly in A)
+              </button>
+              <button type="button" id="btn-diff-ba" class="px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                Show B &minus; A (Strictly in B)
+              </button>
+              <span class="mx-1 text-slate-300">|</span>
+              <button type="button" data-dstep="1" class="dstep-btn px-2.5 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 text-slate-700">
+                Step 1: Start with Full Set
+              </button>
+              <button type="button" data-dstep="2" class="dstep-btn px-2.5 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 text-slate-700">
+                Step 2: Spot Overlap
+              </button>
+              <button type="button" data-dstep="3" class="dstep-btn px-2.5 py-1.5 rounded-lg text-xs font-bold bg-emerald-600 text-white">
+                Step 3: Kick Overlap Out!
+              </button>
+              <button type="button" id="btn-animate-diff" class="px-3 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white shadow-sm">
+                &#9654; Animate Kick-Out
+              </button>
+            </div>
+          </div>
+
+          <!-- Controls for Tab 4: Visual Proof A - B = A - (A ∩ B) -->
+          <div id="ctrl-tab-4" class="hidden flex-wrap items-center justify-between gap-2">
+            <div class="flex flex-wrap items-center gap-1.5">
+              <span class="text-xs font-bold uppercase tracking-wider text-slate-500 mr-1">Proof Steps:</span>
+              <button type="button" data-pstep="1" class="pstep-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 text-slate-700">
+                1. Find Overlap (A &cap; B)
+              </button>
+              <button type="button" data-pstep="2" class="pstep-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 text-slate-700">
+                2. Take Whole Circle A
+              </button>
+              <button type="button" data-pstep="3" class="pstep-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 text-slate-700">
+                3. Cut Out (A &cap; B) from A
+              </button>
+              <button type="button" data-pstep="4" class="pstep-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-emerald-600 text-white shadow-sm">
+                4. Compare Moon Slices: Match!
+              </button>
+            </div>
+            <button type="button" id="btn-animate-proof" class="px-3.5 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white shadow-sm">
+              &#9654; Play 4-Step Proof
+            </button>
+          </div>
+
+          <!-- Controls for Tab 5: De Morgan's Laws & Handy Rules -->
+          <div id="ctrl-tab-5" class="hidden flex-wrap items-center justify-between gap-2">
+            <div class="flex flex-wrap items-center gap-1.5">
+              <button type="button" data-law="DM1" class="law-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 text-white shadow-sm">
+                De Morgan 1: (A &cup; B)&prime; = A&prime; &cap; B&prime;
+              </button>
+              <button type="button" data-law="DM2" class="law-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                De Morgan 2: (A &cap; B)&prime; = A&prime; &cup; B&prime;
+              </button>
+              <button type="button" data-law="COMM" class="law-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                Commutative: A &cup; B = B &cup; A
+              </button>
+              <button type="button" data-law="IDEMP" class="law-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                Idempotent: A &cup; A = A
+              </button>
+            </div>
+            <div class="flex items-center gap-1.5">
+              <span class="text-xs font-semibold text-slate-500">Right-Side Breakdown:</span>
+              <button type="button" data-lstage="A" class="lstage-btn px-2 py-1 rounded-lg text-xs font-semibold bg-slate-100 text-slate-700">
+                Show 1st Part
+              </button>
+              <button type="button" data-lstage="B" class="lstage-btn px-2 py-1 rounded-lg text-xs font-semibold bg-slate-100 text-slate-700">
+                Show 2nd Part
+              </button>
+              <button type="button" data-lstage="FINAL" class="lstage-btn px-2.5 py-1 rounded-lg text-xs font-bold bg-emerald-600 text-white">
+                Combined Result (= Left!)
+              </button>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Live Dynamic Story / Explanation Caption Box -->
+        <div class="bg-white border border-slate-200 rounded-xl p-3.5 text-sm text-slate-700 flex items-start gap-3">
+          <span class="text-lg leading-none select-none">💡</span>
+          <div id="live-caption" class="leading-relaxed space-y-1 flex-1">
+            <!-- Dynamically updated -->
+          </div>
+        </div>
+
+      </div>
+
+      <!-- 4-Card Live Curly-Bracket Set Notation Readouts (Below Controls) -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+        <div class="bg-blue-50/60 border border-blue-200 rounded-2xl p-3.5 flex flex-col justify-between">
+          <span id="c1-label" class="text-xs font-bold text-blue-800 uppercase tracking-wider">Set A</span>
+          <span id="c1-val" class="text-sm sm:text-base font-bold font-mono-code text-blue-900 mt-1 break-words">{Alex, Sam, Jordan, Taylor}</span>
+          <span id="c1-sub" class="text-xs text-blue-700 mt-1">4 elements in A</span>
+        </div>
+        <div class="bg-amber-50/70 border border-amber-200 rounded-2xl p-3.5 flex flex-col justify-between">
+          <span id="c2-label" class="text-xs font-bold text-amber-900 uppercase tracking-wider">Set B</span>
+          <span id="c2-val" class="text-sm sm:text-base font-bold font-mono-code text-amber-900 mt-1 break-words">{Jordan, Taylor, Morgan, Casey}</span>
+          <span id="c2-sub" class="text-xs text-amber-800 mt-1">4 elements in B</span>
+        </div>
+        <div class="bg-emerald-50/70 border border-emerald-200 rounded-2xl p-3.5 flex flex-col justify-between">
+          <span id="c3-label" class="text-xs font-bold text-emerald-800 uppercase tracking-wider">Active Result Set</span>
+          <span id="c3-val" class="text-sm sm:text-base font-bold font-mono-code text-emerald-900 mt-1 break-words">{Jordan, Taylor}</span>
+          <span id="c3-sub" class="text-xs text-emerald-700 mt-1">Matches shaded Venn region</span>
+        </div>
+        <div class="bg-slate-50 border border-slate-200 rounded-2xl p-3.5 flex flex-col justify-between">
+          <span id="c4-label" class="text-xs font-bold text-slate-600 uppercase tracking-wider">Universal Set (U)</span>
+          <span id="c4-val" class="text-xs sm:text-sm font-bold font-mono-code text-slate-800 mt-1 break-words">{Alex, Sam, Jordan, Taylor, Morgan, Casey, Riley, Quinn}</span>
+          <span id="c4-sub" class="text-xs text-slate-500 mt-1">Everything inside the big box</span>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- COMPLETE INTERACTIVE REFERENCE GUIDE & SELF-CHECK QUIZ (Elaborating all 6 sections of the notes) -->
+    <div class="bg-white rounded-3xl shadow-lg border border-slate-200 p-5 sm:p-8 flex flex-col gap-6">
+      <div class="border-b border-slate-100 pb-4">
+        <span class="px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-emerald-50 text-emerald-700">
+          Complete Study Guide &amp; Cheat Sheet
+        </span>
+        <h2 class="text-2xl font-extrabold text-slate-900 mt-2">
+          Everything You Need to Know About Sets (Without Falling Asleep)
+        </h2>
+        <p class="text-sm text-slate-600 mt-1">
+          A complete breakdown of the class notes with visual analogies, step-by-step proofs, and an interactive quiz at the bottom.
+        </p>
+      </div>
+
+      <!-- 6 Section Cards Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+
+        <!-- Section 1 -->
+        <div class="bg-slate-50 border border-slate-200 rounded-2xl p-5 flex flex-col gap-2.5">
+          <div class="flex items-center gap-2">
+            <span class="w-7 h-7 rounded-lg bg-indigo-600 text-white font-bold text-xs flex items-center justify-center">1</span>
+            <h3 class="text-base font-bold text-slate-900">What Actually Is a Set?</h3>
+          </div>
+          <p class="text-sm text-slate-700 leading-relaxed">
+            A <strong>set</strong> is simply a well-defined collection of distinct objects—like a Spotify playlist, a group chat, or your sneaker collection. We wrap the items (called <strong>elements</strong>) inside curly brackets:
+          </p>
+          <div class="font-mono-code text-xs bg-white border border-slate-200 rounded-xl p-3 text-indigo-700 font-semibold">
+            Streaming = {Netflix, Disney+, YouTube}
+          </div>
+          <ul class="text-xs sm:text-sm text-slate-700 space-y-1.5 list-disc list-inside">
+            <li><strong>Order doesn't matter:</strong> <code class="font-mono-code bg-slate-200/70 px-1 rounded">{Netflix, Disney+, YouTube}</code> is the exact same set as <code class="font-mono-code bg-slate-200/70 px-1 rounded">{YouTube, Netflix, Disney+}</code>.</li>
+            <li><strong>No repeats allowed:</strong> Listing an item twice still only counts once! <code class="font-mono-code bg-slate-200/70 px-1 rounded">{1, 2, 2, 3}</code> automatically simplifies to <code class="font-mono-code bg-slate-200/70 px-1 rounded">{1, 2, 3}</code>.</li>
+          </ul>
+        </div>
+
+        <!-- Section 2 -->
+        <div class="bg-slate-50 border border-slate-200 rounded-2xl p-5 flex flex-col gap-2.5">
+          <div class="flex items-center gap-2">
+            <span class="w-7 h-7 rounded-lg bg-indigo-600 text-white font-bold text-xs flex items-center justify-center">2</span>
+            <h3 class="text-base font-bold text-slate-900">Venn Diagrams: Visualizing the Drama</h3>
+          </div>
+          <p class="text-sm text-slate-700 leading-relaxed">
+            If sets are friend groups at school, a <strong>Venn diagram</strong> is the social map showing who hangs out where inside the <strong>Universal Set (U)</strong> box:
+          </p>
+          <div class="font-mono-code text-xs bg-white border border-slate-200 rounded-xl p-3 space-y-1">
+            <div class="text-blue-700 font-semibold">Set A (Video Games) = {Alex, Sam, Jordan, Taylor}</div>
+            <div class="text-amber-700 font-semibold">Set B (Basketball) = {Jordan, Taylor, Morgan, Casey}</div>
+          </div>
+          <p class="text-xs sm:text-sm text-slate-700 leading-relaxed">
+            The left circle holds gamers, the right circle holds basketball players, and the <strong>football-shaped lens in the middle</strong> is where <strong class="text-emerald-700">Jordan and Taylor</strong> live because they do <em>both</em>!
+          </p>
+        </div>
+
+        <!-- Section 3 -->
+        <div class="bg-slate-50 border border-slate-200 rounded-2xl p-5 flex flex-col gap-2.5">
+          <div class="flex items-center gap-2">
+            <span class="w-7 h-7 rounded-lg bg-indigo-600 text-white font-bold text-xs flex items-center justify-center">3</span>
+            <h3 class="text-base font-bold text-slate-900">The Big Three Core Set Operations</h3>
+          </div>
+          <div class="space-y-2 text-xs sm:text-sm text-slate-700">
+            <div class="p-2.5 bg-white rounded-xl border border-slate-200">
+              <strong class="text-emerald-700">A. Intersection (A &cap; B) &mdash; The &ldquo;Both&rdquo; Zone:</strong>
+              Symbol <code class="font-mono-code font-bold">&cap;</code> looks like a bridge or an <span class="underline">n</span> in i<span class="underline">n</span>tersection. Only elements in <em>both</em> sets: <code class="font-mono-code text-emerald-700">{Jordan, Taylor}</code>.
+            </div>
+            <div class="p-2.5 bg-white rounded-xl border border-slate-200">
+              <strong class="text-blue-700">B. Union (A &cup; B) &mdash; The &ldquo;All Together&rdquo; Vibe:</strong>
+              Symbol <code class="font-mono-code font-bold">&cup;</code> looks like a giant cup holding everything from either set: <code class="font-mono-code text-blue-700">{Alex, Sam, Jordan, Taylor, Morgan, Casey}</code>.
+            </div>
+            <div class="p-2.5 bg-white rounded-xl border border-slate-200">
+              <strong class="text-rose-700">C. Complement (A&prime; or A<sup>c</sup>) &mdash; The &ldquo;Anti-You&rdquo;:</strong>
+              Everything inside the Universal Set <strong>U</strong> that is <em>not</em> in A. If 100 kids are in your grade (U) and 15 are in Math Club (A), then <strong>A&prime;</strong> is the other 85 kids!
+            </div>
+          </div>
+        </div>
+
+        <!-- Section 4 -->
+        <div class="bg-slate-50 border border-slate-200 rounded-2xl p-5 flex flex-col gap-2.5">
+          <div class="flex items-center gap-2">
+            <span class="w-7 h-7 rounded-lg bg-indigo-600 text-white font-bold text-xs flex items-center justify-center">4</span>
+            <h3 class="text-base font-bold text-slate-900">Set Difference (A &minus; B)</h3>
+          </div>
+          <p class="text-sm text-slate-700 leading-relaxed">
+            In <strong>A &minus; B</strong> (&ldquo;A minus B&rdquo;), you start with everything in Set A, and if any of those elements are also hanging out in Set B, you <strong>kick them out</strong>!
+          </p>
+          <div class="font-mono-code text-xs bg-white border border-slate-200 rounded-xl p-3 space-y-1">
+            <div>A = {1, 2, 3, <span class="text-rose-600 line-through">4, 5</span>}</div>
+            <div>B = {<span class="text-rose-600">4, 5</span>, 6, 7}</div>
+            <div class="text-blue-700 font-bold pt-1">A &minus; B = {1, 2, 3} (Strictly A!)</div>
+          </div>
+          <p class="text-xs sm:text-sm text-slate-700">
+            Notice that <code class="font-mono-code">6</code> and <code class="font-mono-code">7</code> in B don't matter at all for <code class="font-mono-code">A &minus; B</code> because we only care about what gets removed from A.
+          </p>
+        </div>
+
+        <!-- Section 5 -->
+        <div class="bg-slate-50 border border-slate-200 rounded-2xl p-5 flex flex-col gap-2.5">
+          <div class="flex items-center gap-2">
+            <span class="w-7 h-7 rounded-lg bg-indigo-600 text-white font-bold text-xs flex items-center justify-center">5</span>
+            <h3 class="text-base font-bold text-slate-900">Why Does A &minus; B = A &minus; (A &cap; B)?</h3>
+          </div>
+          <ol class="text-xs sm:text-sm text-slate-700 space-y-1.5 list-decimal list-inside leading-relaxed">
+            <li><strong>What is A &cap; B?</strong> It's the overlapping middle lens where A and B share elements (<code class="font-mono-code">{4, 5}</code>).</li>
+            <li><strong>What does A &minus; (A &cap; B) mean?</strong> Start with the whole circle A (<code class="font-mono-code">{1, 2, 3, 4, 5}</code>) and chop off the overlapping middle (<code class="font-mono-code">{4, 5}</code>).</li>
+            <li><strong>What's left over?</strong> The exact same crescent &ldquo;moon-shaped&rdquo; slice of A (<code class="font-mono-code">{1, 2, 3}</code>) that doesn't touch B!</li>
+          </ol>
+        </div>
+
+        <!-- Section 6 -->
+        <div class="bg-slate-50 border border-slate-200 rounded-2xl p-5 flex flex-col gap-2.5">
+          <div class="flex items-center gap-2">
+            <span class="w-7 h-7 rounded-lg bg-indigo-600 text-white font-bold text-xs flex items-center justify-center">6</span>
+            <h3 class="text-base font-bold text-slate-900">De Morgan's Laws &amp; Pocket Rules</h3>
+          </div>
+          <ul class="text-xs sm:text-sm text-slate-700 space-y-2 leading-relaxed">
+            <li>
+              <strong class="text-indigo-700">De Morgan's Laws (The Plot Twists):</strong><br>
+              <code class="font-mono-code font-bold">(A &cup; B)&prime; = A&prime; &cap; B&prime;</code> and <code class="font-mono-code font-bold">(A &cap; B)&prime; = A&prime; &cup; B&prime;</code><br>
+              <span class="text-xs text-slate-600">Flipping a combined set inside-out swaps &cup; and &cap;!</span>
+            </li>
+            <li>
+              <strong class="text-slate-900">Commutative Property:</strong> Order doesn't change unions or intersections: <code class="font-mono-code">A &cup; B = B &cup; A</code> and <code class="font-mono-code">A &cap; B = B &cap; A</code>.
+            </li>
+            <li>
+              <strong class="text-slate-900">Idempotent Laws:</strong> Combining a set with itself changes nothing: <code class="font-mono-code">A &cup; A = A</code> and <code class="font-mono-code">A &cap; A = A</code>.
+            </li>
+          </ul>
+        </div>
+
+      </div>
+
+      <!-- Interactive Self-Check Mini-Quiz -->
+      <div class="bg-indigo-50/60 border border-indigo-200 rounded-2xl p-5 flex flex-col gap-4">
+        <div class="flex flex-wrap items-center justify-between gap-2">
+          <div>
+            <h3 class="text-base sm:text-lg font-bold text-slate-900">⚡ Quick 3-Question Self-Check Quiz</h3>
+            <p class="text-xs sm:text-sm text-slate-600">Test your intuition! Let <code class="font-mono-code font-bold">A = {1, 2, 3, 4, 5}</code> and <code class="font-mono-code font-bold">B = {4, 5, 6, 7}</code>.</p>
+          </div>
+          <span id="quiz-score-pill" class="px-3 py-1 rounded-full text-xs font-bold bg-white border border-indigo-200 text-indigo-700">
+            Click an answer to check!
+          </span>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs sm:text-sm">
+          <!-- Q1 -->
+          <div class="bg-white p-4 rounded-xl border border-slate-200 flex flex-col justify-between gap-3">
+            <p class="font-semibold text-slate-800">1. What is the Set Difference <code class="font-mono-code text-indigo-700">B &minus; A</code> (careful: B minus A)?</p>
+            <div class="flex flex-col gap-1.5">
+              <button type="button" data-q="1" data-correct="false" class="quiz-opt text-left px-3 py-2 rounded-lg border border-slate-200 hover:bg-slate-50 font-mono-code">{1, 2, 3}</button>
+              <button type="button" data-q="1" data-correct="true" class="quiz-opt text-left px-3 py-2 rounded-lg border border-slate-200 hover:bg-slate-50 font-mono-code">{6, 7}</button>
+              <button type="button" data-q="1" data-correct="false" class="quiz-opt text-left px-3 py-2 rounded-lg border border-slate-200 hover:bg-slate-50 font-mono-code">{4, 5}</button>
+            </div>
+            <p id="q-feedback-1" class="text-xs font-medium hidden"></p>
+          </div>
+
+          <!-- Q2 -->
+          <div class="bg-white p-4 rounded-xl border border-slate-200 flex flex-col justify-between gap-3">
+            <p class="font-semibold text-slate-800">2. By De Morgan's Law, <code class="font-mono-code text-indigo-700">(A &cup; B)&prime;</code> is always equal to:</p>
+            <div class="flex flex-col gap-1.5">
+              <button type="button" data-q="2" data-correct="false" class="quiz-opt text-left px-3 py-2 rounded-lg border border-slate-200 hover:bg-slate-50 font-mono-code">A&prime; &cup; B&prime;</button>
+              <button type="button" data-q="2" data-correct="true" class="quiz-opt text-left px-3 py-2 rounded-lg border border-slate-200 hover:bg-slate-50 font-mono-code">A&prime; &cap; B&prime;</button>
+              <button type="button" data-q="2" data-correct="false" class="quiz-opt text-left px-3 py-2 rounded-lg border border-slate-200 hover:bg-slate-50 font-mono-code">A &minus; B</button>
+            </div>
+            <p id="q-feedback-2" class="text-xs font-medium hidden"></p>
+          </div>
+
+          <!-- Q3 -->
+          <div class="bg-white p-4 rounded-xl border border-slate-200 flex flex-col justify-between gap-3">
+            <p class="font-semibold text-slate-800">3. How many elements are in the set <code class="font-mono-code text-indigo-700">{5, 2, 5, 8, 2}</code>?</p>
+            <div class="flex flex-col gap-1.5">
+              <button type="button" data-q="3" data-correct="false" class="quiz-opt text-left px-3 py-2 rounded-lg border border-slate-200 hover:bg-slate-50 font-mono-code">5 elements</button>
+              <button type="button" data-q="3" data-correct="true" class="quiz-opt text-left px-3 py-2 rounded-lg border border-slate-200 hover:bg-slate-50 font-mono-code">3 elements: {2, 5, 8}</button>
+              <button type="button" data-q="3" data-correct="false" class="quiz-opt text-left px-3 py-2 rounded-lg border border-slate-200 hover:bg-slate-50 font-mono-code">2 elements</button>
+            </div>
+            <p id="q-feedback-3" class="text-xs font-medium hidden"></p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+  <script>
+    // =========================================================================
+    // INTERACTIVE SET THEORY & VENN DIAGRAM LABORATORY ENGINE
+    // =========================================================================
+
+    // Preset Datasets from the uploaded notes
+    const PRESET_DATASETS = {
+      friends: {
+        name: 'Friends (Gaming vs. Basketball)',
+        labelA: 'Set A (Video Games)',
+        labelB: 'Set B (Basketball)',
+        items: [
+          { id: 'Alex', region: 'ONLY_A' },
+          { id: 'Sam', region: 'ONLY_A' },
+          { id: 'Jordan', region: 'BOTH' },
+          { id: 'Taylor', region: 'BOTH' },
+          { id: 'Morgan', region: 'ONLY_B' },
+          { id: 'Casey', region: 'ONLY_B' },
+          { id: 'Riley', region: 'OUTSIDE' },
+          { id: 'Quinn', region: 'OUTSIDE' }
+        ]
+      },
+      numbers: {
+        name: 'Numbers (1 to 9)',
+        labelA: 'Set A (1 to 5)',
+        labelB: 'Set B (4 to 7)',
+        items: [
+          { id: '1', region: 'ONLY_A' },
+          { id: '2', region: 'ONLY_A' },
+          { id: '3', region: 'ONLY_A' },
+          { id: '4', region: 'BOTH' },
+          { id: '5', region: 'BOTH' },
+          { id: '6', region: 'ONLY_B' },
+          { id: '7', region: 'ONLY_B' },
+          { id: '8', region: 'OUTSIDE' },
+          { id: '9', region: 'OUTSIDE' }
+        ]
+      },
+      streaming: {
+        name: 'Streaming Platforms',
+        labelA: 'Set A (My Favorites)',
+        labelB: 'Set B (Friend Favorites)',
+        items: [
+          { id: 'Netflix', region: 'ONLY_A' },
+          { id: 'Disney+', region: 'BOTH' },
+          { id: 'YouTube', region: 'BOTH' },
+          { id: 'Hulu', region: 'ONLY_B' },
+          { id: 'Max', region: 'ONLY_B' },
+          { id: 'Peacock', region: 'OUTSIDE' }
+        ]
+      }
+    };
+
+    const REGION_CYCLE = ['ONLY_A', 'BOTH', 'ONLY_B', 'OUTSIDE'];
+
+    // Application State
+    const state = {
+      tab: 1,                      // 1..5
+      datasetKey: 'friends',       // 'friends' | 'numbers' | 'streaming'
+      items: [],                   // Cloned array of { id, region, x, y, r }
+      labelA: '',
+      labelB: '',
+
+      // Tab 1 state (Rules of Sets)
+      shuffledOrderA: [],
+      dupAnimProgress: 0,          // 0..1 when animating duplicate rejection
+      dupItemName: '',
+      isDupAnimating: false,
+
+      // Tab 2 state (Core Operations)
+      activeOp: 'INTERSECT',       // 'ALL' | 'A' | 'B' | 'INTERSECT' | 'UNION' | 'COMP_A' | 'COMP_B'
+
+      // Tab 3 state (Set Difference)
+      diffMode: 'AB',              // 'AB' (A - B) | 'BA' (B - A)
+      diffStep: 3,                 // 1, 2, 3
+      diffAnimOffset: 1,           // 0..1 kick-out animation progress
+
+      // Tab 4 state (Proof A - B = A - (A ∩ B))
+      proofStep: 4,                // 1, 2, 3, 4
+      proofCutProgress: 1,         // 0..1 scissor cut separation
+
+      // Tab 5 state (De Morgan's Laws & Identities)
+      activeLaw: 'DM1',            // 'DM1' | 'DM2' | 'COMM' | 'IDEMP'
+      lawStage: 'FINAL',           // 'A' | 'B' | 'FINAL'
+
+      // Hit-testing array for clickable element pills on canvas
+      renderedBadges: []
+    };
+
+    // Load a preset dataset into active state
+    function loadDataset(key) {
+      state.datasetKey = key;
+      const preset = PRESET_DATASETS[key];
+      state.labelA = preset.labelA;
+      state.labelB = preset.labelB;
+      state.items = preset.items.map(it => ({ ...it }));
+      syncShuffledOrderA();
+      populateElementSelector();
+      updateAll();
+    }
+
+    function syncShuffledOrderA() {
+      const aItems = state.items
+        .filter(it => it.region === 'ONLY_A' || it.region === 'BOTH')
+        .map(it => it.id);
+      state.shuffledOrderA = [...aItems];
+    }
+
+    function populateElementSelector() {
+      const sel = document.getElementById('select-element-move');
+      const prev = sel.value;
+      sel.innerHTML = '';
+      state.items.forEach(it => {
+        const opt = document.createElement('option');
+        opt.value = it.id;
+        const regName = it.region === 'ONLY_A' ? 'Only A'
+          : it.region === 'BOTH' ? 'Both (A ∩ B)'
+          : it.region === 'ONLY_B' ? 'Only B' : 'Outside (U)';
+        opt.textContent = `${it.id} (${regName})`;
+        sel.appendChild(opt);
+      });
+      if ([...sel.options].some(o => o.value === prev)) {
+        sel.value = prev;
+      }
+    }
+
+    function cycleElementRegion(itemId) {
+      const target = state.items.find(it => it.id === itemId);
+      if (!target) return;
+      const idx = REGION_CYCLE.indexOf(target.region);
+      target.region = REGION_CYCLE[(idx + 1) % REGION_CYCLE.length];
+      syncShuffledOrderA();
+      populateElementSelector();
+      document.getElementById('select-element-move').value = itemId;
+      updateAll();
+    }
+
+    // Helper: Format array as curly-brace set string
+    function formatSet(arr) {
+      if (!arr || arr.length === 0) return '∅ (Empty Set {})';
+      return `{${arr.join(', ')}}`;
+    }
+
+    // Helper: Get items by region predicate
+    function getItemsByRegions(allowedRegions) {
+      return state.items
+        .filter(it => allowedRegions.includes(it.region))
+        .map(it => it.id);
+    }
+
+    // =========================================================================
+    // UI & READOUT SYNCHRONIZATION
+    // =========================================================================
+    function updateUIAndReadouts() {
+      // Update Dataset Buttons
+      const dsMap = {
+        friends: 'btn-ds-friends',
+        numbers: 'btn-ds-numbers',
+        streaming: 'btn-ds-streaming'
+      };
+      Object.entries(dsMap).forEach(([k, btnId]) => {
+        const btn = document.getElementById(btnId);
+        if (k === state.datasetKey) {
+          btn.className = 'px-3 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 text-white shadow-sm transition';
+        } else {
+          btn.className = 'px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700 transition';
+        }
+      });
+
+      // Update Legend Labels
+      document.getElementById('legend-a-label').textContent = state.labelA;
+      document.getElementById('legend-b-label').textContent = state.labelB;
+
+      // Update Module Tabs & Show Matching Control Row
+      document.querySelectorAll('.mod-tab').forEach(btn => {
+        const t = parseInt(btn.getAttribute('data-tab'), 10);
+        if (t === state.tab) {
+          btn.className = 'mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all bg-indigo-600 text-white shadow-sm';
+        } else {
+          btn.className = 'mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-700 hover:bg-white';
+        }
+      });
+
+      for (let i = 1; i <= 5; i++) {
+        const row = document.getElementById(`ctrl-tab-${i}`);
+        if (i === state.tab) {
+          row.classList.remove('hidden');
+          row.classList.add('flex');
+        } else {
+          row.classList.add('hidden');
+          row.classList.remove('flex');
+        }
+      }
+
+      // Compute Core Sets
+      const setA = getItemsByRegions(['ONLY_A', 'BOTH']);
+      const setB = getItemsByRegions(['ONLY_B', 'BOTH']);
+      const setBoth = getItemsByRegions(['BOTH']);
+      const setUnion = getItemsByRegions(['ONLY_A', 'BOTH', 'ONLY_B']);
+      const setOnlyA = getItemsByRegions(['ONLY_A']);
+      const setOnlyB = getItemsByRegions(['ONLY_B']);
+      const setU = state.items.map(it => it.id);
+
+      const badge = document.getElementById('mod-badge');
+      const title = document.getElementById('mod-title');
+      const subtitle = document.getElementById('mod-subtitle');
+      const pill = document.getElementById('mod-formula-pill');
+      const caption = document.getElementById('live-caption');
+
+      const c1L = document.getElementById('c1-label');
+      const c1V = document.getElementById('c1-val');
+      const c1S = document.getElementById('c1-sub');
+      const c2L = document.getElementById('c2-label');
+      const c2V = document.getElementById('c2-val');
+      const c2S = document.getElementById('c2-sub');
+      const c3L = document.getElementById('c3-label');
+      const c3V = document.getElementById('c3-val');
+      const c3S = document.getElementById('c3-sub');
+      const c4L = document.getElementById('c4-label');
+      const c4V = document.getElementById('c4-val');
+      const c4S = document.getElementById('c4-sub');
+
+      // Default Card 1, 2, 4
+      c1L.textContent = state.labelA;
+      c1V.textContent = formatSet(setA);
+      c1S.textContent = `${setA.length} elements in A`;
+
+      c2L.textContent = state.labelB;
+      c2V.textContent = formatSet(setB);
+      c2S.textContent = `${setB.length} elements in B`;
+
+      c4L.textContent = 'Universal Set (U)';
+      c4V.textContent = formatSet(setU);
+      c4S.textContent = `All ${setU.length} elements under consideration`;
+
+      if (state.tab === 1) {
+        badge.textContent = 'Module 1 of 5';
+        title.textContent = 'What Actually Is a Set? (Curly Brackets & Golden Rules)';
+        subtitle.innerHTML = 'Rule 1: <strong>Order doesn\'t matter</strong>. Rule 2: <strong>No repeats allowed</strong> (duplicates bounce right off!).';
+        pill.textContent = `A = ${formatSet(state.shuffledOrderA)}`;
+
+        document.getElementById('tab1-rule-status').textContent =
+          `A has ${setA.length} unique members: ${formatSet(state.shuffledOrderA)}`;
+
+        c3L.textContent = 'Shuffled Set A (Still Equal!)';
+        c3V.textContent = formatSet(state.shuffledOrderA);
+        c3S.textContent = `${formatSet(setA)} = ${formatSet(state.shuffledOrderA)}`;
+
+        caption.innerHTML = `
+          <p><strong class="text-indigo-700">Interactive Set Sandbox:</strong> Look at the curly-bracket box on the top of the canvas and the Venn diagram below it.</p>
+          <p>&bull; Click <strong>"🔀 Rule 1: Shuffle Order of Set A"</strong> to scramble the order inside the curly brackets. Because sets only care about <em>who is in the club</em> (not who stood in line first), <code class="font-mono-code font-bold text-blue-700">${formatSet(setA)}</code> and <code class="font-mono-code font-bold text-emerald-700">${formatSet(state.shuffledOrderA)}</code> are the <strong>exact same set</strong>!</p>
+          <p>&bull; Click <strong>"🚫 Rule 2: Try Adding a Duplicate"</strong> to fire a duplicate item at Set A and watch why sets automatically reject repeats.</p>
+        `;
+
+      } else if (state.tab === 2) {
+        badge.textContent = 'Module 2 of 5';
+        title.textContent = 'The Core Set Operations: Intersection (∩), Union (∪) & Complement (′)';
+        subtitle.innerHTML = 'Click any operation button right below the canvas to shade the Venn diagram and filter the elements!';
+
+        document.querySelectorAll('.op-btn').forEach(btn => {
+          const op = btn.getAttribute('data-op');
+          if (op === state.activeOp) {
+            btn.className = 'op-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 text-white shadow-sm';
+          } else {
+            btn.className = 'op-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700';
+          }
+        });
+
+        let activeRegions = ['ONLY_A', 'BOTH', 'ONLY_B', 'OUTSIDE'];
+        let opFormula = 'Universal Set U';
+        let opDesc = '';
+
+        if (state.activeOp === 'ALL') {
+          activeRegions = ['ONLY_A', 'BOTH', 'ONLY_B', 'OUTSIDE'];
+          opFormula = `U = ${formatSet(setU)}`;
+          opDesc = `<strong class="text-indigo-700">Overview of the Venn Diagram:</strong> Circle A is on the left (<code class="font-mono-code">${formatSet(setA)}</code>), Circle B is on the right (<code class="font-mono-code">${formatSet(setB)}</code>), and the football-shaped middle lens holds <strong class="text-emerald-700">${formatSet(setBoth)}</strong> who belong to <em>both</em>!`;
+        } else if (state.activeOp === 'A') {
+          activeRegions = ['ONLY_A', 'BOTH'];
+          opFormula = `A = ${formatSet(setA)}`;
+          opDesc = `<strong class="text-blue-700">Set A (${state.labelA}):</strong> Includes everyone inside the left circle—both those strictly in A (<code class="font-mono-code">${formatSet(setOnlyA)}</code>) and those in the shared overlap (<code class="font-mono-code">${formatSet(setBoth)}</code>).`;
+        } else if (state.activeOp === 'B') {
+          activeRegions = ['ONLY_B', 'BOTH'];
+          opFormula = `B = ${formatSet(setB)}`;
+          opDesc = `<strong class="text-amber-700">Set B (${state.labelB}):</strong> Includes everyone inside the right circle—both the shared overlap (<code class="font-mono-code">${formatSet(setBoth)}</code>) and those strictly in B (<code class="font-mono-code">${formatSet(setOnlyB)}</code>).`;
+        } else if (state.activeOp === 'INTERSECT') {
+          activeRegions = ['BOTH'];
+          opFormula = `A ∩ B = ${formatSet(setBoth)}`;
+          opDesc = `<strong class="text-emerald-700">Intersection (A &cap; B) &mdash; The "Both" Zone:</strong> Symbol <code class="font-mono-code font-bold">&cap;</code> is the bridge where Circle A and Circle B cross. Only <strong class="text-emerald-700">${formatSet(setBoth)}</strong> belong to <em>both</em> sets at the same time!`;
+        } else if (state.activeOp === 'UNION') {
+          activeRegions = ['ONLY_A', 'BOTH', 'ONLY_B'];
+          opFormula = `A ∪ B = ${formatSet(setUnion)}`;
+          opDesc = `<strong class="text-blue-700">Union (A &cup; B) &mdash; The "All Together" Vibe:</strong> Symbol <code class="font-mono-code font-bold">&cup;</code> is a giant cup holding everyone in Set A, Set B, or both! Notice that shared members (<code class="font-mono-code">${formatSet(setBoth)}</code>) are only listed <em>once</em>.`;
+        } else if (state.activeOp === 'COMP_A') {
+          activeRegions = ['ONLY_B', 'OUTSIDE'];
+          const res = getItemsByRegions(activeRegions);
+          opFormula = `A′ = U − A = ${formatSet(res)}`;
+          opDesc = `<strong class="text-rose-700">Complement of A (A&prime; or A<sup>c</sup>) &mdash; The "Anti-A":</strong> Everything in the Universal Set box <strong>U</strong> that is <em>outside</em> Circle A! That includes elements only in B (<code class="font-mono-code">${formatSet(setOnlyB)}</code>) plus elements completely outside both circles (<code class="font-mono-code">${formatSet(getItemsByRegions(['OUTSIDE']))}</code>).`;
+        } else if (state.activeOp === 'COMP_B') {
+          activeRegions = ['ONLY_A', 'OUTSIDE'];
+          const res = getItemsByRegions(activeRegions);
+          opFormula = `B′ = U − B = ${formatSet(res)}`;
+          opDesc = `<strong class="text-purple-700">Complement of B (B&prime; or B<sup>c</sup>) &mdash; The "Anti-B":</strong> Everything in the Universal Set box <strong>U</strong> that is <em>not</em> inside Circle B: <code class="font-mono-code">${formatSet(res)}</code>.`;
+        }
+
+        const activeResult = getItemsByRegions(activeRegions);
+        pill.textContent = opFormula;
+        c3L.textContent = `Result (${state.activeOp})`;
+        c3V.textContent = formatSet(activeResult);
+        c3S.textContent = `${activeResult.length} elements in shaded region`;
+        caption.innerHTML = `<p>${opDesc}</p>`;
+
+      } else if (state.tab === 3) {
+        const isAB = state.diffMode === 'AB';
+        const diffSet = isAB ? setOnlyA : setOnlyB;
+        const startSet = isAB ? setA : setB;
+        const otherIgnore = isAB ? setOnlyB : setOnlyA;
+
+        badge.textContent = 'Module 3 of 5';
+        title.textContent = isAB
+          ? 'Set Difference (A − B): Kick Out Anything Hanging Out in B!'
+          : 'Set Difference (B − A): Kick Out Anything Hanging Out in A!';
+        subtitle.innerHTML = 'Take everything in the starting set, spot who is also hanging out in the other set, and kick them out!';
+        pill.textContent = isAB
+          ? `A − B = ${formatSet(diffSet)}`
+          : `B − A = ${formatSet(diffSet)}`;
+
+        document.getElementById('btn-diff-ab').className = isAB
+          ? 'px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm'
+          : 'px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700';
+        document.getElementById('btn-diff-ba').className = !isAB
+          ? 'px-3 py-1.5 rounded-xl text-xs font-bold bg-amber-600 text-white shadow-sm'
+          : 'px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700';
+
+        document.querySelectorAll('.dstep-btn').forEach(btn => {
+          const st = parseInt(btn.getAttribute('data-dstep'), 10);
+          if (st === state.diffStep) {
+            btn.className = 'dstep-btn px-2.5 py-1.5 rounded-lg text-xs font-bold bg-emerald-600 text-white shadow-sm';
+          } else {
+            btn.className = 'dstep-btn px-2.5 py-1.5 rounded-lg text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200';
+          }
+        });
+
+        c3L.textContent = isAB ? 'Set Difference (A − B)' : 'Set Difference (B − A)';
+        c3V.textContent = formatSet(diffSet);
+        c3S.textContent = `Strictly in ${isAB ? 'A' : 'B'} (${diffSet.length} elements)`;
+
+        if (state.diffStep === 1) {
+          caption.innerHTML = `<p><strong class="text-blue-700">Step 1 &mdash; Start with all of Set ${isAB ? 'A' : 'B'}:</strong> We begin with <code class="font-mono-code font-bold">${formatSet(startSet)}</code>. Notice that <code class="font-mono-code">${formatSet(otherIgnore)}</code> in the other circle don't matter at all because they aren't in ${isAB ? 'A' : 'B'} to begin with!</p>`;
+        } else if (state.diffStep === 2) {
+          caption.innerHTML = `<p><strong class="text-rose-600">Step 2 &mdash; Spot the Trespassers in the Overlap (A &cap; B):</strong> Look inside ${isAB ? 'A' : 'B'} and see who is also hanging out in ${isAB ? 'B' : 'A'}. Those shared elements are <strong class="text-rose-600">${formatSet(setBoth)}</strong>!</p>`;
+        } else {
+          caption.innerHTML = `<p><strong class="text-emerald-700">Step 3 &mdash; Kick Out the Overlap!</strong> Deleting <code class="font-mono-code text-rose-600 line-through">${formatSet(setBoth)}</code> from <code class="font-mono-code">${formatSet(startSet)}</code> leaves the crescent "moon-shaped" slice <strong class="text-emerald-700">${isAB ? 'A − B' : 'B − A'} = ${formatSet(diffSet)}</strong>!</p>`;
+        }
+
+      } else if (state.tab === 4) {
+        badge.textContent = 'Module 4 of 5';
+        title.textContent = 'Visual & Numerical Proof: Why Does A − B = A − (A ∩ B)?';
+        subtitle.innerHTML = 'It looks like alien algebra, but side-by-side Venn diagrams make it 100% obvious!';
+        pill.textContent = `A − B = A − (A ∩ B) = ${formatSet(setOnlyA)}`;
+
+        document.querySelectorAll('.pstep-btn').forEach(btn => {
+          const st = parseInt(btn.getAttribute('data-pstep'), 10);
+          if (st === state.proofStep) {
+            btn.className = 'pstep-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-emerald-600 text-white shadow-sm';
+          } else {
+            btn.className = 'pstep-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200';
+          }
+        });
+
+        c1L.textContent = '1. Intersection (A ∩ B)';
+        c1V.textContent = formatSet(setBoth);
+        c1S.textContent = 'The shared middle football';
+
+        c2L.textContent = '2. A − (A ∩ B)';
+        c2V.textContent = `${formatSet(setA)} − ${formatSet(setBoth)}`;
+        c2S.textContent = `Equals ${formatSet(setOnlyA)}`;
+
+        c3L.textContent = '3. Direct A − B';
+        c3V.textContent = formatSet(setOnlyA);
+        c3S.textContent = 'Exact same moon-shaped slice! ✓';
+
+        const stepTexts = {
+          1: `<p><strong class="text-emerald-700">Step 1 &mdash; What is A &cap; B?</strong> Look at the right diagram: <code class="font-mono-code font-bold">A &cap; B = ${formatSet(setBoth)}</code> is just the overlapping football middle where A and B share elements.</p>`,
+          2: `<p><strong class="text-blue-700">Step 2 &mdash; Start with the Whole Circle A:</strong> Circle A contains <code class="font-mono-code font-bold">${formatSet(setA)}</code> (both the moon slice and the football overlap).</p>`,
+          3: `<p><strong class="text-rose-600">Step 3 &mdash; Chop Off (A &cap; B) from A:</strong> In <code class="font-mono-code font-bold">A &minus; (A &cap; B)</code>, we take the whole circle A and slice out the overlapping middle <code class="font-mono-code text-rose-600">${formatSet(setBoth)}</code>.</p>`,
+          4: `<p><strong class="text-indigo-700">Step 4 &mdash; Boom, They Match!</strong> Compare the Left Venn Diagram (<code class="font-mono-code font-bold">A &minus; B = ${formatSet(setOnlyA)}</code>) and the Right Venn Diagram (<code class="font-mono-code font-bold">A &minus; (A &cap; B) = ${formatSet(setOnlyA)}</code>). Both leave the exact same crescent moon slice of A!</p>`
+        };
+        caption.innerHTML = stepTexts[state.proofStep];
+
+      } else if (state.tab === 5) {
+        badge.textContent = 'Module 5 of 5';
+        title.textContent = 'De Morgan\'s Laws (The Plot Twists) & Handy Set Identities';
+        subtitle.innerHTML = 'Compare the Left-Hand Side and Right-Hand Side Venn diagrams to verify they shade the exact same region!';
+
+        document.querySelectorAll('.law-btn').forEach(btn => {
+          const lw = btn.getAttribute('data-law');
+          if (lw === state.activeLaw) {
+            btn.className = 'law-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 text-white shadow-sm';
+          } else {
+            btn.className = 'law-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700';
+          }
+        });
+
+        document.querySelectorAll('.lstage-btn').forEach(btn => {
+          const st = btn.getAttribute('data-lstage');
+          if (st === state.lawStage) {
+            btn.className = 'lstage-btn px-2.5 py-1 rounded-lg text-xs font-bold bg-emerald-600 text-white shadow-sm';
+          } else {
+            btn.className = 'lstage-btn px-2 py-1 rounded-lg text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200';
+          }
+        });
+
+        if (state.activeLaw === 'DM1') {
+          const res = getItemsByRegions(['OUTSIDE']);
+          pill.textContent = `(A ∪ B)′ = A′ ∩ B′ = ${formatSet(res)}`;
+          c1L.textContent = 'Left Side: (A ∪ B)′';
+          c1V.textContent = formatSet(res);
+          c1S.textContent = 'Outside the A ∪ B cup';
+          c2L.textContent = 'Right Side: A′ ∩ B′';
+          c2V.textContent = formatSet(res);
+          c2S.textContent = 'Both Not-A AND Not-B';
+          c3L.textContent = 'Identity Verdict';
+          c3V.textContent = '100% Identical! ✓';
+          c3S.textContent = 'De Morgan\'s First Law';
+          caption.innerHTML = `<p><strong class="text-indigo-700">De Morgan's First Law &mdash; (A &cup; B)&prime; = A&prime; &cap; B&prime;:</strong> Flipping a Union (<code class="font-mono-code">&cup;</code>) inside-out turns it into the Intersection (<code class="font-mono-code">&cap;</code>) of the individual complements! Everything outside the combined circles is <code class="font-mono-code font-bold">${formatSet(res)}</code>.</p>`;
+        } else if (state.activeLaw === 'DM2') {
+          const res = getItemsByRegions(['ONLY_A', 'ONLY_B', 'OUTSIDE']);
+          pill.textContent = `(A ∩ B)′ = A′ ∪ B′ = ${formatSet(res)}`;
+          c1L.textContent = 'Left Side: (A ∩ B)′';
+          c1V.textContent = formatSet(res);
+          c1S.textContent = 'Everything except the middle overlap';
+          c2L.textContent = 'Right Side: A′ ∪ B′';
+          c2V.textContent = formatSet(res);
+          c2S.textContent = 'In Not-A OR in Not-B';
+          c3L.textContent = 'Identity Verdict';
+          c3V.textContent = '100% Identical! ✓';
+          c3S.textContent = 'De Morgan\'s Second Law';
+          caption.innerHTML = `<p><strong class="text-indigo-700">De Morgan's Second Law &mdash; (A &cap; B)&prime; = A&prime; &cup; B&prime;:</strong> Flipping an Intersection (<code class="font-mono-code">&cap;</code>) inside-out turns it into the Union (<code class="font-mono-code">&cup;</code>) of <code class="font-mono-code">A&prime;</code> and <code class="font-mono-code">B&prime;</code>! Both sides shade everything except the center football: <code class="font-mono-code font-bold">${formatSet(res)}</code>.</p>`;
+        } else if (state.activeLaw === 'COMM') {
+          pill.textContent = `A ∪ B = B ∪ A = ${formatSet(setUnion)}`;
+          c1L.textContent = 'Left Side: A ∪ B';
+          c1V.textContent = formatSet(setUnion);
+          c1S.textContent = 'A combined with B';
+          c2L.textContent = 'Right Side: B ∪ A';
+          c2V.textContent = formatSet(setUnion);
+          c2S.textContent = 'B combined with A';
+          c3L.textContent = 'Commutative Law';
+          c3V.textContent = 'Order Doesn\'t Matter! ✓';
+          c3S.textContent = 'Also works for A ∩ B = B ∩ A';
+          caption.innerHTML = `<p><strong class="text-indigo-700">Commutative Property &mdash; A &cup; B = B &cup; A:</strong> Pouring cup A into cup B gives the exact same mega-group as pouring cup B into cup A: <code class="font-mono-code font-bold">${formatSet(setUnion)}</code>.</p>`;
+        } else if (state.activeLaw === 'IDEMP') {
+          pill.textContent = `A ∪ A = A and A ∩ A = A = ${formatSet(setA)}`;
+          c1L.textContent = 'Left Side: A ∪ A';
+          c1V.textContent = formatSet(setA);
+          c1S.textContent = 'No duplicate elements allowed!';
+          c2L.textContent = 'Right Side: Set A';
+          c2V.textContent = formatSet(setA);
+          c2S.textContent = 'Unchanged original set';
+          c3L.textContent = 'Idempotent Law';
+          c3V.textContent = 'A ∪ A = A ✓';
+          c3S.textContent = 'Doing it to yourself changes nothing';
+          caption.innerHTML = `<p><strong class="text-indigo-700">Idempotent Laws &mdash; A &cup; A = A and A &cap; A = A:</strong> Because sets never allow duplicate elements, combining Set A with itself doesn't double the elements—it stays <code class="font-mono-code font-bold">${formatSet(setA)}</code>!</p>`;
+        }
+      }
+    }
+
+    // =========================================================================
+    // HIGH-DPI 2D CANVAS RENDERING ENGINE
+    // =========================================================================
+
+    // Region-based pixel shading helper using offscreen/clipping composite paths
+    function shadeVennRegions(ctx, box, cA, cB, activeRegions, fillStyle) {
+      ctx.save();
+      ctx.fillStyle = fillStyle;
+
+      // 1. OUTSIDE (Inside U box, outside both A and B)
+      if (activeRegions.includes('OUTSIDE')) {
+        ctx.save();
+        ctx.beginPath();
+        ctx.rect(box.x, box.y, box.w, box.h);
+        ctx.arc(cA.x, cA.y, cA.r, 0, Math.PI * 2, true);
+        ctx.closePath();
+        ctx.clip('evenodd');
+
+        ctx.beginPath();
+        ctx.rect(box.x, box.y, box.w, box.h);
+        ctx.arc(cB.x, cB.y, cB.r, 0, Math.PI * 2, true);
+        ctx.closePath();
+        ctx.fill('evenodd');
+        ctx.restore();
+      }
+
+      // 2. ONLY_A (Inside A, outside B)
+      if (activeRegions.includes('ONLY_A')) {
+        ctx.save();
+        ctx.beginPath();
+        ctx.arc(cA.x, cA.y, cA.r, 0, Math.PI * 2);
+        ctx.clip();
+
+        ctx.beginPath();
+        ctx.rect(box.x, box.y, box.w, box.h);
+        ctx.arc(cB.x, cB.y, cB.r, 0, Math.PI * 2, true);
+        ctx.fill('evenodd');
+        ctx.restore();
+      }
+
+      // 3. ONLY_B (Inside B, outside A)
+      if (activeRegions.includes('ONLY_B')) {
+        ctx.save();
+        ctx.beginPath();
+        ctx.arc(cB.x, cB.y, cB.r, 0, Math.PI * 2);
+        ctx.clip();
+
+        ctx.beginPath();
+        ctx.rect(box.x, box.y, box.w, box.h);
+        ctx.arc(cA.x, cA.y, cA.r, 0, Math.PI * 2, true);
+        ctx.fill('evenodd');
+        ctx.restore();
+      }
+
+      // 4. BOTH (Intersection A ∩ B)
+      if (activeRegions.includes('BOTH')) {
+        ctx.save();
+        ctx.beginPath();
+        ctx.arc(cA.x, cA.y, cA.r, 0, Math.PI * 2);
+        ctx.clip();
+
+        ctx.beginPath();
+        ctx.arc(cB.x, cB.y, cB.r, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.restore();
+      }
+
+      ctx.restore();
+    }
+
+    // Draw element badges inside their respective Venn diagram zones
+    function drawElementsInVenn(ctx, box, cA, cB, activeRegions, recordClickTargets = true, extraOpts = {}) {
+      const groups = {
+        ONLY_A: state.items.filter(it => it.region === 'ONLY_A'),
+        BOTH: state.items.filter(it => it.region === 'BOTH'),
+        ONLY_B: state.items.filter(it => it.region === 'ONLY_B'),
+        OUTSIDE: state.items.filter(it => it.region === 'OUTSIDE')
+      };
+
+      const zoneCenters = {
+        ONLY_A: { x: cA.x - cA.r * 0.42, y: cA.y },
+        BOTH: { x: (cA.x + cB.x) / 2, y: cA.y },
+        ONLY_B: { x: cB.x + cB.r * 0.42, y: cB.y },
+        OUTSIDE: { x: box.x + box.w - 68, y: box.y + box.h - 26 }
+      };
+
+      Object.entries(groups).forEach(([region, list]) => {
+        const isHighlighted = activeRegions.includes(region);
+        list.forEach((item, idx) => {
+          let cx = zoneCenters[region].x;
+          let cy = zoneCenters[region].y;
+
+          if (region === 'OUTSIDE') {
+            // Lay out outside items neatly along the bottom-right of U
+            const spacing = 68;
+            cx = box.x + box.w - 48 - idx * spacing;
+            cy = box.y + box.h - 22;
+          } else {
+            // Vertical stack inside circle region
+            const total = list.length;
+            const stepY = Math.min(30, (cA.r * 1.35) / Math.max(1, total));
+            cy = zoneCenters[region].y + (idx - (total - 1) / 2) * stepY;
+          }
+
+          // Optional kick-out animation offset for Tab 3
+          let alpha = 1;
+          let strikeThrough = false;
+          if (extraOpts.kickOutRegion === region) {
+            if (extraOpts.kickStep === 2) {
+              strikeThrough = true;
+            } else if (extraOpts.kickStep === 3) {
+              const t = extraOpts.kickProgress ?? 1;
+              cy -= t * 48;
+              alpha = Math.max(0.18, 1 - t * 0.82);
+              strikeThrough = true;
+            }
+          }
+
+          ctx.save();
+          ctx.globalAlpha = isHighlighted ? alpha : 0.35 * alpha;
+          ctx.font = "700 11px 'Inter', sans-serif";
+          const padX = 8;
+          const pillH = 22;
+          const textW = ctx.measureText(item.id).width;
+          const pillW = textW + padX * 2;
+
+          // Color coding by region
+          let bg = '#ffffff';
+          let fg = '#0f172a';
+          let border = '#64748b';
+          if (region === 'ONLY_A') {
+            bg = isHighlighted ? '#eff6ff' : '#f8fafc';
+            fg = '#1d4ed8';
+            border = '#2563eb';
+          } else if (region === 'BOTH') {
+            bg = isHighlighted ? '#ecfdf5' : '#f8fafc';
+            fg = '#047857';
+            border = '#059669';
+          } else if (region === 'ONLY_B') {
+            bg = isHighlighted ? '#fffbeb' : '#f8fafc';
+            fg = '#b45309';
+            border = '#d97706';
+          } else {
+            bg = isHighlighted ? '#f1f5f9' : '#f8fafc';
+            fg = '#334155';
+            border = '#64748b';
+          }
+
+          ctx.beginPath();
+          ctx.roundRect(cx - pillW / 2, cy - pillH / 2, pillW, pillH, 7);
+          ctx.fillStyle = bg;
+          ctx.fill();
+          ctx.lineWidth = isHighlighted ? 2 : 1;
+          ctx.strokeStyle = border;
+          ctx.stroke();
+
+          ctx.fillStyle = fg;
+          ctx.textAlign = 'center';
+          ctx.textBaseline = 'middle';
+          ctx.fillText(item.id, cx, cy + 0.5);
+
+          if (strikeThrough) {
+            ctx.beginPath();
+            ctx.strokeStyle = '#e11d48';
+            ctx.lineWidth = 2.5;
+            ctx.moveTo(cx - pillW / 2 + 3, cy);
+            ctx.lineTo(cx + pillW / 2 - 3, cy);
+            ctx.stroke();
+          }
+
+          ctx.restore();
+
+          if (recordClickTargets) {
+            state.renderedBadges.push({
+              id: item.id,
+              left: cx - pillW / 2,
+              right: cx + pillW / 2,
+              top: cy - pillH / 2,
+              bottom: cy + pillH / 2
+            });
+          }
+        });
+      });
+    }
+
+    // Standard Single Venn Diagram Renderer (Used in Tabs 1, 2, 3)
+    function drawSingleVennDiagram(ctx, box, activeRegions, extraOpts = {}) {
+      const cx = box.x + box.w / 2;
+      const cy = box.y + box.h / 2 + 8;
+      const r = Math.min(box.w * 0.24, box.h * 0.38);
+      const offset = r * 0.62;
+
+      const cA = { x: cx - offset, y: cy, r };
+      const cB = { x: cx + offset, y: cy, r };
+
+      // 1. Universal Set U Outer Box
+      ctx.save();
+      ctx.fillStyle = '#f8fafc';
+      ctx.strokeStyle = '#94a3b8';
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.roundRect(box.x, box.y, box.w, box.h, 14);
+      ctx.fill();
+      ctx.stroke();
+
+      // Label U in top-left corner of box
+      ctx.font = "800 12px 'JetBrains Mono', monospace";
+      ctx.fillStyle = '#475569';
+      ctx.textAlign = 'left';
+      ctx.fillText('Universal Set (U)', box.x + 12, box.y + 20);
+      ctx.restore();
+
+      // 2. Shade Active Regions
+      shadeVennRegions(ctx, box, cA, cB, activeRegions, extraOpts.shadeColor || 'rgba(79, 70, 229, 0.18)');
+
+      // 3. Circle Outlines & Headers
+      ctx.save();
+      ctx.lineWidth = 2.5;
+      ctx.strokeStyle = '#2563eb';
+      ctx.beginPath();
+      ctx.arc(cA.x, cA.y, cA.r, 0, Math.PI * 2);
+      ctx.stroke();
+
+      ctx.strokeStyle = '#d97706';
+      ctx.beginPath();
+      ctx.arc(cB.x, cB.y, cB.r, 0, Math.PI * 2);
+      ctx.stroke();
+
+      // Circle Labels
+      ctx.font = "700 12px 'Inter', sans-serif";
+      ctx.fillStyle = '#1d4ed8';
+      ctx.textAlign = 'center';
+      ctx.fillText(state.labelA, cA.x - r * 0.2, cA.y - r - 10);
+
+      ctx.fillStyle = '#b45309';
+      ctx.fillText(state.labelB, cB.x + r * 0.2, cB.y - r - 10);
+      ctx.restore();
+
+      // 4. Draw Element Badges
+      drawElementsInVenn(ctx, box, cA, cB, activeRegions, extraOpts.recordTargets !== false, extraOpts);
+    }
+
+    // Main Render Function
+    function renderCanvas() {
+      const canvas = document.getElementById('vennCanvas');
+      if (!canvas) return;
+      const ctx = canvas.getContext('2d');
+      const dpr = window.devicePixelRatio || 1;
+      const w = canvas.clientWidth || 800;
+      const h = canvas.clientHeight || 360;
+
+      if (canvas.width !== Math.floor(w * dpr) || canvas.height !== Math.floor(h * dpr)) {
+        canvas.width = Math.floor(w * dpr);
+        canvas.height = Math.floor(h * dpr);
+      }
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      ctx.clearRect(0, 0, w, h);
+
+      state.renderedBadges = [];
+
+      if (state.tab === 1) {
+        renderTab1Sandbox(ctx, w, h);
+      } else if (state.tab === 2) {
+        renderTab2Operations(ctx, w, h);
+      } else if (state.tab === 3) {
+        renderTab3Difference(ctx, w, h);
+      } else if (state.tab === 4) {
+        renderTab4Proof(ctx, w, h);
+      } else if (state.tab === 5) {
+        renderTab5Laws(ctx, w, h);
+      }
+    }
+
+    // TAB 1: Curly-Bracket Sandbox + Venn Diagram
+    function renderTab1Sandbox(ctx, w, h) {
+      // Top Curly-Bracket Visualizer Bar
+      const topBoxH = 66;
+      ctx.save();
+      ctx.fillStyle = '#eef2ff';
+      ctx.strokeStyle = '#6366f1';
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.roundRect(16, 10, w - 32, topBoxH, 12);
+      ctx.fill();
+      ctx.stroke();
+
+      ctx.font = "700 12px 'Inter', sans-serif";
+      ctx.fillStyle = '#4338ca';
+      ctx.textAlign = 'left';
+      ctx.fillText('Curly-Bracket Set A Inspector:', 28, 30);
+
+      // Render Curly-Bracket Elements
+      const itemsStr = `{ ${state.shuffledOrderA.join(' , ')} }`;
+      ctx.font = "700 15px 'JetBrains Mono', monospace";
+      ctx.fillStyle = '#1e1b4b';
+      ctx.fillText(itemsStr, 28, 56);
+
+      // If Duplicate Rejection Animation is active, draw flying duplicate bouncing off!
+      if (state.isDupAnimating) {
+        const p = state.dupAnimProgress;
+        const bounceX = w - 220 - Math.sin(p * Math.PI) * 90;
+        const bounceY = 44 - Math.sin(p * Math.PI * 2) * 14;
+        ctx.fillStyle = '#ffe4e6';
+        ctx.strokeStyle = '#e11d48';
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        ctx.roundRect(bounceX - 75, bounceY - 14, 150, 28, 8);
+        ctx.fill();
+        ctx.stroke();
+
+        ctx.font = "700 11px 'Inter', sans-serif";
+        ctx.fillStyle = '#be123c';
+        ctx.textAlign = 'center';
+        ctx.fillText(`🚫 Duplicate "${state.dupItemName}" Rejected!`, bounceX, bounceY + 1);
+      } else {
+        ctx.font = "600 11px 'Inter', sans-serif";
+        ctx.fillStyle = '#059669';
+        ctx.textAlign = 'right';
+        ctx.fillText('✓ Order-independent & 100% unique members', w - 30, 54);
+      }
+      ctx.restore();
+
+      // Bottom Venn Diagram
+      const vennBox = { x: 16, y: 86, w: w - 32, h: h - 96 };
+      drawSingleVennDiagram(ctx, vennBox, ['ONLY_A', 'BOTH'], {
+        shadeColor: 'rgba(37, 99, 235, 0.15)'
+      });
+    }
+
+    // TAB 2: Core Operations
+    function renderTab2Operations(ctx, w, h) {
+      let activeRegions = ['ONLY_A', 'BOTH', 'ONLY_B', 'OUTSIDE'];
+      let shadeColor = 'rgba(79, 70, 229, 0.14)';
+
+      if (state.activeOp === 'A') {
+        activeRegions = ['ONLY_A', 'BOTH'];
+        shadeColor = 'rgba(37, 99, 235, 0.22)';
+      } else if (state.activeOp === 'B') {
+        activeRegions = ['ONLY_B', 'BOTH'];
+        shadeColor = 'rgba(217, 119, 6, 0.22)';
+      } else if (state.activeOp === 'INTERSECT') {
+        activeRegions = ['BOTH'];
+        shadeColor = 'rgba(5, 150, 105, 0.30)';
+      } else if (state.activeOp === 'UNION') {
+        activeRegions = ['ONLY_A', 'BOTH', 'ONLY_B'];
+        shadeColor = 'rgba(37, 99, 235, 0.20)';
+      } else if (state.activeOp === 'COMP_A') {
+        activeRegions = ['ONLY_B', 'OUTSIDE'];
+        shadeColor = 'rgba(225, 29, 72, 0.18)';
+      } else if (state.activeOp === 'COMP_B') {
+        activeRegions = ['ONLY_A', 'OUTSIDE'];
+        shadeColor = 'rgba(124, 58, 237, 0.18)';
+      }
+
+      const vennBox = { x: 16, y: 12, w: w - 32, h: h - 24 };
+      drawSingleVennDiagram(ctx, vennBox, activeRegions, { shadeColor });
+    }
+
+    // TAB 3: Set Difference (A - B) vs (B - A)
+    function renderTab3Difference(ctx, w, h) {
+      const isAB = state.diffMode === 'AB';
+      let activeRegions = [];
+      let shadeColor = 'rgba(37, 99, 235, 0.24)';
+
+      if (state.diffStep === 1) {
+        activeRegions = isAB ? ['ONLY_A', 'BOTH'] : ['ONLY_B', 'BOTH'];
+      } else if (state.diffStep === 2) {
+        activeRegions = isAB ? ['ONLY_A', 'BOTH'] : ['ONLY_B', 'BOTH'];
+      } else {
+        activeRegions = isAB ? ['ONLY_A'] : ['ONLY_B'];
+        shadeColor = isAB ? 'rgba(37, 99, 235, 0.28)' : 'rgba(217, 119, 6, 0.28)';
+      }
+
+      const vennBox = { x: 16, y: 12, w: w - 32, h: h - 24 };
+      drawSingleVennDiagram(ctx, vennBox, activeRegions, {
+        shadeColor,
+        kickOutRegion: 'BOTH',
+        kickStep: state.diffStep,
+        kickProgress: state.diffAnimOffset
+      });
+    }
+
+    // TAB 4: Side-by-Side Visual Proof: A - B = A - (A ∩ B)
+    function renderTab4Proof(ctx, w, h) {
+      const gap = 16;
+      const panelW = (w - 32 - gap) / 2;
+      const panelH = h - 44;
+
+      const leftBox = { x: 16, y: 34, w: panelW, h: panelH };
+      const rightBox = { x: 16 + panelW + gap, y: 34, w: panelW, h: panelH };
+
+      // Panel Titles
+      ctx.save();
+      ctx.font = "800 13px 'Inter', sans-serif";
+      ctx.fillStyle = '#1d4ed8';
+      ctx.textAlign = 'center';
+      ctx.fillText('LEFT SIDE: Direct Set Difference (A − B)', leftBox.x + panelW / 2, 22);
+
+      ctx.fillStyle = '#047857';
+      ctx.fillText('RIGHT SIDE: Step-by-Step A − (A ∩ B)', rightBox.x + panelW / 2, 22);
+      ctx.restore();
+
+      // Left Panel always shows A - B (the crescent moon ONLY_A)
+      drawSingleVennDiagram(ctx, leftBox, ['ONLY_A'], {
+        shadeColor: 'rgba(37, 99, 235, 0.26)',
+        recordTargets: true
+      });
+
+      // Right Panel steps through 1..4
+      let rightRegions = ['ONLY_A'];
+      let rightColor = 'rgba(5, 150, 105, 0.28)';
+      let kickStep = 0;
+
+      if (state.proofStep === 1) {
+        rightRegions = ['BOTH'];
+        rightColor = 'rgba(225, 29, 72, 0.28)';
+      } else if (state.proofStep === 2) {
+        rightRegions = ['ONLY_A', 'BOTH'];
+        rightColor = 'rgba(37, 99, 235, 0.22)';
+      } else if (state.proofStep === 3) {
+        rightRegions = ['ONLY_A'];
+        rightColor = 'rgba(5, 150, 105, 0.26)';
+        kickStep = 3;
+      } else {
+        rightRegions = ['ONLY_A'];
+        rightColor = 'rgba(5, 150, 105, 0.28)';
+      }
+
+      drawSingleVennDiagram(ctx, rightBox, rightRegions, {
+        shadeColor: rightColor,
+        recordTargets: false,
+        kickOutRegion: 'BOTH',
+        kickStep,
+        kickProgress: 1
+      });
+    }
+
+    // TAB 5: Split-Screen De Morgan's Laws & Handy Rules
+    function renderTab5Laws(ctx, w, h) {
+      const gap = 16;
+      const panelW = (w - 32 - gap) / 2;
+      const panelH = h - 44;
+
+      const leftBox = { x: 16, y: 34, w: panelW, h: panelH };
+      const rightBox = { x: 16 + panelW + gap, y: 34, w: panelW, h: panelH };
+
+      let leftTitle = '';
+      let rightTitle = '';
+      let leftRegions = [];
+      let rightRegions = [];
+
+      if (state.activeLaw === 'DM1') {
+        leftTitle = 'Left-Hand Side: (A ∪ B)′';
+        leftRegions = ['OUTSIDE'];
+        if (state.lawStage === 'A') {
+          rightTitle = 'Step 1: Complement A′ (Everything outside A)';
+          rightRegions = ['ONLY_B', 'OUTSIDE'];
+        } else if (state.lawStage === 'B') {
+          rightTitle = 'Step 2: Complement B′ (Everything outside B)';
+          rightRegions = ['ONLY_A', 'OUTSIDE'];
+        } else {
+          rightTitle = 'Right-Hand Side: A′ ∩ B′ (Overlap of A′ and B′)';
+          rightRegions = ['OUTSIDE'];
+        }
+      } else if (state.activeLaw === 'DM2') {
+        leftTitle = 'Left-Hand Side: (A ∩ B)′';
+        leftRegions = ['ONLY_A', 'ONLY_B', 'OUTSIDE'];
+        if (state.lawStage === 'A') {
+          rightTitle = 'Step 1: Complement A′';
+          rightRegions = ['ONLY_B', 'OUTSIDE'];
+        } else if (state.lawStage === 'B') {
+          rightTitle = 'Step 2: Complement B′';
+          rightRegions = ['ONLY_A', 'OUTSIDE'];
+        } else {
+          rightTitle = 'Right-Hand Side: A′ ∪ B′ (Combined A′ and B′)';
+          rightRegions = ['ONLY_A', 'ONLY_B', 'OUTSIDE'];
+        }
+      } else if (state.activeLaw === 'COMM') {
+        leftTitle = 'Left-Hand Side: A ∪ B';
+        rightTitle = 'Right-Hand Side: B ∪ A';
+        leftRegions = ['ONLY_A', 'BOTH', 'ONLY_B'];
+        rightRegions = ['ONLY_A', 'BOTH', 'ONLY_B'];
+      } else if (state.activeLaw === 'IDEMP') {
+        leftTitle = 'Left-Hand Side: A ∪ A';
+        rightTitle = 'Right-Hand Side: Set A';
+        leftRegions = ['ONLY_A', 'BOTH'];
+        rightRegions = ['ONLY_A', 'BOTH'];
+      }
+
+      ctx.save();
+      ctx.font = "800 13px 'Inter', sans-serif";
+      ctx.fillStyle = '#3730a3';
+      ctx.textAlign = 'center';
+      ctx.fillText(leftTitle, leftBox.x + panelW / 2, 22);
+
+      ctx.fillStyle = '#047857';
+      ctx.fillText(rightTitle, rightBox.x + panelW / 2, 22);
+      ctx.restore();
+
+      drawSingleVennDiagram(ctx, leftBox, leftRegions, {
+        shadeColor: 'rgba(79, 70, 229, 0.24)',
+        recordTargets: true
+      });
+      drawSingleVennDiagram(ctx, rightBox, rightRegions, {
+        shadeColor: 'rgba(5, 150, 105, 0.24)',
+        recordTargets: false
+      });
+    }
+
+    function updateAll() {
+      updateUIAndReadouts();
+      renderCanvas();
+    }
+
+    // =========================================================================
+    // EVENT LISTENERS & ANIMATIONS
+    // =========================================================================
+
+    // Module Tab Switching
+    document.querySelectorAll('.mod-tab').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        state.tab = parseInt(e.currentTarget.getAttribute('data-tab'), 10);
+        updateAll();
+      });
+    });
+
+    // Dataset Switching
+    document.getElementById('btn-ds-friends').addEventListener('click', () => loadDataset('friends'));
+    document.getElementById('btn-ds-numbers').addEventListener('click', () => loadDataset('numbers'));
+    document.getElementById('btn-ds-streaming').addEventListener('click', () => loadDataset('streaming'));
+    document.getElementById('btn-reset-dataset').addEventListener('click', () => loadDataset(state.datasetKey));
+
+    // Move Element Region via Dropdown + Button
+    document.getElementById('btn-cycle-region').addEventListener('click', () => {
+      const sel = document.getElementById('select-element-move');
+      if (sel.value) cycleElementRegion(sel.value);
+    });
+
+    // Direct Click on Element Badges inside Canvas
+    document.getElementById('vennCanvas').addEventListener('click', (e) => {
+      const canvas = e.currentTarget;
+      const rect = canvas.getBoundingClientRect();
+      const x = e.clientX - rect.left;
+      const y = e.clientY - rect.top;
+
+      for (let i = state.renderedBadges.length - 1; i >= 0; i--) {
+        const b = state.renderedBadges[i];
+        if (x >= b.left && x <= b.right && y >= b.top && y <= b.bottom) {
+          cycleElementRegion(b.id);
+          return;
+        }
+      }
+    });
+
+    // Tab 1 Controls: Shuffle Order & Try Adding Duplicate
+    document.getElementById('btn-shuffle-order').addEventListener('click', () => {
+      const arr = [...state.shuffledOrderA];
+      if (arr.length > 1) {
+        // Fisher-Yates shuffle ensuring a new visual arrangement
+        for (let i = arr.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [arr[i], arr[j]] = [arr[j], arr[i]];
+        }
+        if (arr.join(',') === state.shuffledOrderA.join(',')) {
+          arr.reverse();
+        }
+      }
+      state.shuffledOrderA = arr;
+      updateAll();
+    });
+
+    document.getElementById('btn-try-duplicate').addEventListener('click', () => {
+      if (state.isDupAnimating) return;
+      const sample = state.shuffledOrderA[0] || 'Alex';
+      state.dupItemName = sample;
+      state.isDupAnimating = true;
+      state.dupAnimProgress = 0;
+      const start = performance.now();
+
+      function step(now) {
+        const t = Math.min(1, (now - start) / 1100);
+        state.dupAnimProgress = t;
+        renderCanvas();
+        if (t < 1) {
+          requestAnimationFrame(step);
+        } else {
+          state.isDupAnimating = false;
+          renderCanvas();
+        }
+      }
+      requestAnimationFrame(step);
+    });
+
+    // Tab 2 Controls: Operation Buttons
+    document.querySelectorAll('.op-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        state.activeOp = e.currentTarget.getAttribute('data-op');
+        updateAll();
+      });
+    });
+
+    // Tab 3 Controls: Set Difference Mode & Step Buttons
+    document.getElementById('btn-diff-ab').addEventListener('click', () => {
+      state.diffMode = 'AB';
+      updateAll();
+    });
+    document.getElementById('btn-diff-ba').addEventListener('click', () => {
+      state.diffMode = 'BA';
+      updateAll();
+    });
+    document.querySelectorAll('.dstep-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        state.diffStep = parseInt(e.currentTarget.getAttribute('data-dstep'), 10);
+        state.diffAnimOffset = 1;
+        updateAll();
+      });
+    });
+    document.getElementById('btn-animate-diff').addEventListener('click', () => {
+      state.diffStep = 1;
+      updateAll();
+      setTimeout(() => {
+        if (state.tab !== 3) return;
+        state.diffStep = 2;
+        updateAll();
+      }, 650);
+      setTimeout(() => {
+        if (state.tab !== 3) return;
+        state.diffStep = 3;
+        state.diffAnimOffset = 0;
+        const t0 = performance.now();
+        function animKick(now) {
+          const p = Math.min(1, (now - t0) / 600);
+          state.diffAnimOffset = p;
+          renderCanvas();
+          if (p < 1) requestAnimationFrame(animKick);
+          else updateAll();
+        }
+        requestAnimationFrame(animKick);
+      }, 1350);
+    });
+
+    // Tab 4 Controls: Visual Proof Steps
+    document.querySelectorAll('.pstep-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        state.proofStep = parseInt(e.currentTarget.getAttribute('data-pstep'), 10);
+        updateAll();
+      });
+    });
+    document.getElementById('btn-animate-proof').addEventListener('click', () => {
+      let s = 1;
+      state.proofStep = 1;
+      updateAll();
+      const timer = setInterval(() => {
+        if (state.tab !== 4 || s >= 4) {
+          clearInterval(timer);
+          return;
+        }
+        s++;
+        state.proofStep = s;
+        updateAll();
+      }, 850);
+    });
+
+    // Tab 5 Controls: De Morgan's Laws & Stage Breakdown
+    document.querySelectorAll('.law-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        state.activeLaw = e.currentTarget.getAttribute('data-law');
+        state.lawStage = 'FINAL';
+        updateAll();
+      });
+    });
+    document.querySelectorAll('.lstage-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        state.lawStage = e.currentTarget.getAttribute('data-lstage');
+        updateAll();
+      });
+    });
+
+    // Self-Check Quiz Interactivity
+    document.querySelectorAll('.quiz-opt').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const q = e.currentTarget.getAttribute('data-q');
+        const isCorrect = e.currentTarget.getAttribute('data-correct') === 'true';
+        const fb = document.getElementById(`q-feedback-${q}`);
+        fb.classList.remove('hidden');
+
+        // Reset sibling styles
+        document.querySelectorAll(`.quiz-opt[data-q="${q}"]`).forEach(sib => {
+          sib.className = 'quiz-opt text-left px-3 py-2 rounded-lg border border-slate-200 bg-white font-mono-code text-slate-600';
+        });
+
+        if (isCorrect) {
+          e.currentTarget.className = 'quiz-opt text-left px-3 py-2 rounded-lg border-2 border-emerald-600 bg-emerald-50 font-mono-code font-bold text-emerald-900';
+          fb.className = 'text-xs font-bold text-emerald-700';
+          fb.textContent = '✓ Spot on! You nailed it.';
+        } else {
+          e.currentTarget.className = 'quiz-opt text-left px-3 py-2 rounded-lg border-2 border-rose-500 bg-rose-50 font-mono-code font-bold text-rose-900';
+          fb.className = 'text-xs font-bold text-rose-600';
+          fb.textContent = '✗ Not quite—try another choice!';
+        }
+      });
+    });
+
+    window.addEventListener('resize', renderCanvas);
+    window.onload = () => {
+      loadDataset('friends');
+    };
+  </script>
+</body>
+</html>

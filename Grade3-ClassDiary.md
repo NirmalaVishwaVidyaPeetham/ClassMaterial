@@ -414,6 +414,7 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
 **<u>13112026 Friday:</u>**
 
 1. Hindi: 
+   
    1. HW: Complete previous HWs
    
    2. AI notes on 'relationships' - Hindi, Telugu, English words
@@ -423,10 +424,35 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    3. AI notes: translating all the songs from Swaranjali book
       
       1. HW: Learn all these Songs - meanings, swaras, singing, playing piano/flute
-   
-   
-   
-   
+         
+         
+         
+         
+
+**<u>16112026 Monday:</u>**
+
+1. Telugu: 
+   1. HW: Complete previous HWs 
+   2. HW: Watch Telugu Ramayanam (acted by children) 
+   3. Completed Bala Kanda (the first book/chapter of Ramayana). 
+      1. HW: Read all of this content.
+2. Maths: 
+   1. HW: Complete previous HWs
+   2. HW: Complete Grade 3 AP textbook/workbook 
+   3. Looked at Prealgebra textbook 
+      1. HW: Complete this textbook 
+   4. Areas - AI notes and animations 
+      1. HW: Study and interact with the animations 
+   5. Sets - AI notes and animations 
+      1. HW: Study and interact with the animations 
+   6. Properties of various shapes - AI notes and animations 
+      1. HW: Study and interact with the animations
+
+
+
+
+
+
 
 **TODOs:**
 
@@ -465,6 +491,9 @@ Maths:
    1. Experiment to determine pi - follow scientific method
       1. See AI notes \- follow up experiments
    2. Angles, line segments, why corresponding angles are equal, line rotations;Rays; If else loop shapes, quadrilateral, sum of angles, convex, concave, polygon
+   3. Areas; 
+   4. Complete Prealgebra textbook
+   5. Properties of various shapes - like rhombus diagonals are perpendicular to each other while for parallelogram they are not.
 
 2. Set operations
 
@@ -489,7 +518,8 @@ Techology:
 
 1. Verify all previous class 2 material/website updated
    
-   1. AI translation/notes for telugu/english books - do chapter by chapter so context remains smaller - find page numbers first from index and on that page find that chapter heading is there and at the end you see next chapter title; Next step in a loop, for each chapter do the required steps; 
+   1. AI word to word meanings/translation for hindi swaranjali book, telugu ramayanam book
+   2. AI translation/notes for telugu/english books - do chapter by chapter so context remains smaller - find page numbers first from index and on that page find that chapter heading is there and at the end you see next chapter title; Next step in a loop, for each chapter do the required steps; 
 
 2. Terminal - command line; Bash etc. commands; 
 

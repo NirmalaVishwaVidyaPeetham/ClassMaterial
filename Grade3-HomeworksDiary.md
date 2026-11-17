@@ -325,3 +325,12 @@
 3. Devanagari (HSKM \- Hindi Sanskrit Khatri Marathi): 1 hour \- 12:15 to 1:15 PM
 4. Music Practice: 30 minutes \- 2:30 to 3:00 PM
 5. **_<u>Total:</u>_ 3 hours 30 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>16 November 2026 \- Monday</u>_**
+1. Devanagari (HSKM \- Hindi Sanskrit Khatri Marathi): 1 hour \- 10:00 to 11:00 AM
+2. Programming: 1 hour \- 11:00 AM to 12:00 PM
+3. Telugu: 1 hour \- 12:30 to 1:00 PM\; 1:45 to 2:15 PM
+4. Music Practice: 30 minutes \- 3:00 to 3:30 PM
+5. **_<u>Total:</u>_ 3 hours 30 minutes**
+

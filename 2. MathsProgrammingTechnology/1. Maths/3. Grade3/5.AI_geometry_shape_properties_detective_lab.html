@@ -1,0 +1,2527 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Geometry & Shape Properties Detective Laboratory</title>
+  <!-- Load Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Google Fonts: Inter & JetBrains Mono -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+    .font-mono-code {
+      font-family: 'JetBrains Mono', monospace;
+      font-variant-numeric: tabular-nums;
+    }
+    canvas {
+      display: block;
+      width: 100%;
+      height: 100%;
+      touch-action: manipulation;
+    }
+    input[type="range"] {
+      accent-color: #2563eb;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body class="bg-slate-100 text-slate-900 min-h-screen p-2 sm:p-5">
+
+  <!-- Main Container -->
+  <div class="max-w-6xl mx-auto flex flex-col gap-4">
+
+    <!-- MANDATORY TOP HEADER: GENERATION & REPLICATION METADATA -->
+    <div class="bg-slate-900 text-slate-200 rounded-2xl px-4 py-2.5 shadow-sm border border-slate-700 text-xs">
+      <div class="flex flex-wrap items-center justify-between gap-2">
+        <div class="flex items-center gap-2">
+          <span class="inline-block w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse"></span>
+          <span class="font-mono-code font-bold uppercase tracking-wider text-emerald-400">Generation &amp; Replication Metadata Header</span>
+        </div>
+        <div class="flex flex-wrap items-center gap-x-4 gap-y-1 font-mono-code text-[11px] text-slate-300">
+          <span><strong class="text-white">Date:</strong> 2026-11-16</span>
+          <span><strong class="text-white">Model:</strong> Gemini 4 Argon Medium</span>
+          <span><strong class="text-white">Stack:</strong> Single-File HTML5 / CSS3 / ES6+ Canvas 2D Engine</span>
+          <span><strong class="text-white">Dependencies:</strong> None (100% Offline-Capable)</span>
+        </div>
+      </div>
+      <div class="mt-1.5 pt-1.5 border-t border-slate-800 font-mono-code text-[11px] text-slate-400">
+        <strong class="text-slate-200">Core Parameters:</strong> Interactive Shape Properties, Diagonals, Symmetry, Angle Proofs &amp; Necessity vs. Sufficiency Detective Lab
+      </div>
+    </div>
+
+    <!-- Main Interactive Stage Card -->
+    <div class="bg-white rounded-3xl shadow-lg border border-slate-200 p-4 sm:p-6 flex flex-col gap-4">
+
+      <!-- App Title & 7 Interactive Lab Module Tabs -->
+      <div class="flex flex-col gap-3 border-b border-slate-100 pb-4">
+        <div class="flex flex-col md:flex-row md:items-center justify-between gap-2">
+          <div>
+            <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full text-xs font-bold uppercase tracking-wider bg-blue-50 text-blue-700 mb-1">
+              🚀 Interactive Geometry Explorer &amp; Shape Detective Lab
+            </span>
+            <h1 class="text-xl sm:text-2xl font-extrabold tracking-tight text-slate-900">
+              Secret Properties of Shapes, Diagonals &amp; Detective Clues!
+            </h1>
+          </div>
+          <span id="special-alert-badge" class="hidden px-3 py-1.5 rounded-xl text-xs font-extrabold uppercase tracking-wider bg-amber-100 text-amber-900 border border-amber-300 shadow-sm animate-bounce self-start md:self-center">
+            ★ Surprise! Special Shape Unlocked!
+          </span>
+        </div>
+
+        <!-- 7 Module Navigation Tabs -->
+        <div class="flex flex-wrap gap-1.5 bg-slate-100 p-1.5 rounded-2xl" role="tablist" aria-label="Geometry Modules">
+          <button type="button" data-tab="1" class="mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all bg-blue-600 text-white shadow-sm">
+            1. Lines &amp; Angles 📐
+          </button>
+          <button type="button" data-tab="2" class="mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-700 hover:bg-white">
+            2. Triangles Lab 🔺
+          </button>
+          <button type="button" data-tab="3" class="mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-700 hover:bg-white">
+            3. Parallelogram ▱
+          </button>
+          <button type="button" data-tab="4" class="mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-700 hover:bg-white">
+            4. Rhombus (90° Diagonals) 菱
+          </button>
+          <button type="button" data-tab="5" class="mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-700 hover:bg-white">
+            5. Rectangle (Equal Diagonals) ▭
+          </button>
+          <button type="button" data-tab="6" class="mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-700 hover:bg-white">
+            6. Square (All Powers!) 🟦
+          </button>
+          <button type="button" data-tab="7" class="mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all text-emerald-800 bg-emerald-50 hover:bg-emerald-100 border border-emerald-200">
+            7. Detective: Necessary vs. Sufficient 🕵️
+          </button>
+        </div>
+      </div>
+
+      <!-- Module Concept Banner -->
+      <div class="bg-blue-50/70 border border-blue-200 rounded-2xl px-4 py-3 flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+        <div class="space-y-0.5">
+          <div class="flex items-center gap-2">
+            <span id="banner-badge" class="px-2 py-0.5 rounded text-[11px] font-bold uppercase tracking-wider bg-blue-600 text-white">
+              Module 1 of 7
+            </span>
+            <h2 id="banner-title" class="text-sm sm:text-base font-bold text-slate-900">
+              Secret Detective Rules of Lines &amp; Angles
+            </h2>
+          </div>
+          <p id="banner-subtitle" class="text-xs sm:text-sm text-slate-700">
+            Watch Criss-Cross Twins (Vertical Angles) and Parallel Train Tracks in action!
+          </p>
+        </div>
+        <div id="banner-formula" class="font-mono-code text-xs sm:text-sm font-bold px-3 py-1.5 rounded-xl bg-white border border-blue-200 text-blue-700 shrink-0 self-start sm:self-center">
+          &alpha; + &beta; = 180&deg;
+        </div>
+      </div>
+
+      <!-- Canvas & Direct-Below Controls Card -->
+      <div class="bg-slate-50 border border-slate-200 rounded-2xl p-3 sm:p-4 flex flex-col gap-3">
+
+        <!-- Canvas Legend Bar -->
+        <div class="flex flex-wrap items-center justify-between gap-2 px-1">
+          <div id="canvas-legend" class="flex flex-wrap items-center gap-3 text-xs font-semibold text-slate-700">
+            <!-- Dynamically populated per tab -->
+          </div>
+          <span id="canvas-status-pill" class="text-xs font-mono-code font-bold px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700">
+            Interactive 60 FPS Geometry Engine
+          </span>
+        </div>
+
+        <!-- High-DPI HTML5 Canvas -->
+        <div class="relative w-full h-80 sm:h-96 bg-white rounded-xl border border-slate-200 overflow-hidden shadow-inner">
+          <canvas id="geoCanvas"></canvas>
+        </div>
+
+        <!-- CRITICAL LAYOUT REQUIREMENT: ALL INTERACTIVE BUTTONS & SLIDERS IMMEDIATELY BELOW CANVAS -->
+        <div class="bg-white border border-slate-200 rounded-xl p-3.5 flex flex-col gap-3 shadow-sm">
+
+          <!-- MODULE 1 CONTROLS: Lines & Angles -->
+          <div id="ctrl-tab-1" class="flex flex-col gap-3">
+            <div class="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-2.5">
+              <div class="flex flex-wrap items-center gap-1.5">
+                <span class="text-xs font-bold uppercase tracking-wider text-slate-500 mr-1">Scene:</span>
+                <button type="button" data-lmode="vertical" class="lmode-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm">
+                  ✂️ A. Intersecting Lines (Criss-Cross Twins)
+                </button>
+                <button type="button" data-lmode="parallel" class="lmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                  🛤️ B. Parallel Train Tracks &amp; Transversal Ramp
+                </button>
+              </div>
+              <div class="flex flex-wrap items-center gap-1.5">
+                <button type="button" id="btn-line-anim" class="px-3.5 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white shadow-sm transition">
+                  &#9654; Animate Angle Slide / Spin
+                </button>
+                <button type="button" id="btn-line-90" class="px-3 py-1.5 rounded-xl text-xs font-semibold bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border border-emerald-200">
+                  Set 90&deg; (Perpendicular!)
+                </button>
+              </div>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-line-angle">Crossing Angle (&alpha;)</label>
+                  <span id="val-line-angle" class="font-mono-code font-bold text-blue-600">55&deg; (Acute)</span>
+                </div>
+                <input type="range" id="slider-line-angle" min="20" max="160" step="1" value="55" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+              <div id="box-line-slide" class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-line-slide">Slide Top Angles Down the Ramp (%)</label>
+                  <span id="val-line-slide" class="font-mono-code font-bold text-emerald-700">0%</span>
+                </div>
+                <input type="range" id="slider-line-slide" min="0" max="100" step="1" value="0" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+            </div>
+          </div>
+
+          <!-- MODULE 2 CONTROLS: Triangles Lab -->
+          <div id="ctrl-tab-2" class="hidden flex-col gap-3">
+            <div class="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-2.5">
+              <div class="flex flex-wrap items-center gap-1.5">
+                <button type="button" data-tmode="proof180" class="tmode-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm">
+                  📐 A. Why Angles Sum to 180&deg; Proof
+                </button>
+                <button type="button" data-tmode="types" class="tmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                  🔺 B. Equilateral, Isosceles &amp; Scalene
+                </button>
+                <button type="button" data-tmode="scaling" class="tmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                  👯 C. Twins (Congruent) vs. Photo-Copies (Similar)
+                </button>
+              </div>
+              <button type="button" id="btn-tri-anim" class="px-3.5 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white shadow-sm">
+                &#9654; Animate 180&deg; Corner Slide
+              </button>
+            </div>
+
+            <!-- Sub-controls for Triangle modes -->
+            <div id="tri-sub-proof" class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-tri-peak">Move Top Vertex Left/Right</label>
+                  <span id="val-tri-peak" class="font-mono-code font-bold text-blue-600">Center</span>
+                </div>
+                <input type="range" id="slider-tri-peak" min="-120" max="120" step="5" value="-25" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-tri-fold">Slide Bottom Angles Up to Parallel Line (%)</label>
+                  <span id="val-tri-fold" class="font-mono-code font-bold text-emerald-700">100%</span>
+                </div>
+                <input type="range" id="slider-tri-fold" min="0" max="100" step="1" value="100" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+            </div>
+
+            <div id="tri-sub-types" class="hidden flex-wrap items-center justify-between gap-2">
+              <div class="flex flex-wrap items-center gap-2">
+                <span class="text-xs font-bold text-slate-500 uppercase">Pick Triangle Type:</span>
+                <button type="button" data-ttype="equilateral" class="ttype-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-emerald-600 text-white shadow-sm">
+                  Equilateral (3 Equal Sides, All 60&deg;)
+                </button>
+                <button type="button" data-ttype="isosceles" class="ttype-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 text-slate-700">
+                  Isosceles (2 Equal Sides, 2 Equal Angles)
+                </button>
+                <button type="button" data-ttype="scalene" class="ttype-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 text-slate-700">
+                  Scalene (0 Equal Sides, All Different)
+                </button>
+              </div>
+              <label class="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-700 cursor-pointer">
+                <input type="checkbox" id="chk-tri-sym" checked class="rounded text-blue-600">
+                Show Mirror Symmetry &amp; 90&deg; Altitude Bisector
+              </label>
+            </div>
+
+            <div id="tri-sub-scale" class="hidden grid-cols-1 sm:grid-cols-2 gap-4 items-center">
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-tri-scale">Multiplier Scale Factor (k)</label>
+                  <span id="val-tri-scale" class="font-mono-code font-bold text-blue-600">2.0x (Similar Photo-Copy)</span>
+                </div>
+                <input type="range" id="slider-tri-scale" min="0.5" max="2.5" step="0.25" value="2.0" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+              <div class="flex flex-wrap gap-1.5">
+                <button type="button" id="btn-scale-1" class="px-3 py-1.5 rounded-xl text-xs font-bold bg-emerald-50 text-emerald-800 border border-emerald-300">
+                  Set 1.0x (Congruent Twin!)
+                </button>
+                <button type="button" id="btn-scale-25" class="px-3 py-1.5 rounded-xl text-xs font-semibold bg-blue-50 text-blue-800 border border-blue-200">
+                  Set 2.5x (Word Problem #4!)
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <!-- MODULE 3 CONTROLS: Parallelogram Lab -->
+          <div id="ctrl-tab-3" class="hidden flex-col gap-3">
+            <div class="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-2.5">
+              <div class="flex flex-wrap items-center gap-1.5">
+                <span class="text-xs font-bold uppercase tracking-wider text-slate-500 mr-1">Inspect Property:</span>
+                <button type="button" data-pmode="diagonals" class="pmode-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm">
+                  ✖️ 1. Diagonals Bisect Each Other (Cut in Half!)
+                </button>
+                <button type="button" data-pmode="split360" class="pmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                  🔄 2. Diagonal Splits into 2 Congruent Twins (360&deg;)
+                </button>
+                <button type="button" data-pmode="angles" class="pmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                  📏 3. Opposite Sides &amp; Angles Equal
+                </button>
+              </div>
+              <div class="flex items-center gap-1.5">
+                <button type="button" id="btn-para-anim" class="px-3 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white shadow-sm">
+                  &#9654; Spin Twin Triangle 180&deg;
+                </button>
+                <button type="button" id="btn-para-90" class="px-2.5 py-1.5 rounded-xl text-xs font-semibold bg-amber-50 hover:bg-amber-100 text-amber-900 border border-amber-300">
+                  Push to 90&deg; (Make Rectangle!)
+                </button>
+              </div>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-para-angle">Tilt Angle (&alpha;)</label>
+                  <span id="val-para-angle" class="font-mono-code font-bold text-blue-600">62&deg;</span>
+                </div>
+                <input type="range" id="slider-para-angle" min="40" max="140" step="1" value="62" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-para-b">Base Length (b)</label>
+                  <span id="val-para-b" class="font-mono-code font-bold text-blue-600">8.0 cm</span>
+                </div>
+                <input type="range" id="slider-para-b" min="4.5" max="10.0" step="0.5" value="8.0" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-para-spin">180&deg; Twin Overlap Rotation</label>
+                  <span id="val-para-spin" class="font-mono-code font-bold text-emerald-700">0%</span>
+                </div>
+                <input type="range" id="slider-para-spin" min="0" max="100" step="1" value="0" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+            </div>
+          </div>
+
+          <!-- MODULE 4 CONTROLS: Rhombus Lab (Why Diagonals Cross at 90°) -->
+          <div id="ctrl-tab-4" class="hidden flex-col gap-3">
+            <div class="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-2.5">
+              <div class="flex flex-wrap items-center gap-1.5">
+                <span class="text-xs font-bold uppercase tracking-wider text-slate-500 mr-1">Rhombus Explorer:</span>
+                <button type="button" data-rmode="perp90" class="rmode-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm">
+                  ➕ 1. Why Diagonals Cross at 90&deg; &amp; Bisect Corners
+                </button>
+                <button type="button" data-rmode="fold" class="rmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                  📄 2. Origami Fold Proof (Mirror Triangles!)
+                </button>
+                <button type="button" data-rmode="kiteTrap" class="rmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-rose-50 hover:bg-rose-100 text-rose-800 border border-rose-200">
+                  ⚠️ 3. Impostor Trap: Kite vs. Rhombus!
+                </button>
+              </div>
+              <div class="flex items-center gap-1.5">
+                <button type="button" id="btn-rhom-fold" class="px-3 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white shadow-sm">
+                  &#9654; Animate Origami Diagonal Fold
+                </button>
+                <button type="button" id="btn-rhom-90" class="px-2.5 py-1.5 rounded-xl text-xs font-semibold bg-amber-50 hover:bg-amber-100 text-amber-900 border border-amber-300">
+                  Set 90&deg; (Make Square!)
+                </button>
+              </div>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-rhom-angle">Rhombus Corner Angle (&alpha;)</label>
+                  <span id="val-rhom-angle" class="font-mono-code font-bold text-blue-600">64&deg;</span>
+                </div>
+                <input type="range" id="slider-rhom-angle" min="36" max="144" step="2" value="64" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-rhom-side">4 Equal Sides Length (s)</label>
+                  <span id="val-rhom-side" class="font-mono-code font-bold text-blue-600">6.0 cm</span>
+                </div>
+                <input type="range" id="slider-rhom-side" min="4.0" max="8.0" step="0.5" value="6.0" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-rhom-fold">Origami Fold Across Diagonal (%)</label>
+                  <span id="val-rhom-fold" class="font-mono-code font-bold text-emerald-700">0%</span>
+                </div>
+                <input type="range" id="slider-rhom-fold" min="0" max="100" step="1" value="0" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+            </div>
+          </div>
+
+          <!-- MODULE 5 CONTROLS: Rectangle Lab (Why Diagonals are Equal Length) -->
+          <div id="ctrl-tab-5" class="hidden flex-col gap-3">
+            <div class="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-2.5">
+              <div class="flex flex-wrap items-center gap-1.5">
+                <span class="text-xs font-bold uppercase tracking-wider text-slate-500 mr-1">Rectangle Explorer:</span>
+                <button type="button" data-recmode="equalDiag" class="recmode-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm">
+                  📏 1. Pull Out Twin Right Triangles Proof (d₁ = d₂)
+                </button>
+                <button type="button" data-recmode="circle" class="recmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                  ⭕ 2. The Secret Compass Circle (Circumcircle!)
+                </button>
+                <button type="button" data-recmode="trapTrap" class="recmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-rose-50 hover:bg-rose-100 text-rose-800 border border-rose-200">
+                  ⚠️ 3. Impostor Trap: Isosceles Trapezoid!
+                </button>
+              </div>
+              <div class="flex items-center gap-1.5">
+                <button type="button" id="btn-rec-pull" class="px-3 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white shadow-sm">
+                  &#9654; Separate Twin Triangles
+                </button>
+                <button type="button" id="btn-rec-square" class="px-2.5 py-1.5 rounded-xl text-xs font-semibold bg-amber-50 hover:bg-amber-100 text-amber-900 border border-amber-300">
+                  Set l = w (Make Square!)
+                </button>
+              </div>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-rec-l">Rectangle Length (l)</label>
+                  <span id="val-rec-l" class="font-mono-code font-bold text-blue-600">8.0 cm</span>
+                </div>
+                <input type="range" id="slider-rec-l" min="4.0" max="10.0" step="0.5" value="8.0" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-rec-w">Rectangle Width (w)</label>
+                  <span id="val-rec-w" class="font-mono-code font-bold text-blue-600">5.0 cm</span>
+                </div>
+                <input type="range" id="slider-rec-w" min="3.5" max="8.0" step="0.5" value="5.0" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-rec-sep">Pull Out Right Triangles (%)</label>
+                  <span id="val-rec-sep" class="font-mono-code font-bold text-emerald-700">0%</span>
+                </div>
+                <input type="range" id="slider-rec-sep" min="0" max="100" step="1" value="0" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+            </div>
+          </div>
+
+          <!-- MODULE 6 CONTROLS: Square Lab (Ultimate Superhero Shape) -->
+          <div id="ctrl-tab-6" class="hidden flex-col gap-3">
+            <div class="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-2.5">
+              <div class="flex flex-wrap items-center gap-1.5">
+                <span class="text-xs font-bold uppercase tracking-wider text-slate-500 mr-1">Square Superpowers:</span>
+                <button type="button" data-sqmode="allPowers" class="sqmode-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm">
+                  ⚡ 1. Diagonals: Equal + 90&deg; + 45&deg; Bisectors
+                </button>
+                <button type="button" data-sqmode="symmetry" class="sqmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                  🪞 2. All 4 Mirror Lines + 4 Rotational Spins
+                </button>
+                <button type="button" data-sqmode="family" class="sqmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700">
+                  👑 3. Why Square = Rhombus &cap; Rectangle
+                </button>
+              </div>
+              <div class="flex items-center gap-1.5">
+                <button type="button" id="btn-sq-spin90" class="px-3 py-1.5 rounded-xl text-xs font-bold bg-indigo-600 hover:bg-indigo-700 text-white shadow-sm">
+                  &#8635; Rotate Square +90&deg;
+                </button>
+              </div>
+            </div>
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 items-center">
+              <div class="flex flex-col gap-1">
+                <div class="flex justify-between text-xs font-semibold">
+                  <label for="slider-sq-rot">Rotational Symmetry Angle (Matches every 90&deg;!)</label>
+                  <span id="val-sq-rot" class="font-mono-code font-bold text-blue-600">0&deg;</span>
+                </div>
+                <input type="range" id="slider-sq-rot" min="0" max="360" step="5" value="0" class="w-full h-2 bg-slate-200 rounded-lg">
+              </div>
+              <div class="flex flex-wrap items-center gap-1.5">
+                <span class="text-xs font-bold text-slate-500">Mirror Axis:</span>
+                <button type="button" data-sym="ALL" class="sq-sym-btn px-2.5 py-1 rounded-lg text-xs font-bold bg-blue-600 text-white">All 4 Lines</button>
+                <button type="button" data-sym="V" class="sq-sym-btn px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-100 text-slate-700">Vertical</button>
+                <button type="button" data-sym="H" class="sq-sym-btn px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-100 text-slate-700">Horizontal</button>
+                <button type="button" data-sym="D1" class="sq-sym-btn px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-100 text-slate-700">Diagonal 1</button>
+                <button type="button" data-sym="D2" class="sq-sym-btn px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-100 text-slate-700">Diagonal 2</button>
+              </div>
+            </div>
+          </div>
+
+          <!-- MODULE 7 CONTROLS: Shape Detective (Necessity vs. Sufficiency Game) -->
+          <div id="ctrl-tab-7" class="hidden flex-col gap-3">
+            <!-- Row 1: Target Shape Selector + Quick Preset Challenges -->
+            <div class="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-2.5">
+              <div class="flex flex-wrap items-center gap-1.5">
+                <span class="text-xs font-bold uppercase tracking-wider text-emerald-800 mr-1">🎯 Mystery Target to Prove:</span>
+                <button type="button" data-target="Parallelogram" class="det-target-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 text-slate-700">
+                  Parallelogram
+                </button>
+                <button type="button" data-target="Rhombus" class="det-target-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-emerald-600 text-white shadow-sm">
+                  Rhombus
+                </button>
+                <button type="button" data-target="Rectangle" class="det-target-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 text-slate-700">
+                  Rectangle
+                </button>
+                <button type="button" data-target="Square" class="det-target-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 text-slate-700">
+                  Square
+                </button>
+              </div>
+              <div class="flex flex-wrap items-center gap-1.5">
+                <button type="button" id="btn-det-trap1" class="px-2.5 py-1 rounded-lg text-xs font-bold bg-rose-50 text-rose-700 border border-rose-200 hover:bg-rose-100" title="Test if 90° diagonals alone proves a Rhombus">
+                  Test &ldquo;Only 90&deg; Diagonals&rdquo; Trap!
+                </button>
+                <button type="button" id="btn-det-trap2" class="px-2.5 py-1 rounded-lg text-xs font-bold bg-amber-50 text-amber-800 border border-amber-200 hover:bg-amber-100" title="Test if Equal Diagonals alone proves a Rectangle">
+                  Test &ldquo;Only Equal Diagonals&rdquo; Trap!
+                </button>
+                <button type="button" id="btn-det-clear" class="px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-100 text-slate-600 hover:bg-slate-200">
+                  Clear Clues
+                </button>
+              </div>
+            </div>
+
+            <!-- Row 2: Interactive Clue Toggles -->
+            <div class="flex flex-wrap items-center gap-2">
+              <span class="text-xs font-bold text-slate-500 uppercase mr-1">Toggle Clues:</span>
+              <button type="button" data-clue="oppSidesParallel" class="clue-chip px-2.5 py-1.5 rounded-xl text-xs font-semibold border border-slate-300 bg-white text-slate-700">
+                ▱ Opposite Sides Parallel
+              </button>
+              <button type="button" data-clue="allSidesEqual" class="clue-chip px-2.5 py-1.5 rounded-xl text-xs font-semibold border border-slate-300 bg-white text-slate-700">
+                📏 All 4 Sides Equal
+              </button>
+              <button type="button" data-clue="allAngles90" class="clue-chip px-2.5 py-1.5 rounded-xl text-xs font-semibold border border-slate-300 bg-white text-slate-700">
+                📐 All 4 Corners 90&deg;
+              </button>
+              <button type="button" data-clue="diagBisect" class="clue-chip px-2.5 py-1.5 rounded-xl text-xs font-semibold border border-slate-300 bg-white text-slate-700">
+                ✂️ Diagonals Bisect Each Other
+              </button>
+              <button type="button" data-clue="diagPerp" class="clue-chip px-2.5 py-1.5 rounded-xl text-xs font-bold border-2 border-blue-600 bg-blue-50 text-blue-800">
+                ➕ Diagonals Cross at 90&deg; ✓
+              </button>
+              <button type="button" data-clue="diagEqual" class="clue-chip px-2.5 py-1.5 rounded-xl text-xs font-semibold border border-slate-300 bg-white text-slate-700">
+                ⚖️ Diagonals Equal Length
+              </button>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Live Kid-Friendly Story / Dynamic Explanation Caption -->
+        <div class="bg-white border border-slate-200 rounded-xl p-3.5 text-sm text-slate-700 flex items-start gap-3">
+          <span class="text-lg leading-none select-none">💡</span>
+          <div id="live-caption" class="leading-relaxed flex-1">
+            <!-- Dynamically populated -->
+          </div>
+        </div>
+
+      </div>
+
+      <!-- 4-Card Live Numeric & Detective Readout Deck (Below Controls) -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
+        <div class="bg-blue-50/60 border border-blue-200 rounded-2xl p-3.5 flex flex-col justify-between">
+          <span id="c1-label" class="text-xs font-bold text-blue-800 uppercase tracking-wider">Sides &amp; Perimeter</span>
+          <span id="c1-val" class="text-base sm:text-lg font-bold font-mono-code text-blue-900 mt-1">--</span>
+          <span id="c1-sub" class="text-xs text-blue-700 mt-0.5">--</span>
+        </div>
+        <div class="bg-purple-50/60 border border-purple-200 rounded-2xl p-3.5 flex flex-col justify-between">
+          <span id="c2-label" class="text-xs font-bold text-purple-800 uppercase tracking-wider">Interior Angles</span>
+          <span id="c2-val" class="text-base sm:text-lg font-bold font-mono-code text-purple-900 mt-1">--</span>
+          <span id="c2-sub" class="text-xs text-purple-700 mt-0.5">--</span>
+        </div>
+        <div class="bg-amber-50/70 border border-amber-200 rounded-2xl p-3.5 flex flex-col justify-between">
+          <span id="c3-label" class="text-xs font-bold text-amber-900 uppercase tracking-wider">Diagonal Properties</span>
+          <span id="c3-val" class="text-base sm:text-lg font-bold font-mono-code text-amber-900 mt-1">--</span>
+          <span id="c3-sub" class="text-xs text-amber-800 mt-0.5">--</span>
+        </div>
+        <div class="bg-emerald-50/70 border border-emerald-200 rounded-2xl p-3.5 flex flex-col justify-between">
+          <span id="c4-label" class="text-xs font-bold text-emerald-800 uppercase tracking-wider">Detective Verdict</span>
+          <span id="c4-val" class="text-base sm:text-lg font-bold font-mono-code text-emerald-900 mt-1">--</span>
+          <span id="c4-sub" class="text-xs text-emerald-700 mt-0.5">--</span>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- KID-FRIENDLY GUIDE TO NECESSITY vs. SUFFICIENCY + MASTER COMPARISON TABLE -->
+    <div class="bg-white rounded-3xl shadow-lg border border-slate-200 p-5 sm:p-8 flex flex-col gap-6">
+      <div class="border-b border-slate-100 pb-4">
+        <span class="px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-emerald-50 text-emerald-700">
+          🕵️‍♂️ Master Detective Handbook
+        </span>
+        <h2 class="text-2xl font-extrabold text-slate-900 mt-2">
+          How to Think Like a Geometry Detective: &ldquo;Must-Have Clues&rdquo; vs. &ldquo;Guaranteed Proof Clues&rdquo;
+        </h2>
+        <p class="text-sm text-slate-600 mt-1">
+          In grown-up math books, these are called <strong>Necessary Conditions</strong> and <strong>Sufficient Conditions</strong>. Here is what they really mean!
+        </p>
+      </div>
+
+      <!-- 2-Column Kid Explanation of Necessity vs Sufficiency -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+        <div class="bg-blue-50/60 border border-blue-200 rounded-2xl p-5 flex flex-col gap-2.5">
+          <div class="flex items-center gap-2">
+            <span class="px-2.5 py-1 rounded-lg bg-blue-600 text-white font-bold text-xs uppercase">1. Necessary (&ldquo;Must-Have Clue&rdquo;)</span>
+          </div>
+          <h3 class="text-base font-bold text-slate-900">If it's missing, the suspect is innocent!</h3>
+          <p class="text-sm text-slate-700 leading-relaxed">
+            A <strong>Necessary property</strong> is something a shape <em>must</em> have. For example:
+            <br>&bull; <em>&ldquo;Every Rhombus MUST have perpendicular ($90^\circ$) diagonals.&rdquo;</em>
+            <br>&bull; <em>&ldquo;Every Dog MUST have 4 legs.&rdquo;</em>
+          </p>
+          <div class="bg-white border border-blue-200 rounded-xl p-3 text-xs text-slate-700">
+            <strong class="text-rose-600">⚠️ The Detective Trap:</strong> Just because an animal has 4 legs doesn't prove it's a dog (it could be a cat!). And just because a shape has $90^\circ$ diagonals doesn't prove it's a Rhombus—a <strong>Kite</strong> has $90^\circ$ diagonals too!
+          </div>
+        </div>
+
+        <div class="bg-emerald-50/60 border border-emerald-200 rounded-2xl p-5 flex flex-col gap-2.5">
+          <div class="flex items-center gap-2">
+            <span class="px-2.5 py-1 rounded-lg bg-emerald-600 text-white font-bold text-xs uppercase">2. Sufficient (&ldquo;Case-Closed Guarantee!&rdquo;)</span>
+          </div>
+          <h3 class="text-base font-bold text-slate-900">No impostor can fake this clue combo!</h3>
+          <p class="text-sm text-slate-700 leading-relaxed">
+            A <strong>Sufficient condition</strong> is a clue (or team of clues) so specific that <em>only</em> your target shape (or its special upgraded version) can pass!
+          </p>
+          <div class="bg-white border border-emerald-200 rounded-xl p-3 text-xs text-slate-700 space-y-1">
+            <div><strong class="text-emerald-800">✓ To Guarantee a Parallelogram:</strong> Diagonals bisect each other.</div>
+            <div><strong class="text-emerald-800">✓ To Guarantee a Rhombus:</strong> Diagonals bisect each other <strong>AND</strong> cross at $90^\circ$ (kicks out the Kite!).</div>
+            <div><strong class="text-emerald-800">✓ To Guarantee a Rectangle:</strong> Diagonals bisect each other <strong>AND</strong> have equal length (kicks out the Trapezoid!).</div>
+            <div><strong class="text-emerald-800">✓ To Guarantee a Square:</strong> Diagonals bisect each other <strong>AND</strong> cross at $90^\circ$ <strong>AND</strong> have equal length!</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Master Shape Properties Comparison Table -->
+      <div class="overflow-x-auto rounded-2xl border border-slate-200">
+        <table class="w-full text-left border-collapse text-xs sm:text-sm">
+          <thead>
+            <tr class="bg-slate-900 text-white">
+              <th class="p-3.5 font-bold">Shape</th>
+              <th class="p-3.5 font-bold">Side Rules</th>
+              <th class="p-3.5 font-bold">Corner Angle Rules</th>
+              <th class="p-3.5 font-bold">Diagonals Bisect Each Other?</th>
+              <th class="p-3.5 font-bold">Diagonals Equal Length?</th>
+              <th class="p-3.5 font-bold">Diagonals Cross at 90&deg;?</th>
+              <th class="p-3.5 font-bold">Mirror Symmetry Lines</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-200 bg-white">
+            <tr class="hover:bg-slate-50">
+              <td class="p-3.5 font-bold text-blue-700">Parallelogram ▱</td>
+              <td class="p-3.5">Opposite sides parallel &amp; equal</td>
+              <td class="p-3.5">Opposite angles equal; neighbors = 180&deg;</td>
+              <td class="p-3.5 font-bold text-emerald-700">✓ YES (Always!)</td>
+              <td class="p-3.5 text-slate-500">✗ No (unless Rectangle)</td>
+              <td class="p-3.5 text-slate-500">✗ No (unless Rhombus)</td>
+              <td class="p-3.5 font-mono-code">0 (Has 180&deg; rotational)</td>
+            </tr>
+            <tr class="hover:bg-slate-50">
+              <td class="p-3.5 font-bold text-indigo-700">Rhombus 菱</td>
+              <td class="p-3.5 font-semibold">All 4 sides equal; opposite parallel</td>
+              <td class="p-3.5">Opposite angles equal; diagonals bisect corners</td>
+              <td class="p-3.5 font-bold text-emerald-700">✓ YES</td>
+              <td class="p-3.5 text-slate-500">✗ No (unless Square)</td>
+              <td class="p-3.5 font-bold text-emerald-700">✓ YES (90&deg; + Bisects Corners!)</td>
+              <td class="p-3.5 font-mono-code">2 (Along both diagonals)</td>
+            </tr>
+            <tr class="hover:bg-slate-50">
+              <td class="p-3.5 font-bold text-purple-700">Rectangle ▭</td>
+              <td class="p-3.5">Opposite sides parallel &amp; equal</td>
+              <td class="p-3.5 font-semibold">All 4 corners are 90&deg; right angles</td>
+              <td class="p-3.5 font-bold text-emerald-700">✓ YES</td>
+              <td class="p-3.5 font-bold text-emerald-700">✓ YES (d₁ = d₂)</td>
+              <td class="p-3.5 text-slate-500">✗ No (unless Square)</td>
+              <td class="p-3.5 font-mono-code">2 (Horizontal &amp; Vertical)</td>
+            </tr>
+            <tr class="bg-emerald-50/40 hover:bg-emerald-50">
+              <td class="p-3.5 font-extrabold text-emerald-800">Square 🟦 (Hero)</td>
+              <td class="p-3.5 font-semibold">All 4 sides equal &amp; parallel</td>
+              <td class="p-3.5 font-semibold">All 4 corners 90&deg; (split into 45&deg;/45&deg;)</td>
+              <td class="p-3.5 font-bold text-emerald-700">✓ YES</td>
+              <td class="p-3.5 font-bold text-emerald-700">✓ YES</td>
+              <td class="p-3.5 font-bold text-emerald-700">✓ YES (All 3 Powers!)</td>
+              <td class="p-3.5 font-mono-code font-bold text-emerald-800">4 (2 Midlines + 2 Diagonals)</td>
+            </tr>
+            <tr class="hover:bg-rose-50/40">
+              <td class="p-3.5 font-bold text-rose-700">Kite 🪁 (Impostor)</td>
+              <td class="p-3.5">2 pairs of adjacent equal sides</td>
+              <td class="p-3.5">1 pair of opposite angles equal</td>
+              <td class="p-3.5 font-semibold text-rose-600">✗ NO (Only 1 diagonal bisected!)</td>
+              <td class="p-3.5 text-slate-500">✗ No</td>
+              <td class="p-3.5 font-bold text-amber-700">✓ YES (Cross at 90&deg;!)</td>
+              <td class="p-3.5 font-mono-code">1 (Main symmetry diagonal)</td>
+            </tr>
+            <tr class="hover:bg-amber-50/40">
+              <td class="p-3.5 font-bold text-amber-800">Isosceles Trapezoid</td>
+              <td class="p-3.5">1 pair parallel bases + equal legs</td>
+              <td class="p-3.5">Base angles equal in pairs</td>
+              <td class="p-3.5 font-semibold text-rose-600">✗ NO (Cross off-center!)</td>
+              <td class="p-3.5 font-bold text-amber-700">✓ YES (d₁ = d₂!)</td>
+              <td class="p-3.5 text-slate-500">✗ No</td>
+              <td class="p-3.5 font-mono-code">1 (Vertical midline)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    // =========================================================================
+    // GEOMETRY & SHAPE PROPERTIES DETECTIVE LABORATORY ENGINE
+    // =========================================================================
+
+    const state = {
+      tab: 1, // 1..7
+
+      // Tab 1: Lines & Angles
+      lineMode: 'vertical', // 'vertical' | 'parallel'
+      lineAngle: 55,        // degrees (20..160)
+      lineSlide: 0,         // 0..100%
+
+      // Tab 2: Triangles Lab
+      triMode: 'proof180',  // 'proof180' | 'types' | 'scaling'
+      triPeakOffset: -25,   // -120..120 px
+      triFold: 100,         // 0..100%
+      triType: 'equilateral', // 'equilateral' | 'isosceles' | 'scalene'
+      triShowSym: true,
+      triScale: 2.0,
+
+      // Tab 3: Parallelogram Lab
+      paraMode: 'diagonals', // 'diagonals' | 'split360' | 'angles'
+      paraAngle: 62,         // degrees (40..140)
+      paraBase: 8.0,         // cm
+      paraSide: 5.0,         // cm
+      paraSpin: 0,           // 0..100%
+
+      // Tab 4: Rhombus Lab
+      rhomMode: 'perp90',    // 'perp90' | 'fold' | 'kiteTrap'
+      rhomAngle: 64,         // degrees (36..144)
+      rhomSide: 6.0,         // cm
+      rhomFold: 0,           // 0..100%
+
+      // Tab 5: Rectangle Lab
+      recMode: 'equalDiag',  // 'equalDiag' | 'circle' | 'trapTrap'
+      recL: 8.0,             // cm
+      recW: 5.0,             // cm
+      recSep: 0,             // 0..100%
+
+      // Tab 6: Square Lab
+      sqMode: 'allPowers',   // 'allPowers' | 'symmetry' | 'family'
+      sqRot: 0,              // 0..360 deg
+      sqSymAxis: 'ALL',      // 'ALL' | 'V' | 'H' | 'D1' | 'D2'
+
+      // Tab 7: Detective Necessity vs. Sufficiency
+      detTarget: 'Rhombus',  // 'Parallelogram' | 'Rhombus' | 'Rectangle' | 'Square'
+      clues: {
+        oppSidesParallel: false,
+        allSidesEqual: false,
+        allAngles90: false,
+        diagBisect: false,
+        diagPerp: true,
+        diagEqual: false
+      },
+
+      animId: null
+    };
+
+    function stopActiveAnim() {
+      if (state.animId) {
+        cancelAnimationFrame(state.animId);
+        state.animId = null;
+      }
+    }
+
+    function lerp(a, b, t) {
+      return a + (b - a) * t;
+    }
+
+    // Draw a crisp pill badge on Canvas
+    function drawBadge(ctx, text, x, y, bg, fg, border = null) {
+      ctx.save();
+      ctx.font = "700 11px 'Inter', sans-serif";
+      const padX = 8;
+      const h = 22;
+      const w = ctx.measureText(text).width + padX * 2;
+      ctx.beginPath();
+      ctx.roundRect(x - w / 2, y - h / 2, w, h, 6);
+      ctx.fillStyle = bg;
+      ctx.fill();
+      if (border) {
+        ctx.strokeStyle = border;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+      }
+      ctx.fillStyle = fg;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText(text, x, y + 0.5);
+      ctx.restore();
+    }
+
+    // Draw tick marks on a segment (to show equal lengths!)
+    function drawTickMarks(ctx, x1, y1, x2, y2, count = 1, color = '#1d4ed8') {
+      const mx = (x1 + x2) / 2;
+      const my = (y1 + y2) / 2;
+      const dx = x2 - x1;
+      const dy = y2 - y1;
+      const len = Math.hypot(dx, dy) || 1;
+      const ux = dx / len;
+      const uy = dy / len;
+      // Normal vector
+      const nx = -uy;
+      const ny = ux;
+      const spacing = 5;
+      const tickHalf = 6;
+
+      ctx.save();
+      ctx.strokeStyle = color;
+      ctx.lineWidth = 2.2;
+      for (let i = 0; i < count; i++) {
+        const offset = (i - (count - 1) / 2) * spacing;
+        const px = mx + ux * offset;
+        const py = my + uy * offset;
+        ctx.beginPath();
+        ctx.moveTo(px - nx * tickHalf, py - ny * tickHalf);
+        ctx.lineTo(px + nx * tickHalf, py + ny * tickHalf);
+        ctx.stroke();
+      }
+      ctx.restore();
+    }
+
+    // Draw a right-angle 90° square symbol at vertex (vx, vy) given two unit direction vectors u1 and u2
+    function drawRightAngleBox(ctx, vx, vy, u1x, u1y, u2x, u2y, size = 12, color = '#e11d48') {
+      ctx.save();
+      ctx.strokeStyle = color;
+      ctx.fillStyle = 'rgba(225, 29, 72, 0.12)';
+      ctx.lineWidth = 2;
+      const p1x = vx + u1x * size;
+      const p1y = vy + u1y * size;
+      const p2x = vx + (u1x + u2x) * size;
+      const p2y = vy + (u1y + u2y) * size;
+      const p3x = vx + u2x * size;
+      const p3y = vy + u2y * size;
+      ctx.beginPath();
+      ctx.moveTo(vx, vy);
+      ctx.lineTo(p1x, p1y);
+      ctx.lineTo(p2x, p2y);
+      ctx.lineTo(p3x, p3y);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+      ctx.restore();
+    }
+
+    // =========================================================================
+    // SHAPE DETECTIVE LOGIC (NECESSITY VS. SUFFICIENCY ENGINE)
+    // =========================================================================
+    const SUSPECT_SHAPES = [
+      {
+        name: 'Parallelogram',
+        props: { oppSidesParallel: true, allSidesEqual: false, allAngles90: false, diagBisect: true, diagPerp: false, diagEqual: false },
+        satisfies(c) {
+          // A general parallelogram always has oppSidesParallel and diagBisect
+          if (c.allSidesEqual || c.allAngles90 || c.diagPerp || c.diagEqual) return false;
+          return true;
+        }
+      },
+      {
+        name: 'Rhombus',
+        props: { oppSidesParallel: true, allSidesEqual: true, allAngles90: false, diagBisect: true, diagPerp: true, diagEqual: false },
+        satisfies(c) {
+          if (c.allAngles90 || c.diagEqual) return false;
+          return true;
+        }
+      },
+      {
+        name: 'Rectangle',
+        props: { oppSidesParallel: true, allSidesEqual: false, allAngles90: true, diagBisect: true, diagPerp: false, diagEqual: true },
+        satisfies(c) {
+          if (c.allSidesEqual || c.diagPerp) return false;
+          return true;
+        }
+      },
+      {
+        name: 'Square',
+        props: { oppSidesParallel: true, allSidesEqual: true, allAngles90: true, diagBisect: true, diagPerp: true, diagEqual: true },
+        satisfies() {
+          // A Square has ALL 6 superpowers!
+          return true;
+        }
+      },
+      {
+        name: 'Kite (Impostor!)',
+        isImpostor: true,
+        props: { oppSidesParallel: false, allSidesEqual: false, allAngles90: false, diagBisect: false, diagPerp: true, diagEqual: false },
+        satisfies(c) {
+          if (c.oppSidesParallel || c.allSidesEqual || c.allAngles90 || c.diagBisect || c.diagEqual) return false;
+          return true; // Survives if only diagPerp (or no clues) is checked!
+        }
+      },
+      {
+        name: 'Isosceles Trapezoid (Impostor!)',
+        isImpostor: true,
+        props: { oppSidesParallel: false, allSidesEqual: false, allAngles90: false, diagBisect: false, diagPerp: false, diagEqual: true },
+        satisfies(c) {
+          if (c.oppSidesParallel || c.allSidesEqual || c.allAngles90 || c.diagBisect || c.diagPerp) return false;
+          return true; // Survives if only diagEqual (or no clues) is checked!
+        }
+      }
+    ];
+
+    function evaluateDetectiveClues() {
+      const c = state.clues;
+      const survivors = SUSPECT_SHAPES.filter(s => s.satisfies(c));
+      const target = state.detTarget;
+
+      // Determine hierarchy: Square is a special Rhombus, Rectangle, and Parallelogram.
+      // Rhombus and Rectangle are special Parallelograms.
+      const allowedForTarget = {
+        Parallelogram: ['Parallelogram', 'Rhombus', 'Rectangle', 'Square'],
+        Rhombus: ['Rhombus', 'Square'],
+        Rectangle: ['Rectangle', 'Square'],
+        Square: ['Square']
+      }[target];
+
+      const impostorsAlive = survivors.filter(s => !allowedForTarget.includes(s.name));
+      const targetGeneralAlive = survivors.some(s => s.name === target);
+
+      let status = 'SUFFICIENT_EXACT';
+      if (impostorsAlive.length > 0) {
+        status = 'NOT_SUFFICIENT'; // Impostors snuck in!
+      } else if (!targetGeneralAlive && survivors.length > 0) {
+        status = 'TOO_STRICT'; // e.g. Forced a Square when trying to prove Rhombus
+      }
+
+      return { survivors, impostorsAlive, status };
+    }
+
+    // =========================================================================
+    // UI & READOUT SYNCHRONIZATION
+    // =========================================================================
+    function syncUI() {
+      // Top Tabs
+      document.querySelectorAll('.mod-tab').forEach(btn => {
+        const t = parseInt(btn.getAttribute('data-tab'), 10);
+        if (t === state.tab) {
+          btn.className = 'mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all bg-blue-600 text-white shadow-sm';
+        } else if (t === 7) {
+          btn.className = 'mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all text-emerald-800 bg-emerald-50 hover:bg-emerald-100 border border-emerald-200';
+        } else {
+          btn.className = 'mod-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-700 hover:bg-white';
+        }
+      });
+
+      // Control Rows
+      for (let i = 1; i <= 7; i++) {
+        const el = document.getElementById(`ctrl-tab-${i}`);
+        if (i === state.tab) {
+          el.classList.remove('hidden');
+          el.classList.add('flex');
+        } else {
+          el.classList.add('hidden');
+          el.classList.remove('flex');
+        }
+      }
+
+      const alertBadge = document.getElementById('special-alert-badge');
+      alertBadge.classList.add('hidden');
+
+      const badge = document.getElementById('banner-badge');
+      const title = document.getElementById('banner-title');
+      const subtitle = document.getElementById('banner-subtitle');
+      const formula = document.getElementById('banner-formula');
+      const legend = document.getElementById('canvas-legend');
+      const caption = document.getElementById('live-caption');
+
+      const c1L = document.getElementById('c1-label');
+      const c1V = document.getElementById('c1-val');
+      const c1S = document.getElementById('c1-sub');
+      const c2L = document.getElementById('c2-label');
+      const c2V = document.getElementById('c2-val');
+      const c2S = document.getElementById('c2-sub');
+      const c3L = document.getElementById('c3-label');
+      const c3V = document.getElementById('c3-val');
+      const c3S = document.getElementById('c3-sub');
+      const c4L = document.getElementById('c4-label');
+      const c4V = document.getElementById('c4-val');
+      const c4S = document.getElementById('c4-sub');
+
+      // TAB 1: LINES & ANGLES
+      if (state.tab === 1) {
+        const a = state.lineAngle;
+        const b = 180 - a;
+        badge.textContent = 'Module 1 of 7';
+        title.textContent = state.lineMode === 'vertical'
+          ? 'Rule 1: Intersecting Lines & Vertically Opposite "Criss-Cross Twins"'
+          : 'Rule 2: Parallel Train Tracks & The Sliding Transversal Ramp';
+        subtitle.textContent = state.lineMode === 'vertical'
+          ? 'Opposite angles across an X are always equal, and neighbor angles along a straight line always add to 180°!'
+          : 'Slide the top angle cluster down the ramp—Corresponding & Alternate Interior ("Z") angles match 100%!';
+        formula.innerHTML = `&alpha; = ${a}&deg; | &beta; = ${b}&deg; (&alpha;+&beta; = 180&deg;)`;
+
+        document.querySelectorAll('.lmode-btn').forEach(btn => {
+          const m = btn.getAttribute('data-lmode');
+          btn.className = m === state.lineMode
+            ? 'lmode-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm'
+            : 'lmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700';
+        });
+
+        document.getElementById('box-line-slide').classList.toggle('opacity-40', state.lineMode === 'vertical');
+        const typeStr = a === 90 ? 'Right Angle!' : a < 90 ? 'Acute (<90°)' : 'Obtuse (>90°)';
+        document.getElementById('val-line-angle').textContent = `${a}° (${typeStr})`;
+        document.getElementById('val-line-slide').textContent = `${Math.round(state.lineSlide)}%`;
+
+        legend.innerHTML = `
+          <span class="inline-flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-blue-600 inline-block"></span>Angle &alpha; = ${a}&deg;</span>
+          <span class="inline-flex items-center gap-1.5"><span class="w-3 h-3 rounded-full bg-amber-500 inline-block"></span>Supplement &beta; = ${b}&deg;</span>
+        `;
+
+        if (a === 90) {
+          alertBadge.textContent = '★ 90° Perpendicular Lines Unlocked!';
+          alertBadge.classList.remove('hidden');
+        }
+
+        c1L.textContent = 'Angle α (Blue Twins)';
+        c1V.textContent = `${a}° and ${a}°`;
+        c1S.textContent = 'Vertically opposite = Equal!';
+
+        c2L.textContent = 'Angle β (Orange Twins)';
+        c2V.textContent = `${b}° and ${b}°`;
+        c2S.textContent = `180° − ${a}° = ${b}°`;
+
+        c3L.textContent = 'Straight Line Sum';
+        c3V.textContent = `${a}° + ${b}° = 180°`;
+        c3S.textContent = 'Half of a 360° full turn';
+
+        c4L.textContent = 'Full Circle Sum';
+        c4V.textContent = `${a}°+${b}°+${a}°+${b}° = 360°`;
+        c4S.textContent = 'All 4 angles around center';
+
+        caption.innerHTML = state.lineMode === 'vertical'
+          ? `<strong>Why Criss-Cross Twins Are Equal:</strong> Both the top <strong class="text-amber-600">${b}&deg;</strong> angle and bottom <strong class="text-amber-600">${b}&deg;</strong> angle share the same straight-line partner (<strong class="text-blue-600">${a}&deg;</strong>) to make $180^\\circ$. Since both equal $180^\\circ - ${a}^\\circ$, they <em>must</em> equal each other!`
+          : `<strong>Why Train-Track Angles Match:</strong> Drag the <strong>"Slide Top Angles Down the Ramp"</strong> slider or click <strong>Animate</strong>! Because the two horizontal tracks are parallel (never cross), the top 4-angle intersection lands squarely on top of the bottom 4-angle intersection!`;
+      }
+
+      // TAB 2: TRIANGLES LAB
+      else if (state.tab === 2) {
+        badge.textContent = 'Module 2 of 7';
+        document.querySelectorAll('.tmode-btn').forEach(btn => {
+          const m = btn.getAttribute('data-tmode');
+          btn.className = m === state.triMode
+            ? 'tmode-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm'
+            : 'tmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700';
+        });
+
+        document.getElementById('tri-sub-proof').classList.toggle('hidden', state.triMode !== 'proof180');
+        document.getElementById('tri-sub-proof').classList.toggle('grid', state.triMode === 'proof180');
+        document.getElementById('tri-sub-types').classList.toggle('hidden', state.triMode !== 'types');
+        document.getElementById('tri-sub-types').classList.toggle('flex', state.triMode === 'types');
+        document.getElementById('tri-sub-scale').classList.toggle('hidden', state.triMode !== 'scaling');
+        document.getElementById('tri-sub-scale').classList.toggle('grid', state.triMode === 'scaling');
+        document.getElementById('btn-tri-anim').classList.toggle('hidden', state.triMode !== 'proof180');
+
+        if (state.triMode === 'proof180') {
+          title.textContent = 'Mystery #1 Solved: Why Every Triangle\'s Angles Add Up to 180°!';
+          subtitle.textContent = 'Draw a parallel line across the top peak—the bottom corners slide up as Alternate Interior ("Z") angles!';
+          formula.textContent = '∠A + ∠B + ∠C = 180° (Flat Line!)';
+          document.getElementById('val-tri-fold').textContent = `${Math.round(state.triFold)}%`;
+          caption.innerHTML = `<strong>Look at the Top Parallel Line:</strong> When we slide the bottom-left <strong class="text-blue-600">Blue Angle</strong> and bottom-right <strong class="text-amber-600">Orange Angle</strong> up the sides of the triangle, they fit snugly beside the <strong class="text-emerald-700">Green Top Angle</strong> to form a <strong>straight flat line ($180^\\circ$)</strong>!`;
+        } else if (state.triMode === 'types') {
+          title.textContent = 'Sorting Triangles: Equilateral, Isosceles & Scalene Properties';
+          subtitle.textContent = 'Equal sides always force their opposite angles to be equal too!';
+          formula.textContent = state.triType === 'equilateral'
+            ? '3 Equal Sides ⇔ 3 Equal 60° Angles'
+            : state.triType === 'isosceles'
+            ? '2 Equal Sides ⇔ 2 Equal Base Angles'
+            : '0 Equal Sides ⇔ 3 Different Angles';
+
+          document.querySelectorAll('.ttype-btn').forEach(btn => {
+            const t = btn.getAttribute('data-ttype');
+            btn.className = t === state.triType
+              ? 'ttype-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-emerald-600 text-white shadow-sm'
+              : 'ttype-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200';
+          });
+
+          caption.innerHTML = state.triType === 'equilateral'
+            ? `<strong>Equilateral Triangle (Necessary &amp; Sufficient!):</strong> Having all 3 sides equal is both <em>necessary</em> and <em>sufficient</em> for all 3 angles to be $60^\\circ$. It also has <strong>3 mirror lines of symmetry</strong>!`
+            : state.triType === 'isosceles'
+            ? `<strong>Isosceles Triangle Secret:</strong> Because the left and right legs are equal, folding the triangle down the middle line of symmetry lands the left corner right on the right corner! That proves the <strong>base angles MUST be equal</strong> and the center altitude hits the base at $90^\\circ$!`
+            : `<strong>Scalene Triangle:</strong> All 3 sides have different lengths, so all 3 interior angles are different too, and there are <strong>0 lines of mirror symmetry</strong>.`;
+        } else {
+          title.textContent = 'Congruence (Carbon-Copy Twins) vs. Similarity (Scaled Photo-Copies)';
+          subtitle.textContent = 'Similar triangles keep the exact same angles while multiplying every side by the same scale factor k!';
+          formula.textContent = `Scale Factor k = ${state.triScale.toFixed(2)}x`;
+          document.getElementById('val-tri-scale').textContent = state.triScale === 1
+            ? '1.00x (Congruent Twin!)'
+            : `${state.triScale.toFixed(2)}x (Similar Photo-Copy)`;
+          caption.innerHTML = state.triScale === 1
+            ? `<strong class="text-emerald-700">Congruent Twins (Scale = 1.0x):</strong> Both triangles have sides $3\\text{ cm}, 4\\text{ cm}, 5\\text{ cm}$ and identical angles ($37^\\circ, 53^\\circ, 90^\\circ$). They are exact carbon copies!`
+            : `<strong class="text-blue-700">Similar Photo-Copies (Scale = ${state.triScale}x):</strong> Every side of the <strong class="text-blue-700">3-4-5 triangle</strong> is multiplied by <strong>${state.triScale}</strong> to get <strong>${(3*state.triScale).toFixed(1)}, ${(4*state.triScale).toFixed(1)}, ${(5*state.triScale).toFixed(1)} cm</strong>—yet the 3 corner angles stay locked at $37^\\circ, 53^\\circ, 90^\\circ$!`;
+        }
+      }
+
+      // TAB 3: PARALLELOGRAM LAB
+      else if (state.tab === 3) {
+        const ang = state.paraAngle;
+        const supp = 180 - ang;
+        const b = state.paraBase;
+        const s = state.paraSide;
+        const rad = (ang * Math.PI) / 180;
+        const h = s * Math.sin(rad);
+        // Diagonals via law of cosines
+        const d1 = Math.sqrt(b * b + s * s + 2 * b * s * Math.cos(rad));
+        const d2 = Math.sqrt(b * b + s * s - 2 * b * s * Math.cos(rad));
+
+        badge.textContent = 'Module 3 of 7';
+        title.textContent = 'Parallelogram Lab: Tilted Frame, 360° Split & Bisecting Diagonals';
+        subtitle.textContent = 'Opposite sides are parallel & equal, opposite angles are equal, and diagonals cut each other in half!';
+        formula.textContent = `∠A = ${ang}°, ∠B = ${supp}° | Area = ${(b * h).toFixed(1)} cm²`;
+
+        document.querySelectorAll('.pmode-btn').forEach(btn => {
+          const m = btn.getAttribute('data-pmode');
+          btn.className = m === state.paraMode
+            ? 'pmode-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm'
+            : 'pmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700';
+        });
+
+        document.getElementById('val-para-angle').textContent = `${ang}°`;
+        document.getElementById('val-para-b').textContent = `${b.toFixed(1)} cm`;
+        document.getElementById('val-para-spin').textContent = `${Math.round(state.paraSpin)}%`;
+
+        if (ang === 90) {
+          alertBadge.textContent = '★ At 90°, the Parallelogram Became a Rectangle (d₁ = d₂)!';
+          alertBadge.classList.remove('hidden');
+        }
+
+        c1L.textContent = 'Opposite Sides Equal';
+        c1V.textContent = `${b.toFixed(1)} & ${s.toFixed(1)} cm`;
+        c1S.textContent = `Perimeter = ${(2 * (b + s)).toFixed(1)} cm`;
+
+        c2L.textContent = 'Opposite & Neighbor Angles';
+        c2V.textContent = `${ang}° & ${supp}°`;
+        c2S.textContent = `Sum = 2 × 180° = 360°`;
+
+        c3L.textContent = 'Diagonals Bisect Each Other';
+        c3V.textContent = `d₁=${d1.toFixed(1)}, d₂=${d2.toFixed(1)}`;
+        c3S.textContent = ang === 90 ? 'Equal because angle is 90°!' : 'Halves equal, full lengths ≠';
+
+        c4L.textContent = 'Guaranteed Proof Clue';
+        c4V.textContent = 'Diagonals Bisect!';
+        c4S.textContent = 'Necessary & Sufficient for ▱';
+
+        caption.innerHTML = state.paraMode === 'diagonals'
+          ? `<strong>Why Parallelogram Diagonals Bisect Each Other (Cut in Half at M):</strong> Because the top and bottom edges are parallel, the top-left and bottom-right triangles formed by the diagonals have matching Alternate Interior ("Z") angles and equal opposite sides ($${b.toFixed(1)}\\text{ cm}$). So the two triangles are twins, meaning midpoint <strong>M</strong> cuts both diagonals into exact halves: <strong class="text-blue-700">${(d1/2).toFixed(2)} cm = ${(d1/2).toFixed(2)} cm</strong> and <strong class="text-emerald-700">${(d2/2).toFixed(2)} cm = ${(d2/2).toFixed(2)} cm</strong>!`
+          : state.paraMode === 'split360'
+          ? `<strong>Mystery #2 Solved (Why 4 Corners = 360°):</strong> Click <strong>"Spin Twin Triangle 180°"</strong>! A single diagonal slices the parallelogram into <strong>2 congruent twin triangles</strong>. Since each triangle has $180^\\circ$, the parallelogram has $2 \\times 180^\\circ = 360^\\circ$!`
+          : `<strong>Tilted Frame Effect:</strong> Notice that when tilted (${ang}°), Diagonal $d_1 = ${d1.toFixed(1)}\\text{ cm}$ is stretched longer while $d_2 = ${d2.toFixed(1)}\\text{ cm}$ is squished shorter. Click <strong>"Push to 90°"</strong> above to see them become equal when the parallelogram straightens into a Rectangle!`;
+      }
+
+      // TAB 4: RHOMBUS LAB
+      else if (state.tab === 4) {
+        const ang = state.rhomAngle;
+        const supp = 180 - ang;
+        const s = state.rhomSide;
+        const rad = (ang * Math.PI) / 180;
+        const d1 = 2 * s * Math.cos(rad / 2);
+        const d2 = 2 * s * Math.sin(rad / 2);
+
+        badge.textContent = 'Module 4 of 7';
+        title.textContent = 'Rhombus Lab: Why Do Diagonals Cross at a Perfect 90° Right Angle?';
+        subtitle.textContent = 'Because all 4 sides are equal, folding along either diagonal lands the two halves squarely on top of each other!';
+        formula.textContent = `s = ${s.toFixed(1)} cm (All 4 Equal) | Diagonals Cross at 90°!`;
+
+        document.querySelectorAll('.rmode-btn').forEach(btn => {
+          const m = btn.getAttribute('data-rmode');
+          btn.className = m === state.rhomMode
+            ? 'rmode-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm'
+            : m === 'kiteTrap'
+            ? 'rmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-rose-50 hover:bg-rose-100 text-rose-800 border border-rose-200'
+            : 'rmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700';
+        });
+
+        document.getElementById('val-rhom-angle').textContent = `${ang}°`;
+        document.getElementById('val-rhom-side').textContent = `${s.toFixed(1)} cm`;
+        document.getElementById('val-rhom-fold').textContent = `${Math.round(state.rhomFold)}%`;
+
+        if (ang === 90 && state.rhomMode !== 'kiteTrap') {
+          alertBadge.textContent = '★ At 90° Corners, the Rhombus Became a Square!';
+          alertBadge.classList.remove('hidden');
+        }
+
+        c1L.textContent = 'All 4 Sides Locked Equal';
+        c1V.textContent = `4 × ${s.toFixed(1)} = ${(4 * s).toFixed(1)} cm`;
+        c1S.textContent = 'Equilateral quadrilateral';
+
+        c2L.textContent = 'Diagonals Bisect Corners!';
+        c2V.textContent = `${(ang/2).toFixed(0)}°/${(ang/2).toFixed(0)}° & ${(supp/2).toFixed(0)}°/${(supp/2).toFixed(0)}°`;
+        c2S.textContent = 'Cuts every corner angle in half';
+
+        c3L.textContent = 'Center Crossing Angle';
+        c3V.textContent = '90.0° (Perpendicular!)';
+        c3S.textContent = `d₁=${d1.toFixed(1)} cm, d₂=${d2.toFixed(1)} cm`;
+
+        c4L.textContent = 'Necessity vs. Sufficiency';
+        c4V.textContent = '90° + Bisect Each Other';
+        c4S.textContent = '90° alone allows Kite impostors!';
+
+        caption.innerHTML = state.rhomMode === 'kiteTrap'
+          ? `<strong class="text-rose-700">⚠️ Detective Alert — Why "Perpendicular Diagonals (90°)" Alone Is NOT Sufficient!</strong> Look at the right side of the canvas: a <strong>Kite</strong> ALSO has diagonals that cross at $90^\\circ$! What's the difference? In a <strong>Rhombus (left)</strong>, both diagonals <em>bisect each other</em> at the center. In a <strong>Kite (right)</strong>, the long diagonal is cut unevenly! So <strong>90° Diagonals</strong> is <em>Necessary</em> for a Rhombus, but only <strong>90° + Bisecting Diagonals</strong> is <em>Sufficient</em>!`
+          : `<strong>Why Rhombus Diagonals MUST Be Perpendicular (90°):</strong> Since all 4 outer sides are equal ($${s.toFixed(1)}\\text{ cm}$), the top and bottom halves are mirror-image isosceles triangles. Click <strong>"Animate Origami Diagonal Fold"</strong>—when you fold the top corner down onto the bottom corner, the two angles at center $M$ match and lie on a straight $180^\\circ$ line, and $\\frac{180^\\circ}{2} = 90^\\circ$!`;
+      }
+
+      // TAB 5: RECTANGLE LAB
+      else if (state.tab === 5) {
+        const l = state.recL;
+        const w = state.recW;
+        const diag = Math.hypot(l, w);
+
+        badge.textContent = 'Module 5 of 7';
+        title.textContent = 'Rectangle Lab: Why Diagonals Have Equal Length & The Circle Secret!';
+        subtitle.textContent = 'All 4 corners are 90°, forcing both diagonals to be hypotenuses of identical right triangles!';
+        formula.textContent = `d₁ = d₂ = √(${l.toFixed(1)}² + ${w.toFixed(1)}²) = ${diag.toFixed(2)} cm`;
+
+        document.querySelectorAll('.recmode-btn').forEach(btn => {
+          const m = btn.getAttribute('data-recmode');
+          btn.className = m === state.recMode
+            ? 'recmode-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm'
+            : m === 'trapTrap'
+            ? 'recmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-rose-50 hover:bg-rose-100 text-rose-800 border border-rose-200'
+            : 'recmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700';
+        });
+
+        document.getElementById('val-rec-l').textContent = `${l.toFixed(1)} cm`;
+        document.getElementById('val-rec-w').textContent = `${w.toFixed(1)} cm`;
+        document.getElementById('val-rec-sep').textContent = `${Math.round(state.recSep)}%`;
+
+        if (Math.abs(l - w) < 0.05 && state.recMode !== 'trapTrap') {
+          alertBadge.textContent = '★ Length = Width! The Rectangle Became a Square (Diagonals now 90°)!';
+          alertBadge.classList.remove('hidden');
+        }
+
+        c1L.textContent = 'Opposite Sides & Area';
+        c1V.textContent = `${l.toFixed(1)} × ${w.toFixed(1)} = ${(l * w).toFixed(1)} cm²`;
+        c1S.textContent = `Perimeter = ${(2 * (l + w)).toFixed(1)} cm`;
+
+        c2L.textContent = 'All 4 Corners Equal';
+        c2V.textContent = '90°, 90°, 90°, 90°';
+        c2S.textContent = 'Equiangular quadrilateral';
+
+        c3L.textContent = 'Equal Diagonals (d₁ = d₂)';
+        c3V.textContent = `${diag.toFixed(2)} cm = ${diag.toFixed(2)} cm`;
+        c3S.textContent = `All 4 half-spokes = ${(diag/2).toFixed(2)} cm!`;
+
+        c4L.textContent = 'Necessity vs. Sufficiency';
+        c4V.textContent = 'Equal + Bisect Each Other';
+        c4S.textContent = 'Equal alone allows Trapezoids!';
+
+        caption.innerHTML = state.recMode === 'equalDiag'
+          ? `<strong>Why Rectangle Diagonals Are Always Equal ($d_1 = d_2$):</strong> Click <strong>"Separate Twin Triangles"</strong> above! Look at the blue right-triangle $\\triangle ABC$ and green right-triangle $\\triangle DCB$. Both have base <strong>${l.toFixed(1)} cm</strong>, height <strong>${w.toFixed(1)} cm</strong>, and a <strong>90° corner</strong> between them. Since the triangles are exact twins (SAS), their slanted edges (the two diagonals!) <em>must</em> be equal: <strong>${diag.toFixed(2)} cm</strong>!`
+          : state.recMode === 'circle'
+          ? `<strong>The Secret Compass Circle (Circumcircle):</strong> Because a rectangle's diagonals are equal AND bisect each other at center $M$, all 4 half-diagonals are the exact same length ($R = ${(diag/2).toFixed(2)}\\text{ cm}$)! Stick a compass point at $M$ and spin—the circle passes cleanly through all 4 corners of the rectangle!`
+          : `<strong class="text-rose-700">⚠️ Detective Alert — Why "Equal Diagonals" Alone Is NOT Sufficient!</strong> Look at the <strong>Isosceles Trapezoid</strong> on the right: its two diagonals are ALSO equal in length! Why isn't it a Rectangle? Because its diagonals cross high up instead of bisecting each other! To guarantee a Rectangle, you need <strong>Equal Diagonals + Bisecting Diagonals</strong>!`;
+      }
+
+      // TAB 6: SQUARE LAB
+      else if (state.tab === 6) {
+        badge.textContent = 'Module 6 of 7';
+        title.textContent = 'Square Lab: The Ultimate Superhero Shape (Rhombus + Rectangle Combined!)';
+        subtitle.textContent = 'A Square inherits every single superpower from the Parallelogram, the Rhombus, AND the Rectangle!';
+        formula.textContent = 'd₁ = d₂ (Equal) + Cross at 90° + Bisect at 45°/45°';
+
+        document.querySelectorAll('.sqmode-btn').forEach(btn => {
+          const m = btn.getAttribute('data-sqmode');
+          btn.className = m === state.sqMode
+            ? 'sqmode-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-blue-600 text-white shadow-sm'
+            : 'sqmode-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700';
+        });
+
+        document.querySelectorAll('.sq-sym-btn').forEach(btn => {
+          const ax = btn.getAttribute('data-sym');
+          btn.className = ax === state.sqSymAxis
+            ? 'sq-sym-btn px-2.5 py-1 rounded-lg text-xs font-bold bg-blue-600 text-white'
+            : 'sq-sym-btn px-2.5 py-1 rounded-lg text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200';
+        });
+
+        document.getElementById('val-sq-rot').textContent = `${state.sqRot}° ${state.sqRot % 90 === 0 ? '✓ Exact Match!' : ''}`;
+
+        c1L.textContent = 'From Rhombus Side';
+        c1V.textContent = '4 Equal Sides + 90° Diag';
+        c1S.textContent = 'Every Square is a Rhombus!';
+
+        c2L.textContent = 'From Rectangle Side';
+        c2V.textContent = '4 Right Angles + Equal Diag';
+        c2S.textContent = 'Every Square is a Rectangle!';
+
+        c3L.textContent = '4 Congruent Mini-Triangles';
+        c3V.textContent = '45°-45°-90° Twins';
+        c3S.textContent = 'Diagonals slice 4 identical triangles';
+
+        c4L.textContent = 'Symmetry Champion';
+        c4V.textContent = '4 Mirror + Order 4 Spin';
+        c4S.textContent = 'Matches at 90°, 180°, 270°, 360°';
+
+        caption.innerHTML = state.sqMode === 'allPowers'
+          ? `<strong>All 3 Diagonal Superpowers in One Shape:</strong> In a Square, the diagonals (1) <strong>bisect each other</strong> (from Parallelogram), (2) <strong>cross at 90° and split corners into 45°/45°</strong> (from Rhombus), and (3) <strong>have equal length</strong> (from Rectangle)!`
+          : state.sqMode === 'symmetry'
+          ? `<strong>Why a Square Has 4 Mirror Lines (Not Just 2):</strong> A Rectangle only folds along its 2 midlines; a Rhombus only folds along its 2 diagonals. Because a Square is BOTH, you can fold it along <strong>all 4 lines</strong> AND spin it by $90^\\circ, 180^\\circ, 270^\\circ, 360^\\circ$!`
+          : `<strong>The Quadrilateral Family Tree:</strong> Every Square is a special Rhombus (with $90^\\circ$ corners) AND a special Rectangle (with 4 equal sides). If a shape passes the Rhombus test AND the Rectangle test at the same time, it is <strong>guaranteed</strong> to be a Square!`;
+      }
+
+      // TAB 7: SHAPE DETECTIVE (NECESSITY VS SUFFICIENCY)
+      else if (state.tab === 7) {
+        badge.textContent = 'Module 7 of 7';
+        title.textContent = `Shape Detective Lab: Can You Prove the Mystery Shape Is a ${state.detTarget}?`;
+        subtitle.textContent = 'Toggle clues below the canvas to kick out impostor shapes and find a Sufficient ("Case-Closed") proof!';
+
+        document.querySelectorAll('.det-target-btn').forEach(btn => {
+          const t = btn.getAttribute('data-target');
+          btn.className = t === state.detTarget
+            ? 'det-target-btn px-3 py-1.5 rounded-xl text-xs font-bold bg-emerald-600 text-white shadow-sm'
+            : 'det-target-btn px-3 py-1.5 rounded-xl text-xs font-semibold bg-slate-100 text-slate-700 hover:bg-slate-200';
+        });
+
+        document.querySelectorAll('.clue-chip').forEach(btn => {
+          const k = btn.getAttribute('data-clue');
+          const active = state.clues[k];
+          btn.className = active
+            ? 'clue-chip px-2.5 py-1.5 rounded-xl text-xs font-bold border-2 border-blue-600 bg-blue-50 text-blue-800 shadow-sm'
+            : 'clue-chip px-2.5 py-1.5 rounded-xl text-xs font-semibold border border-slate-300 bg-white text-slate-700 hover:bg-slate-50';
+        });
+
+        const { survivors, impostorsAlive, status } = evaluateDetectiveClues();
+        const activeClueCount = Object.values(state.clues).filter(Boolean).length;
+
+        formula.textContent = `Target: ${state.detTarget} | Active Clues: ${activeClueCount}`;
+
+        c1L.textContent = 'Target Shape';
+        c1V.textContent = state.detTarget;
+        c1S.textContent = 'Shape we want to guarantee';
+
+        c2L.textContent = 'Surviving Suspects';
+        c2V.textContent = `${survivors.length} of 6 shapes`;
+        c2S.textContent = survivors.map(s => s.name.split(' ')[0]).join(', ');
+
+        c3L.textContent = 'Impostors Still Alive';
+        c3V.textContent = impostorsAlive.length === 0 ? '0 Impostors! ✓' : `${impostorsAlive.length} Impostor(s)! ⚠️`;
+        c3S.textContent = impostorsAlive.length === 0 ? 'All non-targets eliminated' : `Watch out for: ${impostorsAlive[0].name}`;
+
+        c4L.textContent = 'Necessity & Sufficiency';
+        if (status === 'SUFFICIENT_EXACT') {
+          c4V.textContent = 'CASE CLOSED! ✓';
+          c4S.textContent = 'Sufficient Guarantee Clue Set!';
+          caption.innerHTML = `<strong class="text-emerald-700">🎉 CASE CLOSED! (Necessary &amp; Sufficient Proof Found!):</strong> Your active clues eliminate every single impostor while keeping <strong>${state.detTarget}</strong>! No Kite, Trapezoid, or non-${state.detTarget} can fake this combination.`;
+        } else if (status === 'NOT_SUFFICIENT') {
+          c4V.textContent = 'NOT SUFFICIENT ⚠️';
+          c4S.textContent = `${impostorsAlive[0].name} snuck in!`;
+          caption.innerHTML = `<strong class="text-rose-700">🕵️ Impostor Alert (Necessary, But NOT Sufficient Yet!):</strong> Your clues are obeyed by a <strong>${state.detTarget}</strong>, so they are <em>Necessary ("Must-Have")</em> clues—<strong>BUT</strong> look at the canvas: <strong class="text-rose-700">${impostorsAlive.map(i => i.name).join(' and ')}</strong> ALSO obeys those exact same clues! Add another clue (like <em>"Diagonals Bisect Each Other"</em>) to kick the impostor out!`;
+        } else {
+          c4V.textContent = 'TOO STRICT! (Forced Square)';
+          c4S.textContent = `Excluded general ${state.detTarget}`;
+          caption.innerHTML = `<strong class="text-amber-700">⚡ Over-Specific Clues (Sufficient, But Too Strict!):</strong> Your clues are so strict that only a <strong>Square</strong> survived! While a Square <em>is</em> a special ${state.detTarget}, your clues aren't <em>Necessary</em> for every ${state.detTarget} because a non-square ${state.detTarget} got kicked out.`;
+        }
+      }
+    }
+
+    // =========================================================================
+    // MAIN CANVAS DISPATCHER & 7 MODULE SCENE RENDERERS
+    // =========================================================================
+    function renderCanvas() {
+      const canvas = document.getElementById('geoCanvas');
+      if (!canvas) return;
+      const ctx = canvas.getContext('2d');
+      const dpr = window.devicePixelRatio || 1;
+      const w = canvas.clientWidth || 800;
+      const h = canvas.clientHeight || 360;
+
+      if (canvas.width !== Math.floor(w * dpr) || canvas.height !== Math.floor(h * dpr)) {
+        canvas.width = Math.floor(w * dpr);
+        canvas.height = Math.floor(h * dpr);
+      }
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      ctx.clearRect(0, 0, w, h);
+
+      // Subtle coordinate grid
+      ctx.save();
+      ctx.strokeStyle = '#f1f5f9';
+      ctx.lineWidth = 1;
+      for (let x = 28; x < w; x += 28) {
+        ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, h); ctx.stroke();
+      }
+      for (let y = 28; y < h; y += 28) {
+        ctx.beginPath(); ctx.moveTo(0, y); ctx.lineTo(w, y); ctx.stroke();
+      }
+      ctx.restore();
+
+      if (state.tab === 1) renderTab1Lines(ctx, w, h);
+      else if (state.tab === 2) renderTab2Triangles(ctx, w, h);
+      else if (state.tab === 3) renderTab3Parallelogram(ctx, w, h);
+      else if (state.tab === 4) renderTab4Rhombus(ctx, w, h);
+      else if (state.tab === 5) renderTab5Rectangle(ctx, w, h);
+      else if (state.tab === 6) renderTab6Square(ctx, w, h);
+      else if (state.tab === 7) renderTab7Detective(ctx, w, h);
+    }
+
+    // -------------------------------------------------------------------------
+    // SCENE 1: LINES & ANGLES (Vertical Twins + Parallel Train Tracks)
+    // -------------------------------------------------------------------------
+    function renderTab1Lines(ctx, w, h) {
+      const deg = state.lineAngle;
+      const supp = 180 - deg;
+      const rad = (deg * Math.PI) / 180;
+
+      if (state.lineMode === 'vertical') {
+        const cx = w / 2;
+        const cy = h / 2;
+        const arm = Math.min(w * 0.36, h * 0.42);
+
+        // Draw colored angle wedges for the 4 vertical/supplementary sectors
+        const sectors = [
+          { start: -rad, end: 0, color: 'rgba(37, 99, 235, 0.22)', stroke: '#2563eb', label: `α = ${deg}°` },
+          { start: Math.PI - rad, end: Math.PI, color: 'rgba(37, 99, 235, 0.22)', stroke: '#2563eb', label: `α = ${deg}°` },
+          { start: -Math.PI, end: -rad, color: 'rgba(217, 119, 6, 0.20)', stroke: '#d97706', label: `β = ${supp}°` },
+          { start: 0, end: Math.PI - rad, color: 'rgba(217, 119, 6, 0.20)', stroke: '#d97706', label: `β = ${supp}°` }
+        ];
+
+        sectors.forEach(s => {
+          ctx.save();
+          ctx.beginPath();
+          ctx.moveTo(cx, cy);
+          ctx.arc(cx, cy, 56, s.start, s.end);
+          ctx.closePath();
+          ctx.fillStyle = s.color;
+          ctx.fill();
+          ctx.strokeStyle = s.stroke;
+          ctx.lineWidth = 2;
+          ctx.stroke();
+
+          const midA = (s.start + s.end) / 2;
+          const lx = cx + Math.cos(midA) * 88;
+          const ly = cy + Math.sin(midA) * 88;
+          drawBadge(ctx, s.label, lx, ly, '#ffffff', s.stroke, s.stroke);
+          ctx.restore();
+        });
+
+        if (deg === 90) {
+          drawRightAngleBox(ctx, cx, cy, 1, 0, 0, -1, 16, '#e11d48');
+        }
+
+        // Line 1 (Horizontal)
+        ctx.save();
+        ctx.strokeStyle = '#0f172a';
+        ctx.lineWidth = 3.5;
+        ctx.beginPath();
+        ctx.moveTo(cx - arm, cy);
+        ctx.lineTo(cx + arm, cy);
+        ctx.stroke();
+
+        // Line 2 (Rotated by -rad)
+        ctx.strokeStyle = '#2563eb';
+        ctx.beginPath();
+        ctx.moveTo(cx - Math.cos(rad) * arm, cy + Math.sin(rad) * arm);
+        ctx.lineTo(cx + Math.cos(rad) * arm, cy - Math.sin(rad) * arm);
+        ctx.stroke();
+
+        // Center Vertex Point
+        ctx.fillStyle = '#0f172a';
+        ctx.beginPath();
+        ctx.arc(cx, cy, 5, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.restore();
+
+        drawBadge(ctx, 'Criss-Cross Twins: Vertically Opposite Angles Are Always Equal!', cx, 24, '#eff6ff', '#1d4ed8', '#2563eb');
+      } else {
+        // Parallel Train Tracks & Transversal Ramp
+        const cx = w / 2;
+        const yTop = h * 0.30;
+        const yBot = h * 0.72;
+        const dy = yBot - yTop;
+        const dx = dy / Math.tan(rad);
+
+        const topX = cx + dx * 0.5;
+        const botX = cx - dx * 0.5;
+        const trackHalfW = Math.min(w * 0.42, 300);
+
+        // Draw Parallel Track 1 & Track 2
+        ctx.save();
+        ctx.strokeStyle = '#0f172a';
+        ctx.lineWidth = 3.5;
+        ctx.beginPath();
+        ctx.moveTo(cx - trackHalfW, yTop);
+        ctx.lineTo(cx + trackHalfW, yTop);
+        ctx.moveTo(cx - trackHalfW, yBot);
+        ctx.lineTo(cx + trackHalfW, yBot);
+        ctx.stroke();
+
+        // Parallel arrows on tracks
+        drawBadge(ctx, 'Parallel Track 1 (>>)', cx - trackHalfW + 72, yTop - 18, '#f1f5f9', '#334155', '#94a3b8');
+        drawBadge(ctx, 'Parallel Track 2 (>>)', cx - trackHalfW + 72, yBot - 18, '#f1f5f9', '#334155', '#94a3b8');
+
+        // Transversal Line
+        ctx.strokeStyle = '#4f46e5';
+        ctx.lineWidth = 3;
+        const ext = 55;
+        ctx.beginPath();
+        ctx.moveTo(topX + Math.cos(rad) * ext, yTop - Math.sin(rad) * ext);
+        ctx.lineTo(botX - Math.cos(rad) * ext, yBot + Math.sin(rad) * ext);
+        ctx.stroke();
+        ctx.restore();
+
+        // Draw fixed angle wedges at Top & Bottom intersections + Sliding Cluster!
+        const drawCluster = (ix, iy, alphaVal) => {
+          ctx.save();
+          ctx.globalAlpha = alphaVal;
+          // Acute/Angle α (top-right and bottom-left)
+          ctx.fillStyle = 'rgba(37, 99, 235, 0.25)';
+          ctx.strokeStyle = '#2563eb';
+          ctx.lineWidth = 2;
+          ctx.beginPath(); ctx.moveTo(ix, iy); ctx.arc(ix, iy, 38, -rad, 0); ctx.closePath(); ctx.fill(); ctx.stroke();
+          ctx.beginPath(); ctx.moveTo(ix, iy); ctx.arc(ix, iy, 38, Math.PI - rad, Math.PI); ctx.closePath(); ctx.fill(); ctx.stroke();
+
+          // Supplement β (top-left and bottom-right)
+          ctx.fillStyle = 'rgba(217, 119, 6, 0.22)';
+          ctx.strokeStyle = '#d97706';
+          ctx.beginPath(); ctx.moveTo(ix, iy); ctx.arc(ix, iy, 38, -Math.PI, -rad); ctx.closePath(); ctx.fill(); ctx.stroke();
+          ctx.beginPath(); ctx.moveTo(ix, iy); ctx.arc(ix, iy, 38, 0, Math.PI - rad); ctx.closePath(); ctx.fill(); ctx.stroke();
+          ctx.restore();
+        };
+
+        drawCluster(topX, yTop, 0.85);
+        drawCluster(botX, yBot, 0.45);
+
+        // Sliding Ghost Cluster from Top to Bottom
+        const p = state.lineSlide / 100;
+        const slideX = lerp(topX, botX, p);
+        const slideY = lerp(yTop, yBot, p);
+        drawCluster(slideX, slideY, 1.0);
+
+        drawBadge(ctx, `α = ${deg}°`, topX + 54, yTop - 18, '#eff6ff', '#1d4ed8', '#2563eb');
+        drawBadge(ctx, `Alternate Interior Z-Angle = ${deg}°`, botX - 88, yBot - 18, '#eff6ff', '#1d4ed8', '#2563eb');
+        drawBadge(ctx, `Corresponding Angle = ${deg}°`, botX + 78, yBot - 18, '#ecfdf5', '#047857', '#059669');
+      }
+    }
+
+    // -------------------------------------------------------------------------
+    // SCENE 2: TRIANGLES LAB (180° Proof, Types, Twins vs. Photo-Copies)
+    // -------------------------------------------------------------------------
+    function renderTab2Triangles(ctx, w, h) {
+      if (state.triMode === 'proof180') {
+        const cx = w / 2;
+        const yBot = h * 0.78;
+        const yTop = h * 0.26;
+        const baseHalf = Math.min(w * 0.30, 180);
+
+        const Ax = cx - baseHalf, Ay = yBot;
+        const Bx = cx + baseHalf, By = yBot;
+        const Cx = cx + state.triPeakOffset, Cy = yTop;
+
+        // Angles
+        const angA = Math.atan2(Ay - Cy, Cx - Ax); // radians
+        const angB = Math.atan2(By - Cy, Bx - Cx);
+        const degA = Math.round((angA * 180) / Math.PI);
+        const degB = Math.round((angB * 180) / Math.PI);
+        const degC = 180 - degA - degB;
+
+        // Parallel Line through Top Peak C
+        ctx.save();
+        ctx.setLineDash([6, 4]);
+        ctx.strokeStyle = '#059669';
+        ctx.lineWidth = 2.5;
+        ctx.beginPath();
+        ctx.moveTo(Cx - baseHalf - 40, Cy);
+        ctx.lineTo(Cx + baseHalf + 40, Cy);
+        ctx.stroke();
+        ctx.restore();
+
+        drawBadge(ctx, 'Line Parallel to Base (Straight Angle = 180°)', Cx, Cy - 22, '#ecfdf5', '#047857', '#059669');
+
+        // Triangle Body
+        ctx.save();
+        ctx.fillStyle = 'rgba(37, 99, 235, 0.08)';
+        ctx.strokeStyle = '#0f172a';
+        ctx.lineWidth = 3;
+        ctx.beginPath();
+        ctx.moveTo(Ax, Ay);
+        ctx.lineTo(Bx, By);
+        ctx.lineTo(Cx, Cy);
+        ctx.closePath();
+        ctx.fill();
+        ctx.stroke();
+        ctx.restore();
+
+        const rWedge = 42;
+        // Top green angle C inside triangle (from angA to PI - angB)
+        ctx.save();
+        ctx.fillStyle = 'rgba(5, 150, 105, 0.28)';
+        ctx.strokeStyle = '#059669';
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        ctx.moveTo(Cx, Cy);
+        ctx.arc(Cx, Cy, rWedge, angB, Math.PI - angA);
+        ctx.closePath();
+        ctx.fill();
+        ctx.stroke();
+        ctx.restore();
+
+        // Sliding Bottom-Left Angle A (Blue) & Bottom-Right Angle B (Orange)
+        const p = state.triFold / 100;
+        // At p=0, wedge A is at (Ax, Ay) from -angA to 0.
+        // At p=1, wedge A slides up AC and flips as alternate interior angle at (Cx, Cy) from PI - angA to PI!
+        const curAx = lerp(Ax, Cx, p);
+        const curAy = lerp(Ay, Cy, p);
+        ctx.save();
+        ctx.translate(curAx, curAy);
+        ctx.rotate(p * Math.PI); // Rotates 180° into alternate interior position!
+        ctx.fillStyle = 'rgba(37, 99, 235, 0.30)';
+        ctx.strokeStyle = '#2563eb';
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        ctx.moveTo(0, 0);
+        ctx.arc(0, 0, rWedge, -angA, 0);
+        ctx.closePath();
+        ctx.fill();
+        ctx.stroke();
+        ctx.restore();
+
+        // Bottom-Right Angle B (Orange)
+        const curBx = lerp(Bx, Cx, p);
+        const curBy = lerp(By, Cy, p);
+        ctx.save();
+        ctx.translate(curBx, curBy);
+        ctx.rotate(-p * Math.PI);
+        ctx.fillStyle = 'rgba(217, 119, 6, 0.30)';
+        ctx.strokeStyle = '#d97706';
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        ctx.moveTo(0, 0);
+        ctx.arc(0, 0, rWedge, -Math.PI, -Math.PI + angB);
+        ctx.closePath();
+        ctx.fill();
+        ctx.stroke();
+        ctx.restore();
+
+        drawBadge(ctx, `∠A = ${degA}°`, Ax + 48, Ay - 16, '#eff6ff', '#1d4ed8', '#2563eb');
+        drawBadge(ctx, `∠B = ${degB}°`, Bx - 48, By - 16, '#fffbeb', '#b45309', '#d97706');
+        drawBadge(ctx, `${degA}° + ${degC}° + ${degB}° = 180°!`, Cx, Cy + 58, '#ffffff', '#0f172a', '#64748b');
+
+      } else if (state.triMode === 'types') {
+        const cx = w / 2;
+        const yBot = h * 0.78;
+        let Ax, Ay, Bx, By, Cx, Cy;
+
+        if (state.triType === 'equilateral') {
+          const side = Math.min(w * 0.42, 210);
+          const ht = side * (Math.sqrt(3) / 2);
+          Ax = cx - side / 2; Ay = yBot;
+          Bx = cx + side / 2; By = yBot;
+          Cx = cx; Cy = yBot - ht;
+        } else if (state.triType === 'isosceles') {
+          const base = 160;
+          const ht = 195;
+          Ax = cx - base / 2; Ay = yBot;
+          Bx = cx + base / 2; By = yBot;
+          Cx = cx; Cy = yBot - ht;
+        } else {
+          Ax = cx - 140; Ay = yBot;
+          Bx = cx + 125; By = yBot;
+          Cx = cx - 55; Cy = yBot - 175;
+        }
+
+        ctx.save();
+        ctx.fillStyle = 'rgba(37, 99, 235, 0.12)';
+        ctx.strokeStyle = '#1d4ed8';
+        ctx.lineWidth = 3;
+        ctx.beginPath();
+        ctx.moveTo(Ax, Ay); ctx.lineTo(Bx, By); ctx.lineTo(Cx, Cy); ctx.closePath();
+        ctx.fill(); ctx.stroke();
+        ctx.restore();
+
+        // Tick marks & symmetry lines
+        if (state.triType === 'equilateral') {
+          drawTickMarks(ctx, Ax, Ay, Bx, By, 1, '#059669');
+          drawTickMarks(ctx, Bx, By, Cx, Cy, 1, '#059669');
+          drawTickMarks(ctx, Cx, Cy, Ax, Ay, 1, '#059669');
+          drawBadge(ctx, '60°', Ax + 34, Ay - 18, '#ecfdf5', '#047857');
+          drawBadge(ctx, '60°', Bx - 34, By - 18, '#ecfdf5', '#047857');
+          drawBadge(ctx, '60°', Cx, Cy + 36, '#ecfdf5', '#047857');
+
+          if (state.triShowSym) {
+            ctx.save();
+            ctx.setLineDash([5, 4]);
+            ctx.strokeStyle = '#e11d48';
+            ctx.lineWidth = 1.8;
+            // 3 lines of symmetry
+            ctx.beginPath();
+            ctx.moveTo(Cx, Cy); ctx.lineTo((Ax + Bx) / 2, (Ay + By) / 2);
+            ctx.moveTo(Ax, Ay); ctx.lineTo((Bx + Cx) / 2, (By + Cy) / 2);
+            ctx.moveTo(Bx, By); ctx.lineTo((Ax + Cx) / 2, (Ay + Cy) / 2);
+            ctx.stroke();
+            ctx.restore();
+            drawRightAngleBox(ctx, cx, yBot, 1, 0, 0, -1, 12, '#e11d48');
+          }
+        } else if (state.triType === 'isosceles') {
+          drawTickMarks(ctx, Ax, Ay, Cx, Cy, 2, '#2563eb');
+          drawTickMarks(ctx, Bx, By, Cx, Cy, 2, '#2563eb');
+          drawBadge(ctx, '68° (Equal Base Angle)', Ax - 35, Ay - 16, '#eff6ff', '#1d4ed8');
+          drawBadge(ctx, '68° (Equal Base Angle)', Bx + 35, By - 16, '#eff6ff', '#1d4ed8');
+          drawBadge(ctx, '44°', Cx, Cy + 38, '#fffbeb', '#b45309');
+
+          if (state.triShowSym) {
+            ctx.save();
+            ctx.setLineDash([5, 4]);
+            ctx.strokeStyle = '#e11d48';
+            ctx.lineWidth = 2;
+            ctx.beginPath();
+            ctx.moveTo(Cx, Cy - 15);
+            ctx.lineTo(cx, yBot + 15);
+            ctx.stroke();
+            ctx.restore();
+            drawRightAngleBox(ctx, cx, yBot, 1, 0, 0, -1, 13, '#e11d48');
+            drawTickMarks(ctx, Ax, Ay, cx, yBot, 1, '#059669');
+            drawTickMarks(ctx, cx, yBot, Bx, By, 1, '#059669');
+          }
+        } else {
+          drawTickMarks(ctx, Ax, Ay, Bx, By, 1, '#64748b');
+          drawTickMarks(ctx, Bx, By, Cx, Cy, 2, '#d97706');
+          drawTickMarks(ctx, Cx, Cy, Ax, Ay, 3, '#e11d48');
+          drawBadge(ctx, 'Scalene: All 3 Sides & Angles Different (0 Mirror Lines)', cx, 26, '#f1f5f9', '#334155');
+        }
+      } else {
+        // Congruence vs. Similarity (3-4-5 Right Triangle)
+        const baseScale = 22;
+        const k = state.triScale;
+        const yBot = h * 0.78;
+
+        // Left Original Triangle (3, 4, 5)
+        const x1 = w * 0.16;
+        const w1 = 4 * baseScale;
+        const h1 = 3 * baseScale;
+
+        ctx.save();
+        ctx.fillStyle = 'rgba(37, 99, 235, 0.16)';
+        ctx.strokeStyle = '#2563eb';
+        ctx.lineWidth = 3;
+        ctx.beginPath();
+        ctx.moveTo(x1, yBot);
+        ctx.lineTo(x1 + w1, yBot);
+        ctx.lineTo(x1, yBot - h1);
+        ctx.closePath();
+        ctx.fill(); ctx.stroke();
+        drawRightAngleBox(ctx, x1, yBot, 1, 0, 0, -1, 11, '#2563eb');
+        ctx.restore();
+
+        drawBadge(ctx, 'Original: 3 cm, 4 cm, 5 cm', x1 + w1 / 2, yBot + 26, '#eff6ff', '#1d4ed8', '#2563eb');
+
+        // Right Scaled Triangle
+        const x2 = w * 0.52;
+        const w2 = 4 * baseScale * k;
+        const h2 = 3 * baseScale * k;
+
+        ctx.save();
+        ctx.fillStyle = k === 1 ? 'rgba(5, 150, 105, 0.20)' : 'rgba(124, 58, 237, 0.16)';
+        ctx.strokeStyle = k === 1 ? '#059669' : '#7c3aed';
+        ctx.lineWidth = 3;
+        ctx.beginPath();
+        ctx.moveTo(x2, yBot);
+        ctx.lineTo(x2 + w2, yBot);
+        ctx.lineTo(x2, yBot - h2);
+        ctx.closePath();
+        ctx.fill(); ctx.stroke();
+        drawRightAngleBox(ctx, x2, yBot, 1, 0, 0, -1, 13, k === 1 ? '#059669' : '#7c3aed');
+        ctx.restore();
+
+        const label2 = k === 1
+          ? 'Congruent Twin (1.0x): 3, 4, 5 cm'
+          : `Similar Photo-Copy (${k}x): ${(3*k).toFixed(1)}, ${(4*k).toFixed(1)}, ${(5*k).toFixed(1)} cm`;
+        drawBadge(ctx, label2, x2 + w2 / 2, yBot + 26, '#f3e8ff', '#6d28d9', '#7c3aed');
+      }
+    }
+
+    // -------------------------------------------------------------------------
+    // SCENE 3: PARALLELOGRAM LAB
+    // -------------------------------------------------------------------------
+    function renderTab3Parallelogram(ctx, w, h) {
+      const ang = state.paraAngle;
+      const rad = (ang * Math.PI) / 180;
+      const scale = 25;
+      const bPx = state.paraBase * scale;
+      const sPx = state.paraSide * scale;
+
+      const skewX = sPx * Math.cos(rad);
+      const hPx = sPx * Math.sin(rad);
+
+      const cx = w / 2;
+      const cy = h / 2 + 6;
+
+      // 4 Vertices: A (bottom-left), B (bottom-right), C (top-right), D (top-left)
+      const Ax = cx - (bPx + skewX) / 2, Ay = cy + hPx / 2;
+      const Bx = Ax + bPx, By = Ay;
+      const Cx = Bx + skewX, Cy = Ay - hPx;
+      const Dx = Ax + skewX, Dy = Cy;
+      const Mx = (Ax + Cx) / 2, My = (Ay + Cy) / 2;
+
+      // Base Parallelogram
+      ctx.save();
+      ctx.fillStyle = 'rgba(37, 99, 235, 0.12)';
+      ctx.strokeStyle = '#1d4ed8';
+      ctx.lineWidth = 3;
+      ctx.beginPath();
+      ctx.moveTo(Ax, Ay); ctx.lineTo(Bx, By); ctx.lineTo(Cx, Cy); ctx.lineTo(Dx, Dy);
+      ctx.closePath();
+      ctx.fill(); ctx.stroke();
+      ctx.restore();
+
+      // Tick marks on opposite equal sides
+      drawTickMarks(ctx, Ax, Ay, Bx, By, 1, '#1d4ed8');
+      drawTickMarks(ctx, Dx, Dy, Cx, Cy, 1, '#1d4ed8');
+      drawTickMarks(ctx, Ax, Ay, Dx, Dy, 2, '#7c3aed');
+      drawTickMarks(ctx, Bx, By, Cx, Cy, 2, '#7c3aed');
+
+      if (state.paraMode === 'diagonals') {
+        // Draw Diagonal AC (Blue) and BD (Emerald)
+        ctx.save();
+        ctx.lineWidth = 2.8;
+        ctx.strokeStyle = '#2563eb';
+        ctx.beginPath(); ctx.moveTo(Ax, Ay); ctx.lineTo(Cx, Cy); ctx.stroke();
+
+        ctx.strokeStyle = '#059669';
+        ctx.beginPath(); ctx.moveTo(Bx, By); ctx.lineTo(Dx, Dy); ctx.stroke();
+        ctx.restore();
+
+        // Tick marks on bisected diagonal halves!
+        drawTickMarks(ctx, Ax, Ay, Mx, My, 1, '#2563eb');
+        drawTickMarks(ctx, Mx, My, Cx, Cy, 1, '#2563eb');
+        drawTickMarks(ctx, Bx, By, Mx, My, 2, '#059669');
+        drawTickMarks(ctx, Mx, My, Dx, Dy, 2, '#059669');
+
+        // Midpoint M
+        ctx.beginPath();
+        ctx.fillStyle = '#e11d48';
+        ctx.arc(Mx, My, 5.5, 0, Math.PI * 2);
+        ctx.fill();
+
+        drawBadge(ctx, 'Midpoint M (Cuts Both Diagonals in Half!)', Mx, My - 24, '#ffe4e6', '#be123c', '#e11d48');
+
+      } else if (state.paraMode === 'split360') {
+        // Diagonal AC splitting into 2 triangles, rotating top triangle ADC by 180° around M
+        ctx.save();
+        ctx.strokeStyle = '#e11d48';
+        ctx.lineWidth = 2.5;
+        ctx.setLineDash([5, 4]);
+        ctx.beginPath(); ctx.moveTo(Ax, Ay); ctx.lineTo(Cx, Cy); ctx.stroke();
+        ctx.restore();
+
+        const p = state.paraSpin / 100;
+        ctx.save();
+        ctx.translate(Mx, My);
+        ctx.rotate(p * Math.PI);
+        ctx.translate(-Mx, -My);
+
+        ctx.fillStyle = 'rgba(5, 150, 105, 0.28)';
+        ctx.strokeStyle = '#059669';
+        ctx.lineWidth = 3;
+        ctx.beginPath();
+        ctx.moveTo(Ax, Ay); ctx.lineTo(Cx, Cy); ctx.lineTo(Dx, Dy);
+        ctx.closePath();
+        ctx.fill(); ctx.stroke();
+        ctx.restore();
+
+        drawBadge(ctx, '2 Congruent Triangles × 180° = 360° Total!', cx, 24, '#ecfdf5', '#047857', '#059669');
+      } else {
+        drawBadge(ctx, `∠A = ${ang}°`, Ax + 28, Ay - 16, '#eff6ff', '#1d4ed8');
+        drawBadge(ctx, `∠C = ${ang}°`, Cx - 28, Cy + 18, '#eff6ff', '#1d4ed8');
+        drawBadge(ctx, `∠B = ${180 - ang}°`, Bx - 32, By - 16, '#fffbeb', '#b45309');
+        drawBadge(ctx, `∠D = ${180 - ang}°`, Dx + 32, Dy + 18, '#fffbeb', '#b45309');
+      }
+    }
+
+    // -------------------------------------------------------------------------
+    // SCENE 4: RHOMBUS LAB (Perpendicular 90° Diagonals & Kite Trap)
+    // -------------------------------------------------------------------------
+    function renderTab4Rhombus(ctx, w, h) {
+      const ang = state.rhomAngle;
+      const rad = (ang * Math.PI) / 180;
+      const sPx = state.rhomSide * 24;
+
+      const d1Half = sPx * Math.cos(rad / 2);
+      const d2Half = sPx * Math.sin(rad / 2);
+
+      const isTrap = state.rhomMode === 'kiteTrap';
+      const cx = isTrap ? w * 0.28 : w / 2;
+      const cy = h / 2 + 4;
+
+      // Rhombus vertices in diamond orientation: Left(A), Bottom(B), Right(C), Top(D)
+      const Lx = cx - d1Half, Ly = cy;
+      const Rx = cx + d1Half, Ry = cy;
+      const Tx = cx, Ty = cy - d2Half;
+      const Bx = cx, By = cy + d2Half;
+
+      // Draw Rhombus
+      ctx.save();
+      ctx.fillStyle = 'rgba(79, 70, 229, 0.12)';
+      ctx.strokeStyle = '#4338ca';
+      ctx.lineWidth = 3;
+      ctx.beginPath();
+      ctx.moveTo(Lx, Ly); ctx.lineTo(Tx, Ty); ctx.lineTo(Rx, Ry); ctx.lineTo(Bx, By);
+      ctx.closePath();
+      ctx.fill(); ctx.stroke();
+      ctx.restore();
+
+      // 4 Equal Side Tick Marks
+      drawTickMarks(ctx, Lx, Ly, Tx, Ty, 1, '#4338ca');
+      drawTickMarks(ctx, Tx, Ty, Rx, Ry, 1, '#4338ca');
+      drawTickMarks(ctx, Rx, Ry, Bx, By, 1, '#4338ca');
+      drawTickMarks(ctx, Bx, By, Lx, Ly, 1, '#4338ca');
+
+      // Diagonals
+      ctx.save();
+      ctx.lineWidth = 2.5;
+      ctx.strokeStyle = '#2563eb';
+      ctx.beginPath(); ctx.moveTo(Lx, Ly); ctx.lineTo(Rx, Ry); ctx.stroke();
+      ctx.strokeStyle = '#059669';
+      ctx.beginPath(); ctx.moveTo(Tx, Ty); ctx.lineTo(Bx, By); ctx.stroke();
+      ctx.restore();
+
+      // 90° Right-Angle Box at Center Intersection!
+      drawRightAngleBox(ctx, cx, cy, 1, 0, 0, -1, 14, '#e11d48');
+
+      // Origami Fold Overlay (Folds Top Triangle LTR down onto Bottom Triangle LBR)
+      if (state.rhomFold > 0) {
+        const p = state.rhomFold / 100;
+        const foldY = lerp(Ty, By, p);
+        ctx.save();
+        ctx.fillStyle = 'rgba(5, 150, 105, 0.30)';
+        ctx.strokeStyle = '#059669';
+        ctx.lineWidth = 3;
+        ctx.setLineDash([5, 3]);
+        ctx.beginPath();
+        ctx.moveTo(Lx, Ly);
+        ctx.lineTo(cx, foldY);
+        ctx.lineTo(Rx, Ry);
+        ctx.closePath();
+        ctx.fill(); ctx.stroke();
+        ctx.restore();
+      }
+
+      if (!isTrap) {
+        drawBadge(ctx, 'Diagonals Cross at 90° AND Bisect Each Other!', cx, 22, '#eef2ff', '#3730a3', '#4f46e5');
+        drawBadge(ctx, `${(ang/2).toFixed(0)}° / ${(ang/2).toFixed(0)}°`, Lx + 42, Ly - 18, '#eff6ff', '#1d4ed8');
+      } else {
+        drawBadge(ctx, '✓ RHOMBUS: 90° + Bisected', cx, 22, '#ecfdf5', '#047857', '#059669');
+
+        // Draw KITE Impostor on the Right Side!
+        const kcx = w * 0.74;
+        const kcy = cy - 18;
+        const kLeft = kcx - 75, kRight = kcx + 75;
+        const kTop = kcy - 42, kBot = kcy + 115; // Uneven vertical diagonal!
+
+        ctx.save();
+        ctx.fillStyle = 'rgba(225, 29, 72, 0.12)';
+        ctx.strokeStyle = '#e11d48';
+        ctx.lineWidth = 3;
+        ctx.beginPath();
+        ctx.moveTo(kLeft, kcy); ctx.lineTo(kcx, kTop); ctx.lineTo(kRight, kcy); ctx.lineTo(kcx, kBot);
+        ctx.closePath();
+        ctx.fill(); ctx.stroke();
+
+        // Kite diagonals
+        ctx.lineWidth = 2.2;
+        ctx.beginPath();
+        ctx.moveTo(kLeft, kcy); ctx.lineTo(kRight, kcy);
+        ctx.moveTo(kcx, kTop); ctx.lineTo(kcx, kBot);
+        ctx.stroke();
+        ctx.restore();
+
+        drawRightAngleBox(ctx, kcx, kcy, 1, 0, 0, -1, 14, '#e11d48');
+        drawTickMarks(ctx, kLeft, kcy, kcx, kTop, 1, '#e11d48');
+        drawTickMarks(ctx, kRight, kcy, kcx, kTop, 1, '#e11d48');
+        drawTickMarks(ctx, kLeft, kcy, kcx, kBot, 2, '#be123c');
+        drawTickMarks(ctx, kRight, kcy, kcx, kBot, 2, '#be123c');
+
+        drawBadge(ctx, '⚠️ KITE IMPOSTOR: Also 90°, But Long Diagonal NOT Bisected!', kcx, 22, '#ffe4e6', '#be123c', '#e11d48');
+      }
+    }
+
+    // -------------------------------------------------------------------------
+    // SCENE 5: RECTANGLE LAB (Equal Diagonals & Circumcircle Secret)
+    // -------------------------------------------------------------------------
+    function renderTab5Rectangle(ctx, w, h) {
+      const scale = 25;
+      const lPx = state.recL * scale;
+      const wPx = state.recW * scale;
+
+      const isTrap = state.recMode === 'trapTrap';
+      const sep = (state.recSep / 100) * 65;
+      const cx = isTrap ? w * 0.28 : w / 2;
+      const cy = h / 2;
+
+      const leftX = cx - lPx / 2, rightX = cx + lPx / 2;
+      const topY = cy - wPx / 2, botY = cy + wPx / 2;
+
+      // Circumcircle Secret Mode
+      if (state.recMode === 'circle') {
+        const radiusPx = Math.hypot(lPx / 2, wPx / 2);
+        ctx.save();
+        ctx.fillStyle = 'rgba(16, 185, 129, 0.08)';
+        ctx.strokeStyle = '#059669';
+        ctx.lineWidth = 2.5;
+        ctx.setLineDash([6, 4]);
+        ctx.beginPath();
+        ctx.arc(cx, cy, radiusPx, 0, Math.PI * 2);
+        ctx.fill(); ctx.stroke();
+        ctx.restore();
+        drawBadge(ctx, 'All 4 Corners Touch the Circle Because All 4 Half-Diagonals Are Equal!', cx, 22, '#ecfdf5', '#047857', '#059669');
+      }
+
+      // Base Rectangle
+      ctx.save();
+      ctx.fillStyle = 'rgba(37, 99, 235, 0.10)';
+      ctx.strokeStyle = '#1e293b';
+      ctx.lineWidth = 3;
+      ctx.strokeRect(leftX, topY, lPx, wPx);
+      ctx.restore();
+
+      // 4 Right Angle Corners
+      drawRightAngleBox(ctx, leftX, botY, 1, 0, 0, -1, 12, '#64748b');
+      drawRightAngleBox(ctx, rightX, botY, -1, 0, 0, -1, 12, '#64748b');
+      drawRightAngleBox(ctx, leftX, topY, 1, 0, 0, 1, 12, '#64748b');
+      drawRightAngleBox(ctx, rightX, topY, -1, 0, 0, 1, 12, '#64748b');
+
+      // Pull-out Overlapping Right Triangles (ABC shifted left by sep, DCB shifted right by sep)
+      // Left Triangle: (leftX, topY) -> (leftX, botY) -> (rightX, botY)
+      ctx.save();
+      ctx.translate(-sep, 0);
+      ctx.fillStyle = 'rgba(37, 99, 235, 0.22)';
+      ctx.strokeStyle = '#2563eb';
+      ctx.lineWidth = 3;
+      ctx.beginPath();
+      ctx.moveTo(leftX, topY); ctx.lineTo(leftX, botY); ctx.lineTo(rightX, botY);
+      ctx.closePath();
+      ctx.fill(); ctx.stroke();
+      drawRightAngleBox(ctx, leftX, botY, 1, 0, 0, -1, 14, '#2563eb');
+      ctx.restore();
+
+      // Right Triangle: (rightX, topY) -> (rightX, botY) -> (leftX, botY)
+      ctx.save();
+      ctx.translate(sep, 0);
+      ctx.fillStyle = 'rgba(5, 150, 105, 0.22)';
+      ctx.strokeStyle = '#059669';
+      ctx.lineWidth = 3;
+      ctx.beginPath();
+      ctx.moveTo(rightX, topY); ctx.lineTo(rightX, botY); ctx.lineTo(leftX, botY);
+      ctx.closePath();
+      ctx.fill(); ctx.stroke();
+      drawRightAngleBox(ctx, rightX, botY, -1, 0, 0, -1, 14, '#059669');
+      ctx.restore();
+
+      if (isTrap) {
+        drawBadge(ctx, '✓ RECTANGLE: Equal + Bisected', cx, 22, '#ecfdf5', '#047857', '#059669');
+        // Draw Isosceles Trapezoid Impostor on the Right!
+        const tcx = w * 0.74;
+        const tTopW = 90, tBotW = 180, tH = 120;
+        const tTopY = cy - tH / 2, tBotY = cy + tH / 2;
+
+        ctx.save();
+        ctx.fillStyle = 'rgba(217, 119, 6, 0.14)';
+        ctx.strokeStyle = '#d97706';
+        ctx.lineWidth = 3;
+        ctx.beginPath();
+        ctx.moveTo(tcx - tTopW / 2, tTopY);
+        ctx.lineTo(tcx + tTopW / 2, tTopY);
+        ctx.lineTo(tcx + tBotW / 2, tBotY);
+        ctx.lineTo(tcx - tBotW / 2, tBotY);
+        ctx.closePath();
+        ctx.fill(); ctx.stroke();
+
+        // Equal Diagonals that do NOT bisect each other
+        ctx.strokeStyle = '#e11d48';
+        ctx.lineWidth = 2.5;
+        ctx.beginPath();
+        ctx.moveTo(tcx - tTopW / 2, tTopY); ctx.lineTo(tcx + tBotW / 2, tBotY);
+        ctx.moveTo(tcx + tTopW / 2, tTopY); ctx.lineTo(tcx - tBotW / 2, tBotY);
+        ctx.stroke();
+        ctx.restore();
+
+        drawBadge(ctx, '⚠️ ISOSCELES TRAPEZOID: Equal Diagonals, Not Bisected!', tcx, 22, '#fffbeb', '#b45309', '#d97706');
+      }
+    }
+
+    // -------------------------------------------------------------------------
+    // SCENE 6: SQUARE LAB (All Powers + 4 Mirror Lines + Rotational Symmetry)
+    // -------------------------------------------------------------------------
+    function renderTab6Square(ctx, w, h) {
+      const cx = w / 2;
+      const cy = h / 2 + 6;
+      const side = Math.min(w, h) * 0.52;
+      const half = side / 2;
+      const rotRad = (state.sqRot * Math.PI) / 180;
+
+      // Ghost unrotated square
+      ctx.save();
+      ctx.setLineDash([4, 4]);
+      ctx.strokeStyle = '#cbd5e1';
+      ctx.lineWidth = 2;
+      ctx.strokeRect(cx - half, cy - half, side, side);
+      ctx.restore();
+
+      ctx.save();
+      ctx.translate(cx, cy);
+      ctx.rotate(rotRad);
+
+      // Square Body
+      ctx.fillStyle = 'rgba(5, 150, 105, 0.15)';
+      ctx.strokeStyle = '#059669';
+      ctx.lineWidth = 3.5;
+      ctx.beginPath();
+      ctx.rect(-half, -half, side, side);
+      ctx.fill();
+      ctx.stroke();
+
+      // 4 Right-Angle Corners
+      drawRightAngleBox(ctx, -half, half, 1, 0, 0, -1, 13, '#059669');
+      drawRightAngleBox(ctx, half, half, -1, 0, 0, -1, 13, '#059669');
+      drawRightAngleBox(ctx, -half, -half, 1, 0, 0, 1, 13, '#059669');
+      drawRightAngleBox(ctx, half, -half, -1, 0, 0, 1, 13, '#059669');
+
+      // Diagonals
+      ctx.strokeStyle = '#2563eb';
+      ctx.lineWidth = 2.5;
+      ctx.beginPath();
+      ctx.moveTo(-half, -half); ctx.lineTo(half, half);
+      ctx.moveTo(half, -half); ctx.lineTo(-half, half);
+      ctx.stroke();
+
+      // Center 90° Box
+      const s2 = Math.SQRT1_2;
+      drawRightAngleBox(ctx, 0, 0, s2, -s2, s2, s2, 14, '#e11d48');
+
+      // 4 Equal Half-Diagonal Tick Marks
+      drawTickMarks(ctx, -half, -half, 0, 0, 2, '#2563eb');
+      drawTickMarks(ctx, 0, 0, half, half, 2, '#2563eb');
+      drawTickMarks(ctx, half, -half, 0, 0, 2, '#2563eb');
+      drawTickMarks(ctx, 0, 0, -half, half, 2, '#2563eb');
+
+      // Symmetry Mirror Lines Overlay
+      if (state.sqMode === 'symmetry') {
+        ctx.save();
+        ctx.setLineDash([6, 4]);
+        ctx.strokeStyle = '#e11d48';
+        ctx.lineWidth = 2.5;
+        const ext = half + 32;
+        ctx.beginPath();
+        if (state.sqSymAxis === 'ALL' || state.sqSymAxis === 'V') {
+          ctx.moveTo(0, -ext); ctx.lineTo(0, ext);
+        }
+        if (state.sqSymAxis === 'ALL' || state.sqSymAxis === 'H') {
+          ctx.moveTo(-ext, 0); ctx.lineTo(ext, 0);
+        }
+        if (state.sqSymAxis === 'ALL' || state.sqSymAxis === 'D1') {
+          ctx.moveTo(-ext, -ext); ctx.lineTo(ext, ext);
+        }
+        if (state.sqSymAxis === 'ALL' || state.sqSymAxis === 'D2') {
+          ctx.moveTo(ext, -ext); ctx.lineTo(-ext, ext);
+        }
+        ctx.stroke();
+        ctx.restore();
+      }
+
+      ctx.restore();
+
+      drawBadge(ctx, 'Square = Rhombus (90° Diagonals) + Rectangle (Equal Diagonals)!', cx, 22, '#ecfdf5', '#047857', '#059669');
+    }
+
+    // -------------------------------------------------------------------------
+    // SCENE 7: SHAPE DETECTIVE (NECESSITY VS SUFFICIENCY LINEUP)
+    // -------------------------------------------------------------------------
+    function renderTab7Detective(ctx, w, h) {
+      const { survivors, impostorsAlive, status } = evaluateDetectiveClues();
+
+      // Top Status Banner on Canvas
+      const bannerColor = status === 'SUFFICIENT_EXACT' ? '#059669' : status === 'NOT_SUFFICIENT' ? '#e11d48' : '#d97706';
+      const bannerBg = status === 'SUFFICIENT_EXACT' ? '#ecfdf5' : status === 'NOT_SUFFICIENT' ? '#ffe4e6' : '#fffbeb';
+      const bannerMsg = status === 'SUFFICIENT_EXACT'
+        ? `✓ CASE CLOSED! Clues Are Necessary & Sufficient to Prove a ${state.detTarget}!`
+        : status === 'NOT_SUFFICIENT'
+        ? `⚠️ IMPOSTOR ALERT! Clues Are NOT Sufficient Yet — ${impostorsAlive[0].name} Also Fits!`
+        : `⚡ Clues Are Too Strict — You Forced a Square Instead of Any ${state.detTarget}!`;
+
+      drawBadge(ctx, bannerMsg, w / 2, 24, bannerBg, bannerColor, bannerColor);
+
+      // Draw the 6 Suspect Cards across the Canvas
+      const cols = 3;
+      const rows = 2;
+      const padX = 20;
+      const topY = 48;
+      const cellW = (w - padX * 2 - 24) / cols;
+      const cellH = (h - topY - 16 - 12) / rows;
+
+      SUSPECT_SHAPES.forEach((s, idx) => {
+        const col = idx % cols;
+        const row = Math.floor(idx / cols);
+        const x = padX + col * (cellW + 12);
+        const y = topY + row * (cellH + 12);
+        const alive = survivors.includes(s);
+        const isTarget = s.name === state.detTarget;
+
+        ctx.save();
+        ctx.globalAlpha = alive ? 1.0 : 0.25;
+        ctx.fillStyle = !alive ? '#f8fafc' : s.isImpostor ? '#fff1f2' : isTarget ? '#ecfdf5' : '#eff6ff';
+        ctx.strokeStyle = !alive ? '#cbd5e1' : s.isImpostor ? '#e11d48' : isTarget ? '#059669' : '#2563eb';
+        ctx.lineWidth = alive ? 2.5 : 1.5;
+        ctx.beginPath();
+        ctx.roundRect(x, y, cellW, cellH, 12);
+        ctx.fill();
+        ctx.stroke();
+
+        // Mini Shape Icon on Left of Card
+        const icx = x + 46;
+        const icy = y + cellH / 2 + 4;
+        ctx.strokeStyle = ctx.strokeStyle;
+        ctx.lineWidth = 2.2;
+        ctx.beginPath();
+        if (s.name.startsWith('Parallelogram')) {
+          ctx.moveTo(icx - 24, icy + 18); ctx.lineTo(icx + 14, icy + 18);
+          ctx.lineTo(icx + 24, icy - 18); ctx.lineTo(icx - 14, icy - 18); ctx.closePath();
+        } else if (s.name.startsWith('Rhombus')) {
+          ctx.moveTo(icx - 24, icy); ctx.lineTo(icx, icy - 20);
+          ctx.lineTo(icx + 24, icy); ctx.lineTo(icx, icy + 20); ctx.closePath();
+        } else if (s.name.startsWith('Rectangle')) {
+          ctx.rect(icx - 24, icy - 16, 48, 32);
+        } else if (s.name.startsWith('Square')) {
+          ctx.rect(icx - 18, icy - 18, 36, 36);
+        } else if (s.name.startsWith('Kite')) {
+          ctx.moveTo(icx - 20, icy - 6); ctx.lineTo(icx, icy - 22);
+          ctx.lineTo(icx + 20, icy - 6); ctx.lineTo(icx, icy + 24); ctx.closePath();
+        } else {
+          ctx.moveTo(icx - 14, icy - 16); ctx.lineTo(icx + 14, icy - 16);
+          ctx.lineTo(icx + 24, icy + 16); ctx.lineTo(icx - 24, icy + 16); ctx.closePath();
+        }
+        ctx.stroke();
+
+        // Card Text
+        ctx.font = "800 12px 'Inter', sans-serif";
+        ctx.fillStyle = '#0f172a';
+        ctx.textAlign = 'left';
+        ctx.fillText(s.name, x + 82, y + 26);
+
+        ctx.font = "600 11px 'Inter', sans-serif";
+        ctx.fillStyle = alive ? (s.isImpostor ? '#be123c' : '#047857') : '#64748b';
+        ctx.fillText(alive ? '✓ Matches Active Clues' : '✗ Eliminated by Clues', x + 82, y + 46);
+
+        if (isTarget) {
+          ctx.fillStyle = '#059669';
+          ctx.font = "700 10px 'JetBrains Mono', monospace";
+          ctx.fillText('★ TARGET SHAPE', x + 82, y + 64);
+        }
+        ctx.restore();
+      });
+    }
+
+    function updateAll() {
+      syncUI();
+      renderCanvas();
+    }
+
+    // =========================================================================
+    // EVENT LISTENERS & INTERACTIVE CONTROLS
+    // =========================================================================
+
+    // Top 7 Module Tabs
+    document.querySelectorAll('.mod-tab').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        stopActiveAnim();
+        state.tab = parseInt(e.currentTarget.getAttribute('data-tab'), 10);
+        updateAll();
+      });
+    });
+
+    // TAB 1 LISTENERS
+    document.querySelectorAll('.lmode-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        stopActiveAnim();
+        state.lineMode = e.currentTarget.getAttribute('data-lmode');
+        updateAll();
+      });
+    });
+    document.getElementById('slider-line-angle').addEventListener('input', (e) => {
+      state.lineAngle = parseInt(e.target.value, 10);
+      updateAll();
+    });
+    document.getElementById('slider-line-slide').addEventListener('input', (e) => {
+      stopActiveAnim();
+      state.lineMode = 'parallel';
+      state.lineSlide = parseFloat(e.target.value);
+      updateAll();
+    });
+    document.getElementById('btn-line-90').addEventListener('click', () => {
+      stopActiveAnim();
+      state.lineAngle = 90;
+      document.getElementById('slider-line-angle').value = 90;
+      updateAll();
+    });
+    document.getElementById('btn-line-anim').addEventListener('click', () => {
+      stopActiveAnim();
+      const start = performance.now();
+      function step(now) {
+        const t = Math.min(1, (now - start) / 1400);
+        if (state.lineMode === 'parallel') {
+          state.lineSlide = t * 100;
+          document.getElementById('slider-line-slide').value = Math.round(state.lineSlide);
+        } else {
+          state.lineAngle = Math.round(35 + Math.sin(t * Math.PI) * 95);
+          document.getElementById('slider-line-angle').value = state.lineAngle;
+        }
+        updateAll();
+        if (t < 1) state.animId = requestAnimationFrame(step);
+      }
+      state.animId = requestAnimationFrame(step);
+    });
+
+    // TAB 2 LISTENERS
+    document.querySelectorAll('.tmode-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        stopActiveAnim();
+        state.triMode = e.currentTarget.getAttribute('data-tmode');
+        updateAll();
+      });
+    });
+    document.getElementById('slider-tri-peak').addEventListener('input', (e) => {
+      state.triPeakOffset = parseFloat(e.target.value);
+      updateAll();
+    });
+    document.getElementById('slider-tri-fold').addEventListener('input', (e) => {
+      stopActiveAnim();
+      state.triFold = parseFloat(e.target.value);
+      updateAll();
+    });
+    document.getElementById('btn-tri-anim').addEventListener('click', () => {
+      stopActiveAnim();
+      const start = performance.now();
+      const dir = state.triFold > 50 ? -1 : 1;
+      const from = dir === 1 ? 0 : 100;
+      function step(now) {
+        const t = Math.min(1, (now - start) / 1200);
+        state.triFold = from + dir * t * 100;
+        document.getElementById('slider-tri-fold').value = Math.round(state.triFold);
+        updateAll();
+        if (t < 1) state.animId = requestAnimationFrame(step);
+      }
+      state.animId = requestAnimationFrame(step);
+    });
+    document.querySelectorAll('.ttype-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        state.triType = e.currentTarget.getAttribute('data-ttype');
+        updateAll();
+      });
+    });
+    document.getElementById('chk-tri-sym').addEventListener('change', (e) => {
+      state.triShowSym = e.target.checked;
+      updateAll();
+    });
+    document.getElementById('slider-tri-scale').addEventListener('input', (e) => {
+      state.triScale = parseFloat(e.target.value);
+      updateAll();
+    });
+    document.getElementById('btn-scale-1').addEventListener('click', () => {
+      state.triScale = 1.0;
+      document.getElementById('slider-tri-scale').value = 1.0;
+      updateAll();
+    });
+    document.getElementById('btn-scale-25').addEventListener('click', () => {
+      state.triScale = 2.5;
+      document.getElementById('slider-tri-scale').value = 2.5;
+      updateAll();
+    });
+
+    // TAB 3 LISTENERS
+    document.querySelectorAll('.pmode-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        stopActiveAnim();
+        state.paraMode = e.currentTarget.getAttribute('data-pmode');
+        updateAll();
+      });
+    });
+    document.getElementById('slider-para-angle').addEventListener('input', (e) => {
+      state.paraAngle = parseInt(e.target.value, 10);
+      updateAll();
+    });
+    document.getElementById('slider-para-b').addEventListener('input', (e) => {
+      state.paraBase = parseFloat(e.target.value);
+      updateAll();
+    });
+    document.getElementById('slider-para-spin').addEventListener('input', (e) => {
+      stopActiveAnim();
+      state.paraMode = 'split360';
+      state.paraSpin = parseFloat(e.target.value);
+      updateAll();
+    });
+    document.getElementById('btn-para-90').addEventListener('click', () => {
+      state.paraAngle = 90;
+      document.getElementById('slider-para-angle').value = 90;
+      updateAll();
+    });
+    document.getElementById('btn-para-anim').addEventListener('click', () => {
+      stopActiveAnim();
+      state.paraMode = 'split360';
+      const dir = state.paraSpin > 50 ? -1 : 1;
+      const from = dir === 1 ? 0 : 100;
+      const start = performance.now();
+      function step(now) {
+        const t = Math.min(1, (now - start) / 1100);
+        state.paraSpin = from + dir * t * 100;
+        document.getElementById('slider-para-spin').value = Math.round(state.paraSpin);
+        updateAll();
+        if (t < 1) state.animId = requestAnimationFrame(step);
+      }
+      state.animId = requestAnimationFrame(step);
+    });
+
+    // TAB 4 LISTENERS
+    document.querySelectorAll('.rmode-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        stopActiveAnim();
+        state.rhomMode = e.currentTarget.getAttribute('data-rmode');
+        updateAll();
+      });
+    });
+    document.getElementById('slider-rhom-angle').addEventListener('input', (e) => {
+      state.rhomAngle = parseInt(e.target.value, 10);
+      updateAll();
+    });
+    document.getElementById('slider-rhom-side').addEventListener('input', (e) => {
+      state.rhomSide = parseFloat(e.target.value);
+      updateAll();
+    });
+    document.getElementById('slider-rhom-fold').addEventListener('input', (e) => {
+      stopActiveAnim();
+      state.rhomFold = parseFloat(e.target.value);
+      updateAll();
+    });
+    document.getElementById('btn-rhom-90').addEventListener('click', () => {
+      state.rhomAngle = 90;
+      document.getElementById('slider-rhom-angle').value = 90;
+      updateAll();
+    });
+    document.getElementById('btn-rhom-fold').addEventListener('click', () => {
+      stopActiveAnim();
+      state.rhomMode = 'fold';
+      const dir = state.rhomFold > 50 ? -1 : 1;
+      const from = dir === 1 ? 0 : 100;
+      const start = performance.now();
+      function step(now) {
+        const t = Math.min(1, (now - start) / 1100);
+        state.rhomFold = from + dir * t * 100;
+        document.getElementById('slider-rhom-fold').value = Math.round(state.rhomFold);
+        updateAll();
+        if (t < 1) state.animId = requestAnimationFrame(step);
+      }
+      state.animId = requestAnimationFrame(step);
+    });
+
+    // TAB 5 LISTENERS
+    document.querySelectorAll('.recmode-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        stopActiveAnim();
+        state.recMode = e.currentTarget.getAttribute('data-recmode');
+        updateAll();
+      });
+    });
+    document.getElementById('slider-rec-l').addEventListener('input', (e) => {
+      state.recL = parseFloat(e.target.value);
+      updateAll();
+    });
+    document.getElementById('slider-rec-w').addEventListener('input', (e) => {
+      state.recW = parseFloat(e.target.value);
+      updateAll();
+    });
+    document.getElementById('slider-rec-sep').addEventListener('input', (e) => {
+      stopActiveAnim();
+      state.recMode = 'equalDiag';
+      state.recSep = parseFloat(e.target.value);
+      updateAll();
+    });
+    document.getElementById('btn-rec-square').addEventListener('click', () => {
+      state.recL = 6.0;
+      state.recW = 6.0;
+      document.getElementById('slider-rec-l').value = 6.0;
+      document.getElementById('slider-rec-w').value = 6.0;
+      updateAll();
+    });
+    document.getElementById('btn-rec-pull').addEventListener('click', () => {
+      stopActiveAnim();
+      state.recMode = 'equalDiag';
+      const dir = state.recSep > 50 ? -1 : 1;
+      const from = dir === 1 ? 0 : 100;
+      const start = performance.now();
+      function step(now) {
+        const t = Math.min(1, (now - start) / 1000);
+        state.recSep = from + dir * t * 100;
+        document.getElementById('slider-rec-sep').value = Math.round(state.recSep);
+        updateAll();
+        if (t < 1) state.animId = requestAnimationFrame(step);
+      }
+      state.animId = requestAnimationFrame(step);
+    });
+
+    // TAB 6 LISTENERS
+    document.querySelectorAll('.sqmode-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        state.sqMode = e.currentTarget.getAttribute('data-sqmode');
+        updateAll();
+      });
+    });
+    document.querySelectorAll('.sq-sym-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        state.sqMode = 'symmetry';
+        state.sqSymAxis = e.currentTarget.getAttribute('data-sym');
+        updateAll();
+      });
+    });
+    document.getElementById('slider-sq-rot').addEventListener('input', (e) => {
+      stopActiveAnim();
+      state.sqRot = parseInt(e.target.value, 10);
+      updateAll();
+    });
+    document.getElementById('btn-sq-spin90').addEventListener('click', () => {
+      stopActiveAnim();
+      const startRot = state.sqRot;
+      const targetRot = (Math.floor(startRot / 90) * 90 + 90) % 360 || 360;
+      const start = performance.now();
+      function step(now) {
+        const t = Math.min(1, (now - start) / 700);
+        state.sqRot = Math.round(lerp(startRot, targetRot, t));
+        document.getElementById('slider-sq-rot').value = state.sqRot;
+        updateAll();
+        if (t < 1) state.animId = requestAnimationFrame(step);
+        else if (state.sqRot === 360) state.sqRot = 0;
+      }
+      state.animId = requestAnimationFrame(step);
+    });
+
+    // TAB 7 LISTENERS (Detective Necessity vs. Sufficiency)
+    document.querySelectorAll('.det-target-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        state.detTarget = e.currentTarget.getAttribute('data-target');
+        updateAll();
+      });
+    });
+    document.querySelectorAll('.clue-chip').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        const k = e.currentTarget.getAttribute('data-clue');
+        state.clues[k] = !state.clues[k];
+        updateAll();
+      });
+    });
+    document.getElementById('btn-det-trap1').addEventListener('click', () => {
+      state.detTarget = 'Rhombus';
+      Object.keys(state.clues).forEach(k => state.clues[k] = false);
+      state.clues.diagPerp = true;
+      updateAll();
+    });
+    document.getElementById('btn-det-trap2').addEventListener('click', () => {
+      state.detTarget = 'Rectangle';
+      Object.keys(state.clues).forEach(k => state.clues[k] = false);
+      state.clues.diagEqual = true;
+      updateAll();
+    });
+    document.getElementById('btn-det-clear').addEventListener('click', () => {
+      Object.keys(state.clues).forEach(k => state.clues[k] = false);
+      updateAll();
+    });
+
+    window.addEventListener('resize', renderCanvas);
+    window.onload = updateAll;
+  </script>
+</body>
+</html>

@@ -1,0 +1,1462 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Shape & Circle Area Visualizer</title>
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+    .font-mono-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-variant-numeric: tabular-nums;
+    }
+    input[type="range"] {
+      accent-color: #2563eb;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900 min-h-screen p-3 sm:p-6">
+
+  <!-- Main Container -->
+  <div class="max-w-5xl mx-auto bg-white rounded-3xl shadow-lg border border-slate-200 p-4 sm:p-7 flex flex-col gap-5">
+
+    <!-- Header -->
+    <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 pb-4">
+      <div>
+        <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wider bg-blue-50 text-blue-700 mb-1.5">
+          Interactive Visual Proof Lab
+        </span>
+        <h1 class="text-2xl sm:text-3xl font-extrabold tracking-tight text-slate-900">
+          How Every Shape Becomes a Rectangle
+        </h1>
+        <p class="text-sm text-slate-600 mt-0.5">
+          Click any shape below, animate the cut-and-rearrange proof, and slice the circle into sectors to prove <strong>Area = &pi;r&sup2;</strong>!
+        </p>
+      </div>
+
+      <!-- Shape Selector Pills -->
+      <div class="flex flex-wrap gap-1.5 bg-slate-100 p-1.5 rounded-2xl" role="tablist" aria-label="Select Geometric Shape">
+        <button type="button" data-shape="rectangle" class="shape-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all bg-white text-blue-600 shadow-sm">
+          1. Square &amp; Rect
+        </button>
+        <button type="button" data-shape="parallelogram" class="shape-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-600 hover:text-slate-900">
+          2. Parallelogram
+        </button>
+        <button type="button" data-shape="triangle" class="shape-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-600 hover:text-slate-900">
+          3. Triangle
+        </button>
+        <button type="button" data-shape="rhombus" class="shape-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-600 hover:text-slate-900">
+          4. Rhombus
+        </button>
+        <button type="button" data-shape="trapezium" class="shape-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-600 hover:text-slate-900">
+          5. Trapezium
+        </button>
+        <button type="button" data-shape="circle" class="shape-tab px-3.5 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all text-emerald-700 bg-emerald-50/70 hover:bg-emerald-100">
+          6. Circle (&pi;r&sup2;) ★
+        </button>
+      </div>
+    </div>
+
+    <!-- Kid-Friendly Concept Banner -->
+    <div class="bg-blue-50/70 border border-blue-200 rounded-2xl p-4 flex flex-col gap-1.5">
+      <div class="flex flex-wrap items-center justify-between gap-2">
+        <div class="flex items-center gap-2">
+          <span id="banner-badge" class="px-2.5 py-0.5 rounded-md text-xs font-bold uppercase tracking-wider bg-blue-600 text-white">
+            Shape 1 of 6
+          </span>
+          <h2 id="banner-title" class="text-base sm:text-lg font-bold text-slate-900">
+            Square &amp; Rectangle: Counting Unit Squares in a Grid
+          </h2>
+        </div>
+        <span id="banner-formula" class="font-mono-num text-xs sm:text-sm font-bold px-3 py-1 rounded-lg bg-white border border-blue-200 text-blue-700">
+          Area = b &times; h
+        </span>
+      </div>
+      <p id="banner-desc" class="text-sm text-slate-700 leading-relaxed">
+        <!-- Populated dynamically -->
+      </p>
+    </div>
+
+    <!-- Canvas & Controls Card -->
+    <div class="bg-slate-50 border border-slate-200 rounded-2xl p-3 sm:p-4 flex flex-col gap-3">
+      <!-- Top Legend & Live Status Bar -->
+      <div class="flex flex-wrap items-center justify-between gap-2 px-1">
+        <div id="canvas-legend" class="flex flex-wrap items-center gap-4 text-xs sm:text-sm font-medium text-slate-700">
+          <!-- Populated dynamically -->
+        </div>
+        <span id="status-pill" class="text-xs font-mono-num font-semibold px-2.5 py-1 rounded-lg bg-white border border-slate-200 text-slate-700">
+          1 cm &times; 1 cm Grid Squares
+        </span>
+      </div>
+
+      <!-- High-DPI Responsive Canvas -->
+      <div class="relative w-full h-80 sm:h-96 bg-white rounded-xl border border-slate-200 overflow-hidden shadow-inner">
+        <canvas id="areaCanvas" class="w-full h-full block"></canvas>
+      </div>
+
+      <!-- Action Buttons & Sliders RIGHT BELOW Canvas (No scrolling needed!) -->
+      <div class="bg-white border border-slate-200 rounded-xl p-3.5 sm:p-4 flex flex-col gap-3.5 shadow-sm">
+        
+        <!-- Top Action Strip: Morph / Animate Proof Button + Shape-Specific Quick Presets -->
+        <div class="flex flex-wrap items-center justify-between gap-2.5 border-b border-slate-100 pb-3">
+          <div class="flex flex-wrap items-center gap-2">
+            <button id="btn-morph" type="button"
+              class="inline-flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-semibold bg-blue-600 hover:bg-blue-700 text-white shadow-sm transition active:scale-95">
+              <span id="btn-morph-icon">&#9654;</span>
+              <span id="btn-morph-text">Animate Proof (Turn into Rectangle)</span>
+            </button>
+            <button id="btn-reset" type="button"
+              class="inline-flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold bg-slate-100 hover:bg-slate-200 text-slate-700 transition">
+              Reset (0%)
+            </button>
+            <button id="btn-make-square" type="button"
+              class="inline-flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border border-emerald-200 transition">
+              Make It a Square (b = h = 6)
+            </button>
+          </div>
+
+          <!-- Circle Sector Quick-Jump Chips (Visible only in Circle Mode) -->
+          <div id="circle-presets" class="hidden flex-wrap items-center gap-1.5">
+            <span class="text-xs font-bold text-slate-500 uppercase tracking-wider mr-1">Slices:</span>
+            <button type="button" data-sectors="4" class="sector-chip px-2.5 py-1 rounded-lg text-xs font-semibold bg-white border border-slate-300 text-slate-700 hover:bg-slate-50">4</button>
+            <button type="button" data-sectors="8" class="sector-chip px-2.5 py-1 rounded-lg text-xs font-semibold bg-white border border-slate-300 text-slate-700 hover:bg-slate-50">8</button>
+            <button type="button" data-sectors="16" class="sector-chip px-2.5 py-1 rounded-lg text-xs font-semibold bg-blue-600 text-white border border-blue-600">16</button>
+            <button type="button" data-sectors="32" class="sector-chip px-2.5 py-1 rounded-lg text-xs font-semibold bg-white border border-slate-300 text-slate-700 hover:bg-slate-50">32</button>
+            <button type="button" data-sectors="64" class="sector-chip px-2.5 py-1 rounded-lg text-xs font-semibold bg-white border border-slate-300 text-slate-700 hover:bg-slate-50">64</button>
+            <button type="button" data-sectors="200" class="sector-chip px-2.5 py-1 rounded-lg text-xs font-bold bg-emerald-600 text-white border border-emerald-600">&infin; (Infinite)</button>
+          </div>
+        </div>
+
+        <!-- Sliders Grid (Dynamically configured per shape) -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          <!-- Slider 1: Primary Dimension (Base b / Diagonal d1 / Radius r) -->
+          <div class="flex flex-col gap-1">
+            <div class="flex justify-between items-center">
+              <label id="s1-label" for="slider-1" class="text-xs sm:text-sm font-semibold text-slate-800">1. Base Width (b)</label>
+              <span id="s1-val" class="text-xs font-mono-num font-bold text-blue-600 bg-blue-50 px-2 py-0.5 rounded-md">8.0 cm</span>
+            </div>
+            <input type="range" id="slider-1" min="2" max="12" step="0.5" value="8" class="w-full h-2 bg-slate-200 rounded-lg">
+          </div>
+
+          <!-- Slider 2: Secondary Dimension (Height h / Diagonal d2 / Number of Sectors N) -->
+          <div class="flex flex-col gap-1">
+            <div class="flex justify-between items-center">
+              <label id="s2-label" for="slider-2" class="text-xs sm:text-sm font-semibold text-slate-800">2. Height (h)</label>
+              <span id="s2-val" class="text-xs font-mono-num font-bold text-blue-600 bg-blue-50 px-2 py-0.5 rounded-md">5.0 cm</span>
+            </div>
+            <input type="range" id="slider-2" min="2" max="8" step="0.5" value="5" class="w-full h-2 bg-slate-200 rounded-lg">
+          </div>
+
+          <!-- Slider 3: Rearrange / Morph Progress (or Top Base 'a' + Morph in 4th) -->
+          <div class="flex flex-col gap-1">
+            <div class="flex justify-between items-center">
+              <label id="s3-label" for="slider-3" class="text-xs sm:text-sm font-semibold text-slate-800">3. Rearrange into Rectangle</label>
+              <span id="s3-val" class="text-xs font-mono-num font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-md">0%</span>
+            </div>
+            <input type="range" id="slider-3" min="0" max="100" step="1" value="0" class="w-full h-2 bg-slate-200 rounded-lg">
+          </div>
+        </div>
+
+        <!-- Optional Extra Row for Trapezium Top Base (a) -->
+        <div id="extra-slider-box" class="hidden pt-2 border-t border-slate-100">
+          <div class="flex flex-col gap-1 max-w-sm">
+            <div class="flex justify-between items-center">
+              <label id="s4-label" for="slider-4" class="text-xs sm:text-sm font-semibold text-slate-800">Top Parallel Base (a)</label>
+              <span id="s4-val" class="text-xs font-mono-num font-bold text-purple-700 bg-purple-50 px-2 py-0.5 rounded-md">4.0 cm</span>
+            </div>
+            <input type="range" id="slider-4" min="2" max="10" step="0.5" value="4" class="w-full h-2 bg-slate-200 rounded-lg">
+          </div>
+        </div>
+      </div>
+
+      <!-- Dynamic Step-by-Step Kid Caption -->
+      <div class="bg-white border border-slate-200 rounded-xl p-3.5 text-sm text-slate-700 flex items-start gap-3">
+        <span class="text-lg leading-none select-none">💡</span>
+        <p id="live-caption" class="leading-relaxed">
+          <!-- Populated dynamically -->
+        </p>
+      </div>
+    </div>
+
+    <!-- 4-Card Live Math Readout Deck (Below Buttons & Sliders) -->
+    <div class="grid grid-cols-2 lg:grid-cols-4 gap-3">
+      <div class="bg-slate-50 border border-slate-200 rounded-2xl p-3.5 flex flex-col justify-between">
+        <span id="card1-label" class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Base / Width</span>
+        <span id="card1-val" class="text-lg sm:text-xl font-bold font-mono-num text-slate-900 mt-1">b = 8.0 cm</span>
+        <span id="card1-sub" class="text-xs font-mono-num text-slate-600 mt-0.5">8 unit squares per row</span>
+      </div>
+      <div class="bg-slate-50 border border-slate-200 rounded-2xl p-3.5 flex flex-col justify-between">
+        <span id="card2-label" class="text-xs font-semibold text-slate-500 uppercase tracking-wider">Perpendicular Height</span>
+        <span id="card2-val" class="text-lg sm:text-xl font-bold font-mono-num text-slate-900 mt-1">h = 5.0 cm</span>
+        <span id="card2-sub" class="text-xs font-mono-num text-slate-600 mt-0.5">5 stacked rows</span>
+      </div>
+      <div class="bg-blue-50/60 border border-blue-200 rounded-2xl p-3.5 flex flex-col justify-between">
+        <span id="card3-label" class="text-xs font-semibold text-blue-700 uppercase tracking-wider">Equivalent Rectangle</span>
+        <span id="card3-val" class="text-lg sm:text-xl font-bold font-mono-num text-blue-700 mt-1">8.0 &times; 5.0 cm</span>
+        <span id="card3-sub" class="text-xs font-mono-num text-blue-600 mt-0.5">Width &times; Height</span>
+      </div>
+      <div class="bg-emerald-50/70 border border-emerald-200 rounded-2xl p-3.5 flex flex-col justify-between">
+        <span id="card4-label" class="text-xs font-semibold text-emerald-800 uppercase tracking-wider">Total Area</span>
+        <span id="card4-val" class="text-lg sm:text-xl font-bold font-mono-num text-emerald-700 mt-1">40.00 cm&sup2;</span>
+        <span id="card4-sub" class="text-xs font-mono-num text-emerald-700 mt-0.5">40 unit squares inside</span>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    // Central Application State
+    const state = {
+      shape: 'rectangle',    // 'rectangle' | 'parallelogram' | 'triangle' | 'rhombus' | 'trapezium' | 'circle'
+      b: 8.0,                // Base width (or d1 for rhombus)
+      h: 5.0,                // Perpendicular height (or d2 for rhombus)
+      a: 4.0,                // Top base for trapezium
+      skew: 2.5,             // Slant offset for parallelogram
+      radius: 4.5,           // Circle radius r (cm)
+      sectors: 16,           // Circle sectors N (even number: 4 to 200, where 200 = infinite)
+      morph: 0,              // Proof transformation progress (0 to 100%)
+      isAnimating: false,
+      animDirection: 1,      // 1 = forward to 100%, -1 = back to 0%
+      animFrameId: null,
+      lastTime: 0
+    };
+
+    const COLORS = {
+      blueFill: 'rgba(37, 99, 235, 0.16)',
+      blueSolid: '#2563eb',
+      blueDark: '#1d4ed8',
+      greenFill: 'rgba(5, 150, 105, 0.22)',
+      greenSolid: '#059669',
+      amberFill: 'rgba(217, 119, 6, 0.22)',
+      amberSolid: '#d97706',
+      roseFill: 'rgba(225, 29, 72, 0.18)',
+      roseSolid: '#e11d48',
+      purpleSolid: '#7c3aed',
+      slateDark: '#0f172a',
+      slateMuted: '#64748b',
+      gridLine: '#e2e8f0'
+    };
+
+    // Helper to draw rounded pill labels on Canvas
+    function drawPill(ctx, text, x, y, bg, fg, border = null) {
+      ctx.save();
+      ctx.font = "600 11px 'Inter', sans-serif";
+      const padX = 8;
+      const boxH = 22;
+      const w = ctx.measureText(text).width + padX * 2;
+      ctx.beginPath();
+      ctx.roundRect(x - w / 2, y - boxH / 2, w, boxH, 6);
+      ctx.fillStyle = bg;
+      ctx.fill();
+      if (border) {
+        ctx.strokeStyle = border;
+        ctx.lineWidth = 1.5;
+        ctx.stroke();
+      }
+      ctx.fillStyle = fg;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText(text, x, y + 0.5);
+      ctx.restore();
+    }
+
+    // Configure sliders & labels when switching shape tabs
+    function configureControlsForShape() {
+      const s1 = document.getElementById('slider-1');
+      const s2 = document.getElementById('slider-2');
+      const s3 = document.getElementById('slider-3');
+      const s1Label = document.getElementById('s1-label');
+      const s2Label = document.getElementById('s2-label');
+      const s3Label = document.getElementById('s3-label');
+      const extraBox = document.getElementById('extra-slider-box');
+      const circlePresets = document.getElementById('circle-presets');
+      const btnMakeSquare = document.getElementById('btn-make-square');
+
+      extraBox.classList.add('hidden');
+      circlePresets.classList.add('hidden');
+      circlePresets.classList.remove('flex');
+      btnMakeSquare.classList.add('hidden');
+
+      if (state.shape === 'rectangle') {
+        btnMakeSquare.classList.remove('hidden');
+        s1Label.textContent = '1. Base Width (b)';
+        s1.min = 2; s1.max = 12; s1.step = 1; s1.value = state.b;
+
+        s2Label.textContent = '2. Height Rows (h)';
+        s2.min = 2; s2.max = 8; s2.step = 1; s2.value = state.h;
+
+        s3Label.textContent = '3. Count Row-by-Row Scan';
+        s3.value = state.morph;
+      } else if (state.shape === 'parallelogram') {
+        s1Label.textContent = '1. Base Width (b)';
+        s1.min = 4; s1.max = 10; s1.step = 0.5; s1.value = state.b;
+
+        s2Label.textContent = '2. Perpendicular Height (h)';
+        s2.min = 3; s2.max = 7; s2.step = 0.5; s2.value = state.h;
+
+        s3Label.textContent = '3. Cut & Slide Triangle (%)';
+        s3.value = state.morph;
+      } else if (state.shape === 'triangle') {
+        s1Label.textContent = '1. Triangle Base (b)';
+        s1.min = 4; s1.max = 10; s1.step = 0.5; s1.value = state.b;
+
+        s2Label.textContent = '2. Perpendicular Height (h)';
+        s2.min = 3; s2.max = 7; s2.step = 0.5; s2.value = state.h;
+
+        s3Label.textContent = '3. Flip Twin to Make Parallelogram';
+        s3.value = state.morph;
+      } else if (state.shape === 'rhombus') {
+        s1Label.textContent = '1. Horizontal Diagonal (d₁)';
+        s1.min = 4; s1.max = 11; s1.step = 0.5; s1.value = state.b;
+
+        s2Label.textContent = '2. Vertical Diagonal (d₂)';
+        s2.min = 3; s2.max = 7.5; s2.step = 0.5; s2.value = state.h;
+
+        s3Label.textContent = '3. Fold Outer Box Corners In (%)';
+        s3.value = state.morph;
+      } else if (state.shape === 'trapezium') {
+        extraBox.classList.remove('hidden');
+        s1Label.textContent = '1. Bottom Parallel Base (b)';
+        s1.min = 4; s1.max = 9; s1.step = 0.5; s1.value = state.b;
+
+        s2Label.textContent = '2. Perpendicular Height (h)';
+        s2.min = 3; s2.max = 7; s2.step = 0.5; s2.value = state.h;
+
+        s3Label.textContent = '3. Duplicate & Flip Twin (%)';
+        s3.value = state.morph;
+
+        const s4 = document.getElementById('slider-4');
+        s4.value = state.a;
+      } else if (state.shape === 'circle') {
+        circlePresets.classList.remove('hidden');
+        circlePresets.classList.add('flex');
+
+        s1Label.textContent = '1. Circle Radius (r)';
+        s1.min = 2.5; s1.max = 6.0; s1.step = 0.5; s1.value = state.radius;
+
+        s2Label.textContent = '2. Number of Sectors (Slices)';
+        s2.min = 4; s2.max = 100; s2.step = 2;
+        s2.value = Math.min(100, state.sectors);
+
+        s3Label.textContent = '3. Unroll & Interlock Slices (%)';
+        s3.value = state.morph;
+      }
+    }
+
+    // Update Banner, Captions, and Readout Cards
+    function updateUIReadouts() {
+      const badge = document.getElementById('banner-badge');
+      const title = document.getElementById('banner-title');
+      const formula = document.getElementById('banner-formula');
+      const desc = document.getElementById('banner-desc');
+      const legend = document.getElementById('canvas-legend');
+      const statusPill = document.getElementById('status-pill');
+      const caption = document.getElementById('live-caption');
+
+      const s1Val = document.getElementById('s1-val');
+      const s2Val = document.getElementById('s2-val');
+      const s3Val = document.getElementById('s3-val');
+      const s4Val = document.getElementById('s4-val');
+
+      const c1L = document.getElementById('card1-label');
+      const c1V = document.getElementById('card1-val');
+      const c1S = document.getElementById('card1-sub');
+      const c2L = document.getElementById('card2-label');
+      const c2V = document.getElementById('card2-val');
+      const c2S = document.getElementById('card2-sub');
+      const c3L = document.getElementById('card3-label');
+      const c3V = document.getElementById('card3-val');
+      const c3S = document.getElementById('card3-sub');
+      const c4L = document.getElementById('card4-label');
+      const c4V = document.getElementById('card4-val');
+      const c4S = document.getElementById('card4-sub');
+
+      const btnMorphText = document.getElementById('btn-morph-text');
+      const p = state.morph / 100;
+
+      // Update Tab Active Styles
+      document.querySelectorAll('.shape-tab').forEach(btn => {
+        const sh = btn.getAttribute('data-shape');
+        if (sh === state.shape) {
+          btn.className = 'shape-tab px-3.5 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all bg-blue-600 text-white shadow-sm';
+        } else if (sh === 'circle') {
+          btn.className = 'shape-tab px-3.5 py-2 rounded-xl text-xs sm:text-sm font-bold transition-all text-emerald-700 bg-emerald-50 hover:bg-emerald-100';
+        } else {
+          btn.className = 'shape-tab px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold transition-all text-slate-600 hover:text-slate-900';
+        }
+      });
+
+      s3Val.textContent = `${Math.round(state.morph)}%`;
+
+      if (state.shape === 'rectangle') {
+        const b = Math.round(state.b);
+        const h = Math.round(state.h);
+        const isSq = (b === h);
+        const area = b * h;
+
+        s1Val.textContent = `${b} cm`;
+        s2Val.textContent = `${h} cm`;
+        btnMorphText.textContent = state.morph < 100 ? 'Highlight Grid Rows' : 'Reset Row Highlight';
+
+        badge.textContent = isSq ? 'Shape 1A: The Square' : 'Shape 1B: The Rectangle';
+        title.textContent = isSq
+          ? `A Square Is ${b} Equal Rows of ${b} Unit Squares (s²)`
+          : `A Rectangle Is ${h} Stacked Rows of ${b} Unit Squares (b × h)`;
+        formula.innerHTML = isSq ? `Area = s&sup2; = ${b}&sup2; = ${area} cm&sup2;` : `Area = b &times; h = ${b} &times; ${h} = ${area} cm&sup2;`;
+        desc.innerHTML = `Instead of counting all <strong>${area}</strong> little $1\\text{ cm} \\times 1\\text{ cm}$ squares one by one, notice that the bottom row holds <strong class="text-blue-700">${b} unit squares</strong> and there are <strong class="text-emerald-700">${h} identical rows</strong> stacked up!`;
+
+        legend.innerHTML = `
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm bg-blue-600 inline-block"></span><strong class="text-blue-700">Base Row (${b} squares)</strong></span>
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm bg-emerald-600 inline-block"></span><strong class="text-emerald-700">Stacked Rows (${h} rows high)</strong></span>
+        `;
+        statusPill.textContent = `${b} × ${h} = ${area} Unit Squares`;
+
+        const litRows = Math.max(1, Math.ceil((state.morph / 100) * h));
+        caption.innerHTML = state.morph === 0
+          ? `<strong class="text-blue-700">Look at the Bottom Row:</strong> There are <strong>${b} unit squares</strong> sitting along the base. Click <strong>"Highlight Grid Rows"</strong> above to stack all <strong>${h} rows</strong> and count the total area!`
+          : `<strong class="text-emerald-700">Stacking Rows (${litRows} of ${h} rows filled):</strong> ${litRows} rows &times; ${b} squares per row = <strong>${litRows * b} unit squares</strong> counted so far! Full area = <strong>${b} &times; ${h} = ${area} cm&sup2;</strong>.`;
+
+        c1L.textContent = isSq ? 'Side Length (s)' : 'Base Width (b)';
+        c1V.textContent = `${b} cm`;
+        c1S.textContent = `${b} squares per row`;
+
+        c2L.textContent = isSq ? 'Equal Height (s)' : 'Vertical Height (h)';
+        c2V.textContent = `${h} cm`;
+        c2S.textContent = `${h} stacked rows`;
+
+        c3L.textContent = 'Grid Multiplication';
+        c3V.textContent = `${b} × ${h}`;
+        c3S.textContent = isSq ? 'Square (b = h)' : 'Rectangle Grid';
+
+        c4L.textContent = 'Total Area';
+        c4V.innerHTML = `${area} cm&sup2;`;
+        c4S.textContent = `Exactly ${area} unit squares`;
+
+      } else if (state.shape === 'parallelogram') {
+        const b = state.b;
+        const h = state.h;
+        const area = b * h;
+        const slant = Math.hypot(state.skew, h);
+
+        s1Val.textContent = `${b.toFixed(1)} cm`;
+        s2Val.textContent = `${h.toFixed(1)} cm`;
+        btnMorphText.textContent = state.morph < 100 ? 'Cut & Slide Triangle into Rectangle' : 'Slide Triangle Back';
+
+        badge.textContent = 'Shape 2: The Parallelogram';
+        title.textContent = 'Cut the Left Slanted Triangle & Slide It to the Right!';
+        formula.innerHTML = `Area = b &times; h = ${b.toFixed(1)} &times; ${h.toFixed(1)} = ${area.toFixed(1)} cm&sup2;`;
+        desc.innerHTML = `A parallelogram is just a rectangle pushed sideways! Never multiply by the slanted wall (${slant.toFixed(1)} cm)—slice off the <strong class="text-emerald-700">green right-triangle</strong> on the left and slide it to the right to form a <strong class="text-blue-700">${b.toFixed(1)} cm &times; ${h.toFixed(1)} cm rectangle</strong>.`;
+
+        legend.innerHTML = `
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm bg-blue-600 inline-block"></span><strong class="text-blue-700">Main Body</strong></span>
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm bg-emerald-600 inline-block"></span><strong class="text-emerald-700">Cut-and-Slide Triangle</strong></span>
+        `;
+        statusPill.textContent = `Slide Progress: ${Math.round(state.morph)}%`;
+
+        caption.innerHTML = p < 0.05
+          ? `<strong class="text-slate-900">Before Cutting (0%):</strong> Notice the vertical dashed line of height <strong>h = ${h.toFixed(1)} cm</strong>. It cuts off a <strong class="text-emerald-700">green triangle</strong> on the left. Click <strong>"Cut &amp; Slide Triangle"</strong> to move it!`
+          : p < 0.98
+          ? `<strong class="text-emerald-700">Sliding Across (${Math.round(state.morph)}%):</strong> The <strong class="text-emerald-700">green triangle</strong> is translating by exactly <strong>b = ${b.toFixed(1)} cm</strong> to the right without changing size!`
+          : `<strong class="text-blue-700">It's a Perfect Rectangle (100%)!</strong> The slanted triangle locked into the right side! You can see why <strong>Area = Base (${b.toFixed(1)}) &times; Perpendicular Height (${h.toFixed(1)}) = ${area.toFixed(2)} cm&sup2;</strong>.`;
+
+        c1L.textContent = 'Base Width (b)';
+        c1V.textContent = `${b.toFixed(1)} cm`;
+        c1S.textContent = `Bottom & top edge`;
+
+        c2L.textContent = 'Straight Height (h)';
+        c2V.textContent = `${h.toFixed(1)} cm`;
+        c2S.textContent = `(Slant side is ${slant.toFixed(1)} cm)`;
+
+        c3L.textContent = 'Resulting Rectangle';
+        c3V.textContent = `${b.toFixed(1)} × ${h.toFixed(1)} cm`;
+        c3S.textContent = `Same paper, zero waste`;
+
+        c4L.textContent = 'Total Area (b × h)';
+        c4V.innerHTML = `${area.toFixed(2)} cm&sup2;`;
+        c4S.textContent = `Identical to rectangle`;
+
+      } else if (state.shape === 'triangle') {
+        const b = state.b;
+        const h = state.h;
+        const area = 0.5 * b * h;
+
+        s1Val.textContent = `${b.toFixed(1)} cm`;
+        s2Val.textContent = `${h.toFixed(1)} cm`;
+        btnMorphText.textContent = state.morph < 100 ? 'Duplicate & Flip Twin Triangle' : 'Hide Twin Triangle';
+
+        badge.textContent = 'Shape 3: The Triangle';
+        title.textContent = 'Every Triangle Is Exactly Half of a Parallelogram!';
+        formula.innerHTML = `Area = &frac12; &times; b &times; h = ${area.toFixed(2)} cm&sup2;`;
+        desc.innerHTML = `Why is there a <strong>&frac12;</strong> in the triangle formula? Because if you make an identical <strong class="text-amber-600">orange twin copy</strong> of your <strong class="text-blue-700">blue triangle</strong> and flip it upside down ($180^\\circ$), the two triangles lock together to make a parallelogram of area <strong>b &times; h = ${(b*h).toFixed(1)} cm&sup2;</strong>!`;
+
+        legend.innerHTML = `
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm bg-blue-600 inline-block"></span><strong class="text-blue-700">Original Triangle (&frac12; bh)</strong></span>
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm bg-amber-500 inline-block"></span><strong class="text-amber-700">Flipped Twin Copy (&frac12; bh)</strong></span>
+        `;
+        statusPill.textContent = `Twin Flip: ${Math.round(state.morph)}%`;
+
+        caption.innerHTML = p < 0.05
+          ? `<strong class="text-blue-700">Single Triangle (0%):</strong> Our blue triangle has base <strong>b = ${b.toFixed(1)} cm</strong> and height <strong>h = ${h.toFixed(1)} cm</strong>. Click <strong>"Duplicate &amp; Flip Twin Triangle"</strong> to see how two triangles make a parallelogram!`
+          : p < 0.98
+          ? `<strong class="text-amber-700">Rotating Twin Copy (${Math.round(state.morph)}%):</strong> We rotated an identical <strong class="text-amber-700">orange twin triangle</strong> by ${Math.round(p * 180)}&deg; around the right slanted edge...`
+          : `<strong class="text-emerald-700">Two Triangles = One Parallelogram (100%)!</strong> Together they form a parallelogram of area <strong>${b.toFixed(1)} &times; ${h.toFixed(1)} = ${(b*h).toFixed(1)} cm&sup2;</strong>. So ONE triangle is exactly half: <strong>&frac12; &times; ${(b*h).toFixed(1)} = ${area.toFixed(2)} cm&sup2;</strong>!`;
+
+        c1L.textContent = 'Triangle Base (b)';
+        c1V.textContent = `${b.toFixed(1)} cm`;
+        c1S.textContent = `Bottom flat edge`;
+
+        c2L.textContent = 'Straight Height (h)';
+        c2V.textContent = `${h.toFixed(1)} cm`;
+        c2S.textContent = `90° from base to peak`;
+
+        c3L.textContent = '2-Triangle Parallelogram';
+        c3V.innerHTML = `${(b * h).toFixed(2)} cm&sup2;`;
+        c3S.textContent = `b × h = ${b.toFixed(1)} × ${h.toFixed(1)}`;
+
+        c4L.textContent = '1 Triangle Area (½ bh)';
+        c4V.innerHTML = `${area.toFixed(2)} cm&sup2;`;
+        c4S.textContent = `Half of ${(b * h).toFixed(1)} cm²`;
+
+      } else if (state.shape === 'rhombus') {
+        const d1 = state.b;
+        const d2 = state.h;
+        const boxArea = d1 * d2;
+        const area = 0.5 * d1 * d2;
+
+        s1Val.textContent = `${d1.toFixed(1)} cm`;
+        s2Val.textContent = `${d2.toFixed(1)} cm`;
+        btnMorphText.textContent = state.morph < 100 ? 'Rearrange into ½ Height Rectangle' : 'Restore Diamond Shape';
+
+        badge.textContent = 'Shape 4: The Rhombus (Diamond)';
+        title.textContent = 'A Diamond Fills Exactly Half of Its Outer Bounding Box!';
+        formula.innerHTML = `Area = &frac12; &times; d&#8321; &times; d&#8322; = ${area.toFixed(2)} cm&sup2;`;
+        desc.innerHTML = `Draw a rectangle around the outside of a rhombus using its horizontal diagonal (<strong class="text-blue-700">d&#8321; = ${d1.toFixed(1)} cm</strong>) and vertical diagonal (<strong class="text-purple-700">d&#8322; = ${d2.toFixed(1)} cm</strong>). The outer box has area <strong>${boxArea.toFixed(1)} cm&sup2;</strong>, and the 4 inner triangles of the diamond take up <strong>exactly half</strong>!`;
+
+        legend.innerHTML = `
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm bg-blue-600 inline-block"></span><strong class="text-blue-700">Top Half of Diamond</strong></span>
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm bg-emerald-600 inline-block"></span><strong class="text-emerald-700">Bottom Triangles (Flip Up)</strong></span>
+        `;
+        statusPill.textContent = `Box Area = ${boxArea.toFixed(1)} cm² | Rhombus = ${area.toFixed(1)} cm²`;
+
+        caption.innerHTML = p < 0.05
+          ? `<strong class="text-slate-900">Inside the Bounding Box (0%):</strong> Notice the dashed outer box of width <strong>d&#8321; = ${d1.toFixed(1)} cm</strong> and height <strong>d&#8322; = ${d2.toFixed(1)} cm</strong>. Click <strong>"Rearrange into &frac12; Height Rectangle"</strong> to move the bottom two green triangles into the top corners!`
+          : `<strong class="text-emerald-700">Packing the Top Half (${Math.round(state.morph)}%):</strong> By moving the two bottom <strong class="text-emerald-700">green triangles</strong> up into the top corners, the diamond fills a solid rectangle of width <strong>${d1.toFixed(1)} cm</strong> and height <strong>&frac12;d&#8322; (${(d2/2).toFixed(2)} cm)</strong> = <strong>${area.toFixed(2)} cm&sup2;</strong>!`;
+
+        c1L.textContent = 'Across Diagonal (d₁)';
+        c1V.textContent = `${d1.toFixed(1)} cm`;
+        c1S.textContent = `Left tip to right tip`;
+
+        c2L.textContent = 'Up-Down Diagonal (d₂)';
+        c2V.textContent = `${d2.toFixed(1)} cm`;
+        c2S.textContent = `Bottom tip to top tip`;
+
+        c3L.textContent = 'Outer Box (d₁ × d₂)';
+        c3V.innerHTML = `${boxArea.toFixed(2)} cm&sup2;`;
+        c3S.textContent = `8 equal right triangles`;
+
+        c4L.textContent = 'Rhombus Area (½ d₁d₂)';
+        c4V.innerHTML = `${area.toFixed(2)} cm&sup2;`;
+        c4S.textContent = `4 inner triangles (Half!)`;
+
+      } else if (state.shape === 'trapezium') {
+        const b = state.b;
+        const a = state.a;
+        const h = state.h;
+        const sumBases = a + b;
+        const area = 0.5 * sumBases * h;
+
+        s1Val.textContent = `${b.toFixed(1)} cm`;
+        s2Val.textContent = `${h.toFixed(1)} cm`;
+        s4Val.textContent = `${a.toFixed(1)} cm`;
+        btnMorphText.textContent = state.morph < 100 ? 'Duplicate & Flip Twin Trapezium' : 'Hide Twin Trapezium';
+
+        badge.textContent = 'Shape 5: The Trapezium (Trapezoid)';
+        title.textContent = 'Two Flipped Trapeziums Lock Together into One Giant Parallelogram!';
+        formula.innerHTML = `Area = &frac12;(a + b) &times; h = ${area.toFixed(2)} cm&sup2;`;
+        desc.innerHTML = `A trapezium has a top base (<strong class="text-purple-700">a = ${a.toFixed(1)} cm</strong>) and a bottom base (<strong class="text-blue-700">b = ${b.toFixed(1)} cm</strong>). Flip an <strong class="text-amber-600">upside-down twin</strong> next to it: the combined bottom width becomes <strong>a + b = ${sumBases.toFixed(1)} cm</strong>!`;
+
+        legend.innerHTML = `
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm bg-blue-600 inline-block"></span><strong class="text-blue-700">Original Trapezium (a + b)</strong></span>
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm bg-amber-500 inline-block"></span><strong class="text-amber-700">Flipped Twin (b + a)</strong></span>
+        `;
+        statusPill.textContent = `Combined Base (a + b) = ${sumBases.toFixed(1)} cm`;
+
+        caption.innerHTML = p < 0.05
+          ? `<strong class="text-blue-700">Single Trapezium (0%):</strong> Top roof is <strong>a = ${a.toFixed(1)} cm</strong>, bottom floor is <strong>b = ${b.toFixed(1)} cm</strong>, and height is <strong>h = ${h.toFixed(1)} cm</strong>. Click <strong>"Duplicate &amp; Flip Twin Trapezium"</strong> above!`
+          : `<strong class="text-amber-700">Giant Parallelogram (${Math.round(state.morph)}%):</strong> The upside-down twin puts its <strong>${a.toFixed(1)} cm</strong> side on the bottom next to <strong>${b.toFixed(1)} cm</strong>, making a total base of <strong>${sumBases.toFixed(1)} cm</strong>! Full parallelogram = ${(sumBases * h).toFixed(1)} cm&sup2;, so half is <strong>${area.toFixed(2)} cm&sup2;</strong>!`;
+
+        c1L.textContent = 'Parallel Bases (a & b)';
+        c1V.textContent = `${a.toFixed(1)} & ${b.toFixed(1)} cm`;
+        c1S.textContent = `Sum (a + b) = ${sumBases.toFixed(1)} cm`;
+
+        c2L.textContent = 'Average Width ½(a+b)';
+        c2V.textContent = `${(sumBases / 2).toFixed(2)} cm`;
+        c2S.textContent = `Height h = ${h.toFixed(1)} cm`;
+
+        c3L.textContent = '2-Trapezium Area';
+        c3V.innerHTML = `${(sumBases * h).toFixed(2)} cm&sup2;`;
+        c3S.textContent = `(a + b) × h`;
+
+        c4L.textContent = '1 Trapezium Area';
+        c4V.innerHTML = `${area.toFixed(2)} cm&sup2;`;
+        c4S.textContent = `½ × ${sumBases.toFixed(1)} × ${h.toFixed(1)}`;
+
+      } else if (state.shape === 'circle') {
+        const r = state.radius;
+        const n = state.sectors;
+        const isInf = n >= 120;
+        const piR = Math.PI * r;
+        const area = Math.PI * r * r;
+
+        s1Val.textContent = `r = ${r.toFixed(1)} cm`;
+        s2Val.textContent = isInf ? '∞ (Infinite Slices)' : `${n} slices`;
+        btnMorphText.textContent = state.morph < 100 ? 'Unroll & Interlock Sectors into Rectangle' : 'Roll Back into Circle';
+
+        // Highlight active sector preset chip
+        document.querySelectorAll('.sector-chip').forEach(chip => {
+          const val = parseInt(chip.getAttribute('data-sectors'), 10);
+          if ((val === 200 && isInf) || (val === n && !isInf)) {
+            chip.className = 'sector-chip px-2.5 py-1 rounded-lg text-xs font-bold bg-blue-600 text-white border border-blue-600 shadow-sm';
+          } else {
+            chip.className = 'sector-chip px-2.5 py-1 rounded-lg text-xs font-semibold bg-white border border-slate-300 text-slate-700 hover:bg-slate-50';
+          }
+        });
+
+        badge.textContent = 'Shape 6: The Circle Sector Proof (πr²)';
+        title.textContent = 'Slice the Circle into Sectors & Interlock Them into a πr × r Rectangle!';
+        formula.innerHTML = `Area = (&pi;r) &times; r = &pi;r&sup2; = ${area.toFixed(2)} cm&sup2;`;
+        desc.innerHTML = `We color the top half of the circle's slices <strong class="text-blue-700">Blue (crust length = &frac12;C = &pi;r)</strong> and the bottom half <strong class="text-emerald-700">Green (crust length = &pi;r)</strong>. When we interlock the slices teeth-to-teeth and increase the number of slices to <strong>&infin;</strong>, the bumpy parallelogram straightens into a <strong>perfect rectangle of Length &pi;r and Width r</strong>!`;
+
+        legend.innerHTML = `
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm bg-blue-600 inline-block"></span><strong class="text-blue-700">Top Half Sectors (Base = &pi;r)</strong></span>
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm bg-emerald-600 inline-block"></span><strong class="text-emerald-700">Bottom Half Sectors (Top = &pi;r)</strong></span>
+          <span class="inline-flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded-sm border-2 border-rose-600 inline-block"></span><strong class="text-rose-700">Height = Radius (r)</strong></span>
+        `;
+        statusPill.textContent = isInf ? `∞ Sectors = Exact πr × r Rectangle!` : `${n} Sectors (${n/2} Blue Down, ${n/2} Green Up)`;
+
+        // Chord length vs true arc length for educational comparison
+        const halfAngle = Math.PI / n;
+        const chordWidth = (n / 2) * (2 * r * Math.sin(halfAngle));
+        const tiltDeg = (180 / n).toFixed(1);
+
+        if (p < 0.05) {
+          caption.innerHTML = `<strong class="text-blue-700">Whole Circle Divided into ${isInf ? 'Infinite' : n} Slices (0%):</strong> Half the circumference is <strong class="text-blue-700">&pi;r = ${piR.toFixed(2)} cm</strong>. Click <strong>"Unroll &amp; Interlock Sectors into Rectangle"</strong> right above to Comb the blue and green slices together!`;
+        } else if (isInf) {
+          caption.innerHTML = `<strong class="text-emerald-700">Infinite Sectors (&infin;) = Perfect Rectangle!</strong> When the slices become infinitely thin, the bumpy curved crusts flatten into a <strong>razor-straight horizontal line of length &pi;r (${piR.toFixed(2)} cm)</strong>, and the side tilt becomes <strong>0&deg; (vertical height = r = ${r.toFixed(1)} cm)</strong>. Therefore, <strong>Area = (&pi;r) &times; r = &pi;r&sup2; = ${area.toFixed(2)} cm&sup2;</strong>!`;
+        } else if (n <= 8) {
+          caption.innerHTML = `<strong class="text-amber-700">With Only ${n} Big Slices:</strong> Look at the interlocked shape on the right—the top and bottom crusts are still <strong>bumpy scalloped arcs</strong>, and the end slice leans over by <strong>${tiltDeg}&deg;</strong>! Now drag the <strong>"2. Number of Sectors"</strong> slider up (or click 16, 32, 64, &infin;) to watch the bumps flatten into a rectangle!`;
+        } else {
+          caption.innerHTML = `<strong class="text-blue-700">With ${n} Skinny Slices:</strong> The scalloped bumps are almost completely flat (straight base width is now <strong>${chordWidth.toFixed(2)} cm</strong> vs. true <strong>&pi;r = ${piR.toFixed(2)} cm</strong>) and the side lean is only <strong>${tiltDeg}&deg;</strong>! Click <strong>"&infin; (Infinite)"</strong> to see the exact limit.`;
+        }
+
+        c1L.textContent = 'Rectangle Length (π × r)';
+        c1V.textContent = `${piR.toFixed(2)} cm`;
+        c1S.textContent = `Half circumference (½C)`;
+
+        c2L.textContent = 'Rectangle Width (r)';
+        c2V.textContent = `${r.toFixed(2)} cm`;
+        c2S.textContent = isInf ? `Side tilt: 0.0° (90° straight)` : `Side tilt: ${tiltDeg}°`;
+
+        c3L.textContent = 'Rectangle Formula';
+        c3V.textContent = `(${piR.toFixed(2)}) × ${r.toFixed(1)}`;
+        c3S.textContent = `Length (πr) × Width (r)`;
+
+        c4L.textContent = 'Circle Area (πr²)';
+        c4V.innerHTML = `${area.toFixed(2)} cm&sup2;`;
+        c4S.textContent = `3.1416 × ${r.toFixed(1)}² cm²`;
+      }
+    }
+
+    // Linear interpolation helper
+    function lerp(a, b, t) {
+      return a + (b - a) * t;
+    }
+
+    // Main Canvas Render Dispatcher
+    function renderCanvas() {
+      const canvas = document.getElementById('areaCanvas');
+      if (!canvas) return;
+      const ctx = canvas.getContext('2d');
+      const dpr = window.devicePixelRatio || 1;
+      const w = canvas.clientWidth || 800;
+      const h = canvas.clientHeight || 360;
+
+      if (canvas.width !== Math.floor(w * dpr) || canvas.height !== Math.floor(h * dpr)) {
+        canvas.width = Math.floor(w * dpr);
+        canvas.height = Math.floor(h * dpr);
+      }
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      ctx.clearRect(0, 0, w, h);
+
+      // Draw subtle background grid
+      const gridStep = 28;
+      ctx.save();
+      ctx.strokeStyle = '#f1f5f9';
+      ctx.lineWidth = 1;
+      for (let x = gridStep; x < w; x += gridStep) {
+        ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, h); ctx.stroke();
+      }
+      for (let y = gridStep; y < h; y += gridStep) {
+        ctx.beginPath(); ctx.moveTo(0, y); ctx.lineTo(w, y); ctx.stroke();
+      }
+      ctx.restore();
+
+      const p = state.morph / 100;
+
+      if (state.shape === 'rectangle') {
+        drawRectangleScene(ctx, w, h, p);
+      } else if (state.shape === 'parallelogram') {
+        drawParallelogramScene(ctx, w, h, p);
+      } else if (state.shape === 'triangle') {
+        drawTriangleScene(ctx, w, h, p);
+      } else if (state.shape === 'rhombus') {
+        drawRhombusScene(ctx, w, h, p);
+      } else if (state.shape === 'trapezium') {
+        drawTrapeziumScene(ctx, w, h, p);
+      } else if (state.shape === 'circle') {
+        drawCircleSectorScene(ctx, w, h, p);
+      }
+    }
+
+    // 1. SQUARE & RECTANGLE SCENE
+    function drawRectangleScene(ctx, w, h, p) {
+      const b = Math.round(state.b);
+      const rows = Math.round(state.h);
+      const scale = Math.min((w - 140) / b, (h - 110) / rows, 42);
+      const rectW = b * scale;
+      const rectH = rows * scale;
+      const x0 = (w - rectW) / 2;
+      const y0 = (h - rectH) / 2 - 6;
+
+      const activeRows = p === 0 ? 1 : Math.ceil(p * rows);
+
+      // Draw individual unit squares
+      for (let r = 0; r < rows; r++) {
+        // Count rows from bottom (r = 0 is bottom row)
+        const rowTop = y0 + (rows - 1 - r) * scale;
+        const isHighlighted = r < activeRows;
+
+        for (let c = 0; c < b; c++) {
+          const colLeft = x0 + c * scale;
+          ctx.beginPath();
+          ctx.rect(colLeft, rowTop, scale, scale);
+          if (r === 0) {
+            ctx.fillStyle = 'rgba(37, 99, 235, 0.22)';
+          } else if (isHighlighted) {
+            ctx.fillStyle = 'rgba(5, 150, 105, 0.20)';
+          } else {
+            ctx.fillStyle = 'rgba(241, 245, 249, 0.7)';
+          }
+          ctx.fill();
+          ctx.strokeStyle = '#94a3b8';
+          ctx.lineWidth = 1;
+          ctx.stroke();
+
+          // Number inside each square if scale is large enough
+          if (scale >= 24 && isHighlighted) {
+            const num = r * b + (c + 1);
+            ctx.font = "600 11px 'JetBrains Mono', monospace";
+            ctx.fillStyle = r === 0 ? COLORS.blueDark : COLORS.greenSolid;
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            ctx.fillText(String(num), colLeft + scale / 2, rowTop + scale / 2);
+          }
+        }
+      }
+
+      // Outer crisp border
+      ctx.strokeStyle = COLORS.blueSolid;
+      ctx.lineWidth = 3;
+      ctx.strokeRect(x0, y0, rectW, rectH);
+
+      // Dimension Labels
+      drawPill(ctx, `Base b = ${b} cm (${b} unit squares per row)`, x0 + rectW / 2, y0 + rectH + 28, '#dbeafe', COLORS.blueDark, COLORS.blueSolid);
+      drawPill(ctx, `Height h = ${rows} cm`, x0 - 62, y0 + rectH / 2, '#d1fae5', COLORS.greenSolid, COLORS.greenSolid);
+    }
+
+    // 2. PARALLELOGRAM SCENE
+    function drawParallelogramScene(ctx, w, h, p) {
+      const b = state.b;
+      const ht = state.h;
+      const skew = state.skew;
+      const totalSpan = b + skew;
+      const scale = Math.min((w - 130) / (totalSpan + 2), (h - 110) / ht, 40);
+
+      const bPx = b * scale;
+      const hPx = ht * scale;
+      const skewPx = skew * scale;
+
+      const x0 = (w - (bPx + skewPx)) / 2;
+      const yBottom = (h + hPx) / 2 - 10;
+      const yTop = yBottom - hPx;
+
+      // Ghost outline of original parallelogram
+      ctx.save();
+      ctx.setLineDash([4, 4]);
+      ctx.strokeStyle = '#cbd5e1';
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(x0, yBottom);
+      ctx.lineTo(x0 + bPx, yBottom);
+      ctx.lineTo(x0 + bPx + skewPx, yTop);
+      ctx.lineTo(x0 + skewPx, yTop);
+      ctx.closePath();
+      ctx.stroke();
+      ctx.restore();
+
+      // Main Blue Body (Trapezoid from x0 + skewPx to right)
+      ctx.save();
+      ctx.beginPath();
+      ctx.moveTo(x0 + skewPx, yBottom);
+      ctx.lineTo(x0 + bPx, yBottom);
+      ctx.lineTo(x0 + bPx + skewPx, yTop);
+      ctx.lineTo(x0 + skewPx, yTop);
+      ctx.closePath();
+      ctx.fillStyle = COLORS.blueFill;
+      ctx.fill();
+      ctx.strokeStyle = COLORS.blueSolid;
+      ctx.lineWidth = 2.5;
+      ctx.stroke();
+      ctx.restore();
+
+      // Cut-and-Slide Green Right Triangle (slides right by bPx * p)
+      const slideX = p * bPx;
+      ctx.save();
+      ctx.beginPath();
+      ctx.moveTo(x0 + slideX, yBottom);
+      ctx.lineTo(x0 + skewPx + slideX, yBottom);
+      ctx.lineTo(x0 + skewPx + slideX, yTop);
+      ctx.closePath();
+      ctx.fillStyle = COLORS.greenFill;
+      ctx.fill();
+      ctx.strokeStyle = COLORS.greenSolid;
+      ctx.lineWidth = 2.5;
+      ctx.stroke();
+      ctx.restore();
+
+      // Perpendicular height dashed line + 90-degree square marker
+      const hLineX = x0 + skewPx;
+      ctx.save();
+      ctx.setLineDash([4, 3]);
+      ctx.strokeStyle = COLORS.roseSolid;
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(hLineX, yTop);
+      ctx.lineTo(hLineX, yBottom);
+      ctx.stroke();
+      ctx.setLineDash([]);
+      ctx.strokeRect(hLineX, yBottom - 12, 12, 12);
+      ctx.restore();
+
+      drawPill(ctx, `h = ${ht.toFixed(1)} cm (90°)`, hLineX + 54, (yTop + yBottom) / 2, '#ffe4e6', COLORS.roseSolid, COLORS.roseSolid);
+      const currentLeft = lerp(x0, x0 + skewPx, p);
+      drawPill(ctx, `Base b = ${b.toFixed(1)} cm`, currentLeft + bPx / 2, yBottom + 28, '#dbeafe', COLORS.blueDark, COLORS.blueSolid);
+    }
+
+    // 3. TRIANGLE SCENE
+    function drawTriangleScene(ctx, w, h, p) {
+      const b = state.b;
+      const ht = state.h;
+      const peakOffset = b * 0.35;
+      const scale = Math.min((w - 140) / (b + peakOffset + 1), (h - 110) / ht, 40);
+
+      const bPx = b * scale;
+      const hPx = ht * scale;
+      const peakPx = peakOffset * scale;
+
+      const x0 = (w - (bPx + peakPx)) / 2;
+      const yBottom = (h + hPx) / 2 - 10;
+      const yTop = yBottom - hPx;
+
+      // Vertices of Original Triangle: A(bottom-left), B(bottom-right), C(top-peak)
+      const Ax = x0, Ay = yBottom;
+      const Bx = x0 + bPx, By = yBottom;
+      const Cx = x0 + peakPx, Cy = yTop;
+
+      // 1. Original Blue Triangle
+      ctx.save();
+      ctx.beginPath();
+      ctx.moveTo(Ax, Ay);
+      ctx.lineTo(Bx, By);
+      ctx.lineTo(Cx, Cy);
+      ctx.closePath();
+      ctx.fillStyle = COLORS.blueFill;
+      ctx.fill();
+      ctx.strokeStyle = COLORS.blueSolid;
+      ctx.lineWidth = 2.5;
+      ctx.stroke();
+      ctx.restore();
+
+      // 2. Twin Copy Rotating 180 deg around the midpoint of edge BC
+      if (p > 0.01) {
+        const midBCx = (Bx + Cx) / 2;
+        const midBCy = (By + Cy) / 2;
+        const angle = p * Math.PI; // 0 to 180 degrees
+
+        ctx.save();
+        ctx.translate(midBCx, midBCy);
+        ctx.rotate(angle);
+        ctx.translate(-midBCx, -midBCy);
+
+        ctx.beginPath();
+        ctx.moveTo(Ax, Ay);
+        ctx.lineTo(Bx, By);
+        ctx.lineTo(Cx, Cy);
+        ctx.closePath();
+        ctx.fillStyle = COLORS.amberFill;
+        ctx.fill();
+        ctx.strokeStyle = COLORS.amberSolid;
+        ctx.lineWidth = 2.5;
+        ctx.setLineDash([5, 3]);
+        ctx.stroke();
+        ctx.restore();
+
+        // Pivot dot on edge BC
+        ctx.beginPath();
+        ctx.fillStyle = COLORS.amberSolid;
+        ctx.arc(midBCx, midBCy, 5, 0, Math.PI * 2);
+        ctx.fill();
+      }
+
+      // Perpendicular Height Line from Peak C down to Base
+      ctx.save();
+      ctx.setLineDash([4, 3]);
+      ctx.strokeStyle = COLORS.roseSolid;
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(Cx, Cy);
+      ctx.lineTo(Cx, yBottom);
+      ctx.stroke();
+      ctx.setLineDash([]);
+      ctx.strokeRect(Cx, yBottom - 11, 11, 11);
+      ctx.restore();
+
+      drawPill(ctx, `h = ${ht.toFixed(1)} cm`, Cx - 48, (Cy + yBottom) / 2, '#ffe4e6', COLORS.roseSolid, COLORS.roseSolid);
+      drawPill(ctx, `Base b = ${b.toFixed(1)} cm`, Ax + bPx / 2, yBottom + 28, '#dbeafe', COLORS.blueDark, COLORS.blueSolid);
+    }
+
+    // 4. RHOMBUS SCENE
+    function drawRhombusScene(ctx, w, h, p) {
+      const d1 = state.b;
+      const d2 = state.h;
+      const scale = Math.min((w - 140) / d1, (h - 110) / d2, 42);
+
+      const wPx = d1 * scale;
+      const hPx = d2 * scale;
+      const cx = w / 2;
+      const cy = h / 2 - 6;
+
+      const leftX = cx - wPx / 2;
+      const rightX = cx + wPx / 2;
+      const topY = cy - hPx / 2;
+      const botY = cy + hPx / 2;
+
+      // 1. Outer Bounding Box (d1 x d2)
+      ctx.save();
+      ctx.setLineDash([5, 4]);
+      ctx.strokeStyle = '#94a3b8';
+      ctx.lineWidth = 2;
+      ctx.strokeRect(leftX, topY, wPx, hPx);
+      ctx.restore();
+
+      // 2. Top Half of Rhombus (stays in top half of bounding box)
+      ctx.save();
+      ctx.beginPath();
+      ctx.moveTo(leftX, cy);
+      ctx.lineTo(rightX, cy);
+      ctx.lineTo(cx, topY);
+      ctx.closePath();
+      ctx.fillStyle = COLORS.blueFill;
+      ctx.fill();
+      ctx.strokeStyle = COLORS.blueSolid;
+      ctx.lineWidth = 2.5;
+      ctx.stroke();
+      ctx.restore();
+
+      // 3. Bottom-Left & Bottom-Right Triangles of Rhombus:
+      // As p goes 0 -> 1, they translate up and flip into the top-left and top-right empty corners of the upper half-box!
+      // Bottom-Left Triangle vertices at p=0: (leftX, cy), (cx, cy), (cx, botY)
+      // Target at p=1 (fills top-left corner): (leftX, cy), (cx, topY), (leftX, topY)
+      const bl_v1x = leftX, bl_v1y = cy;
+      const bl_v2x = cx, bl_v2y = lerp(cy, topY, p);
+      const bl_v3x = lerp(cx, leftX, p), bl_v3y = lerp(botY, topY, p);
+
+      ctx.save();
+      ctx.beginPath();
+      ctx.moveTo(bl_v1x, bl_v1y);
+      ctx.lineTo(bl_v2x, bl_v2y);
+      ctx.lineTo(bl_v3x, bl_v3y);
+      ctx.closePath();
+      ctx.fillStyle = COLORS.greenFill;
+      ctx.fill();
+      ctx.strokeStyle = COLORS.greenSolid;
+      ctx.lineWidth = 2.5;
+      ctx.stroke();
+
+      // Bottom-Right Triangle
+      const br_v1x = rightX, br_v1y = cy;
+      const br_v2x = cx, br_v2y = lerp(cy, topY, p);
+      const br_v3x = lerp(cx, rightX, p), br_v3y = lerp(botY, topY, p);
+
+      ctx.beginPath();
+      ctx.moveTo(br_v1x, br_v1y);
+      ctx.lineTo(br_v2x, br_v2y);
+      ctx.lineTo(br_v3x, br_v3y);
+      ctx.closePath();
+      ctx.fillStyle = COLORS.greenFill;
+      ctx.fill();
+      ctx.strokeStyle = COLORS.greenSolid;
+      ctx.lineWidth = 2.5;
+      ctx.stroke();
+      ctx.restore();
+
+      // Diagonals
+      ctx.save();
+      ctx.setLineDash([3, 3]);
+      ctx.strokeStyle = COLORS.purpleSolid;
+      ctx.lineWidth = 1.5;
+      ctx.beginPath();
+      ctx.moveTo(leftX, cy); ctx.lineTo(rightX, cy);
+      ctx.moveTo(cx, topY); ctx.lineTo(cx, botY);
+      ctx.stroke();
+      ctx.restore();
+
+      drawPill(ctx, `Horizontal Diagonal d₁ = ${d1.toFixed(1)} cm`, cx, botY + 26, '#dbeafe', COLORS.blueDark, COLORS.blueSolid);
+      drawPill(ctx, p > 0.8 ? `Filled Height = ½d₂ (${(d2/2).toFixed(2)} cm)` : `Vertical d₂ = ${d2.toFixed(1)} cm`, rightX + 82, cy - (p * hPx / 4), '#f3e8ff', COLORS.purpleSolid, COLORS.purpleSolid);
+    }
+
+    // 5. TRAPEZIUM SCENE
+    function drawTrapeziumScene(ctx, w, h, p) {
+      const b = state.b;
+      const a = state.a;
+      const ht = state.h;
+      const totalW = a + b;
+      const scale = Math.min((w - 120) / (totalW + 1), (h - 110) / ht, 36);
+
+      const bPx = b * scale;
+      const aPx = a * scale;
+      const hPx = ht * scale;
+      const leftInset = (bPx - aPx) * 0.35;
+
+      // Center single trapezium when p=0, shift left slightly as twin appears
+      const totalParallelogramW = bPx + aPx;
+      const startX = lerp((w - bPx) / 2, (w - totalParallelogramW) / 2, p);
+      const yBottom = (h + hPx) / 2 - 12;
+      const yTop = yBottom - hPx;
+
+      // Vertices of Original Trapezium:
+      // Bottom: (startX, yBottom) to (startX + bPx, yBottom)
+      // Top: (startX + leftInset, yTop) to (startX + leftInset + aPx, yTop)
+      const BLx = startX, BLy = yBottom;
+      const BRx = startX + bPx, BRy = yBottom;
+      const TLx = startX + leftInset, TLy = yTop;
+      const TRx = startX + leftInset + aPx, TRy = yTop;
+
+      // 1. Original Blue Trapezium
+      ctx.save();
+      ctx.beginPath();
+      ctx.moveTo(BLx, BLy);
+      ctx.lineTo(BRx, BRy);
+      ctx.lineTo(TRx, TRy);
+      ctx.lineTo(TLx, TLy);
+      ctx.closePath();
+      ctx.fillStyle = COLORS.blueFill;
+      ctx.fill();
+      ctx.strokeStyle = COLORS.blueSolid;
+      ctx.lineWidth = 2.5;
+      ctx.stroke();
+      ctx.restore();
+
+      // 2. Twin Copy Rotating 180 deg around midpoint of right slanted edge (BR -> TR)
+      if (p > 0.01) {
+        const midRx = (BRx + TRx) / 2;
+        const midRy = (BRy + TRy) / 2;
+        const angle = p * Math.PI;
+
+        ctx.save();
+        ctx.translate(midRx, midRy);
+        ctx.rotate(angle);
+        ctx.translate(-midRx, -midRy);
+
+        ctx.beginPath();
+        ctx.moveTo(BLx, BLy);
+        ctx.lineTo(BRx, BRy);
+        ctx.lineTo(TRx, TRy);
+        ctx.lineTo(TLx, TLy);
+        ctx.closePath();
+        ctx.fillStyle = COLORS.amberFill;
+        ctx.fill();
+        ctx.strokeStyle = COLORS.amberSolid;
+        ctx.lineWidth = 2.5;
+        ctx.setLineDash([5, 3]);
+        ctx.stroke();
+        ctx.restore();
+
+        ctx.beginPath();
+        ctx.fillStyle = COLORS.amberSolid;
+        ctx.arc(midRx, midRy, 5, 0, Math.PI * 2);
+        ctx.fill();
+      }
+
+      // Height line
+      ctx.save();
+      ctx.setLineDash([4, 3]);
+      ctx.strokeStyle = COLORS.roseSolid;
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(TLx, yTop);
+      ctx.lineTo(TLx, yBottom);
+      ctx.stroke();
+      ctx.setLineDash([]);
+      ctx.strokeRect(TLx, yBottom - 10, 10, 10);
+      ctx.restore();
+
+      // Dimension badges
+      drawPill(ctx, `Top a = ${a.toFixed(1)} cm`, (TLx + TRx) / 2, yTop - 18, '#f3e8ff', COLORS.purpleSolid, COLORS.purpleSolid);
+      drawPill(ctx, `Bottom b = ${b.toFixed(1)} cm`, (BLx + BRx) / 2, yBottom + 26, '#dbeafe', COLORS.blueDark, COLORS.blueSolid);
+      if (p > 0.85) {
+        drawPill(ctx, `Flipped Twin Base a = ${a.toFixed(1)} cm`, BRx + aPx / 2, yBottom + 26, '#fef3c7', COLORS.amberSolid, COLORS.amberSolid);
+      }
+    }
+
+    // 6. CIRCLE SECTOR INTERLOCKING SCENE (Proving Area = pi * r * r)
+    function drawCircleSectorScene(ctx, w, h, p) {
+      const r = state.radius;
+      const n = state.sectors;
+      const isInf = n >= 120;
+      const renderSectors = isInf ? 120 : n; // Smooth visual limit for infinite
+
+      // Scale so both the left circle (diameter 2r) and right interlocked shape (width pi*r + r*sin) fit comfortably
+      const scale = Math.min((w - 110) / (2 * r + Math.PI * r + 1.4), (h - 115) / (2 * r), 34);
+      const pixR = r * scale;
+      const rectW = Math.PI * pixR;
+      const rectH = pixR;
+
+      const isCompact = w < 600;
+      const circleCX = isCompact ? w * 0.25 : Math.max(pixR + 36, w * 0.24);
+      const circleCY = h * 0.50 - 6;
+
+      const targetLeftX = isCompact ? w * 0.48 : circleCX + pixR + 48;
+      const targetBottomY = circleCY + pixR * 0.52;
+      const targetTopY = targetBottomY - rectH;
+
+      // 1. Faint Ghost Reference Circle on Left
+      ctx.save();
+      ctx.beginPath();
+      ctx.setLineDash([4, 4]);
+      ctx.strokeStyle = '#cbd5e1';
+      ctx.lineWidth = 1.5;
+      ctx.arc(circleCX, circleCY, pixR, 0, Math.PI * 2);
+      ctx.stroke();
+      ctx.restore();
+
+      // Label above Circle
+      ctx.font = "700 12px 'Inter', sans-serif";
+      ctx.fillStyle = COLORS.slateDark;
+      ctx.textAlign = 'center';
+      ctx.fillText(`Circle (r = ${r.toFixed(1)} cm)`, circleCX, 24);
+
+      // 2. Draw Each Sector Interpolating from Circle Position (p=0) to Interlocked Comb Rectangle (p=1)
+      const halfN = renderSectors / 2;
+      const dTheta = (2 * Math.PI) / renderSectors;
+      const halfAngle = Math.PI / renderSectors;
+      const chordStep = 2 * pixR * Math.sin(halfAngle);
+      const apothem = pixR * Math.cos(halfAngle);
+
+      for (let i = 0; i < renderSectors; i++) {
+        const isTopHalf = i < halfN; // First N/2 sectors are Blue (point UP in rectangle, crust on bottom)
+        const idxInRow = isTopHalf ? i : (i - halfN);
+
+        // Initial angle in the circle (bisector of sector i)
+        // Top half: -PI + (i + 0.5)*dTheta, Bottom half: 0 + (idxInRow + 0.5)*dTheta
+        const startBisectorAngle = -Math.PI + (i + 0.5) * dTheta;
+
+        // Target position & orientation in the interlocked comb on the right:
+        // Blue sectors (isTopHalf = true): Tip points UP at y = targetBottomY - apothem, curved arc sits along targetBottomY!
+        //   Wait: if tip points UP, bisector points DOWN (PI/2) from tip to arc!
+        // Green sectors (isTopHalf = false): Tip points DOWN at y = targetBottomY, curved arc sits along the top!
+        //   Wait: if tip points DOWN, bisector points UP (-PI/2) from tip to arc!
+        let targetTipX, targetTipY, targetBisectorAngle;
+        if (isTopHalf) {
+          // Point-UP tooth: its two base corners sit on targetBottomY, and its tip is at y = targetBottomY - apothem
+          targetTipX = targetLeftX + (idxInRow + 0.5) * chordStep;
+          targetTipY = targetBottomY - apothem;
+          targetBisectorAngle = Math.PI / 2; // Bisector goes straight down from tip to bottom crust
+        } else {
+          // Point-DOWN tooth: its tip sits on targetBottomY between two blue teeth, and its curved crust forms the top edge!
+          targetTipX = targetLeftX + (idxInRow + 1.0) * chordStep;
+          targetTipY = targetBottomY;
+          targetBisectorAngle = -Math.PI / 2; // Bisector goes straight up from bottom tip to top crust
+        }
+
+        const curTipX = lerp(circleCX, targetTipX, p);
+        const curTipY = lerp(circleCY, targetTipY, p);
+        const curAngle = lerp(startBisectorAngle, targetBisectorAngle, p);
+
+        ctx.save();
+        ctx.translate(curTipX, curTipY);
+        ctx.rotate(curAngle);
+
+        // Draw Sector Wedge centered on angle 0: from -halfAngle to +halfAngle
+        ctx.beginPath();
+        ctx.moveTo(0, 0);
+        ctx.arc(0, 0, pixR, -halfAngle, halfAngle);
+        ctx.closePath();
+
+        ctx.fillStyle = isTopHalf ? 'rgba(37, 99, 235, 0.25)' : 'rgba(5, 150, 105, 0.25)';
+        ctx.fill();
+
+        ctx.strokeStyle = isTopHalf ? COLORS.blueSolid : COLORS.greenSolid;
+        ctx.lineWidth = renderSectors > 48 ? 0.6 : 1.3;
+        ctx.stroke();
+
+        // Highlight the outer curved crust arc (which becomes the top & bottom of the rectangle!)
+        ctx.beginPath();
+        ctx.arc(0, 0, pixR, -halfAngle, halfAngle);
+        ctx.strokeStyle = isTopHalf ? COLORS.blueDark : COLORS.greenSolid;
+        ctx.lineWidth = 3.2;
+        ctx.stroke();
+
+        ctx.restore();
+      }
+
+      // 3. Draw Radius Spoke on the Circle when p < 0.9
+      if (p < 0.9) {
+        ctx.save();
+        ctx.globalAlpha = 1 - p;
+        ctx.beginPath();
+        ctx.strokeStyle = COLORS.roseSolid;
+        ctx.lineWidth = 2.5;
+        ctx.moveTo(circleCX, circleCY);
+        ctx.lineTo(circleCX + pixR, circleCY);
+        ctx.stroke();
+
+        ctx.beginPath();
+        ctx.fillStyle = COLORS.slateDark;
+        ctx.arc(circleCX, circleCY, 4, 0, Math.PI * 2);
+        ctx.fill();
+
+        drawPill(ctx, `r = ${r.toFixed(1)}`, circleCX + pixR / 2, circleCY - 14, '#ffe4e6', COLORS.roseSolid, COLORS.roseSolid);
+        ctx.restore();
+      }
+
+      // 4. Right Side Target Rectangle Overlay & Dimension Callouts
+      const totalCombSpan = halfN * chordStep;
+      const rightLabelCenterX = targetLeftX + rectW / 2;
+
+      ctx.font = "700 12px 'Inter', sans-serif";
+      ctx.fillStyle = COLORS.slateDark;
+      ctx.textAlign = 'center';
+      ctx.fillText(
+        isInf ? `Infinite Sectors = Exact πr × r Rectangle!` : `Interlocked ${n} Sectors (${n/2} Down, ${n/2} Up)`,
+        rightLabelCenterX,
+        24
+      );
+
+      // Dashed True Target Rectangle (Length = pi*r, Height = r)
+      ctx.save();
+      ctx.setLineDash([4, 4]);
+      ctx.strokeStyle = COLORS.roseSolid;
+      ctx.lineWidth = 1.8;
+      ctx.strokeRect(targetLeftX, targetBottomY - pixR, rectW, pixR);
+      ctx.restore();
+
+      // Dimension Bars when Sectors are Unrolled (p > 0.25)
+      if (p > 0.25) {
+        ctx.save();
+        ctx.globalAlpha = Math.min(1, (p - 0.25) / 0.4);
+
+        // Bottom Blue Length Bar (Length = pi * r)
+        const barY = targetBottomY + 24;
+        ctx.beginPath();
+        ctx.strokeStyle = COLORS.blueSolid;
+        ctx.lineWidth = 2.5;
+        ctx.moveTo(targetLeftX, barY);
+        ctx.lineTo(targetLeftX + totalCombSpan, barY);
+        ctx.moveTo(targetLeftX, barY - 5); ctx.lineTo(targetLeftX, barY + 5);
+        ctx.moveTo(targetLeftX + totalCombSpan, barY - 5); ctx.lineTo(targetLeftX + totalCombSpan, barY + 5);
+        ctx.stroke();
+
+        drawPill(
+          ctx,
+          `Length = ½ Circumference = πr (${(Math.PI * r).toFixed(2)} cm)`,
+          targetLeftX + totalCombSpan / 2,
+          barY + 22,
+          '#dbeafe',
+          COLORS.blueDark,
+          COLORS.blueSolid
+        );
+
+        // Top Green Crust Label
+        drawPill(
+          ctx,
+          `Top Green Crusts = πr (${(Math.PI * r).toFixed(2)} cm)`,
+          targetLeftX + totalCombSpan / 2 + (isInf ? 0 : chordStep * 0.5),
+          targetBottomY - pixR - 22,
+          '#d1fae5',
+          COLORS.greenSolid,
+          COLORS.greenSolid
+        );
+
+        // Left Height Callout (Width = r)
+        const hX = targetLeftX - 14;
+        ctx.beginPath();
+        ctx.strokeStyle = COLORS.roseSolid;
+        ctx.lineWidth = 2.5;
+        ctx.moveTo(hX, targetBottomY - pixR);
+        ctx.lineTo(hX, targetBottomY);
+        ctx.moveTo(hX - 4, targetBottomY - pixR); ctx.lineTo(hX + 4, targetBottomY - pixR);
+        ctx.moveTo(hX - 4, targetBottomY); ctx.lineTo(hX + 4, targetBottomY);
+        ctx.stroke();
+
+        drawPill(
+          ctx,
+          `Height = r (${r.toFixed(1)} cm)`,
+          hX - 52,
+          targetBottomY - pixR / 2,
+          '#ffe4e6',
+          COLORS.roseSolid,
+          COLORS.roseSolid
+        );
+
+        ctx.restore();
+      }
+    }
+
+    function updateAll() {
+      updateUIReadouts();
+      renderCanvas();
+    }
+
+    function stopAnimation() {
+      if (state.animFrameId) {
+        cancelAnimationFrame(state.animFrameId);
+        state.animFrameId = null;
+      }
+      state.isAnimating = false;
+      document.getElementById('btn-morph-icon').innerHTML = '&#9654;';
+    }
+
+    function toggleMorphAnimation() {
+      if (state.isAnimating) {
+        stopAnimation();
+        return;
+      }
+      state.isAnimating = true;
+      state.animDirection = state.morph >= 98 ? -1 : 1;
+      state.lastTime = performance.now();
+      document.getElementById('btn-morph-icon').innerHTML = '&#10074;&#10074;';
+
+      function step(now) {
+        if (!state.isAnimating) return;
+        const dt = Math.min(0.05, (now - state.lastTime) / 1000);
+        state.lastTime = now;
+
+        state.morph = Math.max(0, Math.min(100, state.morph + state.animDirection * dt * 48));
+        document.getElementById('slider-3').value = Math.round(state.morph);
+        updateAll();
+
+        if ((state.animDirection === 1 && state.morph < 100) || (state.animDirection === -1 && state.morph > 0)) {
+          state.animFrameId = requestAnimationFrame(step);
+        } else {
+          stopAnimation();
+          updateAll();
+        }
+      }
+      state.animFrameId = requestAnimationFrame(step);
+    }
+
+    // Event Listeners for Shape Tabs
+    document.querySelectorAll('.shape-tab').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        stopAnimation();
+        state.shape = e.currentTarget.getAttribute('data-shape');
+        // In Circle mode, default to 100% unrolled so the kid immediately sees the sector rectangle, or let them animate it
+        state.morph = state.shape === 'circle' ? 100 : 0;
+        configureControlsForShape();
+        updateAll();
+      });
+    });
+
+    // Slider 1 (Base b / Diagonal d1 / Circle Radius r)
+    document.getElementById('slider-1').addEventListener('input', (e) => {
+      const val = parseFloat(e.target.value);
+      if (state.shape === 'circle') {
+        state.radius = val;
+      } else {
+        state.b = val;
+      }
+      updateAll();
+    });
+
+    // Slider 2 (Height h / Diagonal d2 / Circle Sectors N)
+    document.getElementById('slider-2').addEventListener('input', (e) => {
+      const val = parseFloat(e.target.value);
+      if (state.shape === 'circle') {
+        const evenN = Math.max(4, Math.round(val / 2) * 2);
+        state.sectors = evenN >= 100 ? 200 : evenN;
+        if (state.morph < 20) state.morph = 100; // Auto-show interlocked shape when adjusting sectors
+        document.getElementById('slider-3').value = Math.round(state.morph);
+      } else {
+        state.h = val;
+      }
+      updateAll();
+    });
+
+    // Slider 3 (Morph / Rearrange %)
+    document.getElementById('slider-3').addEventListener('input', (e) => {
+      stopAnimation();
+      state.morph = parseFloat(e.target.value);
+      updateAll();
+    });
+
+    // Slider 4 (Trapezium Top Base a)
+    document.getElementById('slider-4').addEventListener('input', (e) => {
+      state.a = parseFloat(e.target.value);
+      updateAll();
+    });
+
+    // Buttons
+    document.getElementById('btn-morph').addEventListener('click', toggleMorphAnimation);
+
+    document.getElementById('btn-reset').addEventListener('click', () => {
+      stopAnimation();
+      state.morph = 0;
+      document.getElementById('slider-3').value = 0;
+      updateAll();
+    });
+
+    document.getElementById('btn-make-square').addEventListener('click', () => {
+      stopAnimation();
+      state.b = 6;
+      state.h = 6;
+      state.morph = 100;
+      configureControlsForShape();
+      updateAll();
+    });
+
+    // Circle Sector Quick-Jump Chips (4, 8, 16, 32, 64, Infinite)
+    document.querySelectorAll('.sector-chip').forEach(chip => {
+      chip.addEventListener('click', (e) => {
+        state.sectors = parseInt(e.currentTarget.getAttribute('data-sectors'), 10);
+        if (state.morph < 20) state.morph = 100;
+        configureControlsForShape();
+        updateAll();
+      });
+    });
+
+    window.addEventListener('resize', renderCanvas);
+    window.onload = () => {
+      configureControlsForShape();
+      updateAll();
+    };
+  </script>
+</body>
+</html>
