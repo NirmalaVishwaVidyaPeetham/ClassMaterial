@@ -6,9 +6,9 @@ Generates: <PDF_NAME>-AINotes.md alongside each PDF file.
 
 # How to run?
 # For a single file of your choice:
-.venv\Scripts\python.exe 1.TeluguFiles-AINotes.py --file Chandamama-1947-8.pdf --force
+.venv\Scripts\python.exe 1.TeluguFiles-AINotes-Version2.py --file Chandamama-1947-8.pdf --force
 # For all ~700 files in a loop:
-.venv\Scripts\python.exe 1.TeluguFiles-AINotes.py --all
+.venv\Scripts\python.exe 1.TeluguFiles-AINotes-Version2.py --all
 """
 
 import os

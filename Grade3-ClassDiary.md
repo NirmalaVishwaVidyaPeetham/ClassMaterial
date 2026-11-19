@@ -453,6 +453,7 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
 **<u>17112026 Tuesday:</u>**
 
 1. English: William Blake's Marriage of Heaven and Hell - Read AI introduction  
+   
    1. HW: Complete previous HWs 
    
    2. HW: Read the original illustrated book by William Blake (without AI version)
@@ -460,10 +461,26 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    3. HW: Read "Divine Cool Breeze" excerpt on William Blake 
    
    4. HW: Complete English Copy Tracing book again!  
+      
+      
+
+**<u>18112026 Wednesday:</u>**
+
+1. Programming: Discussed and Checked HW Chapters 1 and 4
    
+   1. HW: Complete previous HWs (remaining chapters)
    
+   2. HW: Complete 'Set operations' from Maths class in python also
+
+2. Technology: Checked how to automate Gemini translation of multiple pdf files, or text chapters at once - solution still too manual and tedious. Discussed Linux commands
    
-   
+   HW: Practice linux commands again.
+
+
+
+
+
+
 
 **TODOs:**
 
@@ -510,6 +527,8 @@ Maths:
 
 3. Statistics: average, standard deviation/variance, t-tests - use our data from the circle/pi calculations.. https://r-statistics.co/tools/t-test-calculator.html  
    make a visual ttest calculator, and a poster
+
+4. Sets programming 
    
    
 
@@ -531,12 +550,15 @@ Techology:
    
    1. AI word to word meanings/translation for hindi swaranjali book, telugu ramayanam book
    2. AI translation/notes for telugu/english books - do chapter by chapter so context remains smaller - find page numbers first from index and on that page find that chapter heading is there and at the end you see next chapter title; Next step in a loop, for each chapter do the required steps; 
+   3. See if scheduled actions in gemini - one chandamama file a day - works; For this we have to figure out the instructions so it reads all the stories withing each book and prepares the companion file correctly. 
 
 2. Terminal - command line; Bash etc. commands; 
 
 3. AI CLI integration; Agentic AI; - Do it inside virual environment ; 
 
 4. History of computers, hardware, software etc. 
+
+5. Git version control system
    
    
 
@@ -595,5 +617,3 @@ Check all HW files added to class folders
 Legend of Dagad trikon
 
 Man who knew infinity
-
-
