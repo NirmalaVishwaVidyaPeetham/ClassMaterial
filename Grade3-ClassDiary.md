@@ -473,12 +473,25 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
    2. HW: Complete 'Set operations' from Maths class in python also
 
 2. Technology: Checked how to automate Gemini translation of multiple pdf files, or text chapters at once - solution still too manual and tedious. Discussed Linux commands
-   
    HW: Practice linux commands again.
+   
+   
 
+**<u>19112026 Thursday:</u>**
 
+1. Social: Completed 'Enlightened Education '' Chapter 1  
+   
+   1. HW: Read this again! Write a summary (write neatly!)  
+   
+   2. HW: write previous summary again 5 times! ( Until you write neatly)  
+   
+   3. HW: Complete previous HWs
 
-
+2. Science: AP Env. textbook: Discussed Ch. 1 & 2 
+   
+   1. HW: Prepare an updated family tree - make it as detailed as possible
+   
+   2. HWs: Complete previous HWs
 
 
 
@@ -489,6 +502,8 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
 Social:
 
 1. Experiment with vibrations; See if it's working; Coolcheck; 
+
+2. Updated family tree - as exhaustive as possible - with siblings, cousins etc. - Project - program - sets - functions - database - 
    
    
 
@@ -539,8 +554,8 @@ Programming:
 2. Move all music projects from Grade 1, Grade 2 to a separate folder
 
 3. Python book; Then Algorithms textbook
-   
-   
+
+4. Updated family tree - as exhaustive as possible - with siblings, cousins etc. - Project - program - sets - functions - database -; Make it as a simple webpage to share with family groups so everyone can update on their own.. 
    
    
 

@@ -353,3 +353,11 @@
 3. Programming: 1 hour \- 11:45 AM to 12:45 PM
 4. Music Practice: 30 minutes \- 12:45 to 1:15 PM
 5. **_<u>Total:</u>_ 3 hours 30 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>19 November 2026 \- Thursday<u>_**
+1. Science/English: 1 hour \- 9:30 to 10:30 AM
+2. Technology: 1 hour \- 10:30 to 11:30 AM
+3. Maths: 1 hour \- 11:45 AM to 12:45 PM
+4. Music Practice: 30 minutes \- 1:30 to 2:00 PM
+5. **_<u>Total:</u>_ 3 hours 30 minutes**
