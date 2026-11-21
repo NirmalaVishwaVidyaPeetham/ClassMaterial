@@ -361,3 +361,9 @@
 3. Maths: 1 hour \- 11:45 AM to 12:45 PM
 4. Music Practice: 30 minutes \- 1:30 to 2:00 PM
 5. **_<u>Total:</u>_ 3 hours 30 minutes**
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+**_<u>20 November 2026 \- Friday<u>_**
+1. Science: 1 hour \- 10:15 to 11:15 PM
+2. Social: 1 hour \- 11:15 AM to 12:15 PM
+3. Devanagari (HSKM \- Hindi Sanskrit Khatri Marathi): 1 hour \- 1:00 to 2:00 PM

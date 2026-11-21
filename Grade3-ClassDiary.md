@@ -495,6 +495,24 @@ No classes; Completed programming HWs (new and old); Revision; Submitted AI Home
 
 
 
+**<u>20112026 Friday:</u>**
+
+1. Music: 
+   
+   1. HW: Complete previous HWs.
+   
+   2. Practiced singing/playing swaras from the book - (1) He Nirmala Ma (2) He Prema Murtha
+
+2. Hindi: 
+   
+   1. HW: Complete previous HWs
+   
+   2. Tried creating AI tranlation foor Swaranjali book - TODO
+   
+   
+
+
+
 **TODOs:**
 
 
@@ -570,6 +588,7 @@ Techology:
 2. Terminal - command line; Bash etc. commands; 
 
 3. AI CLI integration; Agentic AI; - Do it inside virual environment ; 
+      Project - give agentic access to kid and make them build something.. test thoroughly.. 
 
 4. History of computers, hardware, software etc. 
 
